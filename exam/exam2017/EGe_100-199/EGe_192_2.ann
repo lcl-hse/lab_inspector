@@ -1,0 +1,763 @@
+T1	Spelling 147 149	is
+#1	AnnotatorNotes T1	us
+T2	Defining 269 319	financial support, which the government gives them
+#2	AnnotatorNotes T2	financial support which the government gives them
+T3	Articles 397 401	film
+#3	AnnotatorNotes T3	the film
+T4	Defining 610 639	place, where the film will be
+#4	AnnotatorNotes T4	place where the film will be filmed
+T5	Absence_comp_sent 610 639	place, where the film will be
+#5	AnnotatorNotes T5	place where the film will be filmed
+T6	Defining 754 821	stories, which are more closely for their interests or unreal lifes
+#6	AnnotatorNotes T6	stories which are closer to their interests or unreal lifes
+T7	Comparative_adj 773 785	more closely
+#7	AnnotatorNotes T7	closer
+T8	Prepositions 786 789	for
+#8	AnnotatorNotes T8	to
+T9	Punctuation 939 945	, that
+#9	AnnotatorNotes T9	 that
+T10	Defining 1118 1170	film industries, which have a good financial support
+#10	AnnotatorNotes T10	film industries which have a good financial support
+T11	Defining 1280 1324	stories, which are closely to our real lifes
+#11	AnnotatorNotes T11	stories which are closer to our real lifes
+T12	Category_confusion 1299 1306	closely
+#12	AnnotatorNotes T12	close
+T13	Absence_comp_sent 1357 1412	it is important to film industries have a good finances
+#13	AnnotatorNotes T13	it is important for film industries to have a good finances
+T14	Punctuation 1508 1512	, if
+#14	AnnotatorNotes T14	 if
+T15	Spelling 1556 1567	film makers
+#15	AnnotatorNotes T15	filmmakers
+T16	Defining 1609 1635	films, which they produce,
+#16	AnnotatorNotes T16	films which they produce
+T17	note 1655 1656	.
+#17	AnnotatorNotes T17	DBatov
+T18	Prepositions 76 85	more than
+#18	AnnotatorNotes T18	to
+T19	suggestion 76 85	more than
+T20	Redundant_comp 101 106	which
+A1	Delete T20
+T21	suggestion 101 106	which
+T22	Punctuation 321 334	As we can see
+#19	AnnotatorNotes T22	As we can see,
+T23	suggestion 321 334	As we can see
+T24	Articles 338 342	film
+#20	AnnotatorNotes T24	a film
+T25	suggestion 338 342	film
+T26	suggestion 397 401	film
+T27	Noun_number 453 463	industries
+#21	AnnotatorNotes T27	industry
+T28	suggestion 453 463	industries
+T29	Agreement_errors 464 468	want
+#22	AnnotatorNotes T29	wants
+T30	suggestion 464 468	want
+R1	Dependent_change Arg1:T29 Arg2:T27
+T31	Articles 663 670	a money
+#23	AnnotatorNotes T31	money
+T32	suggestion 663 670	a money
+T33	lex_item_choice 852 857	where
+#24	AnnotatorNotes T33	in which
+T34	lex_part_choice 867 877	take place
+#25	AnnotatorNotes T34	take part
+T35	Defining 850 878	, where they can take place,
+#26	AnnotatorNotes T35	in which they can take part
+T36	suggestion 852 857	where
+T37	suggestion 867 877	take place
+T38	Category_confusion 930 939	obviously
+#27	AnnotatorNotes T38	obvious
+T39	suggestion 930 939	obviously
+T40	Articles 1021 1030	the movie
+#28	AnnotatorNotes T40	a movie
+T41	suggestion 1021 1030	the movie
+T42	Punctuation 1058 1078	Watching these films
+#29	AnnotatorNotes T42	Watching these films,
+T43	suggestion 1058 1078	Watching these films
+T44	suggestion 1299 1306	closely
+T45	Prepositional_adjective 1363 1375	important to
+#30	AnnotatorNotes T45	important for
+T46	Articles 1646 1655	a success
+#31	AnnotatorNotes T46	success
+T47	suggestion 1646 1655	a success
+T48	Articles 1397 1412	a good finances
+#32	AnnotatorNotes T48	good funding
+T49	lex_item_choice 1404 1412	finances
+#33	AnnotatorNotes T49	funding
+T50	suggestion 1397 1412	a good finances
+T51	suggestion 1404 1412	finances
+T52	Category_confusion 773 785	more closely
+T53	EX0 0 5	There
+#34	AnnotatorNotes T53	lemma = 'there'
+T54	VBZ 6 8	is
+#35	AnnotatorNotes T54	lemma = 'be'
+T55	AT0 9 10	a
+#36	AnnotatorNotes T55	lemma = 'a'
+T56	NN1 11 15	fact
+#37	AnnotatorNotes T56	lemma = 'fact'
+T57	CJT 16 20	that
+#38	AnnotatorNotes T57	lemma = 'that'
+T58	NN0 21 27	people
+#39	AnnotatorNotes T58	lemma = 'people'
+T59	VVB 28 34	prefer
+#40	AnnotatorNotes T59	lemma = 'prefer'
+T60	VVG 35 43	watching
+#41	AnnotatorNotes T60	lemma = 'watch'
+T61	AJ0 44 51	British
+#42	AnnotatorNotes T61	lemma = 'british'
+T62	NN2 52 57	films
+#43	AnnotatorNotes T62	lemma = 'film'
+T63	CJC 58 60	or
+#44	AnnotatorNotes T63	lemma = 'or'
+T64	AJ0 61 69	American
+#45	AnnotatorNotes T64	lemma = 'american'
+T65	NN2 70 75	films
+#46	AnnotatorNotes T65	lemma = 'film'
+T66	AV0 76 80	more
+#47	AnnotatorNotes T66	lemma = 'more'
+T67	CJS 81 85	than
+#48	AnnotatorNotes T67	lemma = 'than'
+T68	VVG 86 94	watching
+#49	AnnotatorNotes T68	lemma = 'watch'
+T69	NN2 95 100	films
+#50	AnnotatorNotes T69	lemma = 'film'
+T70	DTQ 101 106	which
+#51	AnnotatorNotes T70	lemma = 'which'
+T71	VVD 107 115	produced
+#52	AnnotatorNotes T71	lemma = 'produce'
+T72	PRP 116 118	by
+#53	AnnotatorNotes T72	lemma = 'by'
+T73	AJ0 119 124	local
+#54	AnnotatorNotes T73	lemma = 'local'
+T74	NN1 125 129	film
+#55	AnnotatorNotes T74	lemma = 'film'
+T75	NN2 130 140	industries
+#56	AnnotatorNotes T75	lemma = 'industry'
+T76	SENT 140 141	.
+#57	AnnotatorNotes T76	lemma = '.'
+T77	VVB 143 146	Let
+#58	AnnotatorNotes T77	lemma = 'let'
+T78	VBZ 147 149	is
+#59	AnnotatorNotes T78	lemma = 'be'
+T79	VVI 150 155	begin
+#60	AnnotatorNotes T79	lemma = 'begin'
+T80	PRP 156 160	with
+#61	AnnotatorNotes T80	lemma = 'with'
+T81	AT0 161 164	the
+#62	AnnotatorNotes T81	lemma = 'the'
+T82	NN2 165 172	reasons
+#63	AnnotatorNotes T82	lemma = 'reason'
+T83	PRP 173 176	for
+#64	AnnotatorNotes T83	lemma = 'for'
+T84	DT0 177 181	this
+#65	AnnotatorNotes T84	lemma = 'this'
+T85	SENT 181 182	.
+#66	AnnotatorNotes T85	lemma = '.'
+T86	PRP 183 185	On
+#67	AnnotatorNotes T86	lemma = 'on'
+T87	AT0 186 189	the
+#68	AnnotatorNotes T87	lemma = 'the'
+T88	CRD 190 193	one
+#69	AnnotatorNotes T88	lemma = 'one'
+T89	NN1 194 198	hand
+#70	AnnotatorNotes T89	lemma = 'hand'
+T90	PUN 198 199	,
+#71	AnnotatorNotes T90	lemma = ','
+T91	AJ0 200 207	British
+#72	AnnotatorNotes T91	lemma = 'british'
+T92	CJC 208 211	and
+#73	AnnotatorNotes T92	lemma = 'and'
+T93	AJ0 212 220	American
+#74	AnnotatorNotes T93	lemma = 'american'
+T94	NN1 221 225	film
+#75	AnnotatorNotes T94	lemma = 'film'
+T95	NN2 226 236	industries
+#76	AnnotatorNotes T95	lemma = 'industry'
+T96	VBB 237 240	are
+#77	AnnotatorNotes T96	lemma = 'be'
+T97	AV0 241 245	more
+#78	AnnotatorNotes T97	lemma = 'more'
+T98	AJ0 246 253	popular
+#79	AnnotatorNotes T98	lemma = 'popular'
+T99	CJS 254 261	because
+#80	AnnotatorNotes T99	lemma = 'because'
+T100	PRF 262 264	of
+#81	AnnotatorNotes T100	lemma = 'of'
+T101	AT0 265 268	the
+#82	AnnotatorNotes T101	lemma = 'the'
+T102	AJ0 269 278	financial
+#83	AnnotatorNotes T102	lemma = 'financial'
+T103	NN1 279 286	support
+#84	AnnotatorNotes T103	lemma = 'support'
+T104	PUN 286 287	,
+#85	AnnotatorNotes T104	lemma = ','
+T105	DTQ 288 293	which
+#86	AnnotatorNotes T105	lemma = 'which'
+T106	AT0 294 297	the
+#87	AnnotatorNotes T106	lemma = 'the'
+T107	NN1 298 308	government
+#88	AnnotatorNotes T107	lemma = 'government'
+T108	VVZ 309 314	gives
+#89	AnnotatorNotes T108	lemma = 'give'
+T109	PNP 315 319	them
+#90	AnnotatorNotes T109	lemma = 'they'
+T110	SENT 319 320	.
+#91	AnnotatorNotes T110	lemma = '.'
+T111	CJS 321 323	As
+#92	AnnotatorNotes T111	lemma = 'as'
+T112	PNP 324 326	we
+#93	AnnotatorNotes T112	lemma = 'we'
+T113	VM0 327 330	can
+#94	AnnotatorNotes T113	lemma = 'can'
+T114	VVI 331 334	see
+#95	AnnotatorNotes T114	lemma = 'see'
+T115	CJS 335 337	if
+#96	AnnotatorNotes T115	lemma = 'if'
+T116	NN1 338 342	film
+#97	AnnotatorNotes T116	lemma = 'film'
+T117	VHZ 343 346	has
+#98	AnnotatorNotes T117	lemma = 'have'
+T118	AT0 347 350	the
+#99	AnnotatorNotes T118	lemma = 'the'
+T119	AJS 351 355	best
+#100	AnnotatorNotes T119	lemma = 'good'
+T120	NN2 356 362	actors
+#101	AnnotatorNotes T120	lemma = 'actor'
+T121	CJC 363 366	and
+#102	AnnotatorNotes T121	lemma = 'and'
+T122	AJ0 367 371	good
+#103	AnnotatorNotes T122	lemma = 'good'
+T123	NN1 372 381	equipment
+#104	AnnotatorNotes T123	lemma = 'equipment'
+T124	PUN 381 382	,
+#105	AnnotatorNotes T124	lemma = ','
+T125	PNP 383 385	it
+#106	AnnotatorNotes T125	lemma = 'it'
+T126	VVZ 386 391	means
+#107	AnnotatorNotes T126	lemma = 'mean'
+T127	CJT 392 396	that
+#108	AnnotatorNotes T127	lemma = 'that'
+T128	NN1 397 401	film
+#109	AnnotatorNotes T128	lemma = 'film'
+T129	VHZ 402 405	has
+#110	AnnotatorNotes T129	lemma = 'have'
+T130	AT0 406 407	a
+#111	AnnotatorNotes T130	lemma = 'a'
+T131	AJ0 408 412	good
+#112	AnnotatorNotes T131	lemma = 'good'
+T132	AJ0 413 422	financial
+#113	AnnotatorNotes T132	lemma = 'financial'
+T133	NN1 423 430	support
+#114	AnnotatorNotes T133	lemma = 'support'
+T134	SENT 430 431	.
+#115	AnnotatorNotes T134	lemma = '.'
+T135	PRP 432 435	For
+#116	AnnotatorNotes T135	lemma = 'for'
+T136	NN1 436 443	example
+#117	AnnotatorNotes T136	lemma = 'example'
+T137	PUN 443 444	,
+#118	AnnotatorNotes T137	lemma = ','
+T138	CJS 445 447	if
+#119	AnnotatorNotes T138	lemma = 'if'
+T139	NN1 448 452	film
+#120	AnnotatorNotes T139	lemma = 'film'
+T140	NN2 453 463	industries
+#121	AnnotatorNotes T140	lemma = 'industry'
+T141	VVB 464 468	want
+#122	AnnotatorNotes T141	lemma = 'want'
+T142	TO0 469 471	to
+#123	AnnotatorNotes T142	lemma = 'to'
+T143	VVI 472 475	see
+#124	AnnotatorNotes T143	lemma = 'see'
+T144	AJ0 476 483	popular
+#125	AnnotatorNotes T144	lemma = 'popular'
+T145	NN2 484 490	actors
+#126	AnnotatorNotes T145	lemma = 'actor'
+T146	VVG 491 498	playing
+#127	AnnotatorNotes T146	lemma = 'play|playing'
+T147	PRP 499 501	in
+#128	AnnotatorNotes T147	lemma = 'in'
+T148	DPS 502 507	their
+#129	AnnotatorNotes T148	lemma = 'they'
+T149	NN2 508 513	films
+#130	AnnotatorNotes T149	lemma = 'film'
+T150	PUN 513 514	,
+#131	AnnotatorNotes T150	lemma = ','
+T151	NN2 515 521	actors
+#132	AnnotatorNotes T151	lemma = 'actor'
+T152	VM0 522 528	should
+#133	AnnotatorNotes T152	lemma = 'should'
+T153	VHI 529 533	have
+#134	AnnotatorNotes T153	lemma = 'have'
+T154	AT0 534 535	a
+#135	AnnotatorNotes T154	lemma = 'a'
+T155	AJ0 536 540	good
+#136	AnnotatorNotes T155	lemma = 'good'
+T156	NN1 541 547	salary
+#137	AnnotatorNotes T156	lemma = 'salary'
+T157	PRP 548 551	for
+#138	AnnotatorNotes T157	lemma = 'for'
+T158	DT0 552 556	this
+#139	AnnotatorNotes T158	lemma = 'this'
+T159	NN1 557 560	job
+#140	AnnotatorNotes T159	lemma = 'job'
+T160	SENT 560 561	.
+#141	AnnotatorNotes T160	lemma = '.'
+T161	AV0 562 570	Moreover
+#142	AnnotatorNotes T161	lemma = 'moreover'
+T162	PUN 570 571	,
+#143	AnnotatorNotes T162	lemma = ','
+T163	CJS 572 574	if
+#144	AnnotatorNotes T163	lemma = 'if'
+T164	PNP 575 579	they
+#145	AnnotatorNotes T164	lemma = 'they'
+T165	VVB 580 584	want
+#146	AnnotatorNotes T165	lemma = 'want'
+T166	TO0 585 587	to
+#147	AnnotatorNotes T166	lemma = 'to'
+T167	VHI 588 592	have
+#148	AnnotatorNotes T167	lemma = 'have'
+T168	AT0 593 594	a
+#149	AnnotatorNotes T168	lemma = 'a'
+T169	AJ0 595 599	good
+#150	AnnotatorNotes T169	lemma = 'good'
+T170	NN1 600 606	camera
+#151	AnnotatorNotes T170	lemma = 'camera'
+T171	CJC 607 609	or
+#152	AnnotatorNotes T171	lemma = 'or'
+T172	NN1 610 615	place
+#153	AnnotatorNotes T172	lemma = 'place'
+T173	PUN 615 616	,
+#154	AnnotatorNotes T173	lemma = ','
+T174	AVQ 617 622	where
+#155	AnnotatorNotes T174	lemma = 'where'
+T175	AT0 623 626	the
+#156	AnnotatorNotes T175	lemma = 'the'
+T176	NN1 627 631	film
+#157	AnnotatorNotes T176	lemma = 'film'
+T177	VM0 632 636	will
+#158	AnnotatorNotes T177	lemma = 'will'
+T178	VBI 637 639	be
+#159	AnnotatorNotes T178	lemma = 'be'
+T179	PUN 639 640	,
+#160	AnnotatorNotes T179	lemma = ','
+T180	PNP 641 645	they
+#161	AnnotatorNotes T180	lemma = 'they'
+T181	AV0 646 650	also
+#162	AnnotatorNotes T181	lemma = 'also'
+T182	VM0 651 657	should
+#163	AnnotatorNotes T182	lemma = 'should'
+T183	VHI 658 662	have
+#164	AnnotatorNotes T183	lemma = 'have'
+T184	AT0 663 664	a
+#165	AnnotatorNotes T184	lemma = 'a'
+T185	NN1 665 670	money
+#166	AnnotatorNotes T185	lemma = 'money'
+T186	TO0 671 673	to
+#167	AnnotatorNotes T186	lemma = 'to'
+T187	VVI 674 678	rent
+#168	AnnotatorNotes T187	lemma = 'rent'
+T188	PNP 679 681	it
+#169	AnnotatorNotes T188	lemma = 'it'
+T189	SENT 681 682	.
+#170	AnnotatorNotes T189	lemma = '.'
+T190	PRP 684 686	On
+#171	AnnotatorNotes T190	lemma = 'on'
+T191	AT0 687 690	the
+#172	AnnotatorNotes T191	lemma = 'the'
+T192	AJ0 691 696	other
+#173	AnnotatorNotes T192	lemma = 'other'
+T193	NN1 697 701	hand
+#174	AnnotatorNotes T193	lemma = 'hand'
+T194	PUN 701 702	,
+#175	AnnotatorNotes T194	lemma = ','
+T195	DT0 703 707	many
+#176	AnnotatorNotes T195	lemma = 'many'
+T196	NN0 708 714	people
+#177	AnnotatorNotes T196	lemma = 'people'
+T197	DT0 715 718	all
+#178	AnnotatorNotes T197	lemma = 'all'
+T198	PRP 719 723	over
+#179	AnnotatorNotes T198	lemma = 'over'
+T199	AT0 724 727	the
+#180	AnnotatorNotes T199	lemma = 'the'
+T200	NN1 728 733	world
+#181	AnnotatorNotes T200	lemma = 'world'
+T201	PRP 734 738	like
+#182	AnnotatorNotes T201	lemma = 'like'
+T202	NN2 739 750	superheroes
+#183	AnnotatorNotes T202	lemma = 'superheroe'
+T203	CJC 751 753	or
+#184	AnnotatorNotes T203	lemma = 'or'
+T204	NN2 754 761	stories
+#185	AnnotatorNotes T204	lemma = 'story'
+T205	PUN 761 762	,
+#186	AnnotatorNotes T205	lemma = ','
+T206	DTQ 763 768	which
+#187	AnnotatorNotes T206	lemma = 'which'
+T207	VBB 769 772	are
+#188	AnnotatorNotes T207	lemma = 'be'
+T208	AV0 773 777	more
+#189	AnnotatorNotes T208	lemma = 'more'
+T209	AV0 778 785	closely
+#190	AnnotatorNotes T209	lemma = 'closely'
+T210	PRP 786 789	for
+#191	AnnotatorNotes T210	lemma = 'for'
+T211	DPS 790 795	their
+#192	AnnotatorNotes T211	lemma = 'they'
+T212	NN2 796 805	interests
+#193	AnnotatorNotes T212	lemma = 'interest'
+T213	CJC 806 808	or
+#194	AnnotatorNotes T213	lemma = 'or'
+T214	AJ0 809 815	unreal
+#195	AnnotatorNotes T214	lemma = 'unreal'
+T215	NN2 816 821	lifes
+#196	AnnotatorNotes T215	lemma = 'life'
+T216	SENT 821 822	.
+#197	AnnotatorNotes T216	lemma = '.'
+T217	NN0 823 829	People
+#198	AnnotatorNotes T217	lemma = 'people'
+T218	VVB 830 834	want
+#199	AnnotatorNotes T218	lemma = 'want'
+T219	TO0 835 837	to
+#200	AnnotatorNotes T219	lemma = 'to'
+T220	VVI 838 843	watch
+#201	AnnotatorNotes T220	lemma = 'watch'
+T221	NN2 844 850	movies
+#202	AnnotatorNotes T221	lemma = 'movie'
+T222	PUN 850 851	,
+#203	AnnotatorNotes T222	lemma = ','
+T223	CJS 852 857	where
+#204	AnnotatorNotes T223	lemma = 'where'
+T224	PNP 858 862	they
+#205	AnnotatorNotes T224	lemma = 'they'
+T225	VM0 863 866	can
+#206	AnnotatorNotes T225	lemma = 'can'
+T226	VVI 867 871	take
+#207	AnnotatorNotes T226	lemma = 'take'
+T227	NN1 872 877	place
+#208	AnnotatorNotes T227	lemma = 'place'
+T228	PUN 877 878	,
+#209	AnnotatorNotes T228	lemma = ','
+T229	CJS 879 884	where
+#210	AnnotatorNotes T229	lemma = 'where'
+T230	PNP 885 889	they
+#211	AnnotatorNotes T230	lemma = 'they'
+T231	VM0 890 893	can
+#212	AnnotatorNotes T231	lemma = 'can'
+T232	VBI 894 896	be
+#213	AnnotatorNotes T232	lemma = 'be'
+T233	AT0 897 902	every
+#214	AnnotatorNotes T233	lemma = 'every'
+T234	NN1 903 912	character
+#215	AnnotatorNotes T234	lemma = 'character'
+T235	PNP 913 917	they
+#216	AnnotatorNotes T235	lemma = 'they'
+T236	VVB 918 922	want
+#217	AnnotatorNotes T236	lemma = 'want'
+T237	SENT 922 923	.
+#218	AnnotatorNotes T237	lemma = '.'
+T238	PNP 924 926	It
+#219	AnnotatorNotes T238	lemma = 'it'
+T239	VBZ 927 929	is
+#220	AnnotatorNotes T239	lemma = 'be'
+T240	AV0 930 939	obviously
+#221	AnnotatorNotes T240	lemma = 'obviously'
+T241	PUN 939 940	,
+#222	AnnotatorNotes T241	lemma = ','
+T242	CJT 941 945	that
+#223	AnnotatorNotes T242	lemma = 'that'
+T243	CJS 946 948	if
+#224	AnnotatorNotes T243	lemma = 'if'
+T244	PNP 949 951	we
+#225	AnnotatorNotes T244	lemma = 'we'
+T245	VVB 952 956	want
+#226	AnnotatorNotes T245	lemma = 'want'
+T246	TO0 957 959	to
+#227	AnnotatorNotes T246	lemma = 'to'
+T247	VVI 960 966	forget
+#228	AnnotatorNotes T247	lemma = 'forget'
+T248	PRP 967 972	about
+#229	AnnotatorNotes T248	lemma = 'about'
+T249	DPS 973 976	our
+#230	AnnotatorNotes T249	lemma = 'we'
+T250	NN2 977 985	problems
+#231	AnnotatorNotes T250	lemma = 'problem'
+T251	PUN 985 986	,
+#232	AnnotatorNotes T251	lemma = ','
+T252	PNP 987 989	we
+#233	AnnotatorNotes T252	lemma = 'we'
+T253	VM0 990 993	can
+#234	AnnotatorNotes T253	lemma = 'can'
+T254	VVI 994 996	go
+#235	AnnotatorNotes T254	lemma = 'go'
+T255	PRP 997 999	to
+#236	AnnotatorNotes T255	lemma = 'to'
+T256	AT0 1000 1003	the
+#237	AnnotatorNotes T256	lemma = 'the'
+T257	NN1 1004 1010	cinema
+#238	AnnotatorNotes T257	lemma = 'cinema'
+T258	CJC 1011 1014	and
+#239	AnnotatorNotes T258	lemma = 'and'
+T259	VVB 1015 1020	watch
+#240	AnnotatorNotes T259	lemma = 'watch'
+T260	AT0 1021 1024	the
+#241	AnnotatorNotes T260	lemma = 'the'
+T261	NN1 1025 1030	movie
+#242	AnnotatorNotes T261	lemma = 'movie'
+T262	PRP 1031 1036	about
+#243	AnnotatorNotes T262	lemma = 'about'
+T263	NP0 1037 1047	Spider-man
+#244	AnnotatorNotes T263	lemma = 'Spider-man'
+T264	CJC 1048 1050	or
+#245	AnnotatorNotes T264	lemma = 'or'
+T265	NN2 1051 1056	X-men
+#246	AnnotatorNotes T265	lemma = 'X-men'
+T266	SENT 1056 1057	.
+#247	AnnotatorNotes T266	lemma = '.'
+T267	VVG 1058 1066	Watching
+#248	AnnotatorNotes T267	lemma = 'watch'
+T268	DT0 1067 1072	these
+#249	AnnotatorNotes T268	lemma = 'these'
+T269	NN2 1073 1078	films
+#250	AnnotatorNotes T269	lemma = 'film'
+T270	PNP 1079 1081	we
+#251	AnnotatorNotes T270	lemma = 'we'
+T271	VM0 1082 1085	can
+#252	AnnotatorNotes T271	lemma = 'can'
+T272	VVI 1086 1088	go
+#253	AnnotatorNotes T272	lemma = 'go'
+T273	AV0 1089 1093	away
+#254	AnnotatorNotes T273	lemma = 'away'
+T274	PRP 1094 1098	from
+#255	AnnotatorNotes T274	lemma = 'from'
+T275	AT0 1099 1102	the
+#256	AnnotatorNotes T275	lemma = 'the'
+T276	AJ0 1103 1107	real
+#257	AnnotatorNotes T276	lemma = 'real'
+T277	NN1 1108 1112	life
+#258	AnnotatorNotes T277	lemma = 'life'
+T278	SENT 1112 1113	.
+#259	AnnotatorNotes T278	lemma = '.'
+T279	AV0 1114 1116	So
+#260	AnnotatorNotes T279	lemma = 'so'
+T280	PUN 1116 1117	,
+#261	AnnotatorNotes T280	lemma = ','
+T281	NN1 1118 1122	film
+#262	AnnotatorNotes T281	lemma = 'film'
+T282	NN2 1123 1133	industries
+#263	AnnotatorNotes T282	lemma = 'industry'
+T283	PUN 1133 1134	,
+#264	AnnotatorNotes T283	lemma = ','
+T284	DTQ 1135 1140	which
+#265	AnnotatorNotes T284	lemma = 'which'
+T285	VHB 1141 1145	have
+#266	AnnotatorNotes T285	lemma = 'have'
+T286	AT0 1146 1147	a
+#267	AnnotatorNotes T286	lemma = 'a'
+T287	AJ0 1148 1152	good
+#268	AnnotatorNotes T287	lemma = 'good'
+T288	AJ0 1153 1162	financial
+#269	AnnotatorNotes T288	lemma = 'financial'
+T289	NN1 1163 1170	support
+#270	AnnotatorNotes T289	lemma = 'support'
+T290	VHB 1171 1175	have
+#271	AnnotatorNotes T290	lemma = 'have'
+T291	AT0 1176 1177	a
+#272	AnnotatorNotes T291	lemma = 'a'
+T292	NN1 1178 1184	chance
+#273	AnnotatorNotes T292	lemma = 'chance'
+T293	TO0 1185 1187	to
+#274	AnnotatorNotes T293	lemma = 'to'
+T294	VVI 1188 1192	help
+#275	AnnotatorNotes T294	lemma = 'help'
+T295	PNP 1193 1195	us
+#276	AnnotatorNotes T295	lemma = 'we'
+T296	TO0 1196 1198	to
+#277	AnnotatorNotes T296	lemma = 'to'
+T297	VVI 1199 1204	solve
+#278	AnnotatorNotes T297	lemma = 'solve'
+T298	DPS 1205 1208	our
+#279	AnnotatorNotes T298	lemma = 'we'
+T299	NN2 1209 1217	problems
+#280	AnnotatorNotes T299	lemma = 'problem'
+T300	PUN 1217 1218	,
+#281	AnnotatorNotes T300	lemma = ','
+T301	CJS 1219 1226	whereas
+#282	AnnotatorNotes T301	lemma = 'whereas'
+T302	AJ0 1227 1232	local
+#283	AnnotatorNotes T302	lemma = 'local'
+T303	NN1 1233 1237	film
+#284	AnnotatorNotes T303	lemma = 'film'
+T304	NN2 1238 1248	industries
+#285	AnnotatorNotes T304	lemma = 'industry'
+T305	VM0 1249 1252	can
+#286	AnnotatorNotes T305	lemma = 'can'
+T306	XX0 1253 1256	not
+#287	AnnotatorNotes T306	lemma = 'not'
+T307	SENT 1256 1257	.
+#288	AnnotatorNotes T307	lemma = '.'
+T308	PNP 1258 1262	They
+#289	AnnotatorNotes T308	lemma = 'they'
+T309	VM0 1263 1266	can
+#290	AnnotatorNotes T309	lemma = 'can'
+T310	AV0 1267 1271	only
+#291	AnnotatorNotes T310	lemma = 'only'
+T311	VVI 1272 1276	tell
+#292	AnnotatorNotes T311	lemma = 'tell'
+T312	PNP 1277 1279	us
+#293	AnnotatorNotes T312	lemma = 'we'
+T313	NN2 1280 1287	stories
+#294	AnnotatorNotes T313	lemma = 'story'
+T314	PUN 1287 1288	,
+#295	AnnotatorNotes T314	lemma = ','
+T315	DTQ 1289 1294	which
+#296	AnnotatorNotes T315	lemma = 'which'
+T316	VBB 1295 1298	are
+#297	AnnotatorNotes T316	lemma = 'be'
+T317	AV0 1299 1306	closely
+#298	AnnotatorNotes T317	lemma = 'closely'
+T318	PRP 1307 1309	to
+#299	AnnotatorNotes T318	lemma = 'to'
+T319	DPS 1310 1313	our
+#300	AnnotatorNotes T319	lemma = 'we'
+T320	AJ0 1314 1318	real
+#301	AnnotatorNotes T320	lemma = 'real'
+T321	NN2 1319 1324	lifes
+#302	AnnotatorNotes T321	lemma = 'life'
+T322	SENT 1324 1325	.
+#303	AnnotatorNotes T322	lemma = '.'
+T323	TO0 1327 1329	To
+#304	AnnotatorNotes T323	lemma = 'to'
+T324	VVI 1330 1333	sum
+#305	AnnotatorNotes T324	lemma = 'sum'
+T325	AVP 1334 1336	up
+#306	AnnotatorNotes T325	lemma = 'up'
+T326	PUN 1336 1337	,
+#307	AnnotatorNotes T326	lemma = ','
+T327	PNP 1338 1339	I
+#308	AnnotatorNotes T327	lemma = 'i'
+T328	VVB 1340 1344	want
+#309	AnnotatorNotes T328	lemma = 'want'
+T329	TO0 1345 1347	to
+#310	AnnotatorNotes T329	lemma = 'to'
+T330	VVI 1348 1351	say
+#311	AnnotatorNotes T330	lemma = 'say'
+T331	CJT 1352 1356	that
+#312	AnnotatorNotes T331	lemma = 'that'
+T332	PNP 1357 1359	it
+#313	AnnotatorNotes T332	lemma = 'it'
+T333	VBZ 1360 1362	is
+#314	AnnotatorNotes T333	lemma = 'be'
+T334	AJ0 1363 1372	important
+#315	AnnotatorNotes T334	lemma = 'important'
+T335	PRP 1373 1375	to
+#316	AnnotatorNotes T335	lemma = 'to'
+T336	NN1 1376 1380	film
+#317	AnnotatorNotes T336	lemma = 'film'
+T337	NN2 1381 1391	industries
+#318	AnnotatorNotes T337	lemma = 'industry'
+T338	VHB 1392 1396	have
+#319	AnnotatorNotes T338	lemma = 'have'
+T339	AT0 1397 1398	a
+#320	AnnotatorNotes T339	lemma = 'a'
+T340	AJ0 1399 1403	good
+#321	AnnotatorNotes T340	lemma = 'good'
+T341	NN2 1404 1412	finances
+#322	AnnotatorNotes T341	lemma = 'finance'
+T342	TO0 1413 1415	to
+#323	AnnotatorNotes T342	lemma = 'to'
+T343	VVI 1416 1423	produce
+#324	AnnotatorNotes T343	lemma = 'produce'
+T344	DPS 1424 1429	their
+#325	AnnotatorNotes T344	lemma = 'they'
+T345	NN2 1430 1435	films
+#326	AnnotatorNotes T345	lemma = 'film'
+T346	SENT 1435 1436	.
+#327	AnnotatorNotes T346	lemma = '.'
+T347	PNP 1437 1438	I
+#328	AnnotatorNotes T347	lemma = 'i'
+T348	VVB 1439 1444	claim
+#329	AnnotatorNotes T348	lemma = 'claim'
+T349	CJT 1445 1449	that
+#330	AnnotatorNotes T349	lemma = 'that'
+T350	NN1 1450 1460	government
+#331	AnnotatorNotes T350	lemma = 'government'
+T351	VM0 1461 1467	should
+#332	AnnotatorNotes T351	lemma = 'should'
+T352	VVI 1468 1472	give
+#333	AnnotatorNotes T352	lemma = 'give'
+T353	DT0 1473 1477	more
+#334	AnnotatorNotes T353	lemma = 'more'
+T354	NN1 1478 1483	money
+#335	AnnotatorNotes T354	lemma = 'money'
+T355	PRP 1484 1486	to
+#336	AnnotatorNotes T355	lemma = 'to'
+T356	AJ0 1487 1492	local
+#337	AnnotatorNotes T356	lemma = 'local'
+T357	NN1 1493 1497	film
+#338	AnnotatorNotes T357	lemma = 'film'
+T358	NN2 1498 1508	industries
+#339	AnnotatorNotes T358	lemma = 'industry'
+T359	PUN 1508 1509	,
+#340	AnnotatorNotes T359	lemma = ','
+T360	CJS 1510 1512	if
+#341	AnnotatorNotes T360	lemma = 'if'
+T361	PNP 1513 1517	they
+#342	AnnotatorNotes T361	lemma = 'they'
+T362	AV0 1518 1524	really
+#343	AnnotatorNotes T362	lemma = 'really'
+T363	VVB 1525 1529	want
+#344	AnnotatorNotes T363	lemma = 'want'
+T364	TO0 1530 1532	to
+#345	AnnotatorNotes T364	lemma = 'to'
+T365	VHI 1533 1537	have
+#346	AnnotatorNotes T365	lemma = 'have'
+T366	DPS 1538 1543	their
+#347	AnnotatorNotes T366	lemma = 'they'
+T367	DT0 1544 1547	own
+#348	AnnotatorNotes T367	lemma = 'own'
+T368	AJ0 1548 1555	popular
+#349	AnnotatorNotes T368	lemma = 'popular'
+T369	NN1 1556 1560	film
+#350	AnnotatorNotes T369	lemma = 'film'
+T370	NN2 1561 1567	makers
+#351	AnnotatorNotes T370	lemma = 'maker'
+T371	CJC 1568 1571	and
+#352	AnnotatorNotes T371	lemma = 'and'
+T372	NN2 1572 1578	actors
+#353	AnnotatorNotes T372	lemma = 'actor'
+T373	SENT 1578 1579	.
+#354	AnnotatorNotes T373	lemma = '.'
+T374	CJC 1580 1583	But
+#355	AnnotatorNotes T374	lemma = 'but'
+T375	PNP 1584 1588	they
+#356	AnnotatorNotes T375	lemma = 'they'
+T376	VM0 1589 1595	should
+#357	AnnotatorNotes T376	lemma = 'should'
+T377	VBI 1596 1598	be
+#358	AnnotatorNotes T377	lemma = 'be'
+T378	AJ0 1599 1603	sure
+#359	AnnotatorNotes T378	lemma = 'sure'
+T379	CJT 1604 1608	that
+#360	AnnotatorNotes T379	lemma = 'that'
+T380	NN2 1609 1614	films
+#361	AnnotatorNotes T380	lemma = 'film'
+T381	PUN 1614 1615	,
+#362	AnnotatorNotes T381	lemma = ','
+T382	DTQ 1616 1621	which
+#363	AnnotatorNotes T382	lemma = 'which'
+T383	PNP 1622 1626	they
+#364	AnnotatorNotes T383	lemma = 'they'
+T384	VVB 1627 1634	produce
+#365	AnnotatorNotes T384	lemma = 'produce'
+T385	PUN 1634 1635	,
+#366	AnnotatorNotes T385	lemma = ','
+T386	VM0 1636 1640	will
+#367	AnnotatorNotes T386	lemma = 'will'
+T387	VHI 1641 1645	have
+#368	AnnotatorNotes T387	lemma = 'have'
+T388	AT0 1646 1647	a
+#369	AnnotatorNotes T388	lemma = 'a'
+T389	NN1 1648 1655	success
+#370	AnnotatorNotes T389	lemma = 'success'
+T390	SENT 1655 1656	.
+#371	AnnotatorNotes T390	lemma = ''

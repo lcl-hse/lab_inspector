@@ -1,0 +1,63 @@
+T1	Spelling 56 60	worh
+#1	AnnotatorNotes T1	worth
+T2	Inappropriate_register 51 55	it's
+#2	AnnotatorNotes T2	it is
+T3	Category_confusion 61 67	noting
+#3	AnnotatorNotes T3	to note
+T4	Noun_number 73 82	the metal
+#4	AnnotatorNotes T4	metals
+T5	Agreement_errors 83 85	is
+#5	AnnotatorNotes T5	are
+R1	Dependent_change Arg1:T5 Arg2:T4
+T6	VVN 0 8	Compared
+#6	AnnotatorNotes T6	lemma = 'compare'
+T7	NN1 9 14	withe
+#7	AnnotatorNotes T7	lemma = 'withe'
+T8	PRP 15 17	by
+#8	AnnotatorNotes T8	lemma = 'by'
+T9	NN1 18 22	rail
+#9	AnnotatorNotes T9	lemma = 'rail'
+T10	VVB 23 26	whe
+#10	AnnotatorNotes T10	lemma = 'whe'
+T11	AJ0 27 32	usual
+#11	AnnotatorNotes T11	lemma = 'usual'
+T12	NN1 33 37	road
+#12	AnnotatorNotes T12	lemma = 'road'
+T13	VVZ 38 43	takes
+#13	AnnotatorNotes T13	lemma = 'take'
+T14	CRD 44 45	2
+#14	AnnotatorNotes T14	lemma = '2'
+T15	NN0 45 46	%
+#15	AnnotatorNotes T15	lemma = '%'
+T16	SENT 46 47	.
+#16	AnnotatorNotes T16	lemma = '.'
+T17	AV0 48 50	So
+#17	AnnotatorNotes T17	lemma = 'so'
+T18	PNP 51 53	it
+#18	AnnotatorNotes T18	lemma = 'it'
+T19	VBZ 53 55	's
+#19	AnnotatorNotes T19	lemma = 'be'
+T20	NN1 56 60	worh
+#20	AnnotatorNotes T20	lemma = 'worh'
+T21	VVG 61 67	noting
+#21	AnnotatorNotes T21	lemma = 'note'
+T22	CJT 68 72	that
+#22	AnnotatorNotes T22	lemma = 'that'
+T23	AT0 73 76	the
+#23	AnnotatorNotes T23	lemma = 'the'
+T24	NN1 77 82	metal
+#24	AnnotatorNotes T24	lemma = 'metal'
+T25	VBZ 83 85	is
+#25	AnnotatorNotes T25	lemma = 'be'
+T26	VVN 86 97	transported
+#26	AnnotatorNotes T26	lemma = 'transport'
+T27	PRP 98 100	by
+#27	AnnotatorNotes T27	lemma = 'by'
+T28	NN1 101 105	rail
+#28	AnnotatorNotes T28	lemma = 'rail'
+T29	CRD 106 108	35
+#29	AnnotatorNotes T29	lemma = '35'
+T30	NN0 108 109	%
+#30	AnnotatorNotes T30	lemma = '%'
+T31	SENT 109 110	.
+#31	AnnotatorNotes T31	lemma = ''

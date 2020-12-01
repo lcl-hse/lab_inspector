@@ -1,0 +1,775 @@
+T1	Standard 66 89	designs being primitive
+#1	AnnotatorNotes T1	primitive designs
+T2	Redundant_comp 74 79	being
+A1	Delete T2
+T3	Spelling 97 104	prodcut
+#2	AnnotatorNotes T3	product
+T4	Articles 123 132	buildings
+#3	AnnotatorNotes T4	a building
+T5	Noun_number 123 132	buildings
+#4	AnnotatorNotes T5	a building
+T6	lex_item_choice 236 243	make up
+#5	AnnotatorNotes T6	create
+T7	Transitive 453 468	seek for beauty
+#6	AnnotatorNotes T7	seek beauty
+T8	Articles 494 505	architects'
+#7	AnnotatorNotes T8	the architects
+T9	Noun_attribute 528 535	humans'
+#8	AnnotatorNotes T9	human
+T10	Spelling 664 674	conlusions
+#9	AnnotatorNotes T10	conclusions
+T11	Punctuation 845 849	, if
+#10	AnnotatorNotes T11	if
+T12	Absence_comp_sent 850 864	there was more
+#11	AnnotatorNotes T12	there was more nice things
+T13	Agreement_errors 891 894	its
+#12	AnnotatorNotes T13	their
+R1	Dependent_change Arg1:T13 Arg2:T12
+T14	Capitalisation 918 920	We
+#13	AnnotatorNotes T14	we
+T15	Noun_number 1072 1080	benefits
+#14	AnnotatorNotes T15	benefit
+T16	Articles 1405 1415	architects
+#15	AnnotatorNotes T16	the architects
+T17	Articles 1488 1495	Product
+#16	AnnotatorNotes T17	The product
+T18	Capitalisation 1488 1495	Product
+#17	AnnotatorNotes T18	The product
+T19	Spelling 1539 1547	pupposes
+#18	AnnotatorNotes T19	purposes
+T20	Possessive 1612 1623	generations
+#19	AnnotatorNotes T20	generations
+T21	Articles 1751 1762	a container
+#20	AnnotatorNotes T21	container
+T22	Often_confused 1859 1864	loose
+#21	AnnotatorNotes T22	lose
+T23	Spelling 1873 1882	propeties
+#22	AnnotatorNotes T23	properties
+T24	Standard 436 468	People by nature seek for beauty
+#23	AnnotatorNotes T24	People seek beauty by nature
+T25	DT0 0 4	Some
+#24	AnnotatorNotes T25	lemma = 'some'
+T26	NN0 5 11	people
+#25	AnnotatorNotes T26	lemma = 'people'
+T27	VVB 12 17	argue
+#26	AnnotatorNotes T27	lemma = 'argue'
+T28	CJT 18 22	that
+#27	AnnotatorNotes T28	lemma = 'that'
+T29	NN2 23 33	architects
+#28	AnnotatorNotes T29	lemma = 'architect'
+T30	VM0 34 40	should
+#29	AnnotatorNotes T30	lemma = 'should'
+T31	XX0 41 44	not
+#30	AnnotatorNotes T31	lemma = 'not'
+T32	VVI 45 50	worry
+#31	AnnotatorNotes T32	lemma = 'worry'
+T33	PRP 51 56	about
+#32	AnnotatorNotes T33	lemma = 'about'
+T34	NN1 57 65	building
+#33	AnnotatorNotes T34	lemma = 'building|build'
+T35	NN2 66 73	designs
+#34	AnnotatorNotes T35	lemma = 'design'
+T36	VBG 74 79	being
+#35	AnnotatorNotes T36	lemma = 'be'
+T37	AJ0 80 89	primitive
+#36	AnnotatorNotes T37	lemma = 'primitive'
+T38	PUN 89 90	,
+#37	AnnotatorNotes T38	lemma = ','
+T39	DPS 91 96	their
+#38	AnnotatorNotes T39	lemma = 'they'
+T40	NN1 97 104	prodcut
+#39	AnnotatorNotes T40	lemma = 'prodcut'
+T41	VM0 105 111	should
+#40	AnnotatorNotes T41	lemma = 'should'
+T42	VBI 112 114	be
+#41	AnnotatorNotes T42	lemma = 'be'
+T43	AJ0 115 119	good
+#42	AnnotatorNotes T43	lemma = 'good'
+T44	PRP 120 122	as
+#43	AnnotatorNotes T44	lemma = 'as'
+T45	NN2 123 132	buildings
+#44	AnnotatorNotes T45	lemma = 'building'
+T46	PUN 132 133	,
+#45	AnnotatorNotes T46	lemma = ','
+T47	XX0 134 137	not
+#46	AnnotatorNotes T47	lemma = 'not'
+T48	NN1 138 141	art
+#47	AnnotatorNotes T48	lemma = 'art'
+T49	SENT 141 142	.
+#48	AnnotatorNotes T49	lemma = '.'
+T50	AV0 143 153	Personally
+#49	AnnotatorNotes T50	lemma = 'personally'
+T51	PUN 153 154	,
+#50	AnnotatorNotes T51	lemma = ','
+T52	PNP 155 156	I
+#51	AnnotatorNotes T52	lemma = 'i'
+T53	VDB 157 159	do
+#52	AnnotatorNotes T53	lemma = 'do'
+T54	XX0 160 163	not
+#53	AnnotatorNotes T54	lemma = 'not'
+T55	VVI 164 169	share
+#54	AnnotatorNotes T55	lemma = 'share'
+T56	DT0 170 174	this
+#55	AnnotatorNotes T56	lemma = 'this'
+T57	NN1 175 182	opinion
+#56	AnnotatorNotes T57	lemma = 'opinion'
+T58	CJC 183 186	and
+#57	AnnotatorNotes T58	lemma = 'and'
+T59	AV0 187 195	strongly
+#58	AnnotatorNotes T59	lemma = 'strongly'
+T60	VVB 196 203	believe
+#59	AnnotatorNotes T60	lemma = 'believe'
+T61	CJT 204 208	that
+#60	AnnotatorNotes T61	lemma = 'that'
+T62	AT0 209 212	the
+#61	AnnotatorNotes T62	lemma = 'the'
+T63	NN1 213 220	scenery
+#62	AnnotatorNotes T63	lemma = 'scenery'
+T64	CJT 221 225	that
+#63	AnnotatorNotes T64	lemma = 'that'
+T65	NN2 226 235	buildings
+#64	AnnotatorNotes T65	lemma = 'building'
+T66	VVB 236 240	make
+#65	AnnotatorNotes T66	lemma = 'make'
+T67	AVP 241 243	up
+#66	AnnotatorNotes T67	lemma = 'up'
+T68	VHZ 244 247	has
+#67	AnnotatorNotes T68	lemma = 'have'
+T69	AT0 248 249	a
+#68	AnnotatorNotes T69	lemma = 'a'
+T70	AJ0 250 254	huge
+#69	AnnotatorNotes T70	lemma = 'huge'
+T71	NN1 255 261	impact
+#70	AnnotatorNotes T71	lemma = 'impact'
+T72	PRP 262 264	on
+#71	AnnotatorNotes T72	lemma = 'on'
+T73	DPS 265 268	our
+#72	AnnotatorNotes T73	lemma = 'we'
+T74	AJ0 269 275	mental
+#73	AnnotatorNotes T74	lemma = 'mental'
+T75	NN1 276 286	well-being
+#74	AnnotatorNotes T75	lemma = 'well-being|well-be'
+T76	PUN 286 287	,
+#75	AnnotatorNotes T76	lemma = ','
+T77	CJC 288 291	and
+#76	AnnotatorNotes T77	lemma = 'and'
+T78	DT0 292 296	this
+#77	AnnotatorNotes T78	lemma = 'this'
+T79	NN1 297 301	fact
+#78	AnnotatorNotes T79	lemma = 'fact'
+T80	VM0 302 305	can
+#79	AnnotatorNotes T80	lemma = 'can'
+T81	XX0 305 308	not
+#80	AnnotatorNotes T81	lemma = 'not'
+T82	VBI 309 311	be
+#81	AnnotatorNotes T82	lemma = 'be'
+T83	VVN 312 319	ignored
+#82	AnnotatorNotes T83	lemma = 'ignore'
+T84	SENT 319 320	.
+#83	AnnotatorNotes T84	lemma = '.'
+T85	AV0 322 329	Firstly
+#84	AnnotatorNotes T85	lemma = 'firstly'
+T86	PUN 329 330	,
+#85	AnnotatorNotes T86	lemma = ','
+T87	AJ0 331 334	due
+#86	AnnotatorNotes T87	lemma = 'due'
+T88	PRP 335 337	to
+#87	AnnotatorNotes T88	lemma = 'to'
+T89	AT0 338 341	the
+#88	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 342 349	process
+#89	AnnotatorNotes T90	lemma = 'process'
+T91	PRF 350 352	of
+#90	AnnotatorNotes T91	lemma = 'of'
+T92	NN1 353 365	urbanisation
+#91	AnnotatorNotes T92	lemma = 'urbanisation'
+T93	PUN 365 366	,
+#92	AnnotatorNotes T93	lemma = ','
+T94	AV0 367 371	more
+#93	AnnotatorNotes T94	lemma = 'more'
+T95	CJC 372 375	and
+#94	AnnotatorNotes T95	lemma = 'and'
+T96	DT0 376 380	more
+#95	AnnotatorNotes T96	lemma = 'more'
+T97	NN0 381 387	people
+#96	AnnotatorNotes T97	lemma = 'people'
+T98	VVB 388 391	see
+#97	AnnotatorNotes T98	lemma = 'see'
+T99	PNI 392 399	nothing
+#98	AnnotatorNotes T99	lemma = 'nothing'
+T100	CJC 400 403	but
+#99	AnnotatorNotes T100	lemma = 'but'
+T101	NN2 404 413	buildings
+#100	AnnotatorNotes T101	lemma = 'building'
+T102	PRP 414 420	around
+#101	AnnotatorNotes T102	lemma = 'around'
+T103	PNP 421 425	them
+#102	AnnotatorNotes T103	lemma = 'they'
+T104	AJ0 426 434	everyday
+#103	AnnotatorNotes T104	lemma = 'everyday'
+T105	SENT 434 435	.
+#104	AnnotatorNotes T105	lemma = '.'
+T106	NN0 436 442	People
+#105	AnnotatorNotes T106	lemma = 'people'
+T107	PRP 443 445	by
+#106	AnnotatorNotes T107	lemma = 'by'
+T108	NN1 446 452	nature
+#107	AnnotatorNotes T108	lemma = 'nature'
+T109	VVB 453 457	seek
+#108	AnnotatorNotes T109	lemma = 'seek'
+T110	PRP 458 461	for
+#109	AnnotatorNotes T110	lemma = 'for'
+T111	NN1 462 468	beauty
+#110	AnnotatorNotes T111	lemma = 'beauty'
+T112	PUN 468 469	,
+#111	AnnotatorNotes T112	lemma = ','
+T113	DT0 470 474	that
+#112	AnnotatorNotes T113	lemma = 'that'
+T114	VBZ 475 477	is
+#113	AnnotatorNotes T114	lemma = 'be'
+T115	AVQ 478 481	why
+#114	AnnotatorNotes T115	lemma = 'why'
+T116	NN2 482 490	products
+#115	AnnotatorNotes T116	lemma = 'product'
+T117	PRF 491 493	of
+#116	AnnotatorNotes T117	lemma = 'of'
+T118	NN2 494 504	architects
+#117	AnnotatorNotes T118	lemma = 'architect'
+T119	POS 504 505	'
+#118	AnnotatorNotes T119	lemma = '''
+T120	NN1 506 510	work
+#119	AnnotatorNotes T120	lemma = 'work'
+T121	VM0 511 517	should
+#120	AnnotatorNotes T121	lemma = 'should'
+T122	VVI 518 522	meet
+#121	AnnotatorNotes T122	lemma = 'meet'
+T123	DT0 523 527	this
+#122	AnnotatorNotes T123	lemma = 'this'
+T124	NN2 528 534	humans
+#123	AnnotatorNotes T124	lemma = 'human'
+T125	POS 534 535	'
+#124	AnnotatorNotes T125	lemma = '''
+T126	NN1 536 540	need
+#125	AnnotatorNotes T126	lemma = 'need'
+T127	CJC 541 544	and
+#126	AnnotatorNotes T127	lemma = 'and'
+T128	VVB 545 549	look
+#127	AnnotatorNotes T128	lemma = 'look'
+T129	AJ0 550 561	fascinating
+#128	AnnotatorNotes T129	lemma = 'fascinating'
+T130	SENT 561 562	.
+#129	AnnotatorNotes T130	lemma = '.'
+T131	PRP 563 566	For
+#130	AnnotatorNotes T131	lemma = 'for'
+T132	NN1 567 574	example
+#131	AnnotatorNotes T132	lemma = 'example'
+T133	PUN 574 575	,
+#132	AnnotatorNotes T133	lemma = ','
+T134	PNP 576 578	it
+#133	AnnotatorNotes T134	lemma = 'it'
+T135	VBZ 579 581	is
+#134	AnnotatorNotes T135	lemma = 'be'
+T136	AJ0 582 592	well-known
+#135	AnnotatorNotes T136	lemma = 'well-known'
+T137	CJT 593 597	that
+#136	AnnotatorNotes T137	lemma = 'that'
+T138	AT0 598 600	an
+#137	AnnotatorNotes T138	lemma = 'an'
+T139	NN1 601 606	image
+#138	AnnotatorNotes T139	lemma = 'image'
+T140	PRF 607 609	of
+#139	AnnotatorNotes T140	lemma = 'of'
+T141	AT0 610 612	an
+#140	AnnotatorNotes T141	lemma = 'an'
+T142	NN1 613 617	item
+#141	AnnotatorNotes T142	lemma = 'item'
+T143	VVZ 618 625	affects
+#142	AnnotatorNotes T143	lemma = 'affect'
+T144	DPS 626 629	our
+#143	AnnotatorNotes T144	lemma = 'we'
+T145	NN1 630 633	way
+#144	AnnotatorNotes T145	lemma = 'way'
+T146	PRF 634 636	of
+#145	AnnotatorNotes T146	lemma = 'of'
+T147	VVG 637 645	thinking
+#146	AnnotatorNotes T147	lemma = 'thinking|think'
+T148	PRP 646 651	about
+#147	AnnotatorNotes T148	lemma = 'about'
+T149	PNP 652 654	it
+#148	AnnotatorNotes T149	lemma = 'it'
+T150	PUN 654 655	:
+#149	AnnotatorNotes T150	lemma = ':'
+T151	PNP 656 658	we
+#150	AnnotatorNotes T151	lemma = 'we'
+T152	VVB 659 663	make
+#151	AnnotatorNotes T152	lemma = 'make'
+T153	NN2 664 674	conlusions
+#152	AnnotatorNotes T153	lemma = 'conlusions'
+T154	VVG 675 684	according
+#153	AnnotatorNotes T154	lemma = 'accord'
+T155	PRP 685 687	to
+#154	AnnotatorNotes T155	lemma = 'to'
+T156	AT0 688 691	the
+#155	AnnotatorNotes T156	lemma = 'the'
+T157	NN2 692 700	feelings
+#156	AnnotatorNotes T157	lemma = 'feeling'
+T158	AT0 701 704	the
+#157	AnnotatorNotes T158	lemma = 'the'
+T159	NN1 705 710	image
+#158	AnnotatorNotes T159	lemma = 'image'
+T160	VVZ 711 718	awakens
+#159	AnnotatorNotes T160	lemma = 'awaken'
+T161	SENT 718 719	.
+#160	AnnotatorNotes T161	lemma = '.'
+T162	AV0 720 727	Further
+#161	AnnotatorNotes T162	lemma = 'further/far'
+T163	AV0 728 732	more
+#162	AnnotatorNotes T163	lemma = 'more'
+T164	PUN 732 733	,
+#163	AnnotatorNotes T164	lemma = ','
+T165	AJ0 734 742	positive
+#164	AnnotatorNotes T165	lemma = 'positive'
+T166	NN2 743 751	emotions
+#165	AnnotatorNotes T166	lemma = 'emotion'
+T167	PUN 751 752	,
+#166	AnnotatorNotes T167	lemma = ','
+T168	PRP 753 762	regarding
+#167	AnnotatorNotes T168	lemma = 'regarding'
+T169	CRD 763 766	one
+#168	AnnotatorNotes T169	lemma = 'one'
+T170	AJ0 767 777	particular
+#169	AnnotatorNotes T170	lemma = 'particular'
+T171	NN1 778 783	thing
+#170	AnnotatorNotes T171	lemma = 'thing'
+T172	PUN 783 784	,
+#171	AnnotatorNotes T172	lemma = ','
+T173	VM0 785 788	can
+#172	AnnotatorNotes T173	lemma = 'can'
+T174	VVI 789 794	boost
+#173	AnnotatorNotes T174	lemma = 'boost'
+T175	DPS 795 798	our
+#174	AnnotatorNotes T175	lemma = 'we'
+T176	NN1 799 803	mood
+#175	AnnotatorNotes T176	lemma = 'mood'
+T177	SENT 803 804	.
+#176	AnnotatorNotes T177	lemma = '.'
+T178	NN0 805 811	People
+#177	AnnotatorNotes T178	lemma = 'people'
+T179	VM0 812 817	would
+#178	AnnotatorNotes T179	lemma = 'would'
+T180	VBI 818 820	be
+#179	AnnotatorNotes T180	lemma = 'be'
+T181	AV0 821 825	more
+#180	AnnotatorNotes T181	lemma = 'more'
+T182	AJ0 826 835	satisfied
+#181	AnnotatorNotes T182	lemma = 'satisfied|satisfy'
+T183	PRP 836 840	with
+#182	AnnotatorNotes T183	lemma = 'with'
+T184	NN1 841 845	life
+#183	AnnotatorNotes T184	lemma = 'life'
+T185	PUN 845 846	,
+#184	AnnotatorNotes T185	lemma = ','
+T186	CJS 847 849	if
+#185	AnnotatorNotes T186	lemma = 'if'
+T187	EX0 850 855	there
+#186	AnnotatorNotes T187	lemma = 'there'
+T188	VBD 856 859	was
+#187	AnnotatorNotes T188	lemma = 'be'
+T189	DT0 860 864	more
+#188	AnnotatorNotes T189	lemma = 'more'
+T190	DTQ 865 870	which
+#189	AnnotatorNotes T190	lemma = 'which'
+T191	VM0 871 876	would
+#190	AnnotatorNotes T191	lemma = 'would'
+T192	VVI 877 882	amaze
+#191	AnnotatorNotes T192	lemma = 'amaze'
+T193	PNP 883 885	us
+#192	AnnotatorNotes T193	lemma = 'we'
+T194	PRP 886 890	with
+#193	AnnotatorNotes T194	lemma = 'with'
+T195	DPS 891 894	its
+#194	AnnotatorNotes T195	lemma = 'it'
+T196	NN1 895 901	beauty
+#195	AnnotatorNotes T196	lemma = 'beauty'
+T197	SENT 901 902	.
+#196	AnnotatorNotes T197	lemma = '.'
+T198	DTQ 904 908	What
+#197	AnnotatorNotes T198	lemma = 'what'
+T199	VBZ 909 911	is
+#198	AnnotatorNotes T199	lemma = 'be'
+T200	AV0 912 916	more
+#199	AnnotatorNotes T200	lemma = 'more'
+T201	PUN 916 917	,
+#200	AnnotatorNotes T201	lemma = ','
+T202	PNP 918 920	We
+#201	AnnotatorNotes T202	lemma = 'we'
+T203	VVB 921 924	get
+#202	AnnotatorNotes T203	lemma = 'get'
+T204	DT0 925 929	most
+#203	AnnotatorNotes T204	lemma = 'most'
+T205	PRF 930 932	of
+#204	AnnotatorNotes T205	lemma = 'of'
+T206	AT0 933 936	the
+#205	AnnotatorNotes T206	lemma = 'the'
+T207	NN1 937 948	information
+#206	AnnotatorNotes T207	lemma = 'information'
+T208	PRP 949 956	through
+#207	AnnotatorNotes T208	lemma = 'through'
+T209	AT0 957 960	the
+#208	AnnotatorNotes T209	lemma = 'the'
+T210	AJ0 961 967	visual
+#209	AnnotatorNotes T210	lemma = 'visual'
+T211	NN1 968 974	source
+#210	AnnotatorNotes T211	lemma = 'source'
+T212	PRF 975 977	of
+#211	AnnotatorNotes T212	lemma = 'of'
+T213	NN1 978 988	perception
+#212	AnnotatorNotes T213	lemma = 'perception'
+T214	PUN 988 989	,
+#213	AnnotatorNotes T214	lemma = ','
+T215	AV0 990 994	i.e.
+#214	AnnotatorNotes T215	lemma = 'i.e.'
+T216	PRP 995 999	from
+#215	AnnotatorNotes T216	lemma = 'from'
+T217	DPS 1000 1003	our
+#216	AnnotatorNotes T217	lemma = 'we'
+T218	NN2 1004 1008	eyes
+#217	AnnotatorNotes T218	lemma = 'eye'
+T219	SENT 1008 1009	.
+#218	AnnotatorNotes T219	lemma = '.'
+T220	AVQ 1010 1013	Why
+#219	AnnotatorNotes T220	lemma = 'why'
+T221	XX0 1014 1017	not
+#220	AnnotatorNotes T221	lemma = 'not'
+T222	VVI 1018 1023	build
+#221	AnnotatorNotes T222	lemma = 'build'
+T223	PNI 1024 1033	something
+#222	AnnotatorNotes T223	lemma = 'something'
+T224	DTQ 1034 1039	which
+#223	AnnotatorNotes T224	lemma = 'which'
+T225	VVZ 1040 1045	takes
+#224	AnnotatorNotes T225	lemma = 'take'
+T226	DPS 1046 1050	your
+#225	AnnotatorNotes T226	lemma = 'you'
+T227	NN1 1051 1057	breath
+#226	AnnotatorNotes T227	lemma = 'breath'
+T228	AV0 1058 1062	away
+#227	AnnotatorNotes T228	lemma = 'away'
+T229	CJC 1063 1066	and
+#228	AnnotatorNotes T229	lemma = 'and'
+T230	VVB 1067 1071	make
+#229	AnnotatorNotes T230	lemma = 'make'
+T231	NN2 1072 1080	benefits
+#230	AnnotatorNotes T231	lemma = 'benefit'
+T232	PRP 1081 1085	from
+#231	AnnotatorNotes T232	lemma = 'from'
+T233	PNP 1086 1088	it
+#232	AnnotatorNotes T233	lemma = 'it'
+T234	SENT 1088 1089	?
+#233	AnnotatorNotes T234	lemma = '?'
+T235	AT0 1090 1093	The
+#234	AnnotatorNotes T235	lemma = 'the'
+T236	NN1 1094 1101	science
+#235	AnnotatorNotes T236	lemma = 'science'
+T237	PRF 1102 1104	of
+#236	AnnotatorNotes T237	lemma = 'of'
+T238	NN1 1105 1114	marketing
+#237	AnnotatorNotes T238	lemma = 'marketing|markete'
+T239	VHZ 1115 1118	has
+#238	AnnotatorNotes T239	lemma = 'have'
+T240	AV0 1119 1126	already
+#239	AnnotatorNotes T240	lemma = 'already'
+T241	VVN 1127 1131	come
+#240	AnnotatorNotes T241	lemma = 'come'
+T242	AVP 1132 1134	up
+#241	AnnotatorNotes T242	lemma = 'up'
+T243	PRP 1135 1139	with
+#242	AnnotatorNotes T243	lemma = 'with'
+T244	DT0 1140 1144	some
+#243	AnnotatorNotes T244	lemma = 'some'
+T245	NN2 1145 1150	hooks
+#244	AnnotatorNotes T245	lemma = 'hook'
+T246	PUN 1150 1151	,
+#245	AnnotatorNotes T246	lemma = ','
+T247	VVN 1152 1157	aimed
+#246	AnnotatorNotes T247	lemma = 'aim'
+T248	TO0 1158 1160	to
+#247	AnnotatorNotes T248	lemma = 'to'
+T249	VVI 1161 1168	attract
+#248	AnnotatorNotes T249	lemma = 'attract'
+T250	NN0 1169 1175	people
+#249	AnnotatorNotes T250	lemma = 'people'
+T251	POS 1175 1177	's
+#250	AnnotatorNotes T251	lemma = ''s'
+T252	NN1 1178 1187	attention
+#251	AnnotatorNotes T252	lemma = 'attention'
+T253	SENT 1187 1188	.
+#252	AnnotatorNotes T253	lemma = '.'
+T254	AV0 1189 1193	Even
+#253	AnnotatorNotes T254	lemma = 'even'
+T255	CJS 1194 1196	if
+#254	AnnotatorNotes T255	lemma = 'if'
+T256	NN2 1197 1208	pedestrians
+#255	AnnotatorNotes T256	lemma = 'pedestrian'
+T257	CJC 1209 1212	and
+#256	AnnotatorNotes T257	lemma = 'and'
+T258	NN1 1213 1216	car
+#257	AnnotatorNotes T258	lemma = 'car'
+T259	NN2 1217 1224	drivers
+#258	AnnotatorNotes T259	lemma = 'driver'
+T260	AV0 1225 1229	just
+#259	AnnotatorNotes T260	lemma = 'just'
+T261	VVB 1230 1234	pass
+#260	AnnotatorNotes T261	lemma = 'pass'
+T262	AT0 1235 1236	a
+#261	AnnotatorNotes T262	lemma = 'a'
+T263	NN1 1237 1245	building
+#262	AnnotatorNotes T263	lemma = 'building|build'
+T264	PRP 1246 1248	by
+#263	AnnotatorNotes T264	lemma = 'by'
+T265	PUN 1248 1249	,
+#264	AnnotatorNotes T265	lemma = ','
+T266	PNP 1250 1254	they
+#265	AnnotatorNotes T266	lemma = 'they'
+T267	VVB 1255 1258	get
+#266	AnnotatorNotes T267	lemma = 'get'
+T268	AT0 1259 1260	a
+#267	AnnotatorNotes T268	lemma = 'a'
+T269	AJ0 1261 1268	certain
+#268	AnnotatorNotes T269	lemma = 'certain'
+T270	NN1 1269 1273	idea
+#269	AnnotatorNotes T270	lemma = 'idea'
+T271	PRF 1274 1276	of
+#270	AnnotatorNotes T271	lemma = 'of'
+T272	DTQ 1277 1281	what
+#271	AnnotatorNotes T272	lemma = 'what'
+T273	AT0 1282 1285	the
+#272	AnnotatorNotes T273	lemma = 'the'
+T274	NN1 1286 1291	brand
+#273	AnnotatorNotes T274	lemma = 'brand'
+T275	VBZ 1292 1294	is
+#274	AnnotatorNotes T275	lemma = 'be'
+T276	PRP 1295 1299	like
+#275	AnnotatorNotes T276	lemma = 'like'
+T277	AV0 1300 1304	only
+#276	AnnotatorNotes T277	lemma = 'only'
+T278	VVG 1305 1314	according
+#277	AnnotatorNotes T278	lemma = 'accord'
+T279	PRP 1315 1317	to
+#278	AnnotatorNotes T279	lemma = 'to'
+T280	AT0 1318 1321	the
+#279	AnnotatorNotes T280	lemma = 'the'
+T281	NN1 1322 1325	way
+#280	AnnotatorNotes T281	lemma = 'way'
+T282	DPS 1326 1331	their
+#281	AnnotatorNotes T282	lemma = 'they'
+T283	NN1 1332 1340	building
+#282	AnnotatorNotes T283	lemma = 'building|build'
+T284	VVZ 1341 1346	looks
+#283	AnnotatorNotes T284	lemma = 'look'
+T285	PRP 1347 1351	like
+#284	AnnotatorNotes T285	lemma = 'like'
+T286	SENT 1351 1352	.
+#285	AnnotatorNotes T286	lemma = '.'
+T287	AV0 1354 1361	Finally
+#286	AnnotatorNotes T287	lemma = 'finally'
+T288	PUN 1361 1362	,
+#287	AnnotatorNotes T288	lemma = ','
+T289	NN1 1363 1375	architecture
+#288	AnnotatorNotes T289	lemma = 'architecture'
+T290	VBZ 1376 1378	is
+#289	AnnotatorNotes T290	lemma = 'be'
+T291	VVN 1379 1389	considered
+#290	AnnotatorNotes T291	lemma = 'consider|considered'
+T292	TO0 1390 1392	to
+#291	AnnotatorNotes T292	lemma = 'to'
+T293	VBI 1393 1395	be
+#292	AnnotatorNotes T293	lemma = 'be'
+T294	NN1 1396 1399	art
+#293	AnnotatorNotes T294	lemma = 'art'
+T295	PUN 1399 1400	,
+#294	AnnotatorNotes T295	lemma = ','
+T296	CJC 1401 1404	and
+#295	AnnotatorNotes T296	lemma = 'and'
+T297	NN2 1405 1415	architects
+#296	AnnotatorNotes T297	lemma = 'architect'
+T298	VHB 1416 1420	have
+#297	AnnotatorNotes T298	lemma = 'have'
+T299	AV0 1421 1427	always
+#298	AnnotatorNotes T299	lemma = 'always'
+T300	VBN 1428 1432	been
+#299	AnnotatorNotes T300	lemma = 'be'
+T301	VVN 1433 1438	known
+#300	AnnotatorNotes T301	lemma = 'know|known'
+T302	TO0 1439 1441	to
+#301	AnnotatorNotes T302	lemma = 'to'
+T303	VVI 1442 1449	compete
+#302	AnnotatorNotes T303	lemma = 'compete'
+T304	PRP 1450 1452	by
+#303	AnnotatorNotes T304	lemma = 'by'
+T305	VVG 1453 1461	creating
+#304	AnnotatorNotes T305	lemma = 'create'
+T306	AJ0 1462 1473	world-known
+#305	AnnotatorNotes T306	lemma = 'world-known'
+T307	NN2 1474 1486	masterpieces
+#306	AnnotatorNotes T307	lemma = 'masterpiece'
+T308	SENT 1486 1487	.
+#307	AnnotatorNotes T308	lemma = '.'
+T309	NN1 1488 1495	Product
+#308	AnnotatorNotes T309	lemma = 'product'
+T310	PRF 1496 1498	of
+#309	AnnotatorNotes T310	lemma = 'of'
+T311	DPS 1499 1504	their
+#310	AnnotatorNotes T311	lemma = 'they'
+T312	NN1 1505 1509	work
+#311	AnnotatorNotes T312	lemma = 'work'
+T313	VDZ 1510 1514	does
+#312	AnnotatorNotes T313	lemma = 'do'
+T314	XX0 1515 1518	not
+#313	AnnotatorNotes T314	lemma = 'not'
+T315	AV0 1519 1523	only
+#314	AnnotatorNotes T315	lemma = 'only'
+T316	VVI 1524 1529	serve
+#315	AnnotatorNotes T316	lemma = 'serve'
+T317	AV0 1530 1538	nowadays
+#316	AnnotatorNotes T317	lemma = 'nowadays'
+T318	NN2 1539 1547	pupposes
+#317	AnnotatorNotes T318	lemma = 'pupposes'
+T319	PUN 1547 1548	,
+#318	AnnotatorNotes T319	lemma = ','
+T320	PNP 1549 1551	it
+#319	AnnotatorNotes T320	lemma = 'it'
+T321	AV0 1552 1556	also
+#320	AnnotatorNotes T321	lemma = 'also'
+T322	VVZ 1557 1565	reflects
+#321	AnnotatorNotes T322	lemma = 'reflect'
+T323	AJ0 1566 1573	current
+#322	AnnotatorNotes T323	lemma = 'current'
+T324	NN1 1574 1579	state
+#323	AnnotatorNotes T324	lemma = 'state'
+T325	PRF 1580 1582	of
+#324	AnnotatorNotes T325	lemma = 'of'
+T326	NN1 1583 1586	art
+#325	AnnotatorNotes T326	lemma = 'art'
+T327	DTQ 1587 1592	which
+#326	AnnotatorNotes T327	lemma = 'which'
+T328	VM0 1593 1597	will
+#327	AnnotatorNotes T328	lemma = 'will'
+T329	VBI 1598 1600	be
+#328	AnnotatorNotes T329	lemma = 'be'
+T330	DPS 1601 1604	our
+#329	AnnotatorNotes T330	lemma = 'we'
+T331	AJ0 1605 1611	future
+#330	AnnotatorNotes T331	lemma = 'future'
+T332	NN2 1612 1623	generations
+#331	AnnotatorNotes T332	lemma = 'generation'
+T333	NN1 1624 1632	heritage
+#332	AnnotatorNotes T333	lemma = 'heritage'
+T334	SENT 1632 1633	.
+#333	AnnotatorNotes T334	lemma = '.'
+T335	TO0 1635 1637	To
+#334	AnnotatorNotes T335	lemma = 'to'
+T336	VVI 1638 1647	summarise
+#335	AnnotatorNotes T336	lemma = 'summarise'
+T337	PUN 1647 1648	,
+#336	AnnotatorNotes T337	lemma = ','
+T338	PNP 1649 1650	I
+#337	AnnotatorNotes T338	lemma = 'i'
+T339	VDB 1651 1653	do
+#338	AnnotatorNotes T339	lemma = 'do'
+T340	XX0 1654 1657	not
+#339	AnnotatorNotes T340	lemma = 'not'
+T341	VVI 1658 1663	agree
+#340	AnnotatorNotes T341	lemma = 'agree'
+T342	PRP 1664 1668	with
+#341	AnnotatorNotes T342	lemma = 'with'
+T343	AT0 1669 1672	the
+#342	AnnotatorNotes T343	lemma = 'the'
+T344	NN1 1673 1677	idea
+#343	AnnotatorNotes T344	lemma = 'idea'
+T345	CJT 1678 1682	that
+#344	AnnotatorNotes T345	lemma = 'that'
+T346	NN2 1683 1692	buildings
+#345	AnnotatorNotes T346	lemma = 'building'
+T347	VM0 1693 1699	should
+#346	AnnotatorNotes T347	lemma = 'should'
+T348	VBI 1700 1702	be
+#347	AnnotatorNotes T348	lemma = 'be'
+T349	NN1 1703 1708	build
+#348	AnnotatorNotes T349	lemma = 'build'
+T350	PRP 1709 1712	for
+#349	AnnotatorNotes T350	lemma = 'for'
+T351	AT0 1713 1716	the
+#350	AnnotatorNotes T351	lemma = 'the'
+T352	NN1 1717 1721	sake
+#351	AnnotatorNotes T352	lemma = 'sake'
+T353	PRF 1722 1724	of
+#352	AnnotatorNotes T353	lemma = 'of'
+T354	VBG 1725 1730	being
+#353	AnnotatorNotes T354	lemma = 'be'
+T355	AJ0 1731 1737	useful
+#354	AnnotatorNotes T355	lemma = 'useful'
+T356	PRP 1738 1740	as
+#355	AnnotatorNotes T356	lemma = 'as'
+T357	AT0 1741 1742	a
+#356	AnnotatorNotes T357	lemma = 'a'
+T358	NN1 1743 1747	sort
+#357	AnnotatorNotes T358	lemma = 'sort'
+T359	PRF 1748 1750	of
+#358	AnnotatorNotes T359	lemma = 'of'
+T360	AT0 1751 1752	a
+#359	AnnotatorNotes T360	lemma = 'a'
+T361	NN1 1753 1762	container
+#360	AnnotatorNotes T361	lemma = 'container'
+T362	PUN 1762 1763	,
+#361	AnnotatorNotes T362	lemma = ','
+T363	XX0 1764 1767	not
+#362	AnnotatorNotes T363	lemma = 'not'
+T364	PRP 1768 1771	for
+#363	AnnotatorNotes T364	lemma = 'for'
+T365	AT0 1772 1775	the
+#364	AnnotatorNotes T365	lemma = 'the'
+T366	NN1 1776 1780	sake
+#365	AnnotatorNotes T366	lemma = 'sake'
+T367	PRF 1781 1783	of
+#366	AnnotatorNotes T367	lemma = 'of'
+T368	VBG 1784 1789	being
+#367	AnnotatorNotes T368	lemma = 'be'
+T369	AT0 1790 1791	a
+#368	AnnotatorNotes T369	lemma = 'a'
+T370	NN1 1792 1797	piece
+#369	AnnotatorNotes T370	lemma = 'piece'
+T371	PRF 1798 1800	of
+#370	AnnotatorNotes T371	lemma = 'of'
+T372	NN1 1801 1804	art
+#371	AnnotatorNotes T372	lemma = 'art'
+T373	SENT 1804 1805	.
+#372	AnnotatorNotes T373	lemma = '.'
+T374	PNP 1806 1807	I
+#373	AnnotatorNotes T374	lemma = 'i'
+T375	VVB 1808 1815	believe
+#374	AnnotatorNotes T375	lemma = 'believe'
+T376	CJT 1816 1820	that
+#375	AnnotatorNotes T376	lemma = 'that'
+T377	NN1 1821 1828	society
+#376	AnnotatorNotes T377	lemma = 'society'
+T378	VDZ 1829 1833	does
+#377	AnnotatorNotes T378	lemma = 'do'
+T379	XX0 1834 1837	not
+#378	AnnotatorNotes T379	lemma = 'not'
+T380	VVI 1838 1842	want
+#379	AnnotatorNotes T380	lemma = 'want'
+T381	NN1 1843 1855	architecture
+#380	AnnotatorNotes T381	lemma = 'architecture'
+T382	TO0 1856 1858	to
+#381	AnnotatorNotes T382	lemma = 'to'
+T383	VVI 1859 1864	loose
+#382	AnnotatorNotes T383	lemma = 'loose'
+T384	DPS 1865 1868	its
+#383	AnnotatorNotes T384	lemma = 'it'
+T385	NN1 1869 1872	art
+#384	AnnotatorNotes T385	lemma = 'art'
+T386	NN2 1873 1882	propeties
+#385	AnnotatorNotes T386	lemma = 'propeties'
+T387	SENT 1882 1883	.
+#386	AnnotatorNotes T387	lemma = '.'

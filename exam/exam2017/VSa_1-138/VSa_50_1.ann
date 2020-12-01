@@ -1,0 +1,490 @@
+T1	Spelling 644 653	undoubtly
+#1	AnnotatorNotes T1	undoubtedly
+T2	Spelling 4 11	firgure
+#2	AnnotatorNotes T2	figure
+T3	Agreement_errors 12 19	compare
+#3	AnnotatorNotes T3	compares
+T4	Agreement_errors 4 11	firgure
+R1	Dependent_change Arg1:T3 Arg2:T4
+T5	Spelling 54 57	ant
+#4	AnnotatorNotes T5	and
+T6	Category_confusion 62 67	print
+#5	AnnotatorNotes T6	printed
+T7	Spelling 171 180	tendences
+#6	AnnotatorNotes T7	tendencies
+T8	Spelling 258 264	Frstly
+#7	AnnotatorNotes T8	Firstly
+T9	Prepositions 298 300	in
+#8	AnnotatorNotes T9	about
+T10	Absence_explanation 326 335	countries
+#9	AnnotatorNotes T10	different countries
+T11	Category_confusion 470 477	rapidly
+#10	AnnotatorNotes T11	rapid
+T12	Category_confusion 478 485	raising
+#11	AnnotatorNotes T12	rise
+T13	Absence_comp_sent 554 565	development
+#12	AnnotatorNotes T13	level of development
+T14	Absence_comp_sent 618 628	in the USA
+#13	AnnotatorNotes T14	is in the USA
+T15	Determiners 654 658	that
+#14	AnnotatorNotes T15	the
+T16	Category_confusion 728 733	print
+#15	AnnotatorNotes T16	printed
+T17	lex_item_choice 799 806	quietly
+#16	AnnotatorNotes T17	slightly
+T18	Tense_form 807 811	fell
+#17	AnnotatorNotes T18	fall
+T19	Spelling 911 913	ni
+#18	AnnotatorNotes T19	in
+T20	Articles 1028 1031	the
+A1	Delete T20
+T21	note 1072 1073	.
+#19	AnnotatorNotes T21	Zavyalov
+T22	AT0 0 3	The
+#20	AnnotatorNotes T22	lemma = 'the'
+T23	NN1 4 11	firgure
+#21	AnnotatorNotes T23	lemma = 'firgure'
+T24	VVI 12 19	compare
+#22	AnnotatorNotes T24	lemma = 'compare'
+T25	NN1 20 24	date
+#23	AnnotatorNotes T25	lemma = 'date'
+T26	PRP 25 32	between
+#24	AnnotatorNotes T26	lemma = 'between'
+T27	NN1 33 44	development
+#25	AnnotatorNotes T27	lemma = 'development'
+T28	PRF 45 47	of
+#26	AnnotatorNotes T28	lemma = 'of'
+T29	NN1 48 53	eBook
+#27	AnnotatorNotes T29	lemma = 'eBook'
+T30	NN1 54 57	ant
+#28	AnnotatorNotes T30	lemma = 'ant'
+T31	AT0 58 61	the
+#29	AnnotatorNotes T31	lemma = 'the'
+T32	NN1 62 67	print
+#30	AnnotatorNotes T32	lemma = 'print'
+T33	NN2 68 72	ones
+#31	AnnotatorNotes T33	lemma = 'one'
+T34	PRP 73 75	in
+#32	AnnotatorNotes T34	lemma = 'in'
+T35	CRD 76 80	2014
+#33	AnnotatorNotes T35	lemma = '2014'
+T36	CJC 81 84	and
+#34	AnnotatorNotes T36	lemma = 'and'
+T37	CRD 85 89	2018
+#35	AnnotatorNotes T37	lemma = '2018'
+T38	PRP 90 92	in
+#36	AnnotatorNotes T38	lemma = 'in'
+T39	AT0 93 96	the
+#37	AnnotatorNotes T39	lemma = 'the'
+T40	NP0 97 100	USA
+#38	AnnotatorNotes T40	lemma = 'usa'
+T41	PUN 100 101	,
+#39	AnnotatorNotes T41	lemma = ','
+T42	AT0 102 105	the
+#40	AnnotatorNotes T42	lemma = 'the'
+T43	NP0 106 108	UK
+#41	AnnotatorNotes T43	lemma = 'uk'
+T44	PUN 108 109	,
+#42	AnnotatorNotes T44	lemma = ','
+T45	NP0 110 117	Germany
+#43	AnnotatorNotes T45	lemma = 'germany'
+T46	CJC 118 121	and
+#44	AnnotatorNotes T46	lemma = 'and'
+T47	NP0 122 127	China
+#45	AnnotatorNotes T47	lemma = 'china'
+T48	SENT 127 128	.
+#46	AnnotatorNotes T48	lemma = '.'
+T49	PNP 129 131	It
+#47	AnnotatorNotes T49	lemma = 'it'
+T50	VBZ 132 134	is
+#48	AnnotatorNotes T50	lemma = 'be'
+T51	AJ0 135 140	clear
+#49	AnnotatorNotes T51	lemma = 'clear'
+T52	PUN 140 141	,
+#50	AnnotatorNotes T52	lemma = ','
+T53	CJT 142 146	that
+#51	AnnotatorNotes T53	lemma = 'that'
+T54	EX0 147 152	there
+#52	AnnotatorNotes T54	lemma = 'there'
+T55	VBB 153 156	are
+#53	AnnotatorNotes T55	lemma = 'be'
+T56	CRD 157 160	two
+#54	AnnotatorNotes T56	lemma = 'two'
+T57	AJ0 161 170	different
+#55	AnnotatorNotes T57	lemma = 'different'
+T58	NN2 171 180	tendences
+#56	AnnotatorNotes T58	lemma = 'tendences'
+T59	PUN 180 181	:
+#57	AnnotatorNotes T59	lemma = ':'
+T60	AT0 182 185	the
+#58	AnnotatorNotes T60	lemma = 'the'
+T61	NN1 186 192	number
+#59	AnnotatorNotes T61	lemma = 'number'
+T62	PRF 193 195	of
+#60	AnnotatorNotes T62	lemma = 'of'
+T63	NN2 196 202	ebooks
+#61	AnnotatorNotes T63	lemma = 'ebooks'
+T64	VM0 203 207	will
+#62	AnnotatorNotes T64	lemma = 'will'
+T65	VVI 208 216	decrease
+#63	AnnotatorNotes T65	lemma = 'decrease'
+T66	PRP 217 219	to
+#64	AnnotatorNotes T66	lemma = 'to'
+T67	CRD 220 224	2018
+#65	AnnotatorNotes T67	lemma = '2018'
+T68	CJC 225 227	or
+#66	AnnotatorNotes T68	lemma = 'or'
+T69	PUN 227 228	,
+#67	AnnotatorNotes T69	lemma = ','
+T70	PRP 229 231	in
+#68	AnnotatorNotes T70	lemma = 'in'
+T71	NN1 232 240	contrast
+#69	AnnotatorNotes T71	lemma = 'contrast'
+T72	PUN 240 241	,
+#70	AnnotatorNotes T72	lemma = ','
+T73	VM0 242 246	will
+#71	AnnotatorNotes T73	lemma = 'will'
+T74	VVI 247 255	increase
+#72	AnnotatorNotes T74	lemma = 'increase'
+T75	SENT 255 256	.
+#73	AnnotatorNotes T75	lemma = '.'
+T76	AV0 258 264	Frstly
+#74	AnnotatorNotes T76	lemma = 'Frstly'
+T77	PUN 264 265	,
+#75	AnnotatorNotes T77	lemma = ','
+T78	PNP 266 267	I
+#76	AnnotatorNotes T78	lemma = 'i'
+T79	VVB 268 272	want
+#77	AnnotatorNotes T79	lemma = 'want'
+T80	TO0 273 275	to
+#78	AnnotatorNotes T80	lemma = 'to'
+T81	VVI 276 285	highlight
+#79	AnnotatorNotes T81	lemma = 'highlight'
+T82	NN1 286 297	information
+#80	AnnotatorNotes T82	lemma = 'information'
+T83	PRP 298 300	in
+#81	AnnotatorNotes T83	lemma = 'in'
+T84	NN1 301 312	development
+#82	AnnotatorNotes T84	lemma = 'development'
+T85	PRF 313 315	of
+#83	AnnotatorNotes T85	lemma = 'of'
+T86	NN2 316 322	ebooks
+#84	AnnotatorNotes T86	lemma = 'ebooks'
+T87	PRP 323 325	in
+#85	AnnotatorNotes T87	lemma = 'in'
+T88	NN2 326 335	countries
+#86	AnnotatorNotes T88	lemma = 'country'
+T89	SENT 335 336	.
+#87	AnnotatorNotes T89	lemma = '.'
+T90	AT0 337 340	The
+#88	AnnotatorNotes T90	lemma = 'the'
+T91	NN1 341 347	number
+#89	AnnotatorNotes T91	lemma = 'number'
+T92	PRF 348 350	of
+#90	AnnotatorNotes T92	lemma = 'of'
+T93	NN1 351 359	increase
+#91	AnnotatorNotes T93	lemma = 'increase'
+T94	PRP 360 362	in
+#92	AnnotatorNotes T94	lemma = 'in'
+T95	NP0 363 368	China
+#93	AnnotatorNotes T95	lemma = 'china'
+T96	CJC 369 372	and
+#94	AnnotatorNotes T96	lemma = 'and'
+T97	NP0 373 380	Germany
+#95	AnnotatorNotes T97	lemma = 'germany'
+T98	VM0 381 385	will
+#96	AnnotatorNotes T98	lemma = 'will'
+T99	VBI 386 388	be
+#97	AnnotatorNotes T99	lemma = 'be'
+T100	AJ0 389 396	similar
+#98	AnnotatorNotes T100	lemma = 'similar'
+T101	PUN 397 398	-
+#99	AnnotatorNotes T101	lemma = '-'
+T102	AV0 399 405	nearly
+#100	AnnotatorNotes T102	lemma = 'nearly'
+T103	CRD 406 409	0,5
+#101	AnnotatorNotes T103	lemma = '0,5'
+T104	CRD 410 417	billion
+#102	AnnotatorNotes T104	lemma = 'billion'
+T105	NP0 418 420	US
+#103	AnnotatorNotes T105	lemma = 'us'
+T106	NN2 421 428	dollars
+#104	AnnotatorNotes T106	lemma = 'dollar'
+T107	CJS 429 434	while
+#105	AnnotatorNotes T107	lemma = 'while'
+T108	AT0 435 438	the
+#106	AnnotatorNotes T108	lemma = 'the'
+T109	NP0 439 442	USA
+#107	AnnotatorNotes T109	lemma = 'usa'
+T110	VM0 443 447	will
+#108	AnnotatorNotes T110	lemma = 'will'
+T111	VVI 448 459	demonstrate
+#109	AnnotatorNotes T111	lemma = 'demonstrate'
+T112	AV0 460 464	much
+#110	AnnotatorNotes T112	lemma = 'much'
+T113	AV0 465 469	more
+#111	AnnotatorNotes T113	lemma = 'more'
+T114	AV0 470 477	rapidly
+#112	AnnotatorNotes T114	lemma = 'rapidly'
+T115	VVG 478 485	raising
+#113	AnnotatorNotes T115	lemma = 'raise|raising'
+T116	PUN 486 487	-
+#114	AnnotatorNotes T116	lemma = '-'
+T117	PRP 488 492	from
+#115	AnnotatorNotes T117	lemma = 'from'
+T118	CRD 493 496	5,5
+#116	AnnotatorNotes T118	lemma = '5,5'
+T119	PRP 497 499	to
+#117	AnnotatorNotes T119	lemma = 'to'
+T120	CRD 500 503	8,5
+#118	AnnotatorNotes T120	lemma = '8,5'
+T121	CRD 504 511	billion
+#119	AnnotatorNotes T121	lemma = 'billion'
+T122	NP0 512 514	US
+#120	AnnotatorNotes T122	lemma = 'us'
+T123	NN2 515 522	dollars
+#121	AnnotatorNotes T123	lemma = 'dollar'
+T124	SENT 522 523	.
+#122	AnnotatorNotes T124	lemma = '.'
+T125	PNP 524 526	It
+#123	AnnotatorNotes T125	lemma = 'it'
+T126	VBZ 527 529	is
+#124	AnnotatorNotes T126	lemma = 'be'
+T127	AJ0 530 537	evident
+#125	AnnotatorNotes T127	lemma = 'evident'
+T128	CJT 538 542	that
+#126	AnnotatorNotes T128	lemma = 'that'
+T129	AT0 543 546	the
+#127	AnnotatorNotes T129	lemma = 'the'
+T130	AJS 547 553	lowest
+#128	AnnotatorNotes T130	lemma = 'low'
+T131	NN1 554 565	development
+#129	AnnotatorNotes T131	lemma = 'development'
+T132	PRF 566 568	of
+#130	AnnotatorNotes T132	lemma = 'of'
+T133	AT0 569 572	the
+#131	AnnotatorNotes T133	lemma = 'the'
+T134	NN1 573 577	book
+#132	AnnotatorNotes T134	lemma = 'book'
+T135	NN1 578 584	market
+#133	AnnotatorNotes T135	lemma = 'market'
+T136	VBZ 585 587	is
+#134	AnnotatorNotes T136	lemma = 'be'
+T137	PRP 588 590	in
+#135	AnnotatorNotes T137	lemma = 'in'
+T138	AT0 591 594	the
+#136	AnnotatorNotes T138	lemma = 'the'
+T139	NP0 595 597	UK
+#137	AnnotatorNotes T139	lemma = 'uk'
+T140	CJS 598 605	whereas
+#138	AnnotatorNotes T140	lemma = 'whereas'
+T141	AT0 606 609	the
+#139	AnnotatorNotes T141	lemma = 'the'
+T142	AJS 610 617	highest
+#140	AnnotatorNotes T142	lemma = 'high'
+T143	PRP 618 620	in
+#141	AnnotatorNotes T143	lemma = 'in'
+T144	AT0 621 624	the
+#142	AnnotatorNotes T144	lemma = 'the'
+T145	NP0 625 628	USA
+#143	AnnotatorNotes T145	lemma = 'usa'
+T146	SENT 628 629	.
+#144	AnnotatorNotes T146	lemma = '.'
+T147	AV0 631 642	Furthermore
+#145	AnnotatorNotes T147	lemma = 'furthermore'
+T148	PUN 642 643	,
+#146	AnnotatorNotes T148	lemma = ','
+T149	AV0 644 653	undoubtly
+#147	AnnotatorNotes T149	lemma = 'undoubtly'
+T150	DT0 654 658	that
+#148	AnnotatorNotes T150	lemma = 'that'
+T151	NN1 659 668	statement
+#149	AnnotatorNotes T151	lemma = 'statement'
+T152	POS 669 670	'
+#150	AnnotatorNotes T152	lemma = ''
+T153	NN2 670 676	ebooks
+#151	AnnotatorNotes T153	lemma = 'ebooks'
+T154	VM0 677 681	will
+#152	AnnotatorNotes T154	lemma = 'will'
+T155	VBI 682 684	be
+#153	AnnotatorNotes T155	lemma = 'be'
+T156	AV0 685 689	more
+#154	AnnotatorNotes T156	lemma = 'more'
+T157	AJ0 690 697	popular
+#155	AnnotatorNotes T157	lemma = 'popular'
+T158	PUQ 697 698	'
+#156	AnnotatorNotes T158	lemma = ''
+T159	VM0 699 701	wo
+#157	AnnotatorNotes T159	lemma = 'will'
+T160	XX0 701 704	n't
+#158	AnnotatorNotes T160	lemma = 'not'
+T161	VBI 705 707	be
+#159	AnnotatorNotes T161	lemma = 'be'
+T162	AJ0 708 712	true
+#160	AnnotatorNotes T162	lemma = 'true'
+T163	SENT 712 713	.
+#161	AnnotatorNotes T163	lemma = '.'
+T164	AT0 714 717	The
+#162	AnnotatorNotes T164	lemma = 'the'
+T165	NN1 718 724	number
+#163	AnnotatorNotes T165	lemma = 'number'
+T166	PRF 725 727	of
+#164	AnnotatorNotes T166	lemma = 'of'
+T167	NN1 728 733	print
+#165	AnnotatorNotes T167	lemma = 'print'
+T168	NN2 734 739	books
+#166	AnnotatorNotes T168	lemma = 'book'
+T169	PRP 740 742	in
+#167	AnnotatorNotes T169	lemma = 'in'
+T170	NP0 743 750	Germany
+#168	AnnotatorNotes T170	lemma = 'germany'
+T171	VM0 751 755	will
+#169	AnnotatorNotes T171	lemma = 'will'
+T172	VVI 756 762	remain
+#170	AnnotatorNotes T172	lemma = 'remain'
+T173	AJ0 763 769	stable
+#171	AnnotatorNotes T173	lemma = 'stable'
+T174	PUN 769 770	,
+#172	AnnotatorNotes T174	lemma = ','
+T175	PRP 771 773	in
+#173	AnnotatorNotes T175	lemma = 'in'
+T176	NP0 774 779	China
+#174	AnnotatorNotes T176	lemma = 'china'
+T177	CJC 780 783	and
+#175	AnnotatorNotes T177	lemma = 'and'
+T178	AT0 784 787	the
+#176	AnnotatorNotes T178	lemma = 'the'
+T179	NP0 788 790	UK
+#177	AnnotatorNotes T179	lemma = 'uk'
+T180	PNP 791 793	it
+#178	AnnotatorNotes T180	lemma = 'it'
+T181	VM0 794 798	will
+#179	AnnotatorNotes T181	lemma = 'will'
+T182	AV0 799 806	quietly
+#180	AnnotatorNotes T182	lemma = 'quietly'
+T183	VVD 807 811	fell
+#181	AnnotatorNotes T183	lemma = 'fall|fell'
+T184	CJC 812 815	and
+#182	AnnotatorNotes T184	lemma = 'and'
+T185	AV0 816 820	only
+#183	AnnotatorNotes T185	lemma = 'only'
+T186	PRP 821 823	in
+#184	AnnotatorNotes T186	lemma = 'in'
+T187	AT0 824 827	the
+#185	AnnotatorNotes T187	lemma = 'the'
+T188	NP0 828 831	USA
+#186	AnnotatorNotes T188	lemma = 'usa'
+T189	PNP 832 834	it
+#187	AnnotatorNotes T189	lemma = 'it'
+T190	VM0 835 839	will
+#188	AnnotatorNotes T190	lemma = 'will'
+T191	VBI 840 842	be
+#189	AnnotatorNotes T191	lemma = 'be'
+T192	AV0 843 849	nearly
+#190	AnnotatorNotes T192	lemma = 'nearly'
+T193	VVN 850 857	doubled
+#191	AnnotatorNotes T193	lemma = 'double'
+T194	PRP 858 860	to
+#192	AnnotatorNotes T194	lemma = 'to'
+T195	CRD 861 865	2018
+#193	AnnotatorNotes T195	lemma = '2018'
+T196	SENT 865 866	.
+#194	AnnotatorNotes T196	lemma = '.'
+T197	AV0 867 875	Moreover
+#195	AnnotatorNotes T197	lemma = 'moreover'
+T198	PUN 875 876	,
+#196	AnnotatorNotes T198	lemma = ','
+T199	AJ0 877 883	upward
+#197	AnnotatorNotes T199	lemma = 'upward'
+T200	NN2 884 890	trends
+#198	AnnotatorNotes T200	lemma = 'trend'
+T201	PRP 891 893	in
+#199	AnnotatorNotes T201	lemma = 'in'
+T202	VVG 894 899	using
+#200	AnnotatorNotes T202	lemma = 'use'
+T203	NN2 900 906	ebooks
+#201	AnnotatorNotes T203	lemma = 'ebooks'
+T204	VBB 907 910	are
+#202	AnnotatorNotes T204	lemma = 'be'
+T205	NN2 911 913	ni
+#203	AnnotatorNotes T205	lemma = 'ni'
+T206	DT0 914 917	all
+#204	AnnotatorNotes T206	lemma = 'all'
+T207	CRD 918 922	four
+#205	AnnotatorNotes T207	lemma = 'four'
+T208	NN2 923 932	countries
+#206	AnnotatorNotes T208	lemma = 'country'
+T209	PUN 932 933	:
+#207	AnnotatorNotes T209	lemma = ':'
+T210	PRP 934 936	in
+#208	AnnotatorNotes T210	lemma = 'in'
+T211	AT0 937 940	the
+#209	AnnotatorNotes T211	lemma = 'the'
+T212	NP0 941 944	USA
+#210	AnnotatorNotes T212	lemma = 'usa'
+T213	PRP 945 949	from
+#211	AnnotatorNotes T213	lemma = 'from'
+T214	CRD 950 953	5,5
+#212	AnnotatorNotes T214	lemma = '5,5'
+T215	CRD 954 961	billion
+#213	AnnotatorNotes T215	lemma = 'billion'
+T216	PRP 962 964	to
+#214	AnnotatorNotes T216	lemma = 'to'
+T217	CRD 965 968	8,5
+#215	AnnotatorNotes T217	lemma = '8,5'
+T218	PUN 968 969	,
+#216	AnnotatorNotes T218	lemma = ','
+T219	PRP 970 972	in
+#217	AnnotatorNotes T219	lemma = 'in'
+T220	NP0 973 978	China
+#218	AnnotatorNotes T220	lemma = 'china'
+T221	PUN 978 979	:
+#219	AnnotatorNotes T221	lemma = ':'
+T222	PRP 980 984	from
+#220	AnnotatorNotes T222	lemma = 'from'
+T223	CRD 985 988	0.5
+#221	AnnotatorNotes T223	lemma = '0.5'
+T224	PRP 989 991	to
+#222	AnnotatorNotes T224	lemma = 'to'
+T225	CRD 992 993	1
+#223	AnnotatorNotes T225	lemma = '1'
+T226	PUN 993 994	;
+#224	AnnotatorNotes T226	lemma = ';'
+T227	PRP 995 997	in
+#225	AnnotatorNotes T227	lemma = 'in'
+T228	AT0 998 1001	the
+#226	AnnotatorNotes T228	lemma = 'the'
+T229	NP0 1002 1004	UK
+#227	AnnotatorNotes T229	lemma = 'uk'
+T230	PRP 1005 1009	from
+#228	AnnotatorNotes T230	lemma = 'from'
+T231	CRD 1010 1013	1,8
+#229	AnnotatorNotes T231	lemma = '1,8'
+T232	PRP 1014 1016	to
+#230	AnnotatorNotes T232	lemma = 'to'
+T233	CRD 1017 1020	2,3
+#231	AnnotatorNotes T233	lemma = '2,3'
+T234	CJC 1021 1024	and
+#232	AnnotatorNotes T234	lemma = 'and'
+T235	PRP 1025 1027	in
+#233	AnnotatorNotes T235	lemma = 'in'
+T236	AT0 1028 1031	the
+#234	AnnotatorNotes T236	lemma = 'the'
+T237	NP0 1032 1039	Germany
+#235	AnnotatorNotes T237	lemma = 'germany'
+T238	PRP 1040 1044	from
+#236	AnnotatorNotes T238	lemma = 'from'
+T239	CRD 1045 1046	1
+#237	AnnotatorNotes T239	lemma = '1'
+T240	PRP 1047 1049	to
+#238	AnnotatorNotes T240	lemma = 'to'
+T241	CRD 1050 1053	0,5
+#239	AnnotatorNotes T241	lemma = '0,5'
+T242	CRD 1054 1061	billion
+#240	AnnotatorNotes T242	lemma = 'billion'
+T243	PRP 1062 1064	in
+#241	AnnotatorNotes T243	lemma = 'in'
+T244	NN2 1065 1072	Dollars
+#242	AnnotatorNotes T244	lemma = 'dollar'
+T245	SENT 1072 1073	.
+#243	AnnotatorNotes T245	lemma = ''

@@ -1,0 +1,429 @@
+T1	suggestion 14 21	provide
+#1	AnnotatorNotes T1	provides
+T2	Spelling 265 270	amoun
+#2	AnnotatorNotes T2	amount
+T3	Punctuation 114 132	As regards the USA
+#3	AnnotatorNotes T3	As regards the USA,
+T4	Noun_number 152 158	market
+#4	AnnotatorNotes T4	markets
+T5	Word_choice 37 42	print
+#5	AnnotatorNotes T5	book
+T6	Nouns 223 232	predicted
+#6	AnnotatorNotes T6	prediction
+T7	lex_part_choice 14 26	provide data
+#7	AnnotatorNotes T7	provides information
+T8	Agreement_errors 348 354	market
+#8	AnnotatorNotes T8	markets
+T9	Agreement_errors 247 251	this
+T10	Word_choice 394 405	represented
+#9	AnnotatorNotes T10	amounted to
+T11	Noun_number 53 59	market
+#10	AnnotatorNotes T11	markets
+T12	Nouns 443 451	expected
+#11	AnnotatorNotes T12	expectation
+T13	Nouns 574 583	projected
+#12	AnnotatorNotes T13	projection
+T14	Word_choice 614 623	represent
+#13	AnnotatorNotes T14	amount to
+T15	Nouns 746 754	expected
+#14	AnnotatorNotes T15	expectation
+T16	Punctuation 436 437	,
+T17	Punctuation 567 568	,
+T18	Punctuation 739 740	,
+T19	suggestion 893 900	located
+A1	Delete T19
+T20	suggestion 957 964	located
+A2	Delete T20
+R1	Parallel_construction Arg1:T19 Arg2:T20
+T21	Linking_device 306 317	By contrast
+#15	AnnotatorNotes T21	As regards the other countries
+T22	Absence_comp_sent 904 907	USA
+#16	AnnotatorNotes T22	the USA
+T23	AT0 0 3	The
+#17	AnnotatorNotes T23	lemma = 'the'
+T24	NN1 4 7	bar
+#18	AnnotatorNotes T24	lemma = 'bar'
+T25	NN1 8 13	chart
+#19	AnnotatorNotes T25	lemma = 'chart'
+T26	VVB 14 21	provide
+#20	AnnotatorNotes T26	lemma = 'provide'
+T27	NN0 22 26	data
+#21	AnnotatorNotes T27	lemma = 'data'
+T28	PRP 27 32	about
+#22	AnnotatorNotes T28	lemma = 'about'
+T29	AT0 33 36	the
+#23	AnnotatorNotes T29	lemma = 'the'
+T30	NN1 37 42	print
+#24	AnnotatorNotes T30	lemma = 'print'
+T31	CJC 43 46	and
+#25	AnnotatorNotes T31	lemma = 'and'
+T32	NN1 47 52	eBook
+#26	AnnotatorNotes T32	lemma = 'eBook'
+T33	NN1 53 59	market
+#27	AnnotatorNotes T33	lemma = 'market'
+T34	PRP 60 62	in
+#28	AnnotatorNotes T34	lemma = 'in'
+T35	CRD 63 67	four
+#29	AnnotatorNotes T35	lemma = 'four'
+T36	NN2 68 77	countries
+#30	AnnotatorNotes T36	lemma = 'country'
+T37	PRP 78 80	in
+#31	AnnotatorNotes T37	lemma = 'in'
+T38	CRD 81 85	2014
+#32	AnnotatorNotes T38	lemma = '2014'
+T39	PRP 86 90	with
+#33	AnnotatorNotes T39	lemma = 'with'
+T40	AT0 91 92	a
+#34	AnnotatorNotes T40	lemma = 'a'
+T41	NN1 93 103	projection
+#35	AnnotatorNotes T41	lemma = 'projection'
+T42	PRP 104 107	for
+#36	AnnotatorNotes T42	lemma = 'for'
+T43	CRD 108 112	2018
+#37	AnnotatorNotes T43	lemma = '2018'
+T44	SENT 112 113	.
+#38	AnnotatorNotes T44	lemma = '.'
+T45	AV0 114 116	As
+#39	AnnotatorNotes T45	lemma = 'as'
+T46	VVZ 117 124	regards
+#40	AnnotatorNotes T46	lemma = 'regard|regards'
+T47	AT0 125 128	the
+#41	AnnotatorNotes T47	lemma = 'the'
+T48	NP0 129 132	USA
+#42	AnnotatorNotes T48	lemma = 'usa'
+T49	AT0 133 136	the
+#43	AnnotatorNotes T49	lemma = 'the'
+T50	NN1 137 141	book
+#44	AnnotatorNotes T50	lemma = 'book'
+T51	CJC 142 145	and
+#45	AnnotatorNotes T51	lemma = 'and'
+T52	NN1 146 151	eBook
+#46	AnnotatorNotes T52	lemma = 'eBook'
+T53	NN1 152 158	market
+#47	AnnotatorNotes T53	lemma = 'market'
+T54	VVN 159 168	accounted
+#48	AnnotatorNotes T54	lemma = 'account'
+T55	PRP 169 172	for
+#49	AnnotatorNotes T55	lemma = 'for'
+T56	CRD 173 177	10,5
+#50	AnnotatorNotes T56	lemma = '10,5'
+T57	CJC 178 181	and
+#51	AnnotatorNotes T57	lemma = 'and'
+T58	CRD 182 185	5,5
+#52	AnnotatorNotes T58	lemma = '5,5'
+T59	CRD 186 193	billion
+#53	AnnotatorNotes T59	lemma = 'billion'
+T60	NP0 194 196	US
+#54	AnnotatorNotes T60	lemma = 'us'
+T61	NN2 197 204	Dollars
+#55	AnnotatorNotes T61	lemma = 'dollar'
+T62	AV0 205 217	respectively
+#56	AnnotatorNotes T62	lemma = 'respectively'
+T63	PRP 218 222	with
+#57	AnnotatorNotes T63	lemma = 'with'
+T64	VVN 223 232	predicted
+#58	AnnotatorNotes T64	lemma = 'predict'
+T65	PRP 233 236	for
+#59	AnnotatorNotes T65	lemma = 'for'
+T66	CRD 237 241	2018
+#60	AnnotatorNotes T66	lemma = '2018'
+T67	CJT 242 246	that
+#61	AnnotatorNotes T67	lemma = 'that'
+T68	DT0 247 251	this
+#62	AnnotatorNotes T68	lemma = 'this'
+T69	NN2 252 259	markets
+#63	AnnotatorNotes T69	lemma = 'market'
+T70	VM0 260 264	will
+#64	AnnotatorNotes T70	lemma = 'will'
+T71	NN1 265 270	amoun
+#65	AnnotatorNotes T71	lemma = 'amoun'
+T72	PRP 271 273	to
+#66	AnnotatorNotes T72	lemma = 'to'
+T73	CRD 274 277	7,5
+#67	AnnotatorNotes T73	lemma = '7,5'
+T74	CJC 278 281	and
+#68	AnnotatorNotes T74	lemma = 'and'
+T75	CRD 282 285	8,5
+#69	AnnotatorNotes T75	lemma = '8,5'
+T76	CRD 286 293	billion
+#70	AnnotatorNotes T76	lemma = 'billion'
+T77	NP0 294 296	US
+#71	AnnotatorNotes T77	lemma = 'us'
+T78	NN2 297 304	Dollars
+#72	AnnotatorNotes T78	lemma = 'dollar'
+T79	SENT 304 305	.
+#73	AnnotatorNotes T79	lemma = '.'
+T80	PRP 306 308	By
+#74	AnnotatorNotes T80	lemma = 'by'
+T81	NN1 309 317	contrast
+#75	AnnotatorNotes T81	lemma = 'contrast'
+T82	PUN 317 318	,
+#76	AnnotatorNotes T82	lemma = ','
+T83	PRP 319 321	in
+#77	AnnotatorNotes T83	lemma = 'in'
+T84	AT0 322 325	the
+#78	AnnotatorNotes T84	lemma = 'the'
+T85	NP0 326 328	UK
+#79	AnnotatorNotes T85	lemma = 'uk'
+T86	AT0 329 332	the
+#80	AnnotatorNotes T86	lemma = 'the'
+T87	NN1 333 337	book
+#81	AnnotatorNotes T87	lemma = 'book'
+T88	CJC 338 341	and
+#82	AnnotatorNotes T88	lemma = 'and'
+T89	NN1 342 347	eBook
+#83	AnnotatorNotes T89	lemma = 'eBook'
+T90	NN1 348 354	market
+#84	AnnotatorNotes T90	lemma = 'market'
+T91	AV0 355 363	slightly
+#85	AnnotatorNotes T91	lemma = 'slightly'
+T92	VVB 364 370	change
+#86	AnnotatorNotes T92	lemma = 'change'
+T93	SENT 370 371	.
+#87	AnnotatorNotes T93	lemma = '.'
+T94	CJS 372 377	While
+#88	AnnotatorNotes T94	lemma = 'while'
+T95	AT0 378 381	the
+#89	AnnotatorNotes T95	lemma = 'the'
+T96	NN1 382 386	book
+#90	AnnotatorNotes T96	lemma = 'book'
+T97	NN1 387 393	market
+#91	AnnotatorNotes T97	lemma = 'market'
+T98	VVD 394 405	represented
+#92	AnnotatorNotes T98	lemma = 'represent'
+T99	CRD 406 409	2,6
+#93	AnnotatorNotes T99	lemma = '2,6'
+T100	CRD 410 417	Billion
+#94	AnnotatorNotes T100	lemma = 'billion'
+T101	NP0 418 420	US
+#95	AnnotatorNotes T101	lemma = 'us'
+T102	NN2 421 428	Dollars
+#96	AnnotatorNotes T102	lemma = 'dollar'
+T103	PRP 429 431	in
+#97	AnnotatorNotes T103	lemma = 'in'
+T104	CRD 432 436	2014
+#98	AnnotatorNotes T104	lemma = '2014'
+T105	PUN 436 437	,
+#99	AnnotatorNotes T105	lemma = ','
+T106	PRP 438 442	with
+#100	AnnotatorNotes T106	lemma = 'with'
+T107	AJ0 443 451	expected
+#101	AnnotatorNotes T107	lemma = 'expected|expect'
+T108	PRP 452 455	for
+#102	AnnotatorNotes T108	lemma = 'for'
+T109	CRD 456 460	2018
+#103	AnnotatorNotes T109	lemma = '2018'
+T110	CJT 461 465	that
+#104	AnnotatorNotes T110	lemma = 'that'
+T111	AT0 466 469	the
+#105	AnnotatorNotes T111	lemma = 'the'
+T112	NN1 470 476	market
+#106	AnnotatorNotes T112	lemma = 'market'
+T113	VM0 477 481	will
+#107	AnnotatorNotes T113	lemma = 'will'
+T114	VVI 482 488	amount
+#108	AnnotatorNotes T114	lemma = 'amount'
+T115	PRP 489 491	to
+#109	AnnotatorNotes T115	lemma = 'to'
+T116	CRD 492 493	2
+#110	AnnotatorNotes T116	lemma = '2'
+T117	CRD 494 501	billion
+#111	AnnotatorNotes T117	lemma = 'billion'
+T118	NP0 502 504	US
+#112	AnnotatorNotes T118	lemma = 'us'
+T119	NN2 505 512	Dollars
+#113	AnnotatorNotes T119	lemma = 'dollar'
+T120	PUN 512 513	,
+#114	AnnotatorNotes T120	lemma = ','
+T121	AT0 514 517	the
+#115	AnnotatorNotes T121	lemma = 'the'
+T122	NN1 518 523	eBook
+#116	AnnotatorNotes T122	lemma = 'eBook'
+T123	NN1 524 530	market
+#117	AnnotatorNotes T123	lemma = 'market'
+T124	VVN 531 540	accounted
+#118	AnnotatorNotes T124	lemma = 'account'
+T125	PRP 541 544	for
+#119	AnnotatorNotes T125	lemma = 'for'
+T126	CRD 545 548	1,8
+#120	AnnotatorNotes T126	lemma = '1,8'
+T127	CRD 549 556	billion
+#121	AnnotatorNotes T127	lemma = 'billion'
+T128	NP0 557 559	US
+#122	AnnotatorNotes T128	lemma = 'us'
+T129	NN2 560 567	Dollars
+#123	AnnotatorNotes T129	lemma = 'dollar'
+T130	PUN 567 568	,
+#124	AnnotatorNotes T130	lemma = ','
+T131	PRP 569 573	with
+#125	AnnotatorNotes T131	lemma = 'with'
+T132	AJ0 574 583	projected
+#126	AnnotatorNotes T132	lemma = 'projected|project'
+T133	CJT 584 588	that
+#127	AnnotatorNotes T133	lemma = 'that'
+T134	PRP 589 591	in
+#128	AnnotatorNotes T134	lemma = 'in'
+T135	CRD 592 596	2018
+#129	AnnotatorNotes T135	lemma = '2018'
+T136	DT0 597 601	this
+#130	AnnotatorNotes T136	lemma = 'this'
+T137	NN1 602 608	market
+#131	AnnotatorNotes T137	lemma = 'market'
+T138	VM0 609 613	will
+#132	AnnotatorNotes T138	lemma = 'will'
+T139	VVI 614 623	represent
+#133	AnnotatorNotes T139	lemma = 'represent'
+T140	CRD 624 627	2,3
+#134	AnnotatorNotes T140	lemma = '2,3'
+T141	CRD 628 635	billion
+#135	AnnotatorNotes T141	lemma = 'billion'
+T142	NP0 636 638	US
+#136	AnnotatorNotes T142	lemma = 'us'
+T143	NN2 639 646	Dollars
+#137	AnnotatorNotes T143	lemma = 'dollar'
+T144	SENT 646 647	.
+#138	AnnotatorNotes T144	lemma = '.'
+T145	AV0 648 657	Similarly
+#139	AnnotatorNotes T145	lemma = 'similarly'
+T146	PUN 657 658	,
+#140	AnnotatorNotes T146	lemma = ','
+T147	PRP 659 661	in
+#141	AnnotatorNotes T147	lemma = 'in'
+T148	NP0 662 669	Germany
+#142	AnnotatorNotes T148	lemma = 'germany'
+T149	CJC 670 673	and
+#143	AnnotatorNotes T149	lemma = 'and'
+T150	NP0 674 679	China
+#144	AnnotatorNotes T150	lemma = 'china'
+T151	AT0 680 683	the
+#145	AnnotatorNotes T151	lemma = 'the'
+T152	NN1 684 689	eBook
+#146	AnnotatorNotes T152	lemma = 'eBook'
+T153	NN1 690 696	market
+#147	AnnotatorNotes T153	lemma = 'market'
+T154	VVN 697 706	accounted
+#148	AnnotatorNotes T154	lemma = 'account'
+T155	PRP 707 710	for
+#149	AnnotatorNotes T155	lemma = 'for'
+T156	CRD 711 712	1
+#150	AnnotatorNotes T156	lemma = '1'
+T157	CJC 713 716	and
+#151	AnnotatorNotes T157	lemma = 'and'
+T158	CRD 717 720	0,5
+#152	AnnotatorNotes T158	lemma = '0,5'
+T159	CRD 721 728	billion
+#153	AnnotatorNotes T159	lemma = 'billion'
+T160	NP0 729 731	US
+#154	AnnotatorNotes T160	lemma = 'us'
+T161	NN2 732 739	Dollars
+#155	AnnotatorNotes T161	lemma = 'dollar'
+T162	PUN 739 740	,
+#156	AnnotatorNotes T162	lemma = ','
+T163	PRP 741 745	with
+#157	AnnotatorNotes T163	lemma = 'with'
+T164	AJ0 746 754	expected
+#158	AnnotatorNotes T164	lemma = 'expected|expect'
+T165	PRP 755 758	for
+#159	AnnotatorNotes T165	lemma = 'for'
+T166	CRD 759 763	2018
+#160	AnnotatorNotes T166	lemma = '2018'
+T167	CJT 764 768	that
+#161	AnnotatorNotes T167	lemma = 'that'
+T168	DT0 769 773	this
+#162	AnnotatorNotes T168	lemma = 'this'
+T169	NN2 774 781	markets
+#163	AnnotatorNotes T169	lemma = 'market'
+T170	VM0 782 786	will
+#164	AnnotatorNotes T170	lemma = 'will'
+T171	VVI 787 793	amount
+#165	AnnotatorNotes T171	lemma = 'amount'
+T172	PRP 794 796	to
+#166	AnnotatorNotes T172	lemma = 'to'
+T173	CRD 797 800	1,5
+#167	AnnotatorNotes T173	lemma = '1,5'
+T174	CJC 801 804	and
+#168	AnnotatorNotes T174	lemma = 'and'
+T175	CRD 805 806	1
+#169	AnnotatorNotes T175	lemma = '1'
+T176	CRD 807 814	billion
+#170	AnnotatorNotes T176	lemma = 'billion'
+T177	NP0 815 817	US
+#171	AnnotatorNotes T177	lemma = 'us'
+T178	NN2 818 825	Dollars
+#172	AnnotatorNotes T178	lemma = 'dollar'
+T179	AV0 826 838	respectively
+#173	AnnotatorNotes T179	lemma = 'respectively'
+T180	SENT 838 839	.
+#174	AnnotatorNotes T180	lemma = '.'
+T181	AV0 840 847	Overall
+#175	AnnotatorNotes T181	lemma = 'overall'
+T182	PUN 847 848	,
+#176	AnnotatorNotes T182	lemma = ','
+T183	PNP 849 851	it
+#177	AnnotatorNotes T183	lemma = 'it'
+T184	VBZ 852 854	is
+#178	AnnotatorNotes T184	lemma = 'be'
+T185	AJ0 855 860	clear
+#179	AnnotatorNotes T185	lemma = 'clear'
+T186	CJT 861 865	that
+#180	AnnotatorNotes T186	lemma = 'that'
+T187	AT0 866 869	the
+#181	AnnotatorNotes T187	lemma = 'the'
+T188	AJS 870 877	largest
+#182	AnnotatorNotes T188	lemma = 'large'
+T189	NN1 878 882	book
+#183	AnnotatorNotes T189	lemma = 'book'
+T190	NN1 883 889	market
+#184	AnnotatorNotes T190	lemma = 'market'
+T191	VBZ 890 892	is
+#185	AnnotatorNotes T191	lemma = 'be'
+T192	VVN 893 900	located
+#186	AnnotatorNotes T192	lemma = 'locate'
+T193	PRP 901 903	in
+#187	AnnotatorNotes T193	lemma = 'in'
+T194	NP0 904 907	USA
+#188	AnnotatorNotes T194	lemma = 'usa'
+T195	PUL 908 909	(
+#189	AnnotatorNotes T195	lemma = '('
+T196	CRD 909 913	10,5
+#190	AnnotatorNotes T196	lemma = '10,5'
+T197	CRD 914 921	billion
+#191	AnnotatorNotes T197	lemma = 'billion'
+T198	NP0 922 924	US
+#192	AnnotatorNotes T198	lemma = 'us'
+T199	NN2 925 932	Dollars
+#193	AnnotatorNotes T199	lemma = 'dollar'
+T200	PUR 932 933	)
+#194	AnnotatorNotes T200	lemma = ')'
+T201	PUN 933 934	,
+#195	AnnotatorNotes T201	lemma = ','
+T202	CJS 935 940	while
+#196	AnnotatorNotes T202	lemma = 'while'
+T203	AT0 941 944	the
+#197	AnnotatorNotes T203	lemma = 'the'
+T204	AJS 945 953	smallest
+#198	AnnotatorNotes T204	lemma = 'small'
+T205	VBZ 954 956	is
+#199	AnnotatorNotes T205	lemma = 'be'
+T206	VVN 957 964	located
+#200	AnnotatorNotes T206	lemma = 'locate'
+T207	PRP 965 967	in
+#201	AnnotatorNotes T207	lemma = 'in'
+T208	AT0 968 971	the
+#202	AnnotatorNotes T208	lemma = 'the'
+T209	NP0 972 974	UK
+#203	AnnotatorNotes T209	lemma = 'uk'
+T210	PUL 975 976	(
+#204	AnnotatorNotes T210	lemma = '('
+T211	CRD 976 979	2,6
+#205	AnnotatorNotes T211	lemma = '2,6'
+T212	CRD 980 987	billion
+#206	AnnotatorNotes T212	lemma = 'billion'
+T213	NP0 988 990	US
+#207	AnnotatorNotes T213	lemma = 'us'
+T214	NN2 991 998	Dollars
+#208	AnnotatorNotes T214	lemma = 'dollar'
+T215	PUR 998 999	)
+#209	AnnotatorNotes T215	lemma = ')'
+T216	SENT 999 1000	.
+#210	AnnotatorNotes T216	lemma = '.'

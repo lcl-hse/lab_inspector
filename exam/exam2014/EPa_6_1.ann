@@ -1,0 +1,466 @@
+T1	Spelling 743 753	poputation
+#1	AnnotatorNotes T1	population
+T2	Articles 25 36	information
+#2	AnnotatorNotes T2	the
+T3	Spelling 101 112	preductions
+#3	AnnotatorNotes T3	predictions
+T4	Articles 101 112	preductions
+#4	AnnotatorNotes T4	the predictions
+T5	Punctuation 124 140	In Yemen in 2000
+#5	AnnotatorNotes T5	In Yemen in 2000,
+T6	Articles 159 169	population
+#6	AnnotatorNotes T6	the
+T7	Agreement_errors 170 173	was
+#7	AnnotatorNotes T7	were
+T8	Absence_comp_sent 170 173	was
+#8	AnnotatorNotes T8	were people
+T9	Prepositions 174 178	0-14
+#9	AnnotatorNotes T9	of 0-14
+T10	Absence_comp_colloc 179 184	years
+#10	AnnotatorNotes T10	years old
+T11	Articles 234 244	population
+#11	AnnotatorNotes T11	the
+T12	Agreement_errors 245 248	was
+#12	AnnotatorNotes T12	were
+T13	Absence_comp_sent 245 248	was
+#13	AnnotatorNotes T13	were people
+T14	Prepositions 249 254	15-59
+#14	AnnotatorNotes T14	of 15-59 // from 15 to 59
+T15	Absence_comp_colloc 255 260	years
+#15	AnnotatorNotes T15	years old
+T16	lex_part_choice 295 298	was
+#16	AnnotatorNotes T16	was made up
+T17	Absence_comp_sent 299 302	60+
+#17	AnnotatorNotes T17	by people 60+
+T18	Absence_comp_colloc 303 308	years
+#18	AnnotatorNotes T18	years old
+T19	lex_part_choice 354 357	was
+#19	AnnotatorNotes T19	was formed
+T20	Absence_comp_sent 358 362	0-14
+#20	AnnotatorNotes T20	by children of 0-14
+T21	Absence_comp_colloc 363 368	years
+#21	AnnotatorNotes T21	years old
+T22	Punctuation 370 378	In Yemen
+#22	AnnotatorNotes T22	In Yemen,
+T23	Articles 393 404	substantial
+#23	AnnotatorNotes T23	a substantial
+T24	Articles 417 425	children
+#24	AnnotatorNotes T24	the population of children
+T25	Standard 417 436	children population
+#25	AnnotatorNotes T25	the population of children
+T26	Punctuation 438 454	In Italy in 2050
+#26	AnnotatorNotes T26	In Italy in 2050,
+T27	Absence_comp_sent 455 459	will
+#27	AnnotatorNotes T27	there will 
+T28	Articles 463 468	sharp
+#28	AnnotatorNotes T28	a
+T29	Articles 479 488	60+ years
+#29	AnnotatorNotes T29	the 60+ years old
+T30	Absence_comp_colloc 483 488	years
+#30	AnnotatorNotes T30	years old
+T31	Tense_form 521 528	Compare
+#31	AnnotatorNotes T31	Comparing 
+T32	Articles 580 587	Yemen's
+#32	AnnotatorNotes T32	The Yemen's
+T33	Absence_comp_colloc 594 599	years
+#33	AnnotatorNotes T33	years old
+T34	Absence_comp_sent 625 633	to 57,3%
+#34	AnnotatorNotes T34	to 57,3% in percentage
+T35	Tense_form 634 641	compare
+#35	AnnotatorNotes T35	comparing 
+T36	Punctuation 634 641	compare
+#36	AnnotatorNotes T36	, comparing
+T37	Articles 660 664	this
+#37	AnnotatorNotes T37	the
+T38	Articles 686 689	big
+#38	AnnotatorNotes T38	a big
+T39	Articles 743 753	poputation
+#39	AnnotatorNotes T39	the
+T40	Often_confused 767 772	elder
+#40	AnnotatorNotes T40	older
+T41	Punctuation 788 795	In 2050
+#41	AnnotatorNotes T41	In 2050,
+T42	Articles 796 806	population
+#42	AnnotatorNotes T42	the
+T43	Articles 839 849	proportion
+#43	AnnotatorNotes T43	the
+T44	Absence_comp_sent 850 852	of
+#44	AnnotatorNotes T44	of people of
+T45	lex_part_choice 857 862	years
+#45	AnnotatorNotes T45	years old
+T46	Tense_choice 863 867	rise
+#46	AnnotatorNotes T46	will rise
+T47	Articles 872 882	proportion
+#47	AnnotatorNotes T47	the
+T48	Absence_comp_sent 883 885	of
+#48	AnnotatorNotes T48	of people of
+T49	Absence_comp_colloc 892 897	years
+#49	AnnotatorNotes T49	years old
+T50	Redundant_comp 898 908	population
+A1	Delete T50
+T51	Tense_choice 909 917	decrease
+#50	AnnotatorNotes T51	will decrease
+T52	Punctuation 521 539	Compare with Yemen
+#51	AnnotatorNotes T52	Comparing it with Yemen,
+T53	Articles 546 552	growth
+#52	AnnotatorNotes T53	the
+T54	AT0 0 3	The
+#53	AnnotatorNotes T54	lemma = 'the'
+T55	NN1 4 7	pie
+#54	AnnotatorNotes T55	lemma = 'pie'
+T56	NN2 8 14	charts
+#55	AnnotatorNotes T56	lemma = 'chart'
+T57	VVB 15 24	represent
+#56	AnnotatorNotes T57	lemma = 'represent'
+T58	NN1 25 36	information
+#57	AnnotatorNotes T58	lemma = 'information'
+T59	PRP 37 42	about
+#58	AnnotatorNotes T59	lemma = 'about'
+T60	AT0 43 46	the
+#59	AnnotatorNotes T60	lemma = 'the'
+T61	NN2 47 51	ages
+#60	AnnotatorNotes T61	lemma = 'age'
+T62	PRF 52 54	of
+#61	AnnotatorNotes T62	lemma = 'of'
+T63	AT0 55 58	the
+#62	AnnotatorNotes T63	lemma = 'the'
+T64	NN1 59 69	population
+#63	AnnotatorNotes T64	lemma = 'population'
+T65	PRF 70 72	of
+#64	AnnotatorNotes T65	lemma = 'of'
+T66	NP0 73 78	Yemen
+#65	AnnotatorNotes T66	lemma = 'yemen'
+T67	CJC 79 82	and
+#66	AnnotatorNotes T67	lemma = 'and'
+T68	NP0 83 88	Italy
+#67	AnnotatorNotes T68	lemma = 'italy'
+T69	PRP 89 91	in
+#68	AnnotatorNotes T69	lemma = 'in'
+T70	CRD 92 96	2000
+#69	AnnotatorNotes T70	lemma = '2000'
+T71	CJC 97 100	and
+#70	AnnotatorNotes T71	lemma = 'and'
+T72	NN2 101 112	preductions
+#71	AnnotatorNotes T72	lemma = 'preductions'
+T73	PRP 113 116	for
+#72	AnnotatorNotes T73	lemma = 'for'
+T74	CRD 117 121	2050
+#73	AnnotatorNotes T74	lemma = '2050'
+T75	SENT 121 122	.
+#74	AnnotatorNotes T75	lemma = '.'
+T76	PRP 124 126	In
+#75	AnnotatorNotes T76	lemma = 'in'
+T77	NP0 127 132	Yemen
+#76	AnnotatorNotes T77	lemma = 'yemen'
+T78	PRP 133 135	in
+#77	AnnotatorNotes T78	lemma = 'in'
+T79	CRD 136 140	2000
+#78	AnnotatorNotes T79	lemma = '2000'
+T80	DT0 141 145	more
+#79	AnnotatorNotes T80	lemma = 'more'
+T81	CJS 146 150	than
+#80	AnnotatorNotes T81	lemma = 'than'
+T82	DT0 151 155	half
+#81	AnnotatorNotes T82	lemma = 'half'
+T83	PRF 156 158	of
+#82	AnnotatorNotes T83	lemma = 'of'
+T84	NN1 159 169	population
+#83	AnnotatorNotes T84	lemma = 'population'
+T85	VBD 170 173	was
+#84	AnnotatorNotes T85	lemma = 'be'
+T86	CRD 174 178	0-14
+#85	AnnotatorNotes T86	lemma = '0-14'
+T87	NN2 179 184	years
+#86	AnnotatorNotes T87	lemma = 'year'
+T88	PRP 185 187	in
+#87	AnnotatorNotes T88	lemma = 'in'
+T89	NN1 188 198	comparison
+#88	AnnotatorNotes T89	lemma = 'comparison'
+T90	PRP 199 203	with
+#89	AnnotatorNotes T90	lemma = 'with'
+T91	NP0 204 209	Italy
+#90	AnnotatorNotes T91	lemma = 'italy'
+T92	CJS 210 215	where
+#91	AnnotatorNotes T92	lemma = 'where'
+T93	AV0 216 220	more
+#92	AnnotatorNotes T93	lemma = 'more'
+T94	CJS 221 225	than
+#93	AnnotatorNotes T94	lemma = 'than'
+T95	DT0 226 230	half
+#94	AnnotatorNotes T95	lemma = 'half'
+T96	PRF 231 233	of
+#95	AnnotatorNotes T96	lemma = 'of'
+T97	NN1 234 244	population
+#96	AnnotatorNotes T97	lemma = 'population'
+T98	VBD 245 248	was
+#97	AnnotatorNotes T98	lemma = 'be'
+T99	CRD 249 254	15-59
+#98	AnnotatorNotes T99	lemma = '15-59'
+T100	NN2 255 260	years
+#99	AnnotatorNotes T100	lemma = 'year'
+T101	SENT 260 261	.
+#100	AnnotatorNotes T101	lemma = '.'
+T102	AT0 262 265	The
+#101	AnnotatorNotes T102	lemma = 'the'
+T103	AJS 266 274	smallest
+#102	AnnotatorNotes T103	lemma = 'small'
+T104	NN1 275 285	proportion
+#103	AnnotatorNotes T104	lemma = 'proportion'
+T105	PRP 286 288	in
+#104	AnnotatorNotes T105	lemma = 'in'
+T106	NP0 289 294	Yemen
+#105	AnnotatorNotes T106	lemma = 'yemen'
+T107	VBD 295 298	was
+#106	AnnotatorNotes T107	lemma = 'be'
+T108	AJ0 299 302	60+
+#107	AnnotatorNotes T108	lemma = '60+'
+T109	NN2 303 308	years
+#108	AnnotatorNotes T109	lemma = 'year'
+T110	PUN 308 309	,
+#109	AnnotatorNotes T110	lemma = ','
+T111	AV0 310 314	only
+#110	AnnotatorNotes T111	lemma = 'only'
+T112	CRD 315 318	3,6
+#111	AnnotatorNotes T112	lemma = '3,6'
+T113	NN0 318 319	%
+#112	AnnotatorNotes T113	lemma = '%'
+T114	SENT 319 320	.
+#113	AnnotatorNotes T114	lemma = '.'
+T115	PRP 321 323	In
+#114	AnnotatorNotes T115	lemma = 'in'
+T116	NP0 324 329	Italy
+#115	AnnotatorNotes T116	lemma = 'italy'
+T117	AT0 330 333	the
+#116	AnnotatorNotes T117	lemma = 'the'
+T118	AJS 334 342	smallest
+#117	AnnotatorNotes T118	lemma = 'small'
+T119	NN1 343 353	proportion
+#118	AnnotatorNotes T119	lemma = 'proportion'
+T120	VBD 354 357	was
+#119	AnnotatorNotes T120	lemma = 'be'
+T121	CRD 358 362	0-14
+#120	AnnotatorNotes T121	lemma = '0-14'
+T122	NN2 363 368	years
+#121	AnnotatorNotes T122	lemma = 'year'
+T123	SENT 368 369	.
+#122	AnnotatorNotes T123	lemma = '.'
+T124	PRP 370 372	In
+#123	AnnotatorNotes T124	lemma = 'in'
+T125	NP0 373 378	Yemen
+#124	AnnotatorNotes T125	lemma = 'yemen'
+T126	EX0 379 384	there
+#125	AnnotatorNotes T126	lemma = 'there'
+T127	VM0 385 389	will
+#126	AnnotatorNotes T127	lemma = 'will'
+T128	VBI 390 392	be
+#127	AnnotatorNotes T128	lemma = 'be'
+T129	AJ0 393 404	substantial
+#128	AnnotatorNotes T129	lemma = 'substantial'
+T130	NN1 405 413	decrease
+#129	AnnotatorNotes T130	lemma = 'decrease'
+T131	PRP 414 416	in
+#130	AnnotatorNotes T131	lemma = 'in'
+T132	NN2 417 425	children
+#131	AnnotatorNotes T132	lemma = 'child'
+T133	NN1 426 436	population
+#132	AnnotatorNotes T133	lemma = 'population'
+T134	SENT 436 437	.
+#133	AnnotatorNotes T134	lemma = '.'
+T135	PRP 438 440	In
+#134	AnnotatorNotes T135	lemma = 'in'
+T136	NP0 441 446	Italy
+#135	AnnotatorNotes T136	lemma = 'italy'
+T137	PRP 447 449	in
+#136	AnnotatorNotes T137	lemma = 'in'
+T138	CRD 450 454	2050
+#137	AnnotatorNotes T138	lemma = '2050'
+T139	VM0 455 459	will
+#138	AnnotatorNotes T139	lemma = 'will'
+T140	VBI 460 462	be
+#139	AnnotatorNotes T140	lemma = 'be'
+T141	AJ0 463 468	sharp
+#140	AnnotatorNotes T141	lemma = 'sharp'
+T142	NN1 469 475	growth
+#141	AnnotatorNotes T142	lemma = 'growth'
+T143	PRF 476 478	of
+#142	AnnotatorNotes T143	lemma = 'of'
+T144	AJ0 479 482	60+
+#143	AnnotatorNotes T144	lemma = '60+'
+T145	NN2 483 488	years
+#144	AnnotatorNotes T145	lemma = 'year'
+T146	NN1 489 499	population
+#145	AnnotatorNotes T146	lemma = 'population'
+T147	PRP 500 504	from
+#146	AnnotatorNotes T147	lemma = 'from'
+T148	CRD 505 509	24,1
+#147	AnnotatorNotes T148	lemma = '24,1'
+T149	NN0 509 510	%
+#148	AnnotatorNotes T149	lemma = '%'
+T150	PRP 511 513	to
+#149	AnnotatorNotes T150	lemma = 'to'
+T151	CRD 514 518	42,3
+#150	AnnotatorNotes T151	lemma = '42,3'
+T152	NN0 518 519	%
+#151	AnnotatorNotes T152	lemma = '%'
+T153	SENT 519 520	.
+#152	AnnotatorNotes T153	lemma = '.'
+T154	VVB 521 528	Compare
+#153	AnnotatorNotes T154	lemma = 'compare'
+T155	PRP 529 533	with
+#154	AnnotatorNotes T155	lemma = 'with'
+T156	NP0 534 539	Yemen
+#155	AnnotatorNotes T156	lemma = 'yemen'
+T157	AVQ 540 545	where
+#156	AnnotatorNotes T157	lemma = 'where'
+T158	NN1 546 552	growth
+#157	AnnotatorNotes T158	lemma = 'growth'
+T159	VM0 553 557	will
+#158	AnnotatorNotes T159	lemma = 'will'
+T160	VBI 558 560	be
+#159	AnnotatorNotes T160	lemma = 'be'
+T161	PRP 561 565	from
+#160	AnnotatorNotes T161	lemma = 'from'
+T162	CRD 566 569	3,6
+#161	AnnotatorNotes T162	lemma = '3,6'
+T163	NN0 569 570	%
+#162	AnnotatorNotes T163	lemma = '%'
+T164	PRP 571 573	to
+#163	AnnotatorNotes T164	lemma = 'to'
+T165	CRD 574 577	5,7
+#164	AnnotatorNotes T165	lemma = '5,7'
+T166	NN0 577 578	%
+#165	AnnotatorNotes T166	lemma = '%'
+T167	SENT 578 579	.
+#166	AnnotatorNotes T167	lemma = '.'
+T168	NP0 580 585	Yemen
+#167	AnnotatorNotes T168	lemma = 'yemen'
+T169	POS 585 587	's
+#168	AnnotatorNotes T169	lemma = 's'
+T170	CRD 588 593	15-59
+#169	AnnotatorNotes T170	lemma = '15-59'
+T171	NN2 594 599	years
+#170	AnnotatorNotes T171	lemma = 'year'
+T172	NN1 600 610	population
+#171	AnnotatorNotes T172	lemma = 'population'
+T173	VM0 611 615	will
+#172	AnnotatorNotes T173	lemma = 'will'
+T174	VVI 616 624	increase
+#173	AnnotatorNotes T174	lemma = 'increase'
+T175	PRP 625 627	to
+#174	AnnotatorNotes T175	lemma = 'to'
+T176	CRD 628 632	57,3
+#175	AnnotatorNotes T176	lemma = '57,3'
+T177	NN0 632 633	%
+#176	AnnotatorNotes T177	lemma = '%'
+T178	VVB 634 641	compare
+#177	AnnotatorNotes T178	lemma = 'compare'
+T179	PRP 642 646	with
+#178	AnnotatorNotes T179	lemma = 'with'
+T180	NP0 647 652	Italy
+#179	AnnotatorNotes T180	lemma = 'italy'
+T181	PUN 652 653	,
+#180	AnnotatorNotes T181	lemma = ','
+T182	AVQ 654 659	where
+#181	AnnotatorNotes T182	lemma = 'where'
+T183	DT0 660 664	this
+#182	AnnotatorNotes T183	lemma = 'this'
+T184	NN1 665 675	population
+#183	AnnotatorNotes T184	lemma = 'population'
+T185	VM0 676 680	will
+#184	AnnotatorNotes T185	lemma = 'will'
+T186	VHI 681 685	have
+#185	AnnotatorNotes T186	lemma = 'have'
+T187	AJ0 686 689	big
+#186	AnnotatorNotes T187	lemma = 'big'
+T188	NN1 690 701	declination
+#187	AnnotatorNotes T188	lemma = 'declination'
+T189	PRP 702 706	from
+#188	AnnotatorNotes T189	lemma = 'from'
+T190	CRD 707 711	61,6
+#189	AnnotatorNotes T190	lemma = '61,6'
+T191	NN0 711 712	%
+#190	AnnotatorNotes T191	lemma = '%'
+T192	PRP 713 715	to
+#191	AnnotatorNotes T192	lemma = 'to'
+T193	CRD 716 720	46,2
+#192	AnnotatorNotes T193	lemma = '46,2'
+T194	NN0 720 721	%
+#193	AnnotatorNotes T194	lemma = '%'
+T195	SENT 721 722	.
+#194	AnnotatorNotes T195	lemma = '.'
+T196	TO0 724 726	To
+#195	AnnotatorNotes T196	lemma = 'to'
+T197	VVI 727 730	sum
+#196	AnnotatorNotes T197	lemma = 'sum'
+T198	AVP 731 733	up
+#197	AnnotatorNotes T198	lemma = 'up'
+T199	PUN 733 734	,
+#198	AnnotatorNotes T199	lemma = ','
+T200	PRP 735 737	in
+#199	AnnotatorNotes T200	lemma = 'in'
+T201	CRD 738 742	2000
+#200	AnnotatorNotes T201	lemma = '2000'
+T202	NN1 743 753	poputation
+#201	AnnotatorNotes T202	lemma = 'poputation'
+T203	PRP 754 756	in
+#202	AnnotatorNotes T203	lemma = 'in'
+T204	NP0 757 762	Yemen
+#203	AnnotatorNotes T204	lemma = 'yemen'
+T205	VBD 763 766	was
+#204	AnnotatorNotes T205	lemma = 'be'
+T206	AJC 767 772	elder
+#205	AnnotatorNotes T206	lemma = 'elder'
+T207	CJS 773 777	than
+#206	AnnotatorNotes T207	lemma = 'than'
+T208	PRP 778 780	in
+#207	AnnotatorNotes T208	lemma = 'in'
+T209	NP0 781 786	Italy
+#208	AnnotatorNotes T209	lemma = 'italy'
+T210	SENT 786 787	.
+#209	AnnotatorNotes T210	lemma = '.'
+T211	PRP 788 790	In
+#210	AnnotatorNotes T211	lemma = 'in'
+T212	CRD 791 795	2050
+#211	AnnotatorNotes T212	lemma = '2050'
+T213	NN1 796 806	population
+#212	AnnotatorNotes T213	lemma = 'population'
+T214	PRP 807 809	in
+#213	AnnotatorNotes T214	lemma = 'in'
+T215	NP0 810 815	Italy
+#214	AnnotatorNotes T215	lemma = 'italy'
+T216	VM0 816 820	will
+#215	AnnotatorNotes T216	lemma = 'will'
+T217	VBI 821 823	be
+#216	AnnotatorNotes T217	lemma = 'be'
+T218	AJC 824 829	older
+#217	AnnotatorNotes T218	lemma = 'old'
+T219	PUN 829 830	,
+#218	AnnotatorNotes T219	lemma = ','
+T220	CJS 831 838	because
+#219	AnnotatorNotes T220	lemma = 'because'
+T221	NN1 839 849	proportion
+#220	AnnotatorNotes T221	lemma = 'proportion'
+T222	PRF 850 852	of
+#221	AnnotatorNotes T222	lemma = 'of'
+T223	AJ0 853 856	60+
+#222	AnnotatorNotes T223	lemma = '60+'
+T224	NN2 857 862	years
+#223	AnnotatorNotes T224	lemma = 'year'
+T225	NN1 863 867	rise
+#224	AnnotatorNotes T225	lemma = 'rise'
+T226	CJC 868 871	and
+#225	AnnotatorNotes T226	lemma = 'and'
+T227	NN1 872 882	proportion
+#226	AnnotatorNotes T227	lemma = 'proportion'
+T228	PRF 883 885	of
+#227	AnnotatorNotes T228	lemma = 'of'
+T229	CRD 886 891	15-59
+#228	AnnotatorNotes T229	lemma = '15-59'
+T230	NN2 892 897	years
+#229	AnnotatorNotes T230	lemma = 'year'
+T231	NN1 898 908	population
+#230	AnnotatorNotes T231	lemma = 'population'
+T232	NN1 909 917	decrease
+#231	AnnotatorNotes T232	lemma = 'decrease'
+T233	SENT 917 918	.
+#232	AnnotatorNotes T233	lemma = ''

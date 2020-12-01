@@ -1,0 +1,358 @@
+T1	Spelling 10 18	tendancy
+#1	AnnotatorNotes T1	tendency
+T2	Spelling 761 772	comparasion
+#2	AnnotatorNotes T2	comparison
+T3	Spelling 277 286	noticeble
+#3	AnnotatorNotes T3	noticeable
+T4	Defining 18 50	, which one can notice on chart,
+#4	AnnotatorNotes T4	that one can notice on chart
+T5	Absence_comp_sent 51 53	is
+#5	AnnotatorNotes T5	is that
+T6	lex_item_choice 58 66	quantity
+#6	AnnotatorNotes T6	percentage
+T7	Category_confusion 70 75	males
+#7	AnnotatorNotes T7	men
+T8	Punctuation 75 76	,
+A1	Delete T8
+T9	Absence_comp_sent 109 116	9 times
+#8	AnnotatorNotes T9	was 9 times
+T10	Numerical 109 128	9 times higher than
+#9	AnnotatorNotes T10	9 times as high as 
+T11	Ref_device 129 136	females
+#10	AnnotatorNotes T11	that of women
+T12	Category_confusion 315 320	males
+#11	AnnotatorNotes T12	male graduates
+T13	lex_part_choice 326 342	degree of master
+#12	AnnotatorNotes T13	Master's degree
+T14	Numerals 311 320	60% males
+#13	AnnotatorNotes T14	60% of male graduates
+T15	Category_confusion 351 358	females
+#14	AnnotatorNotes T15	female graduates
+T16	Numerals 347 358	40% females
+#15	AnnotatorNotes T16	40% of female graduates
+T17	Ref_device 364 372	this one
+#16	AnnotatorNotes T17	this degree
+T18	Tense_choice 307 310	are
+#17	AnnotatorNotes T18	were
+T19	lex_item_choice 422 432	dominating
+#18	AnnotatorNotes T19	prevalence
+T20	Articles 502 507	chart
+#19	AnnotatorNotes T20	the chart
+T21	Capitalisation 509 519	bachelor's
+#20	AnnotatorNotes T21	Bachelor's
+T22	Punctuation 552 553	,
+A2	Delete T22
+T23	Tense_choice 554 557	are
+#21	AnnotatorNotes T23	were
+T24	lex_part_choice 590 614	skilled vocation diploma
+#22	AnnotatorNotes T24	skilled vocational diploma
+T25	Redundant 615 631	is considered as
+#23	AnnotatorNotes T25	was considered
+T26	Tense_choice 615 617	is
+#24	AnnotatorNotes T26	was
+T27	Redundant_comp 648 651	way
+A3	Delete T27
+T28	Punctuation 582 589	. While
+#25	AnnotatorNotes T28	 while
+T29	Coherence 664 784	In total one can say that the quantity of people, who get post-school education, are the same in comparasion with Europe
+A4	Delete T29
+T30	AT0 0 3	The
+#26	AnnotatorNotes T30	lemma = 'the'
+T31	ORD 4 9	first
+#27	AnnotatorNotes T31	lemma = 'first'
+T32	NN1 10 18	tendancy
+#28	AnnotatorNotes T32	lemma = 'tendancy'
+T33	PUN 18 19	,
+#29	AnnotatorNotes T33	lemma = ','
+T34	DTQ 20 25	which
+#30	AnnotatorNotes T34	lemma = 'which'
+T35	PNI 26 29	one
+#31	AnnotatorNotes T35	lemma = 'one'
+T36	VM0 30 33	can
+#32	AnnotatorNotes T36	lemma = 'can'
+T37	VVI 34 40	notice
+#33	AnnotatorNotes T37	lemma = 'notice'
+T38	PRP 41 43	on
+#34	AnnotatorNotes T38	lemma = 'on'
+T39	NN1 44 49	chart
+#35	AnnotatorNotes T39	lemma = 'chart'
+T40	PUN 49 50	,
+#36	AnnotatorNotes T40	lemma = ','
+T41	VBZ 51 53	is
+#37	AnnotatorNotes T41	lemma = 'be'
+T42	AT0 54 57	the
+#38	AnnotatorNotes T42	lemma = 'the'
+T43	NN1 58 66	quantity
+#39	AnnotatorNotes T43	lemma = 'quantity'
+T44	PRF 67 69	of
+#40	AnnotatorNotes T44	lemma = 'of'
+T45	NN2 70 75	males
+#41	AnnotatorNotes T45	lemma = 'male'
+T46	PUN 75 76	,
+#42	AnnotatorNotes T46	lemma = ','
+T47	PRP 77 81	with
+#43	AnnotatorNotes T47	lemma = 'with'
+T48	AJ0 82 89	skilled
+#44	AnnotatorNotes T48	lemma = 'skilled'
+T49	AJ0 90 100	vocational
+#45	AnnotatorNotes T49	lemma = 'vocational'
+T50	NN1 101 108	diploma
+#46	AnnotatorNotes T50	lemma = 'diploma'
+T51	CRD 109 110	9
+#47	AnnotatorNotes T51	lemma = '9'
+T52	NN2 111 116	times
+#48	AnnotatorNotes T52	lemma = 'time'
+T53	AJC 117 123	higher
+#49	AnnotatorNotes T53	lemma = 'high'
+T54	CJS 124 128	than
+#50	AnnotatorNotes T54	lemma = 'than'
+T55	NN2 129 136	females
+#51	AnnotatorNotes T55	lemma = 'female'
+T56	PRP 137 141	with
+#52	AnnotatorNotes T56	lemma = 'with'
+T57	DT0 142 146	such
+#53	AnnotatorNotes T57	lemma = 'such'
+T58	NN1 147 151	kind
+#54	AnnotatorNotes T58	lemma = 'kind'
+T59	PRF 152 154	of
+#55	AnnotatorNotes T59	lemma = 'of'
+T60	NN1 155 162	diploma
+#56	AnnotatorNotes T60	lemma = 'diploma'
+T61	SENT 162 163	.
+#57	AnnotatorNotes T61	lemma = '.'
+T62	PNP 164 166	It
+#58	AnnotatorNotes T62	lemma = 'it'
+T63	VBZ 166 168	's
+#59	AnnotatorNotes T63	lemma = 'be'
+T64	AT0 169 172	the
+#60	AnnotatorNotes T64	lemma = 'the'
+T65	AJS 173 180	highest
+#61	AnnotatorNotes T65	lemma = 'high'
+T66	NN1 181 191	difference
+#62	AnnotatorNotes T66	lemma = 'difference'
+T67	DTQ 192 197	which
+#63	AnnotatorNotes T67	lemma = 'which'
+T68	VVZ 198 206	concerns
+#64	AnnotatorNotes T68	lemma = 'concern'
+T69	AJ0 207 218	post-school
+#65	AnnotatorNotes T69	lemma = 'post-school'
+T70	NN2 219 233	qualifications
+#66	AnnotatorNotes T70	lemma = 'qualification'
+T71	PRP 234 236	in
+#67	AnnotatorNotes T71	lemma = 'in'
+T72	NP0 237 246	Australia
+#68	AnnotatorNotes T72	lemma = 'australia'
+T73	SENT 246 247	.
+#69	AnnotatorNotes T73	lemma = '.'
+T74	DT0 248 255	Another
+#70	AnnotatorNotes T74	lemma = 'another'
+T75	NN2 256 267	differences
+#71	AnnotatorNotes T75	lemma = 'difference'
+T76	VBB 268 271	are
+#72	AnnotatorNotes T76	lemma = 'be'
+T77	AV0 272 276	less
+#73	AnnotatorNotes T77	lemma = 'less'
+T78	AJ0 277 286	noticeble
+#74	AnnotatorNotes T78	lemma = 'noticeble'
+T79	SENT 286 287	.
+#75	AnnotatorNotes T79	lemma = '.'
+T80	PRP 288 291	For
+#76	AnnotatorNotes T80	lemma = 'for'
+T81	NN1 292 299	example
+#77	AnnotatorNotes T81	lemma = 'example'
+T82	PUN 299 300	,
+#78	AnnotatorNotes T82	lemma = ','
+T83	EX0 301 306	there
+#79	AnnotatorNotes T83	lemma = 'there'
+T84	VBB 307 310	are
+#80	AnnotatorNotes T84	lemma = 'be'
+T85	CRD 311 313	60
+#81	AnnotatorNotes T85	lemma = '60'
+T86	NN0 313 314	%
+#82	AnnotatorNotes T86	lemma = '%'
+T87	NN2 315 320	males
+#83	AnnotatorNotes T87	lemma = 'male'
+T88	PRP 321 325	with
+#84	AnnotatorNotes T88	lemma = 'with'
+T89	NN1 326 332	degree
+#85	AnnotatorNotes T89	lemma = 'degree'
+T90	PRF 333 335	of
+#86	AnnotatorNotes T90	lemma = 'of'
+T91	NN1 336 342	master
+#87	AnnotatorNotes T91	lemma = 'master'
+T92	CJC 343 346	and
+#88	AnnotatorNotes T92	lemma = 'and'
+T93	CRD 347 349	40
+#89	AnnotatorNotes T93	lemma = '40'
+T94	NN0 349 350	%
+#90	AnnotatorNotes T94	lemma = '%'
+T95	NN2 351 358	females
+#91	AnnotatorNotes T95	lemma = 'female'
+T96	PRP 359 363	with
+#92	AnnotatorNotes T96	lemma = 'with'
+T97	DT0 364 368	this
+#93	AnnotatorNotes T97	lemma = 'this'
+T98	PNI 369 372	one
+#94	AnnotatorNotes T98	lemma = 'one'
+T99	PUN 372 373	,
+#95	AnnotatorNotes T99	lemma = ','
+T100	AV0 374 376	so
+#96	AnnotatorNotes T100	lemma = 'so'
+T101	AT0 377 380	the
+#97	AnnotatorNotes T101	lemma = 'the'
+T102	NN1 381 384	gap
+#98	AnnotatorNotes T102	lemma = 'gap'
+T103	VBZ 385 387	is
+#99	AnnotatorNotes T103	lemma = 'be'
+T104	AV0 388 392	only
+#100	AnnotatorNotes T104	lemma = 'only'
+T105	CRD 393 395	20
+#101	AnnotatorNotes T105	lemma = '20'
+T106	NN0 395 396	%
+#102	AnnotatorNotes T106	lemma = '%'
+T107	SENT 396 397	.
+#103	AnnotatorNotes T107	lemma = '.'
+T108	CJS 398 400	If
+#104	AnnotatorNotes T108	lemma = 'if'
+T109	PNP 401 403	we
+#105	AnnotatorNotes T109	lemma = 'we'
+T110	VVB 404 409	speak
+#106	AnnotatorNotes T110	lemma = 'speak'
+T111	PRP 410 415	about
+#107	AnnotatorNotes T111	lemma = 'about'
+T112	NN2 416 419	men
+#108	AnnotatorNotes T112	lemma = 'man'
+T113	VBZ 419 421	's
+#109	AnnotatorNotes T113	lemma = 'be'
+T114	VVG 422 432	dominating
+#110	AnnotatorNotes T114	lemma = 'dominate|dominating'
+T115	PNP 433 437	they
+#111	AnnotatorNotes T115	lemma = 'they'
+T116	VVI 438 442	lead
+#112	AnnotatorNotes T116	lemma = 'lead'
+T117	PRP 443 445	in
+#113	AnnotatorNotes T117	lemma = 'in'
+T118	AT0 446 449	the
+#114	AnnotatorNotes T118	lemma = 'the'
+T119	NN1 450 458	category
+#115	AnnotatorNotes T119	lemma = 'category'
+T120	PRF 459 461	of
+#116	AnnotatorNotes T120	lemma = 'of'
+T121	NN1 462 474	postgraduate
+#117	AnnotatorNotes T121	lemma = 'postgraduate'
+T122	NN1 475 482	diploma
+#118	AnnotatorNotes T122	lemma = 'diploma'
+T123	SENT 482 483	.
+#119	AnnotatorNotes T123	lemma = '.'
+T124	AT0 484 487	The
+#120	AnnotatorNotes T124	lemma = 'the'
+T125	ORD 488 492	last
+#121	AnnotatorNotes T125	lemma = 'last'
+T126	NN2 493 498	parts
+#122	AnnotatorNotes T126	lemma = 'part'
+T127	PRF 499 501	of
+#123	AnnotatorNotes T127	lemma = 'of'
+T128	NN1 502 507	chart
+#124	AnnotatorNotes T128	lemma = 'chart'
+T129	PUN 507 508	,
+#125	AnnotatorNotes T129	lemma = ','
+T130	NN1 509 517	bachelor
+#126	AnnotatorNotes T130	lemma = 'bachelor'
+T131	POS 517 519	's
+#127	AnnotatorNotes T131	lemma = 's'
+T132	NN1 520 526	degree
+#128	AnnotatorNotes T132	lemma = 'degree'
+T133	CJC 527 530	and
+#129	AnnotatorNotes T133	lemma = 'and'
+T134	NN1 531 544	undergraduate
+#130	AnnotatorNotes T134	lemma = 'undergraduate'
+T135	NN1 545 552	diploma
+#131	AnnotatorNotes T135	lemma = 'diploma'
+T136	PUN 552 553	,
+#132	AnnotatorNotes T136	lemma = ','
+T137	VBB 554 557	are
+#133	AnnotatorNotes T137	lemma = 'be'
+T138	AV0 558 562	more
+#134	AnnotatorNotes T138	lemma = 'more'
+T139	AJ0 563 570	popular
+#135	AnnotatorNotes T139	lemma = 'popular'
+T140	PRP 571 576	among
+#136	AnnotatorNotes T140	lemma = 'among'
+T141	NN2 577 582	women
+#137	AnnotatorNotes T141	lemma = 'woman'
+T142	SENT 582 583	.
+#138	AnnotatorNotes T142	lemma = '.'
+T143	CJS 584 589	While
+#139	AnnotatorNotes T143	lemma = 'while'
+T144	AJ0 590 597	skilled
+#140	AnnotatorNotes T144	lemma = 'skilled'
+T145	NN1 598 606	vocation
+#141	AnnotatorNotes T145	lemma = 'vocation'
+T146	NN1 607 614	diploma
+#142	AnnotatorNotes T146	lemma = 'diploma'
+T147	VBZ 615 617	is
+#143	AnnotatorNotes T147	lemma = 'be'
+T148	VVN 618 628	considered
+#144	AnnotatorNotes T148	lemma = 'consider|considered'
+T149	PRP 629 631	as
+#145	AnnotatorNotes T149	lemma = 'as'
+T150	DT0 632 636	less
+#146	AnnotatorNotes T150	lemma = 'less'
+T151	AJ0 637 647	preferable
+#147	AnnotatorNotes T151	lemma = 'preferable'
+T152	NN1 648 651	way
+#148	AnnotatorNotes T152	lemma = 'way'
+T153	PRP 652 657	among
+#149	AnnotatorNotes T153	lemma = 'among'
+T154	PNP 658 662	them
+#150	AnnotatorNotes T154	lemma = 'they'
+T155	SENT 662 663	.
+#151	AnnotatorNotes T155	lemma = '.'
+T156	PRP 664 666	In
+#152	AnnotatorNotes T156	lemma = 'in'
+T157	NN1 667 672	total
+#153	AnnotatorNotes T157	lemma = 'total'
+T158	PNI 673 676	one
+#154	AnnotatorNotes T158	lemma = 'one'
+T159	VM0 677 680	can
+#155	AnnotatorNotes T159	lemma = 'can'
+T160	VVI 681 684	say
+#156	AnnotatorNotes T160	lemma = 'say'
+T161	CJT 685 689	that
+#157	AnnotatorNotes T161	lemma = 'that'
+T162	AT0 690 693	the
+#158	AnnotatorNotes T162	lemma = 'the'
+T163	NN1 694 702	quantity
+#159	AnnotatorNotes T163	lemma = 'quantity'
+T164	PRF 703 705	of
+#160	AnnotatorNotes T164	lemma = 'of'
+T165	NN0 706 712	people
+#161	AnnotatorNotes T165	lemma = 'people'
+T166	PUN 712 713	,
+#162	AnnotatorNotes T166	lemma = ','
+T167	PNQ 714 717	who
+#163	AnnotatorNotes T167	lemma = 'who'
+T168	VVB 718 721	get
+#164	AnnotatorNotes T168	lemma = 'get'
+T169	AJ0 722 733	post-school
+#165	AnnotatorNotes T169	lemma = 'post-school'
+T170	NN1 734 743	education
+#166	AnnotatorNotes T170	lemma = 'education'
+T171	PUN 743 744	,
+#167	AnnotatorNotes T171	lemma = ','
+T172	VBB 745 748	are
+#168	AnnotatorNotes T172	lemma = 'be'
+T173	AT0 749 752	the
+#169	AnnotatorNotes T173	lemma = 'the'
+T174	DT0 753 757	same
+#170	AnnotatorNotes T174	lemma = 'same'
+T175	PRP 758 760	in
+#171	AnnotatorNotes T175	lemma = 'in'
+T176	NN1 761 772	comparasion
+#172	AnnotatorNotes T176	lemma = 'comparasion'
+T177	PRP 773 777	with
+#173	AnnotatorNotes T177	lemma = 'with'
+T178	NP0 778 784	Europe
+#174	AnnotatorNotes T178	lemma = 'europe'
+T179	SENT 784 785	.
+#175	AnnotatorNotes T179	lemma = ''

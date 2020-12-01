@@ -1,0 +1,391 @@
+T1	Punctuation 98 117	As an overall trend
+#1	AnnotatorNotes T1	As an overall trend,
+T2	Noun_number 165 169	olds
+#2	AnnotatorNotes T2	old
+T3	Absence_comp_sent 159 169	years olds
+#3	AnnotatorNotes T3	years old people
+T4	Redundant_comp 182 202	in negligible margin
+#4	AnnotatorNotes T4	negligibly
+T5	Absence_comp_sent 242 257	0-14 years olds
+#5	AnnotatorNotes T5	the amount of 0-14 years old people
+T6	Noun_number 253 257	olds
+#6	AnnotatorNotes T6	old
+T7	Spelling 269 280	Concidering
+#7	AnnotatorNotes T7	Considering 
+T8	Articles 281 288	changes
+#8	AnnotatorNotes T8	the changes
+T9	lex_item_choice 292 303	medium-ages
+#9	AnnotatorNotes T9	middle-aged
+T10	Absence_comp_sent 292 313	medium-ages residents
+#10	AnnotatorNotes T10	the number of middle-aged residents
+T11	Punctuation 269 313	Concidering changes in medium-ages residents
+#11	AnnotatorNotes T11	Considering the changes in the number of middle-aged residents,
+T12	Capitalisation 371 378	italian
+#12	AnnotatorNotes T12	Italian
+T13	Redundant_comp 420 430	in quality
+#13	AnnotatorNotes T13	quantity
+T14	lex_item_choice 473 486	nationalities
+#14	AnnotatorNotes T14	countries
+T15	Articles 492 508	older population
+#15	AnnotatorNotes T15	the older population
+T16	Voice 573 582	projected
+#16	AnnotatorNotes T16	is projected
+T17	Determiners 612 616	less
+#17	AnnotatorNotes T17	fewer
+T18	Absence_comp_sent 371 378	italian
+#18	AnnotatorNotes T18	the number of Italians
+T19	Noun_number 371 378	italian
+#19	AnnotatorNotes T19	Italians
+R1	Dependent_change Arg1:T18 Arg2:T13
+T20	suggestion 395 398	are
+#20	AnnotatorNotes T20	is
+T21	Category_confusion 390 394	olds
+#21	AnnotatorNotes T21	old
+R2	Dependent_change Arg1:T19 Arg2:T20
+A1	Delete T13
+T22	AT0 0 3	The
+#22	AnnotatorNotes T22	lemma = 'the'
+T23	NN2 4 12	diagrams
+#23	AnnotatorNotes T23	lemma = 'diagram'
+T24	VVN 13 18	given
+#24	AnnotatorNotes T24	lemma = 'give|given'
+T25	VVB 19 28	represent
+#25	AnnotatorNotes T25	lemma = 'represent'
+T26	AT0 29 32	the
+#26	AnnotatorNotes T26	lemma = 'the'
+T27	NN1 33 44	information
+#27	AnnotatorNotes T27	lemma = 'information'
+T28	PRP 45 47	on
+#28	AnnotatorNotes T28	lemma = 'on'
+T29	AJ0 48 54	actual
+#29	AnnotatorNotes T29	lemma = 'actual'
+T30	CJC 55 58	and
+#30	AnnotatorNotes T30	lemma = 'and'
+T31	AJ0 59 68	predicted
+#31	AnnotatorNotes T31	lemma = 'predicted|predict'
+T32	NN1 69 79	population
+#32	AnnotatorNotes T32	lemma = 'population'
+T33	PRF 80 82	of
+#33	AnnotatorNotes T33	lemma = 'of'
+T34	CRD 83 86	two
+#34	AnnotatorNotes T34	lemma = 'two'
+T35	NN2 87 96	countries
+#35	AnnotatorNotes T35	lemma = 'country'
+T36	SENT 96 97	.
+#36	AnnotatorNotes T36	lemma = '.'
+T37	CJS 98 100	As
+#37	AnnotatorNotes T37	lemma = 'as'
+T38	AT0 101 103	an
+#38	AnnotatorNotes T38	lemma = 'an'
+T39	AJ0 104 111	overall
+#39	AnnotatorNotes T39	lemma = 'overall'
+T40	NN1 112 117	trend
+#40	AnnotatorNotes T40	lemma = 'trend'
+T41	PNP 118 120	we
+#41	AnnotatorNotes T41	lemma = 'we'
+T42	VM0 121 124	can
+#42	AnnotatorNotes T42	lemma = 'can'
+T43	VVI 125 131	notice
+#43	AnnotatorNotes T43	lemma = 'notice'
+T44	CJT 132 136	that
+#44	AnnotatorNotes T44	lemma = 'that'
+T45	AT0 137 140	the
+#45	AnnotatorNotes T45	lemma = 'the'
+T46	NN1 141 151	population
+#46	AnnotatorNotes T46	lemma = 'population'
+T47	PRF 152 154	of
+#47	AnnotatorNotes T47	lemma = 'of'
+T48	AJ0 155 158	60+
+#48	AnnotatorNotes T48	lemma = '60+'
+T49	NN2 159 164	years
+#49	AnnotatorNotes T49	lemma = 'year'
+T50	NN2 165 169	olds
+#50	AnnotatorNotes T50	lemma = 'old'
+T51	VM0 170 174	will
+#51	AnnotatorNotes T51	lemma = 'will'
+T52	VVI 175 181	change
+#52	AnnotatorNotes T52	lemma = 'change'
+T53	PRP 182 184	in
+#53	AnnotatorNotes T53	lemma = 'in'
+T54	AJ0 185 195	negligible
+#54	AnnotatorNotes T54	lemma = 'negligible'
+T55	NN1 196 202	margin
+#55	AnnotatorNotes T55	lemma = 'margin'
+T56	PRP 203 205	in
+#56	AnnotatorNotes T56	lemma = 'in'
+T57	CRD 206 208	50
+#57	AnnotatorNotes T57	lemma = '50'
+T58	NN2 209 214	years
+#58	AnnotatorNotes T58	lemma = 'year'
+T59	NN1 215 221	period
+#59	AnnotatorNotes T59	lemma = 'period'
+T60	PRP 222 224	in
+#60	AnnotatorNotes T60	lemma = 'in'
+T61	NP0 225 230	Yemen
+#61	AnnotatorNotes T61	lemma = 'yemen'
+T62	CJS 231 233	as
+#62	AnnotatorNotes T62	lemma = 'as'
+T63	AV0 234 238	well
+#63	AnnotatorNotes T63	lemma = 'well'
+T64	CJS 239 241	as
+#64	AnnotatorNotes T64	lemma = 'as'
+T65	CRD 242 246	0-14
+#65	AnnotatorNotes T65	lemma = '0-14'
+T66	NN2 247 252	years
+#66	AnnotatorNotes T66	lemma = 'year'
+T67	NN2 253 257	olds
+#67	AnnotatorNotes T67	lemma = 'old'
+T68	PRP 258 260	in
+#68	AnnotatorNotes T68	lemma = 'in'
+T69	NP0 261 266	Italy
+#69	AnnotatorNotes T69	lemma = 'italy'
+T70	SENT 266 267	.
+#70	AnnotatorNotes T70	lemma = '.'
+T71	AJ0 269 280	Concidering
+#71	AnnotatorNotes T71	lemma = 'Concidering'
+T72	NN2 281 288	changes
+#72	AnnotatorNotes T72	lemma = 'change'
+T73	PRP 289 291	in
+#73	AnnotatorNotes T73	lemma = 'in'
+T74	AJ0 292 303	medium-ages
+#74	AnnotatorNotes T74	lemma = 'medium-ages'
+T75	NN2 304 313	residents
+#75	AnnotatorNotes T75	lemma = 'resident'
+T76	PNP 314 316	we
+#76	AnnotatorNotes T76	lemma = 'we'
+T77	VM0 317 320	can
+#77	AnnotatorNotes T77	lemma = 'can'
+T78	VVI 321 325	note
+#78	AnnotatorNotes T78	lemma = 'note'
+T79	CJT 326 330	that
+#79	AnnotatorNotes T79	lemma = 'that'
+T80	PRP 331 333	in
+#80	AnnotatorNotes T80	lemma = 'in'
+T81	NP0 334 339	Yemen
+#81	AnnotatorNotes T81	lemma = 'yemen'
+T82	PNP 340 342	it
+#82	AnnotatorNotes T82	lemma = 'it'
+T83	VBZ 343 345	is
+#83	AnnotatorNotes T83	lemma = 'be'
+T84	VVN 346 355	predicted
+#84	AnnotatorNotes T84	lemma = 'predict'
+T85	TO0 356 358	to
+#85	AnnotatorNotes T85	lemma = 'to'
+T86	VVI 359 361	go
+#86	AnnotatorNotes T86	lemma = 'go'
+T87	AVP 362 364	up
+#87	AnnotatorNotes T87	lemma = 'up'
+T88	CJS 365 370	while
+#88	AnnotatorNotes T88	lemma = 'while'
+T89	NN1 371 378	italian
+#89	AnnotatorNotes T89	lemma = 'italian'
+T90	CRD 379 384	15-59
+#90	AnnotatorNotes T90	lemma = '15-59'
+T91	NN1 385 389	year
+#91	AnnotatorNotes T91	lemma = 'year'
+T92	NN2 390 394	olds
+#92	AnnotatorNotes T92	lemma = 'old'
+T93	VBB 395 398	are
+#93	AnnotatorNotes T93	lemma = 'be'
+T94	VVN 399 409	forecasted
+#94	AnnotatorNotes T94	lemma = 'forecast'
+T95	TO0 410 412	to
+#95	AnnotatorNotes T95	lemma = 'to'
+T96	VVI 413 419	reduce
+#96	AnnotatorNotes T96	lemma = 'reduce'
+T97	PRP 420 422	in
+#97	AnnotatorNotes T97	lemma = 'in'
+T98	NN1 423 430	quality
+#98	AnnotatorNotes T98	lemma = 'quality'
+T99	SENT 430 431	.
+#99	AnnotatorNotes T99	lemma = '.'
+T100	AV0 432 439	However
+#100	AnnotatorNotes T100	lemma = 'however'
+T101	PUN 439 440	,
+#101	AnnotatorNotes T101	lemma = ','
+T102	EX0 441 446	there
+#102	AnnotatorNotes T102	lemma = 'there'
+T103	VBZ 447 449	is
+#103	AnnotatorNotes T103	lemma = 'be'
+T104	AT0 450 452	an
+#104	AnnotatorNotes T104	lemma = 'an'
+T105	AJ0 453 458	equal
+#105	AnnotatorNotes T105	lemma = 'equal'
+T106	NN1 459 464	trend
+#106	AnnotatorNotes T106	lemma = 'trend'
+T107	PRP 465 467	in
+#107	AnnotatorNotes T107	lemma = 'in'
+T108	DT0 468 472	both
+#108	AnnotatorNotes T108	lemma = 'both'
+T109	NN2 473 486	nationalities
+#109	AnnotatorNotes T109	lemma = 'nationality'
+T110	CJT 487 491	that
+#110	AnnotatorNotes T110	lemma = 'that'
+T111	AJC 492 497	older
+#111	AnnotatorNotes T111	lemma = 'old'
+T112	NN1 498 508	population
+#112	AnnotatorNotes T112	lemma = 'population'
+T113	VM0 509 513	will
+#113	AnnotatorNotes T113	lemma = 'will'
+T114	AV0 514 527	approximately
+#114	AnnotatorNotes T114	lemma = 'approximately'
+T115	VVI 528 534	double
+#115	AnnotatorNotes T115	lemma = 'double'
+T116	PRP 535 537	in
+#116	AnnotatorNotes T116	lemma = 'in'
+T117	CRD 538 540	50
+#117	AnnotatorNotes T117	lemma = '50'
+T118	NN2 541 546	years
+#118	AnnotatorNotes T118	lemma = 'year'
+T119	SENT 546 547	.
+#119	AnnotatorNotes T119	lemma = '.'
+T120	AV0 548 559	Furthermore
+#120	AnnotatorNotes T120	lemma = 'furthermore'
+T121	PUN 559 560	,
+#121	AnnotatorNotes T121	lemma = ','
+T122	DT0 561 565	this
+#122	AnnotatorNotes T122	lemma = 'this'
+T123	NN1 566 572	period
+#123	AnnotatorNotes T123	lemma = 'period'
+T124	VVD 573 582	projected
+#124	AnnotatorNotes T124	lemma = 'project|projected'
+T125	TO0 583 585	to
+#125	AnnotatorNotes T125	lemma = 'to'
+T126	VVI 586 591	leave
+#126	AnnotatorNotes T126	lemma = 'leave'
+T127	DT0 592 596	both
+#127	AnnotatorNotes T127	lemma = 'both'
+T128	NN2 597 606	countries
+#128	AnnotatorNotes T128	lemma = 'country'
+T129	PRP 607 611	with
+#129	AnnotatorNotes T129	lemma = 'with'
+T130	DT0 612 616	less
+#130	AnnotatorNotes T130	lemma = 'less'
+T131	NN2 617 625	children
+#131	AnnotatorNotes T131	lemma = 'child'
+T132	PUL 626 627	(
+#132	AnnotatorNotes T132	lemma = '('
+T133	AT0 627 628	a
+#133	AnnotatorNotes T133	lemma = 'a'
+T134	CRD 629 631	20
+#134	AnnotatorNotes T134	lemma = '20'
+T135	NN0 631 632	%
+#135	AnnotatorNotes T135	lemma = '%'
+T136	NN1 633 642	reduction
+#136	AnnotatorNotes T136	lemma = 'reduction'
+T137	PRP 643 645	in
+#137	AnnotatorNotes T137	lemma = 'in'
+T138	NP0 646 651	Yemen
+#138	AnnotatorNotes T138	lemma = 'yemen'
+T139	CJC 652 655	and
+#139	AnnotatorNotes T139	lemma = 'and'
+T140	CRD 656 657	2
+#140	AnnotatorNotes T140	lemma = '2'
+T141	NN0 657 658	%
+#141	AnnotatorNotes T141	lemma = '%'
+T142	PRP 659 661	in
+#142	AnnotatorNotes T142	lemma = 'in'
+T143	NP0 662 667	Italy
+#143	AnnotatorNotes T143	lemma = 'italy'
+T144	PUR 667 668	)
+#144	AnnotatorNotes T144	lemma = ')'
+T145	SENT 668 669	.
+#145	AnnotatorNotes T145	lemma = '.'
+T146	PNP 670 672	It
+#146	AnnotatorNotes T146	lemma = 'it'
+T147	VBZ 673 675	is
+#147	AnnotatorNotes T147	lemma = 'be'
+T148	AV0 676 680	also
+#148	AnnotatorNotes T148	lemma = 'also'
+T149	AJ0 681 691	noticeable
+#149	AnnotatorNotes T149	lemma = 'noticeable'
+T150	CJT 692 696	that
+#150	AnnotatorNotes T150	lemma = 'that'
+T151	AT0 697 700	the
+#151	AnnotatorNotes T151	lemma = 'the'
+T152	NN1 701 709	majority
+#152	AnnotatorNotes T152	lemma = 'majority'
+T153	PRF 710 712	of
+#153	AnnotatorNotes T153	lemma = 'of'
+T154	NN2 713 722	residents
+#154	AnnotatorNotes T154	lemma = 'resident'
+T155	VM0 723 727	will
+#155	AnnotatorNotes T155	lemma = 'will'
+T156	VBI 728 730	be
+#156	AnnotatorNotes T156	lemma = 'be'
+T157	VVN 731 742	represented
+#157	AnnotatorNotes T157	lemma = 'represent'
+T158	PRP 743 745	by
+#158	AnnotatorNotes T158	lemma = 'by'
+T159	NN0 746 752	people
+#159	AnnotatorNotes T159	lemma = 'people'
+T160	PRF 753 755	of
+#160	AnnotatorNotes T160	lemma = 'of'
+T161	AJ0 756 763	working
+#161	AnnotatorNotes T161	lemma = 'working|work'
+T162	NN1 764 767	age
+#162	AnnotatorNotes T162	lemma = 'age'
+T163	PRP 768 770	in
+#163	AnnotatorNotes T163	lemma = 'in'
+T164	DT0 771 775	both
+#164	AnnotatorNotes T164	lemma = 'both'
+T165	NN2 776 785	countries
+#165	AnnotatorNotes T165	lemma = 'country'
+T166	SENT 785 786	.
+#166	AnnotatorNotes T166	lemma = '.'
+T167	TO0 788 790	To
+#167	AnnotatorNotes T167	lemma = 'to'
+T168	VVI 791 800	summarise
+#168	AnnotatorNotes T168	lemma = 'summarise'
+T169	AT0 801 804	the
+#169	AnnotatorNotes T169	lemma = 'the'
+T170	NN2 805 810	facts
+#170	AnnotatorNotes T170	lemma = 'fact'
+T171	VVN 811 820	described
+#171	AnnotatorNotes T171	lemma = 'describe|described'
+T172	PUN 820 821	,
+#172	AnnotatorNotes T172	lemma = ','
+T173	PNP 822 824	we
+#173	AnnotatorNotes T173	lemma = 'we'
+T174	VM0 825 828	can
+#174	AnnotatorNotes T174	lemma = 'can'
+T175	VVI 829 837	conclude
+#175	AnnotatorNotes T175	lemma = 'conclude'
+T176	CJT 838 842	that
+#176	AnnotatorNotes T176	lemma = 'that'
+T177	AV0 843 847	even
+#177	AnnotatorNotes T177	lemma = 'even'
+T178	CJS 848 850	if
+#178	AnnotatorNotes T178	lemma = 'if'
+T179	EX0 851 856	there
+#179	AnnotatorNotes T179	lemma = 'there'
+T180	VBB 857 860	are
+#180	AnnotatorNotes T180	lemma = 'be'
+T181	DT0 861 865	some
+#181	AnnotatorNotes T181	lemma = 'some'
+T182	NN2 866 873	changes
+#182	AnnotatorNotes T182	lemma = 'change'
+T183	TO0 874 876	to
+#183	AnnotatorNotes T183	lemma = 'to'
+T184	VBI 877 879	be
+#184	AnnotatorNotes T184	lemma = 'be'
+T185	VVN 880 885	faced
+#185	AnnotatorNotes T185	lemma = 'face'
+T186	PUN 885 886	,
+#186	AnnotatorNotes T186	lemma = ','
+T187	AT0 887 890	the
+#187	AnnotatorNotes T187	lemma = 'the'
+T188	AJ0 891 898	general
+#188	AnnotatorNotes T188	lemma = 'general'
+T189	NN1 899 906	picture
+#189	AnnotatorNotes T189	lemma = 'picture'
+T190	VM0 907 911	will
+#190	AnnotatorNotes T190	lemma = 'will'
+T191	XX0 912 915	not
+#191	AnnotatorNotes T191	lemma = 'not'
+T192	VVI 916 922	change
+#192	AnnotatorNotes T192	lemma = 'change'
+T193	AV0 923 935	dramatically
+#193	AnnotatorNotes T193	lemma = 'dramatically'
+T194	SENT 935 936	.
+#194	AnnotatorNotes T194	lemma = ''

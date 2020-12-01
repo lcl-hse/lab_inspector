@@ -1,0 +1,951 @@
+T1	Often_confused 36 43	leaving
+#1	AnnotatorNotes T1	living 
+T2	Agreement_errors 181 186	means
+#2	AnnotatorNotes T2	mean 
+T3	Agreement_errors 205 209	save
+#3	AnnotatorNotes T3	saves 
+R1	Dependent_change Arg1:T2 Arg2:T3	
+T4	Articles 392 402	government
+#4	AnnotatorNotes T4	the governments 
+T5	Spelling 482 486	wath
+#5	AnnotatorNotes T5	what 
+T6	Spelling 683 694	dractically
+#6	AnnotatorNotes T6	practically 
+T7	Absence_comp_sent 969 978	will able
+#7	AnnotatorNotes T7	will be able 
+T8	Redundant_comp 1108 1121	by the use of
+#8	AnnotatorNotes T8	using 
+T9	suggestion 1487 1494	of life
+A1	Delete T9
+T10	Agreement_errors 1605 1615	government
+#9	AnnotatorNotes T10	the governments 
+T11	Word_choice 1642 1644	on
+#10	AnnotatorNotes T11	in 
+T12	Absence_comp_sent 1810 1818	improven
+#11	AnnotatorNotes T12	be improved 
+T13	Spelling 1847 1852	healf
+#12	AnnotatorNotes T13	health 
+T14	Punctuation 1888 1897	, because
+#13	AnnotatorNotes T14	because 
+T15	Punctuation 1927 1933	, like
+#14	AnnotatorNotes T15	like 
+T16	Spelling 2270 2277	becouse
+#15	AnnotatorNotes T16	because 
+T17	Punctuation 2268 2277	, becouse
+#16	AnnotatorNotes T17	because 
+T18	PRON 0 2	It
+#17	AnnotatorNotes T18	lemma = 'it'
+T19	AUX 3 5	is
+#18	AnnotatorNotes T19	lemma = 'be'
+T20	DET 6 7	a
+#19	AnnotatorNotes T20	lemma = 'a'
+T21	ADV 8 12	well
+#20	AnnotatorNotes T21	lemma = 'well'
+T22	ADJ 13 18	known
+#21	AnnotatorNotes T22	lemma = 'known'
+T23	NOUN 19 23	fact
+#22	AnnotatorNotes T23	lemma = 'fact'
+T24	PRON 24 28	that
+#23	AnnotatorNotes T24	lemma = 'that'
+T25	PRON 29 31	we
+#24	AnnotatorNotes T25	lemma = 'we'
+T26	AUX 32 35	are
+#25	AnnotatorNotes T26	lemma = 'be'
+T27	VERB 36 43	leaving
+#26	AnnotatorNotes T27	lemma = 'leave'
+T28	ADP 44 46	in
+#27	AnnotatorNotes T28	lemma = 'in'
+T29	DET 47 50	the
+#28	AnnotatorNotes T29	lemma = 'the'
+T30	ADJ 51 57	modern
+#29	AnnotatorNotes T30	lemma = 'modern'
+T31	NOUN 58 63	world
+#30	AnnotatorNotes T31	lemma = 'world'
+T32	PUNCT 63 64	,
+#31	AnnotatorNotes T32	lemma = ','
+T33	SCONJ 65 70	where
+#32	AnnotatorNotes T33	lemma = 'where'
+T34	NOUN 71 77	people
+#33	AnnotatorNotes T34	lemma = 'people'
+T35	VERB 78 81	try
+#34	AnnotatorNotes T35	lemma = 'try'
+T36	PART 82 84	to
+#35	AnnotatorNotes T36	lemma = 'to'
+T37	VERB 85 87	do
+#36	AnnotatorNotes T37	lemma = 'do'
+T38	DET 88 91	all
+#37	AnnotatorNotes T38	lemma = 'all'
+T39	DET 92 95	the
+#38	AnnotatorNotes T39	lemma = 'the'
+T40	ADJ 96 104	possible
+#39	AnnotatorNotes T40	lemma = 'possible'
+T41	NOUN 105 111	things
+#40	AnnotatorNotes T41	lemma = 'thing'
+T42	PART 112 115	not
+#41	AnnotatorNotes T42	lemma = 'not'
+T43	PART 116 118	to
+#42	AnnotatorNotes T43	lemma = 'to'
+T44	VERB 119 124	waste
+#43	AnnotatorNotes T44	lemma = 'waste'
+T45	DET 125 130	their
+#44	AnnotatorNotes T45	lemma = 'their'
+T46	ADJ 131 140	priceless
+#45	AnnotatorNotes T46	lemma = 'priceless'
+T47	NOUN 141 145	time
+#46	AnnotatorNotes T47	lemma = 'time'
+T48	ADP 146 148	in
+#47	AnnotatorNotes T48	lemma = 'in'
+T49	NOUN 149 153	vain
+#48	AnnotatorNotes T49	lemma = 'vain'
+T50	PUNCT 153 154	.
+#49	AnnotatorNotes T50	lemma = '.'
+T51	NOUN 155 164	Airplanes
+#50	AnnotatorNotes T51	lemma = 'Airplane'
+T52	AUX 165 168	are
+#51	AnnotatorNotes T52	lemma = 'be'
+T53	DET 169 172	the
+#52	AnnotatorNotes T53	lemma = 'the'
+T54	ADJ 173 180	fastest
+#53	AnnotatorNotes T54	lemma = 'fastest'
+T55	NOUN 181 186	means
+#54	AnnotatorNotes T55	lemma = 'mean'
+T56	ADP 187 189	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	NOUN 190 199	transport
+#56	AnnotatorNotes T57	lemma = 'transport'
+T58	PRON 200 204	that
+#57	AnnotatorNotes T58	lemma = 'that'
+T59	VERB 205 209	save
+#58	AnnotatorNotes T59	lemma = 'save'
+T60	DET 210 213	our
+#59	AnnotatorNotes T60	lemma = 'us'
+T61	NOUN 214 218	time
+#60	AnnotatorNotes T61	lemma = 'time'
+T62	ADP 219 223	from
+#61	AnnotatorNotes T62	lemma = 'from'
+T63	NOUN 224 232	spending
+#62	AnnotatorNotes T63	lemma = 'spending'
+T64	PRON 233 235	it
+#63	AnnotatorNotes T64	lemma = 'it'
+T65	ADV 236 247	pointlessly
+#64	AnnotatorNotes T65	lemma = 'pointlessly'
+T66	PUNCT 247 248	,
+#65	AnnotatorNotes T66	lemma = ','
+T67	SCONJ 249 254	while
+#66	AnnotatorNotes T67	lemma = 'while'
+T68	PRON 255 257	we
+#67	AnnotatorNotes T68	lemma = 'we'
+T69	AUX 258 261	are
+#68	AnnotatorNotes T69	lemma = 'be'
+T70	VERB 262 272	travelling
+#69	AnnotatorNotes T70	lemma = 'travell'
+T71	PUNCT 272 273	.
+#70	AnnotatorNotes T71	lemma = '.'
+T72	ADV 274 281	However
+#71	AnnotatorNotes T72	lemma = 'however'
+T73	PUNCT 281 282	,
+#72	AnnotatorNotes T73	lemma = ','
+T74	ADV 283 288	there
+#73	AnnotatorNotes T74	lemma = 'there'
+T75	VERB 289 291	is
+#74	AnnotatorNotes T75	lemma = 'be'
+T76	DET 292 293	a
+#75	AnnotatorNotes T76	lemma = 'a'
+T77	ADJ 294 299	great
+#76	AnnotatorNotes T77	lemma = 'great'
+T78	NOUN 300 307	concern
+#77	AnnotatorNotes T78	lemma = 'concern'
+T79	ADP 308 313	about
+#78	AnnotatorNotes T79	lemma = 'about'
+T80	NUM 314 322	airplane
+#79	AnnotatorNotes T80	lemma = 'airpla'
+T81	DET 322 324	’s
+#80	AnnotatorNotes T81	lemma = '’s'
+T82	NOUN 325 337	contribution
+#81	AnnotatorNotes T82	lemma = 'contribution'
+T83	ADP 338 340	to
+#82	AnnotatorNotes T83	lemma = 'to'
+T84	DET 341 344	air
+#83	AnnotatorNotes T84	lemma = 'air'
+T85	NOUN 345 354	pollution
+#84	AnnotatorNotes T85	lemma = 'pollution'
+T86	CCONJ 355 358	and
+#85	AnnotatorNotes T86	lemma = 'and'
+T87	DET 359 363	some
+#86	AnnotatorNotes T87	lemma = 'some'
+T88	NOUN 364 370	people
+#87	AnnotatorNotes T88	lemma = 'people'
+T89	ADV 371 376	truly
+#88	AnnotatorNotes T89	lemma = 'truly'
+T90	VERB 377 386	convinced
+#89	AnnotatorNotes T90	lemma = 'convince'
+T91	SCONJ 387 391	that
+#90	AnnotatorNotes T91	lemma = 'that'
+T92	NOUN 392 402	government
+#91	AnnotatorNotes T92	lemma = 'government'
+T93	AUX 403 409	should
+#92	AnnotatorNotes T93	lemma = 'shall'
+T94	VERB 410 418	restrict
+#93	AnnotatorNotes T94	lemma = 'restrict'
+T95	VERB 419 424	using
+#94	AnnotatorNotes T95	lemma = 'use'
+T96	PRON 425 427	it
+#95	AnnotatorNotes T96	lemma = 'it'
+T97	ADV 428 430	so
+#96	AnnotatorNotes T97	lemma = 'so'
+T98	ADV 431 436	often
+#97	AnnotatorNotes T98	lemma = 'often'
+T99	ADP 437 444	without
+#98	AnnotatorNotes T99	lemma = 'without'
+T100	DET 445 448	any
+#99	AnnotatorNotes T100	lemma = 'any'
+T101	ADJ 449 456	special
+#100	AnnotatorNotes T101	lemma = 'special'
+T102	NOUN 457 464	purpose
+#101	AnnotatorNotes T102	lemma = 'purpose'
+T103	PUNCT 464 465	.
+#102	AnnotatorNotes T103	lemma = '.'
+T104	DET 466 469	The
+#103	AnnotatorNotes T104	lemma = 'the'
+T105	NOUN 470 478	question
+#104	AnnotatorNotes T105	lemma = 'question'
+T106	AUX 479 481	is
+#105	AnnotatorNotes T106	lemma = 'be'
+T107	ADV 482 486	wath
+#106	AnnotatorNotes T107	lemma = 'wath'
+T108	VERB 487 497	discussing
+#107	AnnotatorNotes T108	lemma = 'discussing'
+T109	PUNCT 497 498	.
+#108	AnnotatorNotes T109	lemma = '.'
+T110	SCONJ 499 501	As
+#109	AnnotatorNotes T110	lemma = 'as'
+T111	ADV 502 505	far
+#110	AnnotatorNotes T111	lemma = 'far'
+T112	SCONJ 506 508	as
+#111	AnnotatorNotes T112	lemma = 'as'
+T113	PRON 509 510	I
+#112	AnnotatorNotes T113	lemma = 'I'
+T114	AUX 511 513	am
+#113	AnnotatorNotes T114	lemma = 'be'
+T115	ADJ 514 523	concerned
+#114	AnnotatorNotes T115	lemma = 'concerned'
+T116	PUNCT 523 524	,
+#115	AnnotatorNotes T116	lemma = ','
+T117	PRON 525 526	I
+#116	AnnotatorNotes T117	lemma = 'I'
+T118	VERB 527 534	believe
+#117	AnnotatorNotes T118	lemma = 'believe'
+T119	SCONJ 535 539	that
+#118	AnnotatorNotes T119	lemma = 'that'
+T120	VERB 540 551	introducing
+#119	AnnotatorNotes T120	lemma = 'introduce'
+T121	NOUN 552 555	law
+#120	AnnotatorNotes T121	lemma = 'law'
+T122	AUX 556 560	will
+#121	AnnotatorNotes T122	lemma = 'will'
+T123	PART 561 564	not
+#122	AnnotatorNotes T123	lemma = 'not'
+T124	ADV 565 577	sufficiently
+#123	AnnotatorNotes T124	lemma = 'sufficiently'
+T125	VERB 578 584	change
+#124	AnnotatorNotes T125	lemma = 'change'
+T126	DET 585 588	the
+#125	AnnotatorNotes T126	lemma = 'the'
+T127	NOUN 589 598	situation
+#126	AnnotatorNotes T127	lemma = 'situation'
+T128	PUNCT 598 599	;
+#127	AnnotatorNotes T128	lemma = ';'
+T129	NOUN 600 608	problems
+#128	AnnotatorNotes T129	lemma = 'problem'
+T130	ADP 609 613	with
+#129	AnnotatorNotes T130	lemma = 'with'
+T131	DET 614 617	air
+#130	AnnotatorNotes T131	lemma = 'air'
+T132	NOUN 618 627	pollution
+#131	AnnotatorNotes T132	lemma = 'pollution'
+T133	AUX 628 632	will
+#132	AnnotatorNotes T133	lemma = 'will'
+T134	PART 633 636	not
+#133	AnnotatorNotes T134	lemma = 'not'
+T135	NOUN 637 646	disappear
+#134	AnnotatorNotes T135	lemma = 'disappear'
+T136	CCONJ 647 650	and
+#135	AnnotatorNotes T136	lemma = 'and'
+T137	NOUN 651 655	life
+#136	AnnotatorNotes T137	lemma = 'life'
+T138	ADP 656 658	of
+#137	AnnotatorNotes T138	lemma = 'of'
+T139	ADJ 659 663	many
+#138	AnnotatorNotes T139	lemma = 'many'
+T140	NOUN 664 670	people
+#139	AnnotatorNotes T140	lemma = 'people'
+T141	AUX 671 675	will
+#140	AnnotatorNotes T141	lemma = 'will'
+T142	VERB 676 682	become
+#141	AnnotatorNotes T142	lemma = 'become'
+T143	ADV 683 694	dractically
+#142	AnnotatorNotes T143	lemma = 'dractically'
+T144	ADJ 695 707	inconvinient
+#143	AnnotatorNotes T144	lemma = 'inconvinient'
+T145	PUNCT 707 708	.
+#144	AnnotatorNotes T145	lemma = '.'
+T146	ADV 709 716	Firstly
+#145	AnnotatorNotes T146	lemma = 'firstly'
+T147	PUNCT 716 717	,
+#146	AnnotatorNotes T147	lemma = ','
+T148	PRON 718 720	it
+#147	AnnotatorNotes T148	lemma = 'it'
+T149	VERB 721 727	sounds
+#148	AnnotatorNotes T149	lemma = 'sound'
+T150	ADJ 728 738	impossible
+#149	AnnotatorNotes T150	lemma = 'impossible'
+T151	PART 739 741	to
+#150	AnnotatorNotes T151	lemma = 'to'
+T152	VERB 742 751	establish
+#151	AnnotatorNotes T152	lemma = 'establish'
+T153	DET 752 755	the
+#152	AnnotatorNotes T153	lemma = 'the'
+T154	ADJ 756 766	particular
+#153	AnnotatorNotes T154	lemma = 'particular'
+T155	NOUN 767 771	time
+#154	AnnotatorNotes T155	lemma = 'time'
+T156	NOUN 772 778	limits
+#155	AnnotatorNotes T156	lemma = 'limit'
+T157	PART 779 781	to
+#156	AnnotatorNotes T157	lemma = 'to'
+T158	VERB 782 785	use
+#157	AnnotatorNotes T158	lemma = 'use'
+T159	NOUN 786 795	airplanes
+#158	AnnotatorNotes T159	lemma = 'airplane'
+T160	PUNCT 795 796	.
+#159	AnnotatorNotes T160	lemma = '.'
+T161	PRON 797 799	It
+#160	AnnotatorNotes T161	lemma = 'it'
+T162	AUX 800 802	is
+#161	AnnotatorNotes T162	lemma = 'be'
+T163	DET 803 804	a
+#162	AnnotatorNotes T163	lemma = 'a'
+T164	ADJ 805 815	subjective
+#163	AnnotatorNotes T164	lemma = 'subjective'
+T165	NOUN 816 824	criteria
+#164	AnnotatorNotes T165	lemma = 'criteria'
+T166	PRON 825 830	which
+#165	AnnotatorNotes T166	lemma = 'which'
+T167	NOUN 831 837	things
+#166	AnnotatorNotes T167	lemma = 'thing'
+T168	AUX 838 841	are
+#167	AnnotatorNotes T168	lemma = 'be'
+T169	DET 842 845	the
+#168	AnnotatorNotes T169	lemma = 'the'
+T170	ADV 846 850	most
+#169	AnnotatorNotes T170	lemma = 'most'
+T171	ADJ 851 860	important
+#170	AnnotatorNotes T171	lemma = 'important'
+T172	CCONJ 861 864	and
+#171	AnnotatorNotes T172	lemma = 'and'
+T173	PRON 865 870	which
+#172	AnnotatorNotes T173	lemma = 'which'
+T174	PRON 871 873	we
+#173	AnnotatorNotes T174	lemma = 'we'
+T175	AUX 874 879	could
+#174	AnnotatorNotes T175	lemma = 'can'
+T176	VERB 880 887	observe
+#175	AnnotatorNotes T176	lemma = 'observe'
+T177	ADP 888 890	as
+#176	AnnotatorNotes T177	lemma = 'as'
+T178	ADJ 891 898	useless
+#177	AnnotatorNotes T178	lemma = 'useless'
+T179	NOUN 899 903	ones
+#178	AnnotatorNotes T179	lemma = 'one'
+T180	PUNCT 903 904	.
+#179	AnnotatorNotes T180	lemma = '.'
+T181	ADV 905 913	Secondly
+#180	AnnotatorNotes T181	lemma = 'secondly'
+T182	PUNCT 913 914	,
+#181	AnnotatorNotes T182	lemma = ','
+T183	PRON 915 917	it
+#182	AnnotatorNotes T183	lemma = 'it'
+T184	VERB 918 923	seems
+#183	AnnotatorNotes T184	lemma = 'seem'
+T185	PART 924 926	to
+#184	AnnotatorNotes T185	lemma = 'to'
+T186	AUX 927 929	be
+#185	AnnotatorNotes T186	lemma = 'be'
+T187	DET 930 931	a
+#186	AnnotatorNotes T187	lemma = 'a'
+T188	NOUN 932 941	challenge
+#187	AnnotatorNotes T188	lemma = 'challenge'
+T189	ADV 942 946	just
+#188	AnnotatorNotes T189	lemma = 'just'
+T190	PART 947 949	to
+#189	AnnotatorNotes T190	lemma = 'to'
+T191	VERB 950 957	imagine
+#190	AnnotatorNotes T191	lemma = 'imagine'
+T192	ADV 958 961	how
+#191	AnnotatorNotes T192	lemma = 'how'
+T193	NOUN 962 968	people
+#192	AnnotatorNotes T193	lemma = 'people'
+T194	AUX 969 973	will
+#193	AnnotatorNotes T194	lemma = 'will'
+T195	ADJ 974 978	able
+#194	AnnotatorNotes T195	lemma = 'able'
+T196	PART 979 981	to
+#195	AnnotatorNotes T196	lemma = 'to'
+T197	VERB 982 988	travel
+#196	AnnotatorNotes T197	lemma = 'travel'
+T198	ADP 989 991	to
+#197	AnnotatorNotes T198	lemma = 'to'
+T199	DET 992 995	the
+#198	AnnotatorNotes T199	lemma = 'the'
+T200	ADJ 996 1005	different
+#199	AnnotatorNotes T200	lemma = 'different'
+T201	NOUN 1006 1011	parts
+#200	AnnotatorNotes T201	lemma = 'part'
+T202	ADP 1012 1014	of
+#201	AnnotatorNotes T202	lemma = 'of'
+T203	DET 1015 1018	the
+#202	AnnotatorNotes T203	lemma = 'the'
+T204	NOUN 1019 1024	world
+#203	AnnotatorNotes T204	lemma = 'world'
+T205	PUNCT 1024 1025	.
+#204	AnnotatorNotes T205	lemma = '.'
+T206	ADP 1026 1028	To
+#205	AnnotatorNotes T206	lemma = 'to'
+T207	VERB 1029 1032	put
+#206	AnnotatorNotes T207	lemma = 'put'
+T208	PRON 1033 1035	it
+#207	AnnotatorNotes T208	lemma = 'it'
+T209	ADV 1036 1043	bluntly
+#208	AnnotatorNotes T209	lemma = 'bluntly'
+T210	PUNCT 1043 1044	,
+#209	AnnotatorNotes T210	lemma = ','
+T211	PRON 1045 1047	it
+#210	AnnotatorNotes T211	lemma = 'it'
+T212	AUX 1048 1053	would
+#211	AnnotatorNotes T212	lemma = 'will'
+T213	VERB 1054 1058	take
+#212	AnnotatorNotes T213	lemma = 'take'
+T214	ADP 1059 1063	long
+#213	AnnotatorNotes T214	lemma = 'long'
+T215	NOUN 1064 1069	hours
+#214	AnnotatorNotes T215	lemma = 'hour'
+T216	CCONJ 1070 1073	and
+#215	AnnotatorNotes T216	lemma = 'and'
+T217	NOUN 1074 1081	minutes
+#216	AnnotatorNotes T217	lemma = 'minute'
+T218	PART 1082 1084	to
+#217	AnnotatorNotes T218	lemma = 'to'
+T219	VERB 1085 1088	get
+#218	AnnotatorNotes T219	lemma = 'get'
+T220	ADP 1089 1091	to
+#219	AnnotatorNotes T220	lemma = 'to'
+T221	DET 1092 1095	the
+#220	AnnotatorNotes T221	lemma = 'the'
+T222	NOUN 1096 1107	destination
+#221	AnnotatorNotes T222	lemma = 'destination'
+T223	ADP 1108 1110	by
+#222	AnnotatorNotes T223	lemma = 'by'
+T224	DET 1111 1114	the
+#223	AnnotatorNotes T224	lemma = 'the'
+T225	NOUN 1115 1118	use
+#224	AnnotatorNotes T225	lemma = 'use'
+T226	ADP 1119 1121	of
+#225	AnnotatorNotes T226	lemma = 'of'
+T227	NOUN 1122 1125	car
+#226	AnnotatorNotes T227	lemma = 'car'
+T228	CCONJ 1126 1128	or
+#227	AnnotatorNotes T228	lemma = 'or'
+T229	NOUN 1129 1132	bus
+#228	AnnotatorNotes T229	lemma = 'bus'
+T230	PUNCT 1132 1133	.
+#229	AnnotatorNotes T230	lemma = '.'
+T231	PART 1134 1137	Not
+#230	AnnotatorNotes T231	lemma = 'not'
+T232	VERB 1138 1148	mentioning
+#231	AnnotatorNotes T232	lemma = 'mention'
+T233	DET 1149 1152	the
+#232	AnnotatorNotes T233	lemma = 'the'
+T234	NOUN 1153 1157	fact
+#233	AnnotatorNotes T234	lemma = 'fact'
+T235	SCONJ 1158 1162	that
+#234	AnnotatorNotes T235	lemma = 'that'
+T236	NOUN 1163 1169	people
+#235	AnnotatorNotes T236	lemma = 'people'
+T237	ADP 1170 1175	after
+#236	AnnotatorNotes T237	lemma = 'after'
+T238	PRON 1176 1180	this
+#237	AnnotatorNotes T238	lemma = 'this'
+T239	AUX 1181 1185	will
+#238	AnnotatorNotes T239	lemma = 'will'
+T240	ADV 1186 1196	definitely
+#239	AnnotatorNotes T240	lemma = 'definitely'
+T241	VERB 1197 1201	feel
+#240	AnnotatorNotes T241	lemma = 'feel'
+T242	VERB 1202 1207	tired
+#241	AnnotatorNotes T242	lemma = 'tire'
+T243	PUNCT 1207 1208	,
+#242	AnnotatorNotes T243	lemma = ','
+T244	VERB 1209 1218	exhausted
+#243	AnnotatorNotes T244	lemma = 'exhaust'
+T245	CCONJ 1219 1222	and
+#244	AnnotatorNotes T245	lemma = 'and'
+T246	ADJ 1223 1230	nervous
+#245	AnnotatorNotes T246	lemma = 'nervous'
+T247	PUNCT 1230 1231	.
+#246	AnnotatorNotes T247	lemma = '.'
+T248	ADP 1232 1234	In
+#247	AnnotatorNotes T248	lemma = 'in'
+T249	NOUN 1235 1243	addition
+#248	AnnotatorNotes T249	lemma = 'addition'
+T250	PUNCT 1243 1244	,
+#249	AnnotatorNotes T250	lemma = ','
+T251	NOUN 1245 1251	people
+#250	AnnotatorNotes T251	lemma = 'people'
+T252	VERB 1252 1256	face
+#251	AnnotatorNotes T252	lemma = 'face'
+T253	DET 1257 1260	the
+#252	AnnotatorNotes T253	lemma = 'the'
+T254	NOUN 1261 1268	process
+#253	AnnotatorNotes T254	lemma = 'process'
+T255	ADP 1269 1271	of
+#254	AnnotatorNotes T255	lemma = 'of'
+T256	NOUN 1272 1285	globalization
+#255	AnnotatorNotes T256	lemma = 'globalization'
+T257	PRON 1286 1291	which
+#256	AnnotatorNotes T257	lemma = 'which'
+T258	VERB 1292 1297	means
+#257	AnnotatorNotes T258	lemma = 'mean'
+T259	SCONJ 1298 1302	that
+#258	AnnotatorNotes T259	lemma = 'that'
+T260	PRON 1303 1305	it
+#259	AnnotatorNotes T260	lemma = 'it'
+T261	VERB 1306 1312	became
+#260	AnnotatorNotes T261	lemma = 'become'
+T262	DET 1313 1314	a
+#261	AnnotatorNotes T262	lemma = 'a'
+T263	ADJ 1315 1322	typical
+#262	AnnotatorNotes T263	lemma = 'typical'
+T264	NOUN 1323 1328	thing
+#263	AnnotatorNotes T264	lemma = 'thing'
+T265	ADP 1329 1332	for
+#264	AnnotatorNotes T265	lemma = 'for'
+T266	ADJ 1333 1337	many
+#265	AnnotatorNotes T266	lemma = 'many'
+T267	NOUN 1338 1344	people
+#266	AnnotatorNotes T267	lemma = 'people'
+T268	PART 1345 1347	to
+#267	AnnotatorNotes T268	lemma = 'to'
+T269	VERB 1348 1356	organize
+#268	AnnotatorNotes T269	lemma = 'organize'
+T270	DET 1357 1362	their
+#269	AnnotatorNotes T270	lemma = 'their'
+T271	NOUN 1363 1371	business
+#270	AnnotatorNotes T271	lemma = 'business'
+T272	ADV 1372 1378	abroad
+#271	AnnotatorNotes T272	lemma = 'abroad'
+T273	ADV 1379 1381	as
+#272	AnnotatorNotes T273	lemma = 'as'
+T274	ADP 1382 1384	to
+#273	AnnotatorNotes T274	lemma = 'to'
+T275	ADV 1385 1392	finally
+#274	AnnotatorNotes T275	lemma = 'finally'
+T276	VERB 1393 1397	find
+#275	AnnotatorNotes T276	lemma = 'find'
+T277	DET 1398 1399	a
+#276	AnnotatorNotes T277	lemma = 'a'
+T278	VERB 1400 1409	rewarding
+#277	AnnotatorNotes T278	lemma = 'reward'
+T279	NOUN 1410 1413	job
+#278	AnnotatorNotes T279	lemma = 'job'
+T280	ADP 1414 1418	with
+#279	AnnotatorNotes T280	lemma = 'with'
+T281	ADJ 1419 1430	competitive
+#280	AnnotatorNotes T281	lemma = 'competitive'
+T282	NOUN 1431 1437	salary
+#281	AnnotatorNotes T282	lemma = 'salary'
+T283	CCONJ 1438 1441	and
+#282	AnnotatorNotes T283	lemma = 'and'
+T284	ADJ 1442 1451	excellent
+#283	AnnotatorNotes T284	lemma = 'excellent'
+T285	NOUN 1452 1458	career
+#284	AnnotatorNotes T285	lemma = 'career'
+T286	NOUN 1459 1468	prospects
+#285	AnnotatorNotes T286	lemma = 'prospect'
+T287	PUNCT 1468 1469	.
+#286	AnnotatorNotes T287	lemma = '.'
+T288	VERB 1470 1476	Living
+#287	AnnotatorNotes T288	lemma = 'live'
+T289	NOUN 1477 1486	standarts
+#288	AnnotatorNotes T289	lemma = 'standart'
+T290	ADP 1487 1489	of
+#289	AnnotatorNotes T290	lemma = 'of'
+T291	NOUN 1490 1494	life
+#290	AnnotatorNotes T291	lemma = 'life'
+T292	AUX 1495 1498	are
+#291	AnnotatorNotes T292	lemma = 'be'
+T293	ADJ 1499 1506	various
+#292	AnnotatorNotes T293	lemma = 'various'
+T294	PUNCT 1506 1507	,
+#293	AnnotatorNotes T294	lemma = ','
+T295	NOUN 1508 1514	people
+#294	AnnotatorNotes T295	lemma = 'people'
+T296	AUX 1515 1518	are
+#295	AnnotatorNotes T296	lemma = 'be'
+T297	ADJ 1519 1523	able
+#296	AnnotatorNotes T297	lemma = 'able'
+T298	PART 1524 1526	to
+#297	AnnotatorNotes T298	lemma = 'to'
+T299	VERB 1527 1534	explore
+#298	AnnotatorNotes T299	lemma = 'explore'
+T300	DET 1535 1538	the
+#299	AnnotatorNotes T300	lemma = 'the'
+T301	NOUN 1539 1544	world
+#300	AnnotatorNotes T301	lemma = 'world'
+T302	CCONJ 1545 1548	and
+#301	AnnotatorNotes T302	lemma = 'and'
+T303	NOUN 1549 1553	find
+#302	AnnotatorNotes T303	lemma = 'find'
+T304	PRON 1554 1558	what
+#303	AnnotatorNotes T304	lemma = 'what'
+T305	VERB 1559 1564	suits
+#304	AnnotatorNotes T305	lemma = 'suit'
+T306	PRON 1565 1569	them
+#305	AnnotatorNotes T306	lemma = 'they'
+T307	ADV 1570 1574	most
+#306	AnnotatorNotes T307	lemma = 'most'
+T308	PUNCT 1574 1575	.
+#307	AnnotatorNotes T308	lemma = '.'
+T309	ADV 1576 1579	Now
+#308	AnnotatorNotes T309	lemma = 'now'
+T310	PRON 1580 1582	it
+#309	AnnotatorNotes T310	lemma = 'it'
+T311	AUX 1583 1588	would
+#310	AnnotatorNotes T311	lemma = 'will'
+T312	AUX 1589 1591	be
+#311	AnnotatorNotes T312	lemma = 'be'
+T313	ADJ 1592 1600	possible
+#312	AnnotatorNotes T313	lemma = 'possible'
+T314	PUNCT 1600 1601	,
+#313	AnnotatorNotes T314	lemma = ','
+T315	SCONJ 1602 1604	if
+#314	AnnotatorNotes T315	lemma = 'if'
+T316	NOUN 1605 1615	government
+#315	AnnotatorNotes T316	lemma = 'government'
+T317	NOUN 1616 1625	prohibits
+#316	AnnotatorNotes T317	lemma = 'prohibit'
+T318	PART 1626 1628	to
+#317	AnnotatorNotes T318	lemma = 'to'
+T319	VERB 1629 1632	use
+#318	AnnotatorNotes T319	lemma = 'use'
+T320	NUM 1633 1641	airplane
+#319	AnnotatorNotes T320	lemma = 'airplane'
+T321	ADP 1642 1644	on
+#320	AnnotatorNotes T321	lemma = 'on'
+T322	NOUN 1645 1653	business
+#321	AnnotatorNotes T322	lemma = 'business'
+T323	NOUN 1654 1658	trip
+#322	AnnotatorNotes T323	lemma = 'trip'
+T324	PUNCT 1658 1659	?
+#323	AnnotatorNotes T324	lemma = '?'
+T325	ADV 1660 1667	However
+#324	AnnotatorNotes T325	lemma = 'however'
+T326	PUNCT 1667 1668	,
+#325	AnnotatorNotes T326	lemma = ','
+T327	ADV 1669 1674	there
+#326	AnnotatorNotes T327	lemma = 'there'
+T328	VERB 1675 1678	are
+#327	AnnotatorNotes T328	lemma = 'be'
+T329	DET 1679 1683	some
+#328	AnnotatorNotes T329	lemma = 'some'
+T330	NOUN 1684 1690	people
+#329	AnnotatorNotes T330	lemma = 'people'
+T331	PRON 1691 1694	who
+#330	AnnotatorNotes T331	lemma = 'who'
+T332	VERB 1695 1702	believe
+#331	AnnotatorNotes T332	lemma = 'believe'
+T333	SCONJ 1703 1707	that
+#332	AnnotatorNotes T333	lemma = 'that'
+T334	NOUN 1708 1717	airplanes
+#333	AnnotatorNotes T334	lemma = 'airplane'
+T335	AUX 1718 1721	are
+#334	AnnotatorNotes T335	lemma = 'be'
+T336	DET 1722 1725	the
+#335	AnnotatorNotes T336	lemma = 'the'
+T337	NOUN 1726 1731	cause
+#336	AnnotatorNotes T337	lemma = 'cause'
+T338	ADP 1732 1734	of
+#337	AnnotatorNotes T338	lemma = 'of'
+T339	DET 1735 1738	air
+#338	AnnotatorNotes T339	lemma = 'air'
+T340	NOUN 1739 1748	pollution
+#339	AnnotatorNotes T340	lemma = 'pollution'
+T341	PUNCT 1748 1749	.
+#340	AnnotatorNotes T341	lemma = '.'
+T342	SCONJ 1750 1752	If
+#341	AnnotatorNotes T342	lemma = 'if'
+T343	PRON 1753 1755	we
+#342	AnnotatorNotes T343	lemma = 'we'
+T344	VERB 1756 1764	restrict
+#343	AnnotatorNotes T344	lemma = 'restrict'
+T345	DET 1765 1768	the
+#344	AnnotatorNotes T345	lemma = 'the'
+T346	NOUN 1769 1775	amount
+#345	AnnotatorNotes T346	lemma = 'amount'
+T347	ADP 1776 1778	of
+#346	AnnotatorNotes T347	lemma = 'of'
+T348	DET 1779 1782	air
+#347	AnnotatorNotes T348	lemma = 'air'
+T349	NOUN 1783 1789	travel
+#348	AnnotatorNotes T349	lemma = 'travel'
+T350	PUNCT 1789 1790	,
+#349	AnnotatorNotes T350	lemma = ','
+T351	DET 1791 1794	the
+#350	AnnotatorNotes T351	lemma = 'the'
+T352	NOUN 1795 1804	situation
+#351	AnnotatorNotes T352	lemma = 'situation'
+T353	AUX 1805 1809	will
+#352	AnnotatorNotes T353	lemma = 'will'
+T354	VERB 1810 1818	improven
+#353	AnnotatorNotes T354	lemma = 'improven'
+T355	CCONJ 1819 1822	and
+#354	AnnotatorNotes T355	lemma = 'and'
+T356	PART 1823 1826	not
+#355	AnnotatorNotes T356	lemma = 'not'
+T357	ADV 1827 1829	so
+#356	AnnotatorNotes T357	lemma = 'so'
+T358	ADJ 1830 1839	dangerous
+#357	AnnotatorNotes T358	lemma = 'dangerous'
+T359	ADP 1840 1842	to
+#358	AnnotatorNotes T359	lemma = 'to'
+T360	DET 1843 1846	our
+#359	AnnotatorNotes T360	lemma = 'us'
+T361	NOUN 1847 1852	healf
+#360	AnnotatorNotes T361	lemma = 'healf'
+T362	PUNCT 1852 1853	.
+#361	AnnotatorNotes T362	lemma = '.'
+T363	PRON 1854 1855	I
+#362	AnnotatorNotes T363	lemma = 'I'
+T364	_ 1856 1862	cannot
+#363	AnnotatorNotes T364	lemma = '_'
+T365	VERB 1863 1868	agree
+#364	AnnotatorNotes T365	lemma = 'agree'
+T366	ADP 1869 1873	with
+#365	AnnotatorNotes T366	lemma = 'with'
+T367	DET 1874 1878	this
+#366	AnnotatorNotes T367	lemma = 'this'
+T368	NOUN 1879 1888	statement
+#367	AnnotatorNotes T368	lemma = 'statement'
+T369	PUNCT 1888 1889	,
+#368	AnnotatorNotes T369	lemma = ','
+T370	SCONJ 1890 1897	because
+#369	AnnotatorNotes T370	lemma = 'because'
+T371	ADV 1898 1903	there
+#370	AnnotatorNotes T371	lemma = 'there'
+T372	VERB 1904 1907	are
+#371	AnnotatorNotes T372	lemma = 'be'
+T373	ADJ 1908 1912	many
+#372	AnnotatorNotes T373	lemma = 'many'
+T374	ADJ 1913 1918	other
+#373	AnnotatorNotes T374	lemma = 'other'
+T375	NOUN 1919 1927	problems
+#374	AnnotatorNotes T375	lemma = 'problem'
+T376	PUNCT 1927 1928	,
+#375	AnnotatorNotes T376	lemma = ','
+T377	ADP 1929 1933	like
+#376	AnnotatorNotes T377	lemma = 'like'
+T378	NOUN 1934 1940	carbon
+#377	AnnotatorNotes T378	lemma = 'carbon'
+T379	NOUN 1941 1948	dioxide
+#378	AnnotatorNotes T379	lemma = 'dioxide'
+T380	PRON 1949 1954	which
+#379	AnnotatorNotes T380	lemma = 'which'
+T381	VERB 1955 1966	contributes
+#380	AnnotatorNotes T381	lemma = 'contribute'
+T382	ADV 1967 1971	more
+#381	AnnotatorNotes T382	lemma = 'more'
+T383	ADV 1972 1985	detrimentally
+#382	AnnotatorNotes T383	lemma = 'detrimentally'
+T384	ADP 1986 1990	than
+#383	AnnotatorNotes T384	lemma = 'than'
+T385	NOUN 1991 2000	airplanes
+#384	AnnotatorNotes T385	lemma = 'airplane'
+T386	PUNCT 2000 2001	.
+#385	AnnotatorNotes T386	lemma = '.'
+T387	ADV 2002 2010	Moreover
+#386	AnnotatorNotes T387	lemma = 'moreover'
+T388	PUNCT 2010 2011	,
+#387	AnnotatorNotes T388	lemma = ','
+T389	DET 2012 2017	these
+#388	AnnotatorNotes T389	lemma = 'this'
+T390	NOUN 2018 2024	people
+#389	AnnotatorNotes T390	lemma = 'people'
+T391	AUX 2025 2028	are
+#390	AnnotatorNotes T391	lemma = 'be'
+T392	VERB 2029 2035	seemed
+#391	AnnotatorNotes T392	lemma = 'seem'
+T393	PART 2036 2038	to
+#392	AnnotatorNotes T393	lemma = 'to'
+T394	VERB 2039 2043	have
+#393	AnnotatorNotes T394	lemma = 'have'
+T395	DET 2044 2046	no
+#394	AnnotatorNotes T395	lemma = 'no'
+T396	ADJ 2047 2055	foggiest
+#395	AnnotatorNotes T396	lemma = 'foggiest'
+T397	NOUN 2056 2060	idea
+#396	AnnotatorNotes T397	lemma = 'idea'
+T398	ADV 2061 2064	how
+#397	AnnotatorNotes T398	lemma = 'how'
+T399	PART 2065 2067	to
+#398	AnnotatorNotes T399	lemma = 'to'
+T400	VERB 2068 2074	travel
+#399	AnnotatorNotes T400	lemma = 'travel'
+T401	ADP 2075 2077	to
+#400	AnnotatorNotes T401	lemma = 'to'
+T402	ADJ 2078 2081	far
+#401	AnnotatorNotes T402	lemma = 'far'
+T403	PUNCT 2081 2082	-
+#402	AnnotatorNotes T403	lemma = '-'
+T404	NOUN 2082 2090	distance
+#403	AnnotatorNotes T404	lemma = 'distance'
+T405	NOUN 2091 2096	parts
+#404	AnnotatorNotes T405	lemma = 'part'
+T406	ADP 2097 2104	without
+#405	AnnotatorNotes T406	lemma = 'without'
+T407	NOUN 2105 2113	airplane
+#406	AnnotatorNotes T407	lemma = 'airplane'
+T408	ADP 2114 2116	in
+#407	AnnotatorNotes T408	lemma = 'in'
+T409	NOUN 2117 2122	order
+#408	AnnotatorNotes T409	lemma = 'order'
+T410	ADP 2123 2125	to
+#409	AnnotatorNotes T410	lemma = 'to'
+T411	VERB 2126 2129	pay
+#410	AnnotatorNotes T411	lemma = 'pay'
+T412	DET 2130 2131	a
+#411	AnnotatorNotes T412	lemma = 'a'
+T413	NOUN 2132 2137	visit
+#412	AnnotatorNotes T413	lemma = 'visit'
+T414	ADP 2138 2140	to
+#413	AnnotatorNotes T414	lemma = 'to'
+T415	DET 2141 2146	their
+#414	AnnotatorNotes T415	lemma = 'their'
+T416	NOUN 2147 2156	relatives
+#415	AnnotatorNotes T416	lemma = 'relative'
+T417	CCONJ 2157 2159	or
+#416	AnnotatorNotes T417	lemma = 'or'
+T418	ADV 2160 2164	just
+#417	AnnotatorNotes T418	lemma = 'just'
+T419	PART 2165 2167	to
+#418	AnnotatorNotes T419	lemma = 'to'
+T420	VERB 2168 2173	enjoy
+#419	AnnotatorNotes T420	lemma = 'enjoy'
+T421	DET 2174 2177	the
+#420	AnnotatorNotes T421	lemma = 'the'
+T422	ADJ 2178 2185	amazing
+#421	AnnotatorNotes T422	lemma = 'amaze'
+T423	NOUN 2186 2190	view
+#422	AnnotatorNotes T423	lemma = 'view'
+T424	ADP 2191 2193	of
+#423	AnnotatorNotes T424	lemma = 'of'
+T425	DET 2194 2195	a
+#424	AnnotatorNotes T425	lemma = 'a'
+T426	ADJ 2196 2201	sandy
+#425	AnnotatorNotes T426	lemma = 'sandy'
+T427	NOUN 2202 2207	beach
+#426	AnnotatorNotes T427	lemma = 'beach'
+T428	ADP 2208 2212	near
+#427	AnnotatorNotes T428	lemma = 'near'
+T429	DET 2213 2216	the
+#428	AnnotatorNotes T429	lemma = 'the'
+T430	ADJ 2217 2224	crystal
+#429	AnnotatorNotes T430	lemma = 'crystal'
+T431	NOUN 2225 2228	sea
+#430	AnnotatorNotes T431	lemma = 'sea'
+T432	PUNCT 2228 2229	.
+#431	AnnotatorNotes T432	lemma = '.'
+T433	PRON 2230 2232	It
+#432	AnnotatorNotes T433	lemma = 'it'
+T434	AUX 2233 2238	would
+#433	AnnotatorNotes T434	lemma = 'will'
+T435	AUX 2239 2241	be
+#434	AnnotatorNotes T435	lemma = 'be'
+T436	VERB 2242 2251	reflected
+#435	AnnotatorNotes T436	lemma = 'reflect'
+T437	DET 2252 2255	the
+#436	AnnotatorNotes T437	lemma = 'the'
+T438	ADJ 2256 2264	economic
+#437	AnnotatorNotes T438	lemma = 'economic'
+T439	NOUN 2265 2268	too
+#438	AnnotatorNotes T439	lemma = 'too'
+T440	PUNCT 2268 2269	,
+#439	AnnotatorNotes T440	lemma = ','
+T441	SCONJ 2270 2277	becouse
+#440	AnnotatorNotes T441	lemma = 'becouse'
+T442	NOUN 2278 2289	businessman
+#441	AnnotatorNotes T442	lemma = 'businessman'
+T443	AUX 2290 2295	would
+#442	AnnotatorNotes T443	lemma = 'will'
+T444	VERB 2296 2300	stay
+#443	AnnotatorNotes T444	lemma = 'stay'
+T445	ADJ 2301 2313	discontented
+#444	AnnotatorNotes T445	lemma = 'discontented'
+T446	ADP 2314 2318	with
+#445	AnnotatorNotes T446	lemma = 'with'
+T447	DET 2319 2323	this
+#446	AnnotatorNotes T447	lemma = 'this'
+T448	NOUN 2324 2327	law
+#447	AnnotatorNotes T448	lemma = 'law'
+T449	CCONJ 2328 2331	and
+#448	AnnotatorNotes T449	lemma = 'and'
+T450	VERB 2332 2341	unwilling
+#449	AnnotatorNotes T450	lemma = 'unwilling'
+T451	PART 2342 2344	to
+#450	AnnotatorNotes T451	lemma = 'to'
+T452	VERB 2345 2350	spend
+#451	AnnotatorNotes T452	lemma = 'spend'
+T453	NOUN 2351 2355	time
+#452	AnnotatorNotes T453	lemma = 'time'
+T454	ADP 2356 2358	in
+#453	AnnotatorNotes T454	lemma = 'in'
+T455	NOUN 2359 2366	waiting
+#454	AnnotatorNotes T455	lemma = 'waiting'
+T456	PUNCT 2366 2367	.
+#455	AnnotatorNotes T456	lemma = '.'
+T457	ADP 2368 2370	In
+#456	AnnotatorNotes T457	lemma = 'in'
+T458	NOUN 2371 2381	conclusion
+#457	AnnotatorNotes T458	lemma = 'conclusion'
+T459	PUNCT 2381 2382	,
+#458	AnnotatorNotes T459	lemma = ','
+T460	DET 2383 2386	the
+#459	AnnotatorNotes T460	lemma = 'the'
+T461	NOUN 2387 2391	idea
+#460	AnnotatorNotes T461	lemma = 'idea'
+T462	ADP 2392 2394	of
+#461	AnnotatorNotes T462	lemma = 'of'
+T463	DET 2395 2399	such
+#462	AnnotatorNotes T463	lemma = 'such'
+T464	NOUN 2400 2403	law
+#463	AnnotatorNotes T464	lemma = 'law'
+T465	VERB 2404 2410	sounds
+#464	AnnotatorNotes T465	lemma = 'sound'
+T466	ADJ 2411 2421	ridiculous
+#465	AnnotatorNotes T466	lemma = 'ridiculous'
+T467	CCONJ 2422 2425	and
+#466	AnnotatorNotes T467	lemma = 'and'
+T468	ADJ 2426 2437	impractical
+#467	AnnotatorNotes T468	lemma = 'impractical'
+T469	CCONJ 2438 2441	and
+#468	AnnotatorNotes T469	lemma = 'and'
+T470	ADV 2442 2448	nobody
+#469	AnnotatorNotes T470	lemma = 'nobody'
+T471	AUX 2449 2454	would
+#470	AnnotatorNotes T471	lemma = 'will'
+T472	VERB 2455 2462	benefit
+#471	AnnotatorNotes T472	lemma = 'benefit'
+T473	ADP 2463 2467	from
+#472	AnnotatorNotes T473	lemma = 'from'
+T474	PRON 2468 2470	it
+#473	AnnotatorNotes T474	lemma = 'it'
+T475	PUNCT 2470 2471	.
+#474	AnnotatorNotes T475	lemma = '.'

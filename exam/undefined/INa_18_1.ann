@@ -1,0 +1,424 @@
+T1	VERB 0 4	Task
+#1	AnnotatorNotes T1	lemma = 'task'
+T2	NUM 5 6	1
+#2	AnnotatorNotes T2	lemma = '1'
+T3	PUNCT 6 7	.
+#3	AnnotatorNotes T3	lemma = '.'
+T4	DET 11 14	The
+#4	AnnotatorNotes T4	lemma = 'the'
+T5	ADJ 15 18	pie
+#5	AnnotatorNotes T5	lemma = 'pie'
+T6	NOUN 19 25	charts
+#6	AnnotatorNotes T6	lemma = 'chart'
+T7	VERB 26 31	shows
+#7	AnnotatorNotes T7	lemma = 'show'
+T8	PRON 32 34	us
+#8	AnnotatorNotes T8	lemma = 'us'
+T9	DET 35 38	the
+#9	AnnotatorNotes T9	lemma = 'the'
+T10	NOUN 39 43	ages
+#10	AnnotatorNotes T10	lemma = 'ages'
+T11	ADP 44 46	of
+#11	AnnotatorNotes T11	lemma = 'of'
+T12	NOUN 47 53	people
+#12	AnnotatorNotes T12	lemma = 'people'
+T13	ADP 54 56	in
+#13	AnnotatorNotes T13	lemma = 'in'
+T14	PROPN 57 62	Italy
+#14	AnnotatorNotes T14	lemma = 'Italy'
+T15	CCONJ 63 66	and
+#15	AnnotatorNotes T15	lemma = 'and'
+T16	PROPN 67 72	Yemen
+#16	AnnotatorNotes T16	lemma = 'Yemen'
+T17	PUNCT 72 73	.
+#17	AnnotatorNotes T17	lemma = '.'
+T18	ADJ 77 82	First
+#18	AnnotatorNotes T18	lemma = 'first'
+T19	ADP 83 85	of
+#19	AnnotatorNotes T19	lemma = 'of'
+T20	PRON 86 89	all
+#20	AnnotatorNotes T20	lemma = 'all'
+T21	PUNCT 89 90	,
+#21	AnnotatorNotes T21	lemma = ','
+T22	ADP 91 93	in
+#22	AnnotatorNotes T22	lemma = 'in'
+T23	DET 94 97	the
+#23	AnnotatorNotes T23	lemma = 'the'
+T24	NOUN 98 102	year
+#24	AnnotatorNotes T24	lemma = 'year'
+T25	NUM 103 107	2000
+#25	AnnotatorNotes T25	lemma = '2000'
+T26	DET 108 111	the
+#26	AnnotatorNotes T26	lemma = 'the'
+T27	NOUN 112 120	majority
+#27	AnnotatorNotes T27	lemma = 'majority'
+T28	ADP 121 123	of
+#28	AnnotatorNotes T28	lemma = 'of'
+T29	DET 124 127	the
+#29	AnnotatorNotes T29	lemma = 'the'
+T30	NOUN 128 138	population
+#30	AnnotatorNotes T30	lemma = 'population'
+T31	ADP 139 141	in
+#31	AnnotatorNotes T31	lemma = 'in'
+T32	PROPN 142 147	Yemen
+#32	AnnotatorNotes T32	lemma = 'Yemen'
+T33	AUX 148 151	was
+#33	AnnotatorNotes T33	lemma = 'be'
+T34	NOUN 152 161	teenagers
+#34	AnnotatorNotes T34	lemma = 'teenager'
+T35	CCONJ 162 165	and
+#35	AnnotatorNotes T35	lemma = 'and'
+T36	NOUN 166 170	kids
+#36	AnnotatorNotes T36	lemma = 'kid'
+T37	ADP 171 173	in
+#37	AnnotatorNotes T37	lemma = 'in'
+T38	DET 174 177	the
+#38	AnnotatorNotes T38	lemma = 'the'
+T39	NOUN 178 181	age
+#39	AnnotatorNotes T39	lemma = 'age'
+T40	ADP 182 186	from
+#40	AnnotatorNotes T40	lemma = 'from'
+T41	NUM 187 188	0
+#41	AnnotatorNotes T41	lemma = '0'
+T42	ADP 189 191	to
+#42	AnnotatorNotes T42	lemma = 'to'
+T43	NUM 192 194	14
+#43	AnnotatorNotes T43	lemma = '14'
+T44	PUNCT 194 195	,
+#44	AnnotatorNotes T44	lemma = ','
+T45	SCONJ 196 201	while
+#45	AnnotatorNotes T45	lemma = 'while'
+T46	ADP 202 204	in
+#46	AnnotatorNotes T46	lemma = 'in'
+T47	PROPN 205 210	Italy
+#47	AnnotatorNotes T47	lemma = 'Italy'
+T48	ADJ 211 215	most
+#48	AnnotatorNotes T48	lemma = 'most'
+T49	NOUN 216 222	people
+#49	AnnotatorNotes T49	lemma = 'people'
+T50	AUX 223 226	are
+#50	AnnotatorNotes T50	lemma = 'be'
+T51	NOUN 227 233	adults
+#51	AnnotatorNotes T51	lemma = 'adult'
+T52	PUNCT 233 234	,
+#52	AnnotatorNotes T52	lemma = ','
+T53	PRON 235 240	whose
+#53	AnnotatorNotes T53	lemma = 'whose'
+T54	NOUN 241 244	age
+#54	AnnotatorNotes T54	lemma = 'age'
+T55	AUX 245 247	is
+#55	AnnotatorNotes T55	lemma = 'be'
+T56	NUM 248 253	15-59
+#56	AnnotatorNotes T56	lemma = '15-59'
+T57	NOUN 254 259	years
+#57	AnnotatorNotes T57	lemma = 'year'
+T58	PUNCT 259 260	.
+#58	AnnotatorNotes T58	lemma = '.'
+T59	PRON 261 262	I
+#59	AnnotatorNotes T59	lemma = 'I'
+T60	AUX 263 269	should
+#60	AnnotatorNotes T60	lemma = 'shall'
+T61	VERB 270 276	notice
+#61	AnnotatorNotes T61	lemma = 'notice'
+T62	SCONJ 277 281	that
+#62	AnnotatorNotes T62	lemma = 'that'
+T63	DET 282 285	the
+#63	AnnotatorNotes T63	lemma = 'the'
+T64	NOUN 286 292	number
+#64	AnnotatorNotes T64	lemma = 'number'
+T65	ADP 293 295	of
+#65	AnnotatorNotes T65	lemma = 'of'
+T66	NOUN 296 306	youngsters
+#66	AnnotatorNotes T66	lemma = 'youngster'
+T67	CCONJ 307 310	and
+#67	AnnotatorNotes T67	lemma = 'and'
+T68	DET 311 314	the
+#68	AnnotatorNotes T68	lemma = 'the'
+T69	NOUN 315 321	number
+#69	AnnotatorNotes T69	lemma = 'number'
+T70	ADP 322 324	of
+#70	AnnotatorNotes T70	lemma = 'of'
+T71	NOUN 325 331	adults
+#71	AnnotatorNotes T71	lemma = 'adult'
+T72	ADP 332 334	in
+#72	AnnotatorNotes T72	lemma = 'in'
+T73	PROPN 335 340	Yemen
+#73	AnnotatorNotes T73	lemma = 'Yemen'
+T74	AUX 341 343	is
+#74	AnnotatorNotes T74	lemma = 'be'
+T75	ADV 344 350	almost
+#75	AnnotatorNotes T75	lemma = 'almost'
+T76	DET 351 354	the
+#76	AnnotatorNotes T76	lemma = 'the'
+T77	ADJ 355 359	same
+#77	AnnotatorNotes T77	lemma = 'same'
+T78	PUNCT 359 360	.
+#78	AnnotatorNotes T78	lemma = '.'
+T79	ADV 361 369	Secondly
+#79	AnnotatorNotes T79	lemma = 'secondly'
+T80	PUNCT 369 370	,
+#80	AnnotatorNotes T80	lemma = ','
+T81	ADP 371 373	in
+#81	AnnotatorNotes T81	lemma = 'in'
+T82	PROPN 374 379	Italy
+#82	AnnotatorNotes T82	lemma = 'Italy'
+T83	DET 380 383	the
+#83	AnnotatorNotes T83	lemma = 'the'
+T84	NOUN 384 394	percentage
+#84	AnnotatorNotes T84	lemma = 'percentage'
+T85	ADP 395 397	of
+#85	AnnotatorNotes T85	lemma = 'of'
+T86	NOUN 398 404	people
+#86	AnnotatorNotes T86	lemma = 'people'
+T87	PUNCT 404 405	,
+#87	AnnotatorNotes T87	lemma = ','
+T88	PRON 406 409	who
+#88	AnnotatorNotes T88	lemma = 'who'
+T89	AUX 410 413	are
+#89	AnnotatorNotes T89	lemma = 'be'
+T90	ADV 414 418	more
+#90	AnnotatorNotes T90	lemma = 'more'
+T91	ADP 419 423	than
+#91	AnnotatorNotes T91	lemma = 'than'
+T92	NUM 424 426	60
+#92	AnnotatorNotes T92	lemma = '60'
+T93	NOUN 427 432	years
+#93	AnnotatorNotes T93	lemma = 'year'
+T94	AUX 433 435	is
+#94	AnnotatorNotes T94	lemma = 'be'
+T95	ADJ 436 439	big
+#95	AnnotatorNotes T95	lemma = 'big'
+T96	PUNCT 439 440	.
+#96	AnnotatorNotes T96	lemma = '.'
+T97	PRON 441 443	It
+#97	AnnotatorNotes T97	lemma = 'it'
+T98	VERB 443 445	’s
+#98	AnnotatorNotes T98	lemma = '’s'
+T99	ADP 446 451	about
+#99	AnnotatorNotes T99	lemma = 'about'
+T100	NUM 452 454	24
+#100	AnnotatorNotes T100	lemma = '24'
+T101	SYM 454 455	%
+#101	AnnotatorNotes T101	lemma = '%'
+T102	PUNCT 455 456	,
+#102	AnnotatorNotes T102	lemma = ','
+T103	SCONJ 457 462	while
+#103	AnnotatorNotes T103	lemma = 'while'
+T104	ADP 463 465	in
+#104	AnnotatorNotes T104	lemma = 'in'
+T105	PROPN 466 471	Yemen
+#105	AnnotatorNotes T105	lemma = 'Yemen'
+T106	DET 472 475	the
+#106	AnnotatorNotes T106	lemma = 'the'
+T107	NOUN 476 486	percentage
+#107	AnnotatorNotes T107	lemma = 'percentage'
+T108	ADP 487 489	of
+#108	AnnotatorNotes T108	lemma = 'of'
+T109	NOUN 490 496	olders
+#109	AnnotatorNotes T109	lemma = 'older'
+T110	AUX 497 499	is
+#110	AnnotatorNotes T110	lemma = 'be'
+T111	PRON 500 502	it
+#111	AnnotatorNotes T111	lemma = 'it'
+T112	VERB 502 504	’s
+#112	AnnotatorNotes T112	lemma = '’'
+T113	ADV 505 509	only
+#113	AnnotatorNotes T113	lemma = 'only'
+T114	NUM 510 512	36
+#114	AnnotatorNotes T114	lemma = '36'
+T115	SYM 512 513	%
+#115	AnnotatorNotes T115	lemma = '%'
+T116	PUNCT 513 514	.
+#116	AnnotatorNotes T116	lemma = '.'
+T117	ADP 518 520	In
+#117	AnnotatorNotes T117	lemma = 'in'
+T118	DET 521 524	the
+#118	AnnotatorNotes T118	lemma = 'the'
+T119	NOUN 525 532	nearest
+#119	AnnotatorNotes T119	lemma = 'nearest'
+T120	NUM 533 535	50
+#120	AnnotatorNotes T120	lemma = '50'
+T121	VERB 536 541	years
+#121	AnnotatorNotes T121	lemma = 'year'
+T122	DET 542 545	the
+#122	AnnotatorNotes T122	lemma = 'the'
+T123	NOUN 546 556	situations
+#123	AnnotatorNotes T123	lemma = 'situation'
+T124	AUX 557 561	will
+#124	AnnotatorNotes T124	lemma = 'will'
+T125	PART 562 565	not
+#125	AnnotatorNotes T125	lemma = 'not'
+T126	VERB 566 572	change
+#126	AnnotatorNotes T126	lemma = 'change'
+T127	ADV 573 583	absolutely
+#127	AnnotatorNotes T127	lemma = 'absolutely'
+T128	PUNCT 583 584	.
+#128	AnnotatorNotes T128	lemma = '.'
+T129	ADP 585 587	In
+#129	AnnotatorNotes T129	lemma = 'in'
+T130	PROPN 588 593	Yemen
+#130	AnnotatorNotes T130	lemma = 'Yemen'
+T131	DET 594 597	the
+#131	AnnotatorNotes T131	lemma = 'the'
+T132	NOUN 598 604	number
+#132	AnnotatorNotes T132	lemma = 'number'
+T133	ADP 605 607	of
+#133	AnnotatorNotes T133	lemma = 'of'
+T134	NOUN 608 614	adults
+#134	AnnotatorNotes T134	lemma = 'adult'
+T135	AUX 615 619	will
+#135	AnnotatorNotes T135	lemma = 'will'
+T136	VERB 620 624	gown
+#136	AnnotatorNotes T136	lemma = 'gown'
+T137	ADP 625 627	up
+#137	AnnotatorNotes T137	lemma = 'up'
+T138	DET 628 629	a
+#138	AnnotatorNotes T138	lemma = 'a'
+T139	ADJ 630 633	few
+#139	AnnotatorNotes T139	lemma = 'few'
+T140	CCONJ 634 637	and
+#140	AnnotatorNotes T140	lemma = 'and'
+T141	AUX 638 642	will
+#141	AnnotatorNotes T141	lemma = 'will'
+T142	AUX 643 645	be
+#142	AnnotatorNotes T142	lemma = 'be'
+T143	VERB 646 651	about
+#143	AnnotatorNotes T143	lemma = 'about'
+T144	NUM 652 654	57
+#144	AnnotatorNotes T144	lemma = '57'
+T145	SYM 654 655	%
+#145	AnnotatorNotes T145	lemma = '%'
+T146	PUNCT 655 656	.
+#146	AnnotatorNotes T146	lemma = '.'
+T147	DET 657 660	The
+#147	AnnotatorNotes T147	lemma = 'the'
+T148	NOUN 661 667	number
+#148	AnnotatorNotes T148	lemma = 'number'
+T149	ADP 668 670	of
+#149	AnnotatorNotes T149	lemma = 'of'
+T150	NOUN 671 681	youngsters
+#150	AnnotatorNotes T150	lemma = 'youngster'
+T151	AUX 682 686	will
+#151	AnnotatorNotes T151	lemma = 'will'
+T152	VERB 687 691	fall
+#152	AnnotatorNotes T152	lemma = 'fall'
+T153	ADV 692 696	down
+#153	AnnotatorNotes T153	lemma = 'down'
+T154	NUM 697 699	37
+#154	AnnotatorNotes T154	lemma = '37'
+T155	SYM 699 700	%
+#155	AnnotatorNotes T155	lemma = '%'
+T156	PUNCT 700 701	.
+#156	AnnotatorNotes T156	lemma = '.'
+T157	SCONJ 702 707	While
+#157	AnnotatorNotes T157	lemma = 'while'
+T158	DET 708 711	the
+#158	AnnotatorNotes T158	lemma = 'the'
+T159	NOUN 712 722	percentage
+#159	AnnotatorNotes T159	lemma = 'percentage'
+T160	ADP 723 725	of
+#160	AnnotatorNotes T160	lemma = 'of'
+T161	NOUN 726 732	olders
+#161	AnnotatorNotes T161	lemma = 'older'
+T162	AUX 733 737	will
+#162	AnnotatorNotes T162	lemma = 'will'
+T163	AUX 738 740	be
+#163	AnnotatorNotes T163	lemma = 'be'
+T164	ADV 741 752	practically
+#164	AnnotatorNotes T164	lemma = 'practically'
+T165	DET 753 756	the
+#165	AnnotatorNotes T165	lemma = 'the'
+T166	NOUN 757 761	same
+#166	AnnotatorNotes T166	lemma = 'same'
+T167	PUNCT 762 763	–
+#167	AnnotatorNotes T167	lemma = '–'
+T168	NUM 764 765	5
+#168	AnnotatorNotes T168	lemma = '5'
+T169	SYM 765 766	%
+#169	AnnotatorNotes T169	lemma = '%'
+T170	PUNCT 766 767	.
+#170	AnnotatorNotes T170	lemma = '.'
+T171	ADP 768 770	As
+#171	AnnotatorNotes T171	lemma = 'as'
+T172	ADP 771 774	for
+#172	AnnotatorNotes T172	lemma = 'for'
+T173	PROPN 775 780	Italy
+#173	AnnotatorNotes T173	lemma = 'Italy'
+T174	PUNCT 780 781	,
+#174	AnnotatorNotes T174	lemma = ','
+T175	DET 782 785	the
+#175	AnnotatorNotes T175	lemma = 'the'
+T176	NOUN 786 792	number
+#176	AnnotatorNotes T176	lemma = 'number'
+T177	ADP 793 795	of
+#177	AnnotatorNotes T177	lemma = 'of'
+T178	NOUN 796 802	olders
+#178	AnnotatorNotes T178	lemma = 'older'
+T179	AUX 803 807	will
+#179	AnnotatorNotes T179	lemma = 'will'
+T180	VERB 808 816	increase
+#180	AnnotatorNotes T180	lemma = 'increase'
+T181	ADV 817 824	rapidly
+#181	AnnotatorNotes T181	lemma = 'rapidly'
+T182	ADP 825 827	to
+#182	AnnotatorNotes T182	lemma = 'to'
+T183	NUM 828 830	42
+#183	AnnotatorNotes T183	lemma = '42'
+T184	SYM 830 831	%
+#184	AnnotatorNotes T184	lemma = '%'
+T185	PUNCT 831 832	.
+#185	AnnotatorNotes T185	lemma = '.'
+T186	PRON 833 835	It
+#186	AnnotatorNotes T186	lemma = 'it'
+T187	AUX 836 839	may
+#187	AnnotatorNotes T187	lemma = 'may'
+T188	AUX 840 842	be
+#188	AnnotatorNotes T188	lemma = 'be'
+T189	VERB 843 852	connected
+#189	AnnotatorNotes T189	lemma = 'connect'
+T190	ADP 853 857	with
+#190	AnnotatorNotes T190	lemma = 'with'
+T191	ADJ 858 861	low
+#191	AnnotatorNotes T191	lemma = 'low'
+T192	NOUN 862 867	level
+#192	AnnotatorNotes T192	lemma = 'level'
+T193	ADP 868 870	of
+#193	AnnotatorNotes T193	lemma = 'of'
+T194	ADJ 871 874	new
+#194	AnnotatorNotes T194	lemma = 'new'
+T195	NOUN 875 882	borners
+#195	AnnotatorNotes T195	lemma = 'borner'
+T196	PUNCT 882 883	.
+#196	AnnotatorNotes T196	lemma = '.'
+T197	CCONJ 884 887	And
+#197	AnnotatorNotes T197	lemma = 'and'
+T198	DET 888 891	the
+#198	AnnotatorNotes T198	lemma = 'the'
+T199	NOUN 892 897	level
+#199	AnnotatorNotes T199	lemma = 'level'
+T200	ADP 898 900	of
+#200	AnnotatorNotes T200	lemma = 'of'
+T201	NOUN 901 911	youngsters
+#201	AnnotatorNotes T201	lemma = 'youngster'
+T202	ADP 912 914	in
+#202	AnnotatorNotes T202	lemma = 'in'
+T203	PROPN 915 920	Italy
+#203	AnnotatorNotes T203	lemma = 'Italy'
+T204	ADV 921 925	also
+#204	AnnotatorNotes T204	lemma = 'also'
+T205	AUX 926 930	will
+#205	AnnotatorNotes T205	lemma = 'will'
+T206	VERB 931 933	be
+#206	AnnotatorNotes T206	lemma = 'be'
+T207	DET 934 937	the
+#207	AnnotatorNotes T207	lemma = 'the'
+T208	ADJ 938 942	same
+#208	AnnotatorNotes T208	lemma = 'same'
+T209	NOUN 943 947	like
+#209	AnnotatorNotes T209	lemma = 'like'
+T210	ADP 948 950	in
+#210	AnnotatorNotes T210	lemma = 'in'
+T211	PROPN 951 956	Yemen
+#211	AnnotatorNotes T211	lemma = 'Yemen'
+T212	PUNCT 956 957	.
+#212	AnnotatorNotes T212	lemma = '.'

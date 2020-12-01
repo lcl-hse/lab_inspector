@@ -1,0 +1,429 @@
+T1	Spelling 628 635	starshe
+#1	AnnotatorNotes T1	older
+T2	Spelling 445 451	menshe
+#2	AnnotatorNotes T2	less
+T3	Spelling 561 567	menshe
+#3	AnnotatorNotes T3	less
+T4	Spelling 647 653	menshe
+#4	AnnotatorNotes T4	less
+T5	Spelling 158 165	handred
+#5	AnnotatorNotes T5	hundred
+T6	Spelling 303 310	handred
+#6	AnnotatorNotes T6	hundred
+T7	Spelling 580 584	foti
+#7	AnnotatorNotes T7	forty
+T8	Spelling 318 323	minut
+#8	AnnotatorNotes T8	minute
+T9	Spelling 522 527	minut
+#9	AnnotatorNotes T9	minute
+T10	Spelling 589 594	minut
+#10	AnnotatorNotes T10	minute
+T11	Spelling 114 118	whot
+#11	AnnotatorNotes T11	at
+T12	Spelling 568 572	whot
+#12	AnnotatorNotes T12	at
+T13	Spelling 618 622	whot
+#13	AnnotatorNotes T13	at
+T14	Spelling 291 298	porydka
+#14	AnnotatorNotes T14	about
+T15	Spelling 327 332	Kogda
+#15	AnnotatorNotes T15	When
+T16	Spelling 209 214	foyti
+#16	AnnotatorNotes T16	fourty
+T17	Redundant 87 90	age
+A1	Delete T17
+T18	suggestion 209 219	foyti fore
+A2	Cause T18
+T19	suggestion 291 298	porydka
+A3	Cause T19
+T20	suggestion 445 472	menshe 166 minutes chem men
+A4	Cause T20
+T21	suggestion 580 588	foti for
+A5	Cause T21
+T22	suggestion 561 567	menshe
+A6	Cause T22
+T23	suggestion 623 653	chem starshe people tem menshe
+A7	Cause T23
+T24	Determiners 8 15	diagram
+#17	AnnotatorNotes T24	a diagram
+T25	lex_item_choice 16 20	look
+#18	AnnotatorNotes T25	showing
+T26	Pronouns 21 23	we
+#19	AnnotatorNotes T26	us
+T27	Noun_number 59 67	exercise
+#20	AnnotatorNotes T27	exercises
+T28	Ref_device 114 118	whot
+#21	AnnotatorNotes T28	that
+T29	Punctuation 118 119	,
+A8	Delete T29
+T30	Numerals 158 165	handred
+#22	AnnotatorNotes T30	hundred
+T31	Prepositions 124 126	is
+#23	AnnotatorNotes T31	of
+T32	Prepositions 132 145	on 16 then 24
+#24	AnnotatorNotes T32	from 16 to 24
+T33	Absence_comp_sent 120 123	men
+#25	AnnotatorNotes T33	men trained
+T34	Prepositions 146 153	average
+#26	AnnotatorNotes T34	on average
+T35	Numerals 166 175	a ten-two
+#27	AnnotatorNotes T35	twelve
+T36	Linking_device 189 203	on twenty-five
+T37	Prepositions 220 227	average
+#28	AnnotatorNotes T37	on average
+T38	Redundant 228 232	time
+A9	Delete T38
+T39	Redundant 233 238	spent
+A10	Delete T39
+T40	Tense_choice 239 244	doing
+#29	AnnotatorNotes T40	did
+T41	Prepositions 251 264	153,8 minutes
+#30	AnnotatorNotes T41	for 153,8 minutes
+T42	Prepositions 275 285	35 then 44
+#31	AnnotatorNotes T42	from 35 to 44
+T43	Noun_number 318 325	minut's
+#32	AnnotatorNotes T43	minutes
+T44	suggestion 327 332	Kogda
+A11	Cause T44
+T45	Absence_comp_sent 333 338	women
+T46	Prepositions 339 346	average
+#33	AnnotatorNotes T46	on average
+T47	Prepositions 347 359	92,8 minutes
+#34	AnnotatorNotes T47	for 92,8 minutes
+T48	Prepositions 361 388	Women the age on 16 then 24
+#35	AnnotatorNotes T48	Women of the age from 16 to 24
+T49	Prepositions 389 396	average
+#36	AnnotatorNotes T49	on average
+T50	Redundant 397 401	time
+A12	Delete T50
+T51	Spelling 435 441	thises
+#37	AnnotatorNotes T51	this is
+T52	Prepositions 478 493	on 45 to 54 age
+#38	AnnotatorNotes T52	of the age from 45 to 54
+T53	Noun_number 522 529	minut's
+#39	AnnotatorNotes T53	minutes
+T54	Absence_comp_sent 531 538	a women
+#40	AnnotatorNotes T54	women spent for sport
+T55	lex_item_choice 507 509	is
+#41	AnnotatorNotes T55	did
+T56	Ref_device 568 572	whot
+#42	AnnotatorNotes T56	than
+T57	Prepositions 577 579	on
+#43	AnnotatorNotes T57	by
+T58	Noun_number 589 596	minut's
+#44	AnnotatorNotes T58	minutes
+T59	Spelling 604 608	graf
+#45	AnnotatorNotes T59	the graph
+T60	Ref_device 618 622	whot
+#46	AnnotatorNotes T60	that
+A13	Cause T60
+T61	Prepositions 612 616	look
+#47	AnnotatorNotes T61	look at
+T62	Confusion_of_structures 690 719	men average time more a women
+#48	AnnotatorNotes T62	men spent on average more time for sport than women
+T63	Determiners 531 538	a women
+#49	AnnotatorNotes T63	women
+T64	Determiners 712 719	a women
+#50	AnnotatorNotes T64	women
+T65	DT0 0 4	This
+#51	AnnotatorNotes T65	lemma = 'this'
+T66	VBZ 5 7	is
+#52	AnnotatorNotes T66	lemma = 'be'
+T67	NN1 8 15	diagram
+#53	AnnotatorNotes T67	lemma = 'diagram'
+T68	VVB 16 20	look
+#54	AnnotatorNotes T68	lemma = 'look'
+T69	PNP 21 23	we
+#55	AnnotatorNotes T69	lemma = 'we'
+T70	AJ0 24 31	average
+#56	AnnotatorNotes T70	lemma = 'average'
+T71	NN1 32 36	time
+#57	AnnotatorNotes T71	lemma = 'time'
+T72	VVN 37 42	spent
+#58	AnnotatorNotes T72	lemma = 'spend|spent'
+T73	VDG 43 48	doing
+#59	AnnotatorNotes T73	lemma = 'do'
+T74	NN1 49 54	sport
+#60	AnnotatorNotes T74	lemma = 'sport'
+T75	CJC 55 58	and
+#61	AnnotatorNotes T75	lemma = 'and'
+T76	NN1 59 67	exercise
+#62	AnnotatorNotes T76	lemma = 'exercise'
+T77	PRP 68 70	in
+#63	AnnotatorNotes T77	lemma = 'in'
+T78	NP0 71 78	England
+#64	AnnotatorNotes T78	lemma = 'england'
+T79	PRP 79 81	in
+#65	AnnotatorNotes T79	lemma = 'in'
+T80	CRD 82 86	2012
+#66	AnnotatorNotes T80	lemma = '2012'
+T81	NN1 87 90	age
+#67	AnnotatorNotes T81	lemma = 'age'
+T82	SENT 90 91	.
+#68	AnnotatorNotes T82	lemma = '.'
+T83	PNP 92 94	It
+#69	AnnotatorNotes T83	lemma = 'it'
+T84	VBZ 95 97	is
+#70	AnnotatorNotes T84	lemma = 'be'
+T85	NN1 98 105	diagram
+#71	AnnotatorNotes T85	lemma = 'diagram'
+T86	PNP 106 108	we
+#72	AnnotatorNotes T86	lemma = 'we'
+T87	VVB 109 113	look
+#73	AnnotatorNotes T87	lemma = 'look'
+T88	NN1 114 118	whot
+#74	AnnotatorNotes T88	lemma = 'whot'
+T89	PUN 118 119	,
+#75	AnnotatorNotes T89	lemma = ','
+T90	NN2 120 123	men
+#76	AnnotatorNotes T90	lemma = 'man'
+T91	VBZ 124 126	is
+#77	AnnotatorNotes T91	lemma = 'be'
+T92	NN2 127 131	ages
+#78	AnnotatorNotes T92	lemma = 'age'
+T93	PRP 132 134	on
+#79	AnnotatorNotes T93	lemma = 'on'
+T94	CRD 135 137	16
+#80	AnnotatorNotes T94	lemma = '16'
+T95	AV0 138 142	then
+#81	AnnotatorNotes T95	lemma = 'then'
+T96	CRD 143 145	24
+#82	AnnotatorNotes T96	lemma = '24'
+T97	NN1 146 153	average
+#83	AnnotatorNotes T97	lemma = 'average'
+T98	CRD 154 157	two
+#84	AnnotatorNotes T98	lemma = 'two'
+T99	VVD 158 165	handred
+#85	AnnotatorNotes T99	lemma = 'handred'
+T100	AT0 166 167	a
+#86	AnnotatorNotes T100	lemma = 'a'
+T101	AJ0 168 175	ten-two
+#87	AnnotatorNotes T101	lemma = 'ten-two'
+T102	NN2 176 183	minutes
+#88	AnnotatorNotes T102	lemma = 'minute'
+T103	SENT 183 184	.
+#89	AnnotatorNotes T103	lemma = '.'
+T104	NN2 185 188	Men
+#90	AnnotatorNotes T104	lemma = 'man'
+T105	PRP 189 191	on
+#91	AnnotatorNotes T105	lemma = 'on'
+T106	CRD 192 203	twenty-five
+#92	AnnotatorNotes T106	lemma = 'twenty-five'
+T107	AV0 204 208	then
+#93	AnnotatorNotes T107	lemma = 'then'
+T108	AJ0 209 214	foyti
+#94	AnnotatorNotes T108	lemma = 'foyti'
+T109	NN1 215 219	fore
+#95	AnnotatorNotes T109	lemma = 'fore'
+T110	NN1 220 227	average
+#96	AnnotatorNotes T110	lemma = 'average'
+T111	NN1 228 232	time
+#97	AnnotatorNotes T111	lemma = 'time'
+T112	VVN 233 238	spent
+#98	AnnotatorNotes T112	lemma = 'spend|spent'
+T113	VDG 239 244	doing
+#99	AnnotatorNotes T113	lemma = 'do'
+T114	NN1 245 250	sport
+#100	AnnotatorNotes T114	lemma = 'sport'
+T115	CRD 251 256	153,8
+#101	AnnotatorNotes T115	lemma = '153,8'
+T116	NN2 257 264	minutes
+#102	AnnotatorNotes T116	lemma = 'minute'
+T117	SENT 264 265	.
+#103	AnnotatorNotes T117	lemma = '.'
+T118	AT0 266 269	The
+#104	AnnotatorNotes T118	lemma = 'the'
+T119	NN2 270 274	ages
+#105	AnnotatorNotes T119	lemma = 'age'
+T120	CRD 275 277	35
+#106	AnnotatorNotes T120	lemma = '35'
+T121	AV0 278 282	then
+#107	AnnotatorNotes T121	lemma = 'then'
+T122	CRD 283 285	44
+#108	AnnotatorNotes T122	lemma = '44'
+T123	NN1 286 290	show
+#109	AnnotatorNotes T123	lemma = 'show'
+T124	NN1 291 298	porydka
+#110	AnnotatorNotes T124	lemma = 'porydka'
+T125	CRD 299 302	one
+#111	AnnotatorNotes T125	lemma = 'one'
+T126	NN1 303 310	handred
+#112	AnnotatorNotes T126	lemma = 'handred'
+T127	CRD 311 317	twenty
+#113	AnnotatorNotes T127	lemma = 'twenty'
+T128	NP0 318 323	minut
+#114	AnnotatorNotes T128	lemma = 'minut'
+T129	POS 323 325	's
+#115	AnnotatorNotes T129	lemma = 's'
+T130	SENT 325 326	.
+#116	AnnotatorNotes T130	lemma = '.'
+T131	NP0 327 332	Kogda
+#117	AnnotatorNotes T131	lemma = 'Kogda'
+T132	NN2 333 338	women
+#118	AnnotatorNotes T132	lemma = 'woman'
+T133	NN1 339 346	average
+#119	AnnotatorNotes T133	lemma = 'average'
+T134	CRD 347 351	92,8
+#120	AnnotatorNotes T134	lemma = '92,8'
+T135	NN2 352 359	minutes
+#121	AnnotatorNotes T135	lemma = 'minute'
+T136	SENT 359 360	.
+#122	AnnotatorNotes T136	lemma = '.'
+T137	NN2 361 366	Women
+#123	AnnotatorNotes T137	lemma = 'woman'
+T138	AT0 367 370	the
+#124	AnnotatorNotes T138	lemma = 'the'
+T139	NN1 371 374	age
+#125	AnnotatorNotes T139	lemma = 'age'
+T140	PRP 375 377	on
+#126	AnnotatorNotes T140	lemma = 'on'
+T141	CRD 378 380	16
+#127	AnnotatorNotes T141	lemma = '16'
+T142	AV0 381 385	then
+#128	AnnotatorNotes T142	lemma = 'then'
+T143	CRD 386 388	24
+#129	AnnotatorNotes T143	lemma = '24'
+T144	AJ0 389 396	average
+#130	AnnotatorNotes T144	lemma = 'average'
+T145	NN1 397 401	time
+#131	AnnotatorNotes T145	lemma = 'time'
+T146	VVN 402 407	spent
+#132	AnnotatorNotes T146	lemma = 'spend|spent'
+T147	VDG 408 413	doing
+#133	AnnotatorNotes T147	lemma = 'do'
+T148	NN1 414 419	sport
+#134	AnnotatorNotes T148	lemma = 'sport'
+T149	CRD 420 425	114,1
+#135	AnnotatorNotes T149	lemma = '114,1'
+T150	NN2 426 433	minutes
+#136	AnnotatorNotes T150	lemma = 'minute'
+T151	PUN 433 434	,
+#137	AnnotatorNotes T151	lemma = ','
+T152	NN2 435 441	thises
+#138	AnnotatorNotes T152	lemma = 'thises'
+T153	PRP 442 444	on
+#139	AnnotatorNotes T153	lemma = 'on'
+T154	NP0 445 451	menshe
+#140	AnnotatorNotes T154	lemma = 'menshe'
+T155	CRD 452 455	166
+#141	AnnotatorNotes T155	lemma = '166'
+T156	NN2 456 463	minutes
+#142	AnnotatorNotes T156	lemma = 'minute'
+T157	AJ0 464 468	chem
+#143	AnnotatorNotes T157	lemma = 'chem'
+T158	NN2 469 472	men
+#144	AnnotatorNotes T158	lemma = 'man'
+T159	SENT 472 473	.
+#145	AnnotatorNotes T159	lemma = '.'
+T160	NN2 474 477	Men
+#146	AnnotatorNotes T160	lemma = 'man'
+T161	PRP 478 480	on
+#147	AnnotatorNotes T161	lemma = 'on'
+T162	CRD 481 483	45
+#148	AnnotatorNotes T162	lemma = '45'
+T163	PRP 484 486	to
+#149	AnnotatorNotes T163	lemma = 'to'
+T164	CRD 487 489	54
+#150	AnnotatorNotes T164	lemma = '54'
+T165	NN1 490 493	age
+#151	AnnotatorNotes T165	lemma = 'age'
+T166	AJ0 494 501	average
+#152	AnnotatorNotes T166	lemma = 'average'
+T167	NN1 502 506	time
+#153	AnnotatorNotes T167	lemma = 'time'
+T168	VBZ 507 509	is
+#154	AnnotatorNotes T168	lemma = 'be'
+T169	NN1 510 515	sport
+#155	AnnotatorNotes T169	lemma = 'sport'
+T170	CRD 516 521	114,2
+#156	AnnotatorNotes T170	lemma = '114,2'
+T171	NP0 522 527	minut
+#157	AnnotatorNotes T171	lemma = 'minut'
+T172	POS 527 529	's
+#158	AnnotatorNotes T172	lemma = 's'
+T173	PUN 529 530	,
+#159	AnnotatorNotes T173	lemma = ','
+T174	AT0 531 532	a
+#160	AnnotatorNotes T174	lemma = 'a'
+T175	NN2 533 538	women
+#161	AnnotatorNotes T175	lemma = 'woman'
+T176	CRD 539 543	70,2
+#162	AnnotatorNotes T176	lemma = '70,2'
+T177	NN2 544 551	minutes
+#163	AnnotatorNotes T177	lemma = 'minute'
+T178	SENT 551 552	.
+#164	AnnotatorNotes T178	lemma = '.'
+T179	DT0 553 557	This
+#165	AnnotatorNotes T179	lemma = 'this'
+T180	VBZ 558 560	is
+#166	AnnotatorNotes T180	lemma = 'be'
+T181	NN1 561 567	menshe
+#167	AnnotatorNotes T181	lemma = 'menshe'
+T182	NN1 568 572	whot
+#168	AnnotatorNotes T182	lemma = 'whot'
+T183	NN2 573 576	men
+#169	AnnotatorNotes T183	lemma = 'man'
+T184	PRP 577 579	on
+#170	AnnotatorNotes T184	lemma = 'on'
+T185	NP0 580 584	foti
+#171	AnnotatorNotes T185	lemma = 'foti'
+T186	PRP 585 588	for
+#172	AnnotatorNotes T186	lemma = 'for'
+T187	NP0 589 594	minut
+#173	AnnotatorNotes T187	lemma = 'minut'
+T188	POS 594 596	's
+#174	AnnotatorNotes T188	lemma = 's'
+T189	SENT 596 597	.
+#175	AnnotatorNotes T189	lemma = '.'
+T190	PNP 598 600	It
+#176	AnnotatorNotes T190	lemma = 'it'
+T191	VBZ 601 603	is
+#177	AnnotatorNotes T191	lemma = 'be'
+T192	AJ0 604 608	graf
+#178	AnnotatorNotes T192	lemma = 'graf'
+T193	PNP 609 611	we
+#179	AnnotatorNotes T193	lemma = 'we'
+T194	VVB 612 616	look
+#180	AnnotatorNotes T194	lemma = 'look'
+T195	PUN 616 617	,
+#181	AnnotatorNotes T195	lemma = ','
+T196	AJ0 618 622	whot
+#182	AnnotatorNotes T196	lemma = 'whot'
+T197	NN1 623 627	chem
+#183	AnnotatorNotes T197	lemma = 'chem'
+T198	NN1 628 635	starshe
+#184	AnnotatorNotes T198	lemma = 'starshe'
+T199	NN0 636 642	people
+#185	AnnotatorNotes T199	lemma = 'people'
+T200	VVB 643 646	tem
+#186	AnnotatorNotes T200	lemma = 'tem'
+T201	NP0 647 653	menshe
+#187	AnnotatorNotes T201	lemma = 'menshe'
+T202	AJ0 654 661	average
+#188	AnnotatorNotes T202	lemma = 'average'
+T203	NN1 662 666	time
+#189	AnnotatorNotes T203	lemma = 'time'
+T204	VVN 667 672	spent
+#190	AnnotatorNotes T204	lemma = 'spend|spent'
+T205	VDG 673 678	doing
+#191	AnnotatorNotes T205	lemma = 'do'
+T206	NN1 679 684	sport
+#192	AnnotatorNotes T206	lemma = 'sport'
+T207	PUN 684 685	,
+#193	AnnotatorNotes T207	lemma = ','
+T208	CJC 686 689	and
+#194	AnnotatorNotes T208	lemma = 'and'
+T209	NN2 690 693	men
+#195	AnnotatorNotes T209	lemma = 'man'
+T210	AJ0 694 701	average
+#196	AnnotatorNotes T210	lemma = 'average'
+T211	NN1 702 706	time
+#197	AnnotatorNotes T211	lemma = 'time'
+T212	AV0 707 711	more
+#198	AnnotatorNotes T212	lemma = 'more'
+T213	AT0 712 713	a
+#199	AnnotatorNotes T213	lemma = 'a'
+T214	NN2 714 719	women
+#200	AnnotatorNotes T214	lemma = 'woman'
+T215	SENT 719 720	.
+#201	AnnotatorNotes T215	lemma = ''

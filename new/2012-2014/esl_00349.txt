@@ -1,0 +1,18 @@
+Mistakes made in written speech form an important field for linguistic research.
+<Mistakes NN2><made VVN><in PRP><written AJ0><speech NN1><form NN1><an AT0><important AJ0><field NN1><for PRP><linguistic AJ0><research NN1><. SENT>@
+Yet, they are not marked in most computer corpora and, therefore, it is not possible to search for mistakes in the texts.
+<Yet AV0><, PUN><they PNP><are VBB><not XX0><marked VVN><in PRP><most DT0><computer NN1><corpora NN2><and CJC><, PUN><therefore AV0><, PUN><it PNP><is VBZ><not XX0><possible AJ0><to TO0><search VVI><for PRP><mistakes NN2><in PRP><the AT0><texts NN2><. SENT>@
+This problem has become important recently.
+<This DT0><problem NN1><has VHZ><become VVN><important AJ0><recently AV0><. SENT>@
+The present paper outlines a system, which would automatically mark mistakes made in constructions with a verb, a preposition and a noun in the Russian language.
+<The AT0><present AJ0><paper NN1><outlines VVZ><a AT0><system NN1><, PUN><which DTQ><would VM0><automatically AV0><mark VVI><mistakes NN2><made VVN><in PRP><constructions NN2><with PRP><a AT0><verb NN1><, PUN><a AT0><preposition NN1><and CJC><a AT0><noun NN1><in PRP><the AT0><Russian AJ0><language NN1><. SENT>@
+The system is described as being based on a trigram search with a number of modifications.
+<The AT0><system NN1><is VBZ><described VVN><as CJS><being VBG><based VVN><on PRP><a AT0><trigram NN1><search NN1><with PRP><a AT0><number NN1><of PRF><modifications NN2><. SENT>@
+It checks the combination of the verb's semantics, the type of preposition used and the case of the noun against a list of correct combinations.
+<It PNP><checks VVZ><the AT0><combination NN1><of PRF><the AT0><verb NN1><'s POS><semantics NN1><, PUN><the AT0><type NN1><of PRF><preposition NN1><used VVN><and CJC><the AT0><case NN1><of PRF><the AT0><noun NN1><against PRP><a AT0><list NN1><of PRF><correct AJ0><combinations NN2><. SENT>@
+Several sources of correct combinations are proposed.
+<Several DT0><sources NN2><of PRF><correct AJ0><combinations NN2><are VBB><proposed AJ0><. SENT>@
+The paper ends with a description of two similar studies.
+<The AT0><paper NN1><ends VVZ><with PRP><a AT0><description NN1><of PRF><two CRD><similar AJ0><studies NN2><. SENT>@
+The implementation of the system is aimed at giving linguists the opportunity to base their research on this type of mistakes in Russian on a large computer corpus.
+<The AT0><implementation NN1><of PRF><the AT0><system NN1><is VBZ><aimed VVN><at PRP><giving VVG><linguists NN2><the AT0><opportunity NN1><to TO0><base VVI><their DPS><research NN1><on PRP><this DT0><type NN1><of PRF><mistakes NN2><in PRP><Russian AJ0><on PRP><a AT0><large AJ0><computer NN1><corpus NN1><. SENT>@

@@ -1,0 +1,705 @@
+T1	lex_item_choice 30 40	connection
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	correlation
+T2	Absence_comp_sent 49 75	post-school qualifications
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	the choice of post-school qualifications
+T3	Tense_form 148 151	was
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	were
+T4	Noun_number 152 174	a different proportion
+A10	Cause T4 L1_interference
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	different proportions
+T5	Prepositions 280 282	in
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	between
+T6	Absence_comp_sent 283 300	males and females
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	the numbers of males and females
+T7	Category_confusion 342 351	different
+A19	Cause T7 Other
+A20	Weight-language T7 Critical
+A21	Weight-understanding T7 Critical
+#7	AnnotatorNotes T7	difference
+T8	Absence_comp_sent 384 394	90% of men
+A22	Cause T8 Other
+A23	Weight-language T8 Critical
+A24	Weight-understanding T8 Major
+#8	AnnotatorNotes T8	there were 90% of men
+T9	Punctuation 391 394	men
+A25	Cause T9 Other
+A26	Weight-language T9 Major
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	men,
+T10	Noun_number 473 483	proportion
+A28	Cause T10 Other
+A29	Weight-language T10 Major
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	proportions
+T11	Articles 449 483	The completely opposite proportion
+A31	Cause T11 Absence_of_Category_in_L1
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	Completely opposite proportions
+T12	Tense_form 484 487	was
+A34	Cause T12 Other
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	were noticed
+T13	Absence_comp_sent 484 487	was
+A37	Cause T13 Other
+A38	Weight-language T13 Minor
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	were noticed
+T14	Word_choice 491 509	the situation with
+A40	Cause T14 L1_interference
+A41	Weight-language T14 Minor
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	the amounts of people who took
+T15	Punctuation 524 531	diploma
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	diploma,
+T16	Prepositional_verb 592 601	prevailed
+A46	Cause T16 Other
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Minor
+#16	AnnotatorNotes T16	prevailed over
+T17	lex_item_choice 610 624	representation
+A49	Cause T17 Other
+A50	Weight-language T17 Major
+A51	Weight-understanding T17 Minor
+#17	AnnotatorNotes T17	amount
+T18	Prepositional_noun 604 624	men's representation
+A52	Cause T18 Other
+A53	Weight-language T18 Major
+A54	Weight-understanding T18 Minor
+#18	AnnotatorNotes T18	amount of men
+T19	Articles 602 624	a men's representation
+A55	Cause T19 Absence_of_Category_in_L1
+A56	Weight-language T19 Major
+A57	Weight-understanding T19 Minor
+#19	AnnotatorNotes T19	the amount of men
+T20	Articles 648 655	a level
+A58	Cause T20 Absence_of_Category_in_L1
+A59	Weight-language T20 Major
+A60	Weight-understanding T20 Major
+#20	AnnotatorNotes T20	level
+T21	Word_choice 739 755	other situations
+A61	Cause T21 Other
+A62	Weight-language T21 Major
+A63	Weight-understanding T21 Critical
+#21	AnnotatorNotes T21	the other parts of the bar chart
+T24	Articles 714 718	data
+A70	Cause T24 Absence_of_Category_in_L1
+A71	Weight-language T24 Minor
+A72	Weight-understanding T24 Minor
+#24	AnnotatorNotes T24	the data
+T25	Articles 739 755	other situations
+A73	Cause T25 Absence_of_Category_in_L1
+A74	Weight-language T25 Major
+A75	Weight-understanding T25 Minor
+#25	AnnotatorNotes T25	the other parts of the bar chart
+T26	Noun_number 761 767	number
+A76	Cause T26 L1_interference
+A77	Weight-language T26 Major
+A78	Weight-understanding T26 Minor
+#26	AnnotatorNotes T26	numbers
+T27	Tense_form 790 793	was
+A79	Cause T27 Other
+A80	Weight-language T27 Major
+A81	Weight-understanding T27 Minor
+#27	AnnotatorNotes T27	were
+T28	Absence_comp_sent 853 870	males and females
+A82	Cause T28 Other
+A83	Weight-language T28 Minor
+A84	Weight-understanding T28 Minor
+#28	AnnotatorNotes T28	both males and females
+T29	Punctuation 920 926	degree
+A85	Cause T29 Other
+A86	Weight-language T29 Major
+A87	Weight-understanding T29 Minor
+#29	AnnotatorNotes T29	degree,
+T30	Noun_number 937 964	a pretty similar proportion
+A88	Cause T30 L1_interference
+A89	Weight-language T30 Major
+A90	Weight-understanding T30 Minor
+#30	AnnotatorNotes T30	pretty similar proportions
+T31	Tense_form 933 936	was
+A91	Cause T31 Other
+A92	Weight-language T31 Major
+A93	Weight-understanding T31 Minor
+#31	AnnotatorNotes T31	were
+T32	Noun_number 992 998	gender
+A94	Cause T32 Other
+A95	Weight-language T32 Major
+A96	Weight-understanding T32 Minor
+#32	AnnotatorNotes T32	genders
+T33	Absence_comp_sent 1140 1144	1999
+A97	Cause T33 Other
+A98	Weight-language T33 Major
+A99	Weight-understanding T33 Minor
+#33	AnnotatorNotes T33	in 1999
+T34	Word_choice 1145 1236	by the majority of men in the first position and by the majority of women in the second one
+A100	Cause T34 Other
+A101	Weight-language T34 Major
+A102	Weight-understanding T34 Major
+#34	AnnotatorNotes T34	by the majority of men and by the majority of women respectively
+T35	Discourse 1145 1236	by the majority of men in the first position and by the majority of women in the second one
+A103	Cause T35 Other
+A104	Weight-language T35 Minor
+A105	Weight-understanding T35 Critical
+#35	AnnotatorNotes T35	by the majority of women and by the majority of men respectively
+T36	Modals 1326 1331	might
+A106	Cause T36 Other
+A107	Weight-language T36 Minor
+A108	Weight-understanding T36 Minor
+#36	AnnotatorNotes T36	can / may
+T37	Spelling 1332 1341	symbolyze
+A109	Cause T37 Typo
+A110	Weight-language T37 Major
+A111	Weight-understanding T37 Minor
+#37	AnnotatorNotes T37	symbolize
+T38	Word_choice 1390 1398	at whole
+A112	Cause T38 L1_interference
+A113	Weight-language T38 Critical
+A114	Weight-understanding T38 Major
+#38	AnnotatorNotes T38	UNCLEAR (Maybe: as a whole OR in general ?..)
+T39	Articles 1342 1350	a desire
+A115	Cause T39 Absence_of_Category_in_L1
+A116	Weight-language T39 Major
+A117	Weight-understanding T39 Major
+#39	AnnotatorNotes T39	the desire
+T40	DET 0 3	The
+#40	AnnotatorNotes T40	lemma = 'the'
+T41	NOUN 4 7	bar
+#41	AnnotatorNotes T41	lemma = 'bar'
+T42	NOUN 8 13	chart
+#42	AnnotatorNotes T42	lemma = 'chart'
+T43	VERB 14 25	illustrates
+#43	AnnotatorNotes T43	lemma = 'illustrate'
+T44	DET 26 29	the
+#44	AnnotatorNotes T44	lemma = 'the'
+T45	NOUN 30 40	connection
+#45	AnnotatorNotes T45	lemma = 'connection'
+T46	ADP 41 48	between
+#46	AnnotatorNotes T46	lemma = 'between'
+T47	NOUN 49 53	post
+#47	AnnotatorNotes T47	lemma = 'post'
+T48	PUNCT 53 54	-
+#48	AnnotatorNotes T48	lemma = '-'
+T49	NOUN 54 60	school
+#49	AnnotatorNotes T49	lemma = 'school'
+T50	NOUN 61 75	qualifications
+#50	AnnotatorNotes T50	lemma = 'qualification'
+T51	CCONJ 76 79	and
+#51	AnnotatorNotes T51	lemma = 'and'
+T52	NOUN 80 86	gender
+#52	AnnotatorNotes T52	lemma = 'gender'
+T53	ADP 87 89	in
+#53	AnnotatorNotes T53	lemma = 'in'
+T54	PROPN 90 99	Australia
+#54	AnnotatorNotes T54	lemma = 'Australia'
+T55	ADP 100 110	throughout
+#55	AnnotatorNotes T55	lemma = 'throughout'
+T56	NUM 111 115	1999
+#56	AnnotatorNotes T56	lemma = '1999'
+T57	NOUN 116 120	year
+#57	AnnotatorNotes T57	lemma = 'year'
+T58	PUNCT 120 121	.
+#58	AnnotatorNotes T58	lemma = '.'
+T59	PRON 122 124	It
+#59	AnnotatorNotes T59	lemma = 'it'
+T60	AUX 125 128	can
+#60	AnnotatorNotes T60	lemma = 'can'
+T61	AUX 129 131	be
+#61	AnnotatorNotes T61	lemma = 'be'
+T62	VERB 132 136	seen
+#62	AnnotatorNotes T62	lemma = 'see'
+T63	SCONJ 137 141	that
+#63	AnnotatorNotes T63	lemma = 'that'
+T64	ADV 142 147	there
+#64	AnnotatorNotes T64	lemma = 'there'
+T65	VERB 148 151	was
+#65	AnnotatorNotes T65	lemma = 'be'
+T66	DET 152 153	a
+#66	AnnotatorNotes T66	lemma = 'a'
+T67	ADJ 154 163	different
+#67	AnnotatorNotes T67	lemma = 'different'
+T68	NOUN 164 174	proportion
+#68	AnnotatorNotes T68	lemma = 'proportion'
+T69	ADP 175 177	of
+#69	AnnotatorNotes T69	lemma = 'of'
+T70	NOUN 178 181	men
+#70	AnnotatorNotes T70	lemma = 'man'
+T71	CCONJ 182 185	and
+#71	AnnotatorNotes T71	lemma = 'and'
+T72	NOUN 186 191	women
+#72	AnnotatorNotes T72	lemma = 'women'
+T73	ADP 192 194	in
+#73	AnnotatorNotes T73	lemma = 'in'
+T74	DET 195 199	each
+#74	AnnotatorNotes T74	lemma = 'each'
+T75	NOUN 200 209	situation
+#75	AnnotatorNotes T75	lemma = 'situation'
+T76	ADV 210 222	respectively
+#76	AnnotatorNotes T76	lemma = 'respectively'
+T77	PUNCT 222 223	.
+#77	AnnotatorNotes T77	lemma = '.'
+T78	ADJ 224 229	First
+#78	AnnotatorNotes T78	lemma = 'first'
+T79	ADP 230 232	of
+#79	AnnotatorNotes T79	lemma = 'of'
+T80	PRON 233 236	all
+#80	AnnotatorNotes T80	lemma = 'all'
+T81	PUNCT 236 237	,
+#81	AnnotatorNotes T81	lemma = ','
+T82	PRON 238 240	it
+#82	AnnotatorNotes T82	lemma = 'it'
+T83	AUX 241 243	is
+#83	AnnotatorNotes T83	lemma = 'be'
+T84	ADJ 244 249	worth
+#84	AnnotatorNotes T84	lemma = 'worth'
+T85	NOUN 250 258	noticing
+#85	AnnotatorNotes T85	lemma = 'noticing'
+T86	PRON 259 263	that
+#86	AnnotatorNotes T86	lemma = 'that'
+T87	ADV 264 269	there
+#87	AnnotatorNotes T87	lemma = 'there'
+T88	AUX 270 273	was
+#88	AnnotatorNotes T88	lemma = 'be'
+T89	DET 274 275	a
+#89	AnnotatorNotes T89	lemma = 'a'
+T90	NOUN 276 279	gap
+#90	AnnotatorNotes T90	lemma = 'gap'
+T91	ADP 280 282	in
+#91	AnnotatorNotes T91	lemma = 'in'
+T92	NOUN 283 288	males
+#92	AnnotatorNotes T92	lemma = 'male'
+T93	CCONJ 289 292	and
+#93	AnnotatorNotes T93	lemma = 'and'
+T94	NOUN 293 300	females
+#94	AnnotatorNotes T94	lemma = 'females'
+T95	PRON 301 304	who
+#95	AnnotatorNotes T95	lemma = 'who'
+T96	VERB 305 309	held
+#96	AnnotatorNotes T96	lemma = 'hold'
+T97	ADJ 310 317	skilled
+#97	AnnotatorNotes T97	lemma = 'skilled'
+T98	ADJ 318 328	vocational
+#98	AnnotatorNotes T98	lemma = 'vocational'
+T99	NOUN 329 336	diploma
+#99	AnnotatorNotes T99	lemma = 'diploma'
+T100	PUNCT 336 337	.
+#100	AnnotatorNotes T100	lemma = '.'
+T101	DET 338 341	The
+#101	AnnotatorNotes T101	lemma = 'the'
+T102	ADJ 342 351	different
+#102	AnnotatorNotes T102	lemma = 'different'
+T103	VERB 352 361	accounted
+#103	AnnotatorNotes T103	lemma = 'account'
+T104	ADP 362 365	for
+#104	AnnotatorNotes T104	lemma = 'for'
+T105	ADV 366 371	about
+#105	AnnotatorNotes T105	lemma = 'about'
+T106	NUM 372 374	80
+#106	AnnotatorNotes T106	lemma = '80'
+T107	SYM 374 375	%
+#107	AnnotatorNotes T107	lemma = '%'
+T108	PUNCT 375 376	,
+#108	AnnotatorNotes T108	lemma = ','
+T109	ADV 377 383	namely
+#109	AnnotatorNotes T109	lemma = 'namely'
+T110	NUM 384 386	90
+#110	AnnotatorNotes T110	lemma = '90'
+T111	SYM 386 387	%
+#111	AnnotatorNotes T111	lemma = '%'
+T112	ADP 388 390	of
+#112	AnnotatorNotes T112	lemma = 'of'
+T113	NOUN 391 394	men
+#113	AnnotatorNotes T113	lemma = 'man'
+T114	CCONJ 395 398	and
+#114	AnnotatorNotes T114	lemma = 'and'
+T115	ADV 399 403	only
+#115	AnnotatorNotes T115	lemma = 'only'
+T116	NUM 404 406	10
+#116	AnnotatorNotes T116	lemma = '10'
+T117	SYM 406 407	%
+#117	AnnotatorNotes T117	lemma = '%'
+T118	ADP 408 410	of
+#118	AnnotatorNotes T118	lemma = 'of'
+T119	NOUN 411 416	women
+#119	AnnotatorNotes T119	lemma = 'women'
+T120	VERB 417 420	had
+#120	AnnotatorNotes T120	lemma = 'have'
+T121	ADJ 421 428	skilled
+#121	AnnotatorNotes T121	lemma = 'skil'
+T122	ADJ 429 439	vocational
+#122	AnnotatorNotes T122	lemma = 'vocational'
+T123	NOUN 440 447	diploma
+#123	AnnotatorNotes T123	lemma = 'diploma'
+T124	PUNCT 447 448	.
+#124	AnnotatorNotes T124	lemma = '.'
+T125	DET 449 452	The
+#125	AnnotatorNotes T125	lemma = 'the'
+T126	ADV 453 463	completely
+#126	AnnotatorNotes T126	lemma = 'completely'
+T127	ADJ 464 472	opposite
+#127	AnnotatorNotes T127	lemma = 'opposite'
+T128	NOUN 473 483	proportion
+#128	AnnotatorNotes T128	lemma = 'proportion'
+T129	AUX 484 487	was
+#129	AnnotatorNotes T129	lemma = 'be'
+T130	ADP 488 490	in
+#130	AnnotatorNotes T130	lemma = 'in'
+T131	DET 491 494	the
+#131	AnnotatorNotes T131	lemma = 'the'
+T132	NOUN 495 504	situation
+#132	AnnotatorNotes T132	lemma = 'situation'
+T133	ADP 505 509	with
+#133	AnnotatorNotes T133	lemma = 'with'
+T134	ADJ 510 523	undergraduate
+#134	AnnotatorNotes T134	lemma = 'undergraduate'
+T135	NOUN 524 531	diploma
+#135	AnnotatorNotes T135	lemma = 'diploma'
+T136	ADV 532 537	where
+#136	AnnotatorNotes T136	lemma = 'where'
+T137	DET 538 541	the
+#137	AnnotatorNotes T137	lemma = 'the'
+T138	NOUN 542 548	number
+#138	AnnotatorNotes T138	lemma = 'number'
+T139	ADP 549 551	of
+#139	AnnotatorNotes T139	lemma = 'of'
+T140	NOUN 552 557	women
+#140	AnnotatorNotes T140	lemma = 'women'
+T141	VERB 558 567	comprised
+#141	AnnotatorNotes T141	lemma = 'comprise'
+T142	ADV 568 580	approximetly
+#142	AnnotatorNotes T142	lemma = 'approximetly'
+T143	NUM 581 583	70
+#143	AnnotatorNotes T143	lemma = '70'
+T144	SYM 583 584	%
+#144	AnnotatorNotes T144	lemma = '%'
+T145	PUNCT 584 585	,
+#145	AnnotatorNotes T145	lemma = ','
+T146	PRON 586 591	which
+#146	AnnotatorNotes T146	lemma = 'which'
+T147	VERB 592 601	prevailed
+#147	AnnotatorNotes T147	lemma = 'prevail'
+T148	DET 602 603	a
+#148	AnnotatorNotes T148	lemma = 'a'
+T149	NOUN 604 607	men
+#149	AnnotatorNotes T149	lemma = 'man'
+T150	PART 607 609	's
+#150	AnnotatorNotes T150	lemma = ''s'
+T151	NOUN 610 624	representation
+#151	AnnotatorNotes T151	lemma = 'representation'
+T152	ADP 625 627	by
+#152	AnnotatorNotes T152	lemma = 'by'
+T153	NUM 628 630	30
+#153	AnnotatorNotes T153	lemma = '30'
+T154	SYM 630 631	%
+#154	AnnotatorNotes T154	lemma = '%'
+T155	PUNCT 631 632	.
+#155	AnnotatorNotes T155	lemma = '.'
+T156	ADV 633 641	Moreover
+#156	AnnotatorNotes T156	lemma = 'moreover'
+T157	PUNCT 641 642	,
+#157	AnnotatorNotes T157	lemma = ','
+T158	DET 643 647	such
+#158	AnnotatorNotes T158	lemma = 'such'
+T159	DET 648 649	a
+#159	AnnotatorNotes T159	lemma = 'a'
+T160	NOUN 650 655	level
+#160	AnnotatorNotes T160	lemma = 'level'
+T161	ADP 656 658	of
+#161	AnnotatorNotes T161	lemma = 'of'
+T162	NOUN 659 663	post
+#162	AnnotatorNotes T162	lemma = 'post'
+T163	PUNCT 663 664	-
+#163	AnnotatorNotes T163	lemma = '-'
+T164	NOUN 664 670	school
+#164	AnnotatorNotes T164	lemma = 'school'
+T165	NOUN 671 684	qualification
+#165	AnnotatorNotes T165	lemma = 'qualification'
+T166	ADP 685 687	as
+#166	AnnotatorNotes T166	lemma = 'as'
+T167	PROPN 688 696	Bachelor
+#167	AnnotatorNotes T167	lemma = 'Bachelor'
+T168	PART 696 698	's
+#168	AnnotatorNotes T168	lemma = ''s'
+T169	NOUN 699 705	degree
+#169	AnnotatorNotes T169	lemma = 'degree'
+T170	NOUN 706 713	depicts
+#170	AnnotatorNotes T170	lemma = 'depict'
+T171	NOUN 714 718	data
+#171	AnnotatorNotes T171	lemma = 'datum'
+T172	PUNCT 718 719	,
+#172	AnnotatorNotes T172	lemma = ','
+T173	PRON 720 725	which
+#173	AnnotatorNotes T173	lemma = 'which'
+T174	VERB 726 733	differs
+#174	AnnotatorNotes T174	lemma = 'differ'
+T175	ADP 734 738	from
+#175	AnnotatorNotes T175	lemma = 'from'
+T176	ADJ 739 744	other
+#176	AnnotatorNotes T176	lemma = 'other'
+T177	NOUN 745 755	situations
+#177	AnnotatorNotes T177	lemma = 'situation'
+T178	PUNCT 755 756	.
+#178	AnnotatorNotes T178	lemma = '.'
+T179	DET 757 760	The
+#179	AnnotatorNotes T179	lemma = 'the'
+T180	NOUN 761 767	number
+#180	AnnotatorNotes T180	lemma = 'number'
+T181	ADP 768 770	of
+#181	AnnotatorNotes T181	lemma = 'of'
+T182	NOUN 771 774	men
+#182	AnnotatorNotes T182	lemma = 'man'
+T183	CCONJ 775 778	and
+#183	AnnotatorNotes T183	lemma = 'and'
+T184	NOUN 779 784	women
+#184	AnnotatorNotes T184	lemma = 'women'
+T185	ADV 785 789	here
+#185	AnnotatorNotes T185	lemma = 'here'
+T186	AUX 790 793	was
+#186	AnnotatorNotes T186	lemma = 'be'
+T187	ADV 794 805	practically
+#187	AnnotatorNotes T187	lemma = 'practically'
+T188	ADJ 806 811	equal
+#188	AnnotatorNotes T188	lemma = 'equal'
+T189	PUNCT 811 812	.
+#189	AnnotatorNotes T189	lemma = '.'
+T190	NOUN 813 821	Bachelor
+#190	AnnotatorNotes T190	lemma = 'Bachelor'
+T191	PART 821 823	's
+#191	AnnotatorNotes T191	lemma = ''s'
+T192	NOUN 824 830	degree
+#192	AnnotatorNotes T192	lemma = 'degree'
+T193	AUX 831 834	was
+#193	AnnotatorNotes T193	lemma = 'be'
+T194	VERB 835 839	held
+#194	AnnotatorNotes T194	lemma = 'hold'
+T195	ADP 840 842	by
+#195	AnnotatorNotes T195	lemma = 'by'
+T196	DET 843 844	a
+#196	AnnotatorNotes T196	lemma = 'a'
+T197	NOUN 845 849	half
+#197	AnnotatorNotes T197	lemma = 'half'
+T198	ADP 850 852	of
+#198	AnnotatorNotes T198	lemma = 'of'
+T199	NOUN 853 858	males
+#199	AnnotatorNotes T199	lemma = 'male'
+T200	CCONJ 859 862	and
+#200	AnnotatorNotes T200	lemma = 'and'
+T201	NOUN 863 870	females
+#201	AnnotatorNotes T201	lemma = 'female'
+T202	PUNCT 870 871	.
+#202	AnnotatorNotes T202	lemma = '.'
+T203	PRON 872 876	What
+#203	AnnotatorNotes T203	lemma = 'what'
+T204	AUX 877 879	is
+#204	AnnotatorNotes T204	lemma = 'be'
+T205	ADV 880 885	about
+#205	AnnotatorNotes T205	lemma = 'about'
+T206	VERB 886 898	postgraduate
+#206	AnnotatorNotes T206	lemma = 'postgraduate'
+T207	NOUN 899 906	diploma
+#207	AnnotatorNotes T207	lemma = 'diploma'
+T208	CCONJ 907 910	and
+#208	AnnotatorNotes T208	lemma = 'and'
+T209	NOUN 911 917	Master
+#209	AnnotatorNotes T209	lemma = 'Master'
+T210	PART 917 919	's
+#210	AnnotatorNotes T210	lemma = ''s'
+T211	NOUN 920 926	degree
+#211	AnnotatorNotes T211	lemma = 'degree'
+T212	ADV 927 932	there
+#212	AnnotatorNotes T212	lemma = 'there'
+T213	AUX 933 936	was
+#213	AnnotatorNotes T213	lemma = 'be'
+T214	DET 937 938	a
+#214	AnnotatorNotes T214	lemma = 'a'
+T215	ADV 939 945	pretty
+#215	AnnotatorNotes T215	lemma = 'pretty'
+T216	ADJ 946 953	similar
+#216	AnnotatorNotes T216	lemma = 'similar'
+T217	NOUN 954 964	proportion
+#217	AnnotatorNotes T217	lemma = 'proportion'
+T218	ADP 965 967	of
+#218	AnnotatorNotes T218	lemma = 'of'
+T219	NOUN 968 983	representatives
+#219	AnnotatorNotes T219	lemma = 'representative'
+T220	ADP 984 986	of
+#220	AnnotatorNotes T220	lemma = 'of'
+T221	DET 987 991	both
+#221	AnnotatorNotes T221	lemma = 'both'
+T222	NOUN 992 998	gender
+#222	AnnotatorNotes T222	lemma = 'gender'
+T223	ADP 999 1003	with
+#223	AnnotatorNotes T223	lemma = 'with'
+T224	DET 1004 1007	the
+#224	AnnotatorNotes T224	lemma = 'the'
+T225	VERB 1008 1015	leading
+#225	AnnotatorNotes T225	lemma = 'leading'
+T226	NOUN 1016 1026	percentage
+#226	AnnotatorNotes T226	lemma = 'percentage'
+T227	ADP 1027 1029	of
+#227	AnnotatorNotes T227	lemma = 'of'
+T228	NOUN 1030 1033	men
+#228	AnnotatorNotes T228	lemma = 'man'
+T229	PUNCT 1033 1034	.
+#229	AnnotatorNotes T229	lemma = '.'
+T230	PRON 1035 1042	Overall
+#230	AnnotatorNotes T230	lemma = 'overall'
+T231	PUNCT 1042 1043	,
+#231	AnnotatorNotes T231	lemma = ','
+T232	PRON 1044 1046	it
+#232	AnnotatorNotes T232	lemma = 'it'
+T233	AUX 1047 1050	can
+#233	AnnotatorNotes T233	lemma = 'can'
+T234	AUX 1051 1053	be
+#234	AnnotatorNotes T234	lemma = 'be'
+T235	VERB 1054 1061	noticed
+#235	AnnotatorNotes T235	lemma = 'notice'
+T236	SCONJ 1062 1066	that
+#236	AnnotatorNotes T236	lemma = 'that'
+T237	ADV 1067 1072	there
+#237	AnnotatorNotes T237	lemma = 'there'
+T238	VERB 1073 1076	was
+#238	AnnotatorNotes T238	lemma = 'be'
+T239	DET 1077 1078	a
+#239	AnnotatorNotes T239	lemma = 'a'
+T240	NOUN 1079 1087	tendency
+#240	AnnotatorNotes T240	lemma = 'tendency'
+T241	PART 1088 1090	to
+#241	AnnotatorNotes T241	lemma = 'to'
+T242	VERB 1091 1094	get
+#242	AnnotatorNotes T242	lemma = 'get'
+T243	ADJ 1095 1108	undergraduate
+#243	AnnotatorNotes T243	lemma = 'undergraduate'
+T244	CCONJ 1109 1112	and
+#244	AnnotatorNotes T244	lemma = 'and'
+T245	ADJ 1113 1120	skilled
+#245	AnnotatorNotes T245	lemma = 'skilled'
+T246	ADJ 1121 1131	vocational
+#246	AnnotatorNotes T246	lemma = 'vocational'
+T247	NOUN 1132 1139	diploma
+#247	AnnotatorNotes T247	lemma = 'diploma'
+T248	NUM 1140 1144	1999
+#248	AnnotatorNotes T248	lemma = '1999'
+T249	ADP 1145 1147	by
+#249	AnnotatorNotes T249	lemma = 'by'
+T250	DET 1148 1151	the
+#250	AnnotatorNotes T250	lemma = 'the'
+T251	NOUN 1152 1160	majority
+#251	AnnotatorNotes T251	lemma = 'majority'
+T252	ADP 1161 1163	of
+#252	AnnotatorNotes T252	lemma = 'of'
+T253	NOUN 1164 1167	men
+#253	AnnotatorNotes T253	lemma = 'man'
+T254	ADP 1168 1170	in
+#254	AnnotatorNotes T254	lemma = 'in'
+T255	DET 1171 1174	the
+#255	AnnotatorNotes T255	lemma = 'the'
+T256	ADJ 1175 1180	first
+#256	AnnotatorNotes T256	lemma = 'first'
+T257	NOUN 1181 1189	position
+#257	AnnotatorNotes T257	lemma = 'position'
+T258	CCONJ 1190 1193	and
+#258	AnnotatorNotes T258	lemma = 'and'
+T259	ADP 1194 1196	by
+#259	AnnotatorNotes T259	lemma = 'by'
+T260	DET 1197 1200	the
+#260	AnnotatorNotes T260	lemma = 'the'
+T261	NOUN 1201 1209	majority
+#261	AnnotatorNotes T261	lemma = 'majority'
+T262	ADP 1210 1212	of
+#262	AnnotatorNotes T262	lemma = 'of'
+T263	NOUN 1213 1218	women
+#263	AnnotatorNotes T263	lemma = 'women'
+T264	ADP 1219 1221	in
+#264	AnnotatorNotes T264	lemma = 'in'
+T265	DET 1222 1225	the
+#265	AnnotatorNotes T265	lemma = 'the'
+T266	ADJ 1226 1232	second
+#266	AnnotatorNotes T266	lemma = 'second'
+T267	NUM 1233 1236	one
+#267	AnnotatorNotes T267	lemma = 'one'
+T268	PUNCT 1236 1237	.
+#268	AnnotatorNotes T268	lemma = '.'
+T269	ADV 1238 1242	More
+#269	AnnotatorNotes T269	lemma = 'more'
+T270	ADP 1243 1247	than
+#270	AnnotatorNotes T270	lemma = 'than'
+T271	NUM 1248 1250	50
+#271	AnnotatorNotes T271	lemma = '50'
+T272	SYM 1250 1251	%
+#272	AnnotatorNotes T272	lemma = '%'
+T273	ADP 1252 1254	of
+#273	AnnotatorNotes T273	lemma = 'of'
+T274	DET 1255 1258	all
+#274	AnnotatorNotes T274	lemma = 'all'
+T275	NOUN 1259 1269	population
+#275	AnnotatorNotes T275	lemma = 'population'
+T276	VERB 1270 1274	held
+#276	AnnotatorNotes T276	lemma = 'hold'
+T277	NOUN 1275 1279	post
+#277	AnnotatorNotes T277	lemma = 'post'
+T278	PUNCT 1279 1280	-
+#278	AnnotatorNotes T278	lemma = '-'
+T279	NOUN 1280 1286	school
+#279	AnnotatorNotes T279	lemma = 'school'
+T280	NOUN 1287 1300	qualification
+#280	AnnotatorNotes T280	lemma = 'qualification'
+T281	ADP 1301 1303	at
+#281	AnnotatorNotes T281	lemma = 'at'
+T282	ADJ 1304 1311	various
+#282	AnnotatorNotes T282	lemma = 'various'
+T283	NOUN 1312 1318	levels
+#283	AnnotatorNotes T283	lemma = 'level'
+T284	PUNCT 1318 1319	,
+#284	AnnotatorNotes T284	lemma = ','
+T285	PRON 1320 1325	which
+#285	AnnotatorNotes T285	lemma = 'which'
+T286	AUX 1326 1331	might
+#286	AnnotatorNotes T286	lemma = 'may'
+T287	VERB 1332 1341	symbolyze
+#287	AnnotatorNotes T287	lemma = 'symbolyze'
+T288	DET 1342 1343	a
+#288	AnnotatorNotes T288	lemma = 'a'
+T289	NOUN 1344 1350	desire
+#289	AnnotatorNotes T289	lemma = 'desire'
+T290	PART 1351 1353	to
+#290	AnnotatorNotes T290	lemma = 'to'
+T291	VERB 1354 1357	get
+#291	AnnotatorNotes T291	lemma = 'get'
+T292	DET 1358 1361	any
+#292	AnnotatorNotes T292	lemma = 'any'
+T293	NOUN 1362 1371	education
+#293	AnnotatorNotes T293	lemma = 'education'
+T294	ADP 1372 1374	by
+#294	AnnotatorNotes T294	lemma = 'by'
+T295	DET 1375 1378	the
+#295	AnnotatorNotes T295	lemma = 'the'
+T296	NOUN 1379 1389	population
+#296	AnnotatorNotes T296	lemma = 'population'
+T297	ADP 1390 1392	at
+#297	AnnotatorNotes T297	lemma = 'at'
+T298	NOUN 1393 1398	whole
+#298	AnnotatorNotes T298	lemma = 'whole'
+T299	PUNCT 1398 1399	.
+#299	AnnotatorNotes T299	lemma = '.'

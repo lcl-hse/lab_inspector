@@ -1,0 +1,538 @@
+T1	Spelling 106 113	Northen
+#1	AnnotatorNotes T1	Northern
+T2	Spelling 252 261	pernanent
+#2	AnnotatorNotes T2	permanent
+T3	Spelling 270 276	Hiddle
+#3	AnnotatorNotes T3	Middle
+T4	Articles 270 281	Hiddle East
+#4	AnnotatorNotes T4	the Middle East
+T5	Articles 529 531	EU
+#5	AnnotatorNotes T5	the EU
+T6	Punctuation 620 623	and
+#6	AnnotatorNotes T6	, and
+T7	Noun_number 850 856	period
+#7	AnnotatorNotes T7	periods
+T8	Spelling 965 971	worldl
+#8	AnnotatorNotes T8	world
+T9	Spelling 993 1000	althoug
+#9	AnnotatorNotes T9	although
+T10	lex_item_choice 1001 1004	one
+#10	AnnotatorNotes T10	some
+T11	Articles 1103 1117	lowest numbers
+#11	AnnotatorNotes T11	the lowest numbers
+T12	Spelling 1132 1137	peopl
+#12	AnnotatorNotes T12	people
+T13	Prepositions 1174 1177	for
+#13	AnnotatorNotes T13	during
+T14	Articles 1046 1065	decreasing movement
+#14	AnnotatorNotes T14	a decreasing movement
+T15	Spelling 930 934	2015
+#15	AnnotatorNotes T15	2014
+T16	Tense_choice 174 177	has
+#16	AnnotatorNotes T16	had
+T17	Tense_choice 282 285	are
+#17	AnnotatorNotes T17	were
+T18	Tense_choice 49 56	changes
+#18	AnnotatorNotes T18	changed
+T19	Tense_choice 532 535	has
+#19	AnnotatorNotes T19	had
+T20	Tense_form 824 838	didn't changed
+#20	AnnotatorNotes T20	didn't change
+T21	Punctuation 1035 1036	.
+#21	AnnotatorNotes T21	,
+T22	Spelling 1037 1043	Others
+#22	AnnotatorNotes T22	others
+R1	Dependent_change Arg1:T21 Arg2:T22
+T23	Articles 1067 1073	Leader
+#23	AnnotatorNotes T23	The leader
+T24	Articles 1090 1097	country
+#24	AnnotatorNotes T24	the country
+T25	Linking_device 764 779	In the same way
+#25	AnnotatorNotes T25	Likewise
+T26	suggestion 764 779	In the same way
+T27	Punctuation 764 856	In the same way, the amount of unemployed people in S. Asia didn't changed during two period
+#26	AnnotatorNotes T27	Likewise, the amount of unemployed people in S. Asia didn’t change during two periods.
+T28	AT0 0 3	The
+#27	AnnotatorNotes T28	lemma = 'the'
+T29	NN1 4 9	graph
+#28	AnnotatorNotes T29	lemma = 'graph'
+T30	VVZ 10 21	illustrates
+#29	AnnotatorNotes T30	lemma = 'illustrate'
+T31	AVQ 22 25	how
+#30	AnnotatorNotes T31	lemma = 'how'
+T32	AT0 26 29	the
+#31	AnnotatorNotes T32	lemma = 'the'
+T33	NN1 30 42	unemployment
+#32	AnnotatorNotes T33	lemma = 'unemployment'
+T34	NN1 43 48	level
+#33	AnnotatorNotes T34	lemma = 'level'
+T35	NN2 49 56	changes
+#34	AnnotatorNotes T35	lemma = 'change'
+T36	PRP 57 59	in
+#35	AnnotatorNotes T36	lemma = 'in'
+T37	AJ0 60 69	different
+#36	AnnotatorNotes T37	lemma = 'different'
+T38	NN2 70 75	areas
+#37	AnnotatorNotes T38	lemma = 'area'
+T39	PRP 76 78	in
+#38	AnnotatorNotes T39	lemma = 'in'
+T40	AJ0 79 87	two-year
+#39	AnnotatorNotes T40	lemma = 'two-year'
+T41	NN1 88 94	period
+#40	AnnotatorNotes T41	lemma = 'period'
+T42	SENT 94 95	.
+#41	AnnotatorNotes T42	lemma = '.'
+T43	AV0 97 104	Overall
+#42	AnnotatorNotes T43	lemma = 'overall'
+T44	PUN 104 105	,
+#43	AnnotatorNotes T44	lemma = ','
+T45	NP0 106 113	Northen
+#44	AnnotatorNotes T45	lemma = 'Northen'
+T46	NP0 114 120	Africa
+#45	AnnotatorNotes T46	lemma = 'africa'
+T47	VHD 121 124	had
+#46	AnnotatorNotes T47	lemma = 'have'
+T48	AT0 125 128	the
+#47	AnnotatorNotes T48	lemma = 'the'
+T49	AJS 129 136	highest
+#48	AnnotatorNotes T49	lemma = 'high'
+T50	NN1 137 149	unemployment
+#49	AnnotatorNotes T50	lemma = 'unemployment'
+T51	NN1 150 154	rate
+#50	AnnotatorNotes T51	lemma = 'rate'
+T52	PUN 154 155	,
+#51	AnnotatorNotes T52	lemma = ','
+T53	CJC 156 159	but
+#52	AnnotatorNotes T53	lemma = 'but'
+T54	AJ0 160 168	Southern
+#53	AnnotatorNotes T54	lemma = 'southern'
+T55	NP0 169 173	Asia
+#54	AnnotatorNotes T55	lemma = 'asia'
+T56	VHZ 174 177	has
+#55	AnnotatorNotes T56	lemma = 'have'
+T57	AT0 178 181	the
+#56	AnnotatorNotes T57	lemma = 'the'
+T58	AJS 182 188	lowest
+#57	AnnotatorNotes T58	lemma = 'low'
+T59	NN1 189 194	level
+#58	AnnotatorNotes T59	lemma = 'level'
+T60	PRF 195 197	of
+#59	AnnotatorNotes T60	lemma = 'of'
+T61	DT0 198 202	this
+#60	AnnotatorNotes T61	lemma = 'this'
+T62	NN1 203 209	figure
+#61	AnnotatorNotes T62	lemma = 'figure'
+T63	PRP 210 212	in
+#62	AnnotatorNotes T63	lemma = 'in'
+T64	DT0 213 217	both
+#63	AnnotatorNotes T64	lemma = 'both'
+T65	NN2 218 225	periods
+#64	AnnotatorNotes T65	lemma = 'period'
+T66	SENT 225 226	.
+#65	AnnotatorNotes T66	lemma = '.'
+T67	AV0 228 235	Firstly
+#66	AnnotatorNotes T67	lemma = 'firstly'
+T68	PUN 235 236	,
+#67	AnnotatorNotes T68	lemma = ','
+T69	NN0 237 243	people
+#68	AnnotatorNotes T69	lemma = 'people'
+T70	PRP 244 251	without
+#69	AnnotatorNotes T70	lemma = 'without'
+T71	AJ0 252 261	pernanent
+#70	AnnotatorNotes T71	lemma = 'pernanent'
+T72	NN1 262 266	work
+#71	AnnotatorNotes T72	lemma = 'work'
+T73	PRP 267 269	in
+#72	AnnotatorNotes T73	lemma = 'in'
+T74	NP0 270 276	Hiddle
+#73	AnnotatorNotes T74	lemma = 'Hiddle'
+T75	NP0 277 281	East
+#74	AnnotatorNotes T75	lemma = 'east'
+T76	VBB 282 285	are
+#75	AnnotatorNotes T76	lemma = 'be'
+T77	VVN 286 295	accounted
+#76	AnnotatorNotes T77	lemma = 'account'
+T78	PRP 296 299	for
+#77	AnnotatorNotes T78	lemma = 'for'
+T79	CRD 300 302	11
+#78	AnnotatorNotes T79	lemma = '11'
+T80	NN0 302 303	%
+#79	AnnotatorNotes T80	lemma = '%'
+T81	PRP 304 306	in
+#80	AnnotatorNotes T81	lemma = 'in'
+T82	CRD 307 311	2014
+#81	AnnotatorNotes T82	lemma = '2014'
+T83	SENT 311 312	.
+#82	AnnotatorNotes T83	lemma = '.'
+T84	DT0 313 317	This
+#83	AnnotatorNotes T84	lemma = 'this'
+T85	NN1 318 324	figure
+#84	AnnotatorNotes T85	lemma = 'figure'
+T86	AV0 325 331	slowly
+#85	AnnotatorNotes T86	lemma = 'slowly'
+T87	VVN 332 341	decreased
+#86	AnnotatorNotes T87	lemma = 'decrease'
+T88	PRP 342 344	by
+#87	AnnotatorNotes T88	lemma = 'by'
+T89	CRD 345 348	2,4
+#88	AnnotatorNotes T89	lemma = '2,4'
+T90	NN0 348 349	%
+#89	AnnotatorNotes T90	lemma = '%'
+T91	CJC 350 353	and
+#90	AnnotatorNotes T91	lemma = 'and'
+T92	VVD 354 361	stopped
+#91	AnnotatorNotes T92	lemma = 'stop|stopped'
+T93	PRP 362 364	at
+#92	AnnotatorNotes T93	lemma = 'at'
+T94	CRD 365 368	9,6
+#93	AnnotatorNotes T94	lemma = '9,6'
+T95	NN0 368 369	%
+#94	AnnotatorNotes T95	lemma = '%'
+T96	PRP 370 372	in
+#95	AnnotatorNotes T96	lemma = 'in'
+T97	CRD 373 377	2015
+#96	AnnotatorNotes T97	lemma = '2015'
+T98	SENT 377 378	.
+#97	AnnotatorNotes T98	lemma = '.'
+T99	AT0 380 383	The
+#98	AnnotatorNotes T99	lemma = 'the'
+T100	DT0 384 388	same
+#99	AnnotatorNotes T100	lemma = 'same'
+T101	NN1 389 398	situation
+#100	AnnotatorNotes T101	lemma = 'situation'
+T102	VM0 399 402	can
+#101	AnnotatorNotes T102	lemma = 'can'
+T103	VBI 403 405	be
+#102	AnnotatorNotes T103	lemma = 'be'
+T104	VVN 406 413	noticed
+#103	AnnotatorNotes T104	lemma = 'notice'
+T105	PRP 414 416	in
+#104	AnnotatorNotes T105	lemma = 'in'
+T106	AJ0 417 422	Latin
+#105	AnnotatorNotes T106	lemma = 'latin'
+T107	NP0 423 430	America
+#106	AnnotatorNotes T107	lemma = 'america'
+T108	SENT 430 431	.
+#107	AnnotatorNotes T108	lemma = '.'
+T109	AT0 432 435	The
+#108	AnnotatorNotes T109	lemma = 'the'
+T110	NN1 436 448	unemployment
+#109	AnnotatorNotes T110	lemma = 'unemployment'
+T111	NN1 449 453	rate
+#110	AnnotatorNotes T111	lemma = 'rate'
+T112	PRP 454 456	in
+#111	AnnotatorNotes T112	lemma = 'in'
+T113	DT0 457 461	this
+#112	AnnotatorNotes T113	lemma = 'this'
+T114	NN1 462 469	country
+#113	AnnotatorNotes T114	lemma = 'country'
+T115	VVD 470 474	fell
+#114	AnnotatorNotes T115	lemma = 'fall|fell'
+T116	AVP 475 479	down
+#115	AnnotatorNotes T116	lemma = 'down'
+T117	PRP 480 484	from
+#116	AnnotatorNotes T117	lemma = 'from'
+T118	CRD 485 488	6,8
+#117	AnnotatorNotes T118	lemma = '6,8'
+T119	NN0 488 489	%
+#118	AnnotatorNotes T119	lemma = '%'
+T120	PRP 490 492	in
+#119	AnnotatorNotes T120	lemma = 'in'
+T121	CRD 493 497	2014
+#120	AnnotatorNotes T121	lemma = '2014'
+T122	PRP 498 500	to
+#121	AnnotatorNotes T122	lemma = 'to'
+T123	CRD 501 504	5,8
+#122	AnnotatorNotes T123	lemma = '5,8'
+T124	NN0 504 505	%
+#123	AnnotatorNotes T124	lemma = '%'
+T125	PRP 506 508	in
+#124	AnnotatorNotes T125	lemma = 'in'
+T126	CRD 509 513	2015
+#125	AnnotatorNotes T126	lemma = '2015'
+T127	SENT 513 514	.
+#126	AnnotatorNotes T127	lemma = '.'
+T128	PRP 516 518	In
+#127	AnnotatorNotes T128	lemma = 'in'
+T129	NN1 519 527	contrast
+#128	AnnotatorNotes T129	lemma = 'contrast'
+T130	PUN 527 528	,
+#129	AnnotatorNotes T130	lemma = ','
+T131	NP0 529 531	EU
+#130	AnnotatorNotes T131	lemma = 'eu'
+T132	VHZ 532 535	has
+#131	AnnotatorNotes T132	lemma = 'have'
+T133	AT0 536 537	a
+#132	AnnotatorNotes T133	lemma = 'a'
+T134	AJ0 538 545	growing
+#133	AnnotatorNotes T134	lemma = 'growing|grow'
+T135	NN1 546 551	trend
+#134	AnnotatorNotes T135	lemma = 'trend'
+T136	PRF 552 554	of
+#135	AnnotatorNotes T136	lemma = 'of'
+T137	NN1 555 567	unemployment
+#136	AnnotatorNotes T137	lemma = 'unemployment'
+T138	PRP 568 570	in
+#137	AnnotatorNotes T138	lemma = 'in'
+T139	DT0 571 575	this
+#138	AnnotatorNotes T139	lemma = 'this'
+T140	NN1 576 582	period
+#139	AnnotatorNotes T140	lemma = 'period'
+T141	SENT 582 583	.
+#140	AnnotatorNotes T141	lemma = '.'
+T142	PNP 584 586	It
+#141	AnnotatorNotes T142	lemma = 'it'
+T143	VBD 587 590	was
+#142	AnnotatorNotes T143	lemma = 'be'
+T144	PRP 591 593	at
+#143	AnnotatorNotes T144	lemma = 'at'
+T145	AT0 594 597	the
+#144	AnnotatorNotes T145	lemma = 'the'
+T146	NN1 598 603	level
+#145	AnnotatorNotes T146	lemma = 'level'
+T147	PRF 604 606	of
+#146	AnnotatorNotes T147	lemma = 'of'
+T148	CRD 607 610	7,5
+#147	AnnotatorNotes T148	lemma = '7,5'
+T149	NN0 610 611	%
+#148	AnnotatorNotes T149	lemma = '%'
+T150	PRP 612 614	in
+#149	AnnotatorNotes T150	lemma = 'in'
+T151	CRD 615 619	2014
+#150	AnnotatorNotes T151	lemma = '2014'
+T152	CJC 620 623	and
+#151	AnnotatorNotes T152	lemma = 'and'
+T153	AV0 624 628	then
+#152	AnnotatorNotes T153	lemma = 'then'
+T154	PNP 629 631	it
+#153	AnnotatorNotes T154	lemma = 'it'
+T155	AV0 632 640	slightly
+#154	AnnotatorNotes T155	lemma = 'slightly'
+T156	VVD 641 645	went
+#155	AnnotatorNotes T156	lemma = 'go'
+T157	AVP 646 648	up
+#156	AnnotatorNotes T157	lemma = 'up'
+T158	CJC 649 652	and
+#157	AnnotatorNotes T158	lemma = 'and'
+T159	VVN 653 658	fixed
+#158	AnnotatorNotes T159	lemma = 'fix|fixed'
+T160	PRP 659 661	at
+#159	AnnotatorNotes T160	lemma = 'at'
+T161	CRD 662 665	7,9
+#160	AnnotatorNotes T161	lemma = '7,9'
+T162	NN0 665 666	%
+#161	AnnotatorNotes T162	lemma = '%'
+T163	PRP 667 669	in
+#162	AnnotatorNotes T163	lemma = 'in'
+T164	CRD 670 674	2015
+#163	AnnotatorNotes T164	lemma = '2015'
+T165	SENT 674 675	.
+#164	AnnotatorNotes T165	lemma = '.'
+T166	PRP 677 679	In
+#165	AnnotatorNotes T166	lemma = 'in'
+T167	NN1 680 684	fact
+#166	AnnotatorNotes T167	lemma = 'fact'
+T168	PUN 684 685	,
+#167	AnnotatorNotes T168	lemma = ','
+T169	AT0 686 689	the
+#168	AnnotatorNotes T169	lemma = 'the'
+T170	NN1 690 702	unemployment
+#169	AnnotatorNotes T170	lemma = 'unemployment'
+T171	NN1 703 707	rate
+#170	AnnotatorNotes T171	lemma = 'rate'
+T172	PRP 708 710	in
+#171	AnnotatorNotes T172	lemma = 'in'
+T173	NP0 711 713	N.
+#172	AnnotatorNotes T173	lemma = 'N.'
+T174	NP0 714 720	Africa
+#173	AnnotatorNotes T174	lemma = 'africa'
+T175	VVD 721 729	remained
+#174	AnnotatorNotes T175	lemma = 'remain'
+T176	PRP 730 732	at
+#175	AnnotatorNotes T176	lemma = 'at'
+T177	AV0 733 743	abnormally
+#176	AnnotatorNotes T177	lemma = 'abnormally'
+T178	AJ0 744 748	high
+#177	AnnotatorNotes T178	lemma = 'high'
+T179	NN1 749 754	level
+#178	AnnotatorNotes T179	lemma = 'level'
+T180	PUL 755 756	(
+#179	AnnotatorNotes T180	lemma = '('
+T181	CRD 756 760	12,5
+#180	AnnotatorNotes T181	lemma = '12,5'
+T182	NN0 760 761	%
+#181	AnnotatorNotes T182	lemma = '%'
+T183	PUR 761 762	)
+#182	AnnotatorNotes T183	lemma = ')'
+T184	SENT 762 763	.
+#183	AnnotatorNotes T184	lemma = '.'
+T185	PRP 764 766	In
+#184	AnnotatorNotes T185	lemma = 'in'
+T186	AT0 767 770	the
+#185	AnnotatorNotes T186	lemma = 'the'
+T187	DT0 771 775	same
+#186	AnnotatorNotes T187	lemma = 'same'
+T188	NN1 776 779	way
+#187	AnnotatorNotes T188	lemma = 'way'
+T189	PUN 779 780	,
+#188	AnnotatorNotes T189	lemma = ','
+T190	AT0 781 784	the
+#189	AnnotatorNotes T190	lemma = 'the'
+T191	NN1 785 791	amount
+#190	AnnotatorNotes T191	lemma = 'amount'
+T192	PRF 792 794	of
+#191	AnnotatorNotes T192	lemma = 'of'
+T193	AJ0 795 805	unemployed
+#192	AnnotatorNotes T193	lemma = 'unemployed'
+T194	NN0 806 812	people
+#193	AnnotatorNotes T194	lemma = 'people'
+T195	PRP 813 815	in
+#194	AnnotatorNotes T195	lemma = 'in'
+T196	NP0 816 818	S.
+#195	AnnotatorNotes T196	lemma = 's.'
+T197	NP0 819 823	Asia
+#196	AnnotatorNotes T197	lemma = 'asia'
+T198	VDD 824 827	did
+#197	AnnotatorNotes T198	lemma = 'do'
+T199	XX0 827 830	n't
+#198	AnnotatorNotes T199	lemma = 'not'
+T200	VVN 831 838	changed
+#199	AnnotatorNotes T200	lemma = 'change|changed'
+T201	PRP 839 845	during
+#200	AnnotatorNotes T201	lemma = 'during'
+T202	CRD 846 849	two
+#201	AnnotatorNotes T202	lemma = 'two'
+T203	NN1 850 856	period
+#202	AnnotatorNotes T203	lemma = 'period'
+T204	PRP 857 859	In
+#203	AnnotatorNotes T204	lemma = 'in'
+T205	NN1 860 868	addition
+#204	AnnotatorNotes T205	lemma = 'addition'
+T206	PUN 868 869	,
+#205	AnnotatorNotes T206	lemma = ','
+T207	AT0 870 873	the
+#206	AnnotatorNotes T207	lemma = 'the'
+T208	AJ0 874 883	worldwide
+#207	AnnotatorNotes T208	lemma = 'worldwide'
+T209	NN1 884 896	unemployment
+#208	AnnotatorNotes T209	lemma = 'unemployment'
+T210	NN1 897 901	rate
+#209	AnnotatorNotes T210	lemma = 'rate'
+T211	VVD 902 908	stayed
+#210	AnnotatorNotes T211	lemma = 'stay'
+T212	PRP 909 911	at
+#211	AnnotatorNotes T212	lemma = 'at'
+T213	AT0 912 915	the
+#212	AnnotatorNotes T213	lemma = 'the'
+T214	DT0 916 920	same
+#213	AnnotatorNotes T214	lemma = 'same'
+T215	NN1 921 926	level
+#214	AnnotatorNotes T215	lemma = 'level'
+T216	PRP 927 929	in
+#215	AnnotatorNotes T216	lemma = 'in'
+T217	CRD 930 934	2015
+#216	AnnotatorNotes T217	lemma = '2015'
+T218	CJC 935 938	and
+#217	AnnotatorNotes T218	lemma = 'and'
+T219	CRD 939 943	2015
+#218	AnnotatorNotes T219	lemma = '2015'
+T220	SENT 943 944	.
+#219	AnnotatorNotes T220	lemma = '.'
+T221	PRP 946 948	In
+#220	AnnotatorNotes T221	lemma = 'in'
+T222	NN1 949 959	conclusion
+#221	AnnotatorNotes T222	lemma = 'conclusion'
+T223	PUN 959 960	,
+#222	AnnotatorNotes T223	lemma = ','
+T224	AT0 961 964	the
+#223	AnnotatorNotes T224	lemma = 'the'
+T225	AJ0 965 971	worldl
+#224	AnnotatorNotes T225	lemma = 'worldl'
+T226	NN1 972 976	rate
+#225	AnnotatorNotes T226	lemma = 'rate'
+T227	VDD 977 980	did
+#226	AnnotatorNotes T227	lemma = 'do'
+T228	XX0 980 983	n't
+#227	AnnotatorNotes T228	lemma = 'not'
+T229	VVN 984 991	changed
+#228	AnnotatorNotes T229	lemma = 'change|changed'
+T230	PUN 991 992	,
+#229	AnnotatorNotes T230	lemma = ','
+T231	NN1 993 1000	althoug
+#230	AnnotatorNotes T231	lemma = 'althoug'
+T232	CRD 1001 1004	one
+#231	AnnotatorNotes T232	lemma = 'one'
+T233	NN2 1005 1014	countries
+#232	AnnotatorNotes T233	lemma = 'country'
+T234	VHD 1015 1018	had
+#233	AnnotatorNotes T234	lemma = 'have'
+T235	AT0 1019 1020	a
+#234	AnnotatorNotes T235	lemma = 'a'
+T236	AJ0 1021 1028	growing
+#235	AnnotatorNotes T236	lemma = 'growing|grow'
+T237	NN2 1029 1035	trends
+#236	AnnotatorNotes T237	lemma = 'trend'
+T238	SENT 1035 1036	.
+#237	AnnotatorNotes T238	lemma = '.'
+T239	NN2 1037 1043	Others
+#238	AnnotatorNotes T239	lemma = 'other'
+T240	PUN 1044 1045	-
+#239	AnnotatorNotes T240	lemma = '-'
+T241	AJ0 1046 1056	decreasing
+#240	AnnotatorNotes T241	lemma = 'decreasing|decrease'
+T242	NN1 1057 1065	movement
+#241	AnnotatorNotes T242	lemma = 'movement'
+T243	SENT 1065 1066	.
+#242	AnnotatorNotes T243	lemma = '.'
+T244	NN1 1067 1073	Leader
+#243	AnnotatorNotes T244	lemma = 'leader'
+T245	PUN 1073 1074	,
+#244	AnnotatorNotes T245	lemma = ','
+T246	NP0 1075 1077	N.
+#245	AnnotatorNotes T246	lemma = 'N.'
+T247	NP0 1078 1084	Africa
+#246	AnnotatorNotes T247	lemma = 'africa'
+T248	PUN 1084 1085	,
+#247	AnnotatorNotes T248	lemma = ','
+T249	CJC 1086 1089	and
+#248	AnnotatorNotes T249	lemma = 'and'
+T250	NN1 1090 1097	country
+#249	AnnotatorNotes T250	lemma = 'country'
+T251	PRP 1098 1102	with
+#250	AnnotatorNotes T251	lemma = 'with'
+T252	AJS 1103 1109	lowest
+#251	AnnotatorNotes T252	lemma = 'low'
+T253	NN2 1110 1117	numbers
+#252	AnnotatorNotes T253	lemma = 'number'
+T254	PRF 1118 1120	of
+#253	AnnotatorNotes T254	lemma = 'of'
+T255	AJ0 1121 1131	unemployed
+#254	AnnotatorNotes T255	lemma = 'unemployed'
+T256	NN1 1132 1137	peopl
+#255	AnnotatorNotes T256	lemma = 'peopl'
+T257	PUN 1137 1138	,
+#256	AnnotatorNotes T257	lemma = ','
+T258	NP0 1139 1141	S.
+#257	AnnotatorNotes T258	lemma = 's.'
+T259	NP0 1142 1146	Asia
+#258	AnnotatorNotes T259	lemma = 'asia'
+T260	PUN 1146 1147	,
+#259	AnnotatorNotes T260	lemma = ','
+T261	VBD 1148 1152	were
+#260	AnnotatorNotes T261	lemma = 'be'
+T262	PRP 1153 1155	at
+#261	AnnotatorNotes T262	lemma = 'at'
+T263	AT0 1156 1159	the
+#262	AnnotatorNotes T263	lemma = 'the'
+T264	DT0 1160 1164	same
+#263	AnnotatorNotes T264	lemma = 'same'
+T265	NN1 1165 1173	position
+#264	AnnotatorNotes T265	lemma = 'position'
+T266	PRP 1174 1177	for
+#265	AnnotatorNotes T266	lemma = 'for'
+T267	DT0 1178 1182	this
+#266	AnnotatorNotes T267	lemma = 'this'
+T268	NN1 1183 1189	period
+#267	AnnotatorNotes T268	lemma = 'period'
+T269	SENT 1189 1190	.
+#268	AnnotatorNotes T269	lemma = ''

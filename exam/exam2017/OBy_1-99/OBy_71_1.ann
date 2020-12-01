@@ -1,0 +1,603 @@
+T1	Noun_number 8 15	diagram
+#1	AnnotatorNotes T1	diagrams
+T2	Agreement_errors 16 27	illustrates
+#2	AnnotatorNotes T2	illustrate
+R1	Dependent_change Arg1:T2 Arg2:T1
+T3	Articles 28 39	information
+#3	AnnotatorNotes T3	the information on
+T4	Prepositions 28 39	information
+#4	AnnotatorNotes T4	the information on
+T5	Standard 40 70	how can transported some goods
+#5	AnnotatorNotes T5	how can some goods be transported
+T6	Tense_choice 106 109	are
+#6	AnnotatorNotes T6	were
+T7	Articles 161 171	second way
+#7	AnnotatorNotes T7	the second way
+T8	Spelling 191 200	friquntly
+#8	AnnotatorNotes T8	frequently
+T9	Absence_comp_sent 191 212	friquntly transported
+#9	AnnotatorNotes T9	are more frequently transported
+T10	lex_item_choice 221 225	then
+#10	AnnotatorNotes T10	than
+T11	Redundant_comp 235 237	In
+A1	Delete T11
+T12	Absence_comp_sent 252 258	is 35%
+#11	AnnotatorNotes T12	it is 35%
+T13	Articles 260 270	second way
+#12	AnnotatorNotes T13	the second way
+T14	Absence_comp_sent 271 277	is 11%
+#13	AnnotatorNotes T14	it is 11%
+T15	Articles 285 295	the metals
+#14	AnnotatorNotes T15	metals
+T16	Articles 299 317	most popular goods
+#15	AnnotatorNotes T16	the most popular goods
+T17	Agreement_errors 296 298	is
+#16	AnnotatorNotes T17	are
+T18	Absence_explanation 312 325	goods by rail
+#17	AnnotatorNotes T18	goods transported by rail
+T19	Standard 331 366	the goods which mast poplar by road
+#18	AnnotatorNotes T19	the most popular goods transported by road
+T20	Articles 331 340	the goods
+#19	AnnotatorNotes T20	goods
+T21	Redundant_comp 341 346	which
+A2	Delete T21
+T22	Spelling 347 351	mast
+#20	AnnotatorNotes T22	most
+T23	Spelling 352 358	poplar
+#21	AnnotatorNotes T23	popular
+T24	Articles 347 358	mast poplar
+#22	AnnotatorNotes T24	the most popular
+T25	Absence_comp_sent 359 366	by road
+#23	AnnotatorNotes T25	transported by road
+T26	Agreement_errors 367 369	is
+#24	AnnotatorNotes T26	are
+T27	Absence_comp_sent 415 426	transported
+#25	AnnotatorNotes T27	were transported
+T28	Standard 410 429	both transported by
+#26	AnnotatorNotes T28	were transported both by
+T29	Absence_explanation 470 479	machinery
+#27	AnnotatorNotes T29	the proportion of machinery
+T30	Absence_comp_sent 500 506	really
+#28	AnnotatorNotes T30	is really
+T31	lex_item_choice 507 511	more
+#29	AnnotatorNotes T31	bigger
+T32	Often_confused 512 516	then
+#30	AnnotatorNotes T32	than
+T33	Absence_comp_sent 534 536	is
+#31	AnnotatorNotes T33	it is
+T34	Inappropriate_register 550 552	is
+#32	AnnotatorNotes T34	it is
+T35	Spelling 564 570	cleary
+#33	AnnotatorNotes T35	clearly
+T36	Punctuation 575 581	, that
+#34	AnnotatorNotes T36	that
+T37	Agreement_errors 629 632	has
+#35	AnnotatorNotes T37	have
+T38	lex_item_choice 633 639	middle
+#36	AnnotatorNotes T38	average
+T39	Articles 633 650	middle percentage
+#37	AnnotatorNotes T39	an average percentage
+T40	Absence_explanation 654 661	popular
+#38	AnnotatorNotes T40	popular goods
+T41	Agreement_errors 719 727	consists
+#39	AnnotatorNotes T41	consist
+T42	Agreement_errors 783 786	has
+#40	AnnotatorNotes T42	have
+T43	Agreement_errors 850 853	has
+#41	AnnotatorNotes T43	have
+T44	Punctuation 880 889	, because
+#42	AnnotatorNotes T44	because
+T45	Often_confused 890 897	another
+#43	AnnotatorNotes T45	other
+T46	Noun_number 922 932	percentage
+#44	AnnotatorNotes T46	percentages
+T47	Prepositions 933 937	from
+#45	AnnotatorNotes T47	in
+T48	Articles 938 950	pie diagrams
+#46	AnnotatorNotes T48	the pie diagrams
+T49	Agreement_errors 986 989	has
+#47	AnnotatorNotes T49	have
+T50	Redundant_comp 999 1001	in
+A3	Delete T50
+T51	Redundant_comp 1011 1017	and it
+A4	Delete T51
+T52	AT0 0 3	The
+#48	AnnotatorNotes T52	lemma = 'the'
+T53	NN1 4 7	pie
+#49	AnnotatorNotes T53	lemma = 'pie'
+T54	NN1 8 15	diagram
+#50	AnnotatorNotes T54	lemma = 'diagram'
+T55	VVZ 16 27	illustrates
+#51	AnnotatorNotes T55	lemma = 'illustrate'
+T56	NN1 28 39	information
+#52	AnnotatorNotes T56	lemma = 'information'
+T57	AVQ 40 43	how
+#53	AnnotatorNotes T57	lemma = 'how'
+T58	VM0 44 47	can
+#54	AnnotatorNotes T58	lemma = 'can'
+T59	AJ0 48 59	transported
+#55	AnnotatorNotes T59	lemma = 'transported|transport'
+T60	DT0 60 64	some
+#56	AnnotatorNotes T60	lemma = 'some'
+T61	NN2 65 70	goods
+#57	AnnotatorNotes T61	lemma = 'goods'
+T62	SENT 70 71	.
+#58	AnnotatorNotes T62	lemma = '.'
+T63	VVG 73 82	According
+#59	AnnotatorNotes T63	lemma = 'accord'
+T64	PRP 83 85	to
+#60	AnnotatorNotes T64	lemma = 'to'
+T65	AT0 86 89	the
+#61	AnnotatorNotes T65	lemma = 'the'
+T66	NN2 90 98	diagrams
+#62	AnnotatorNotes T66	lemma = 'diagram'
+T67	PUN 98 99	,
+#63	AnnotatorNotes T67	lemma = ','
+T68	NN2 100 105	goods
+#64	AnnotatorNotes T68	lemma = 'goods'
+T69	VBB 106 109	are
+#65	AnnotatorNotes T69	lemma = 'be'
+T70	VVN 110 121	transported
+#66	AnnotatorNotes T70	lemma = 'transport'
+T71	PRP 122 124	by
+#67	AnnotatorNotes T71	lemma = 'by'
+T72	CRD 125 128	two
+#68	AnnotatorNotes T72	lemma = 'two'
+T73	NN2 129 133	ways
+#69	AnnotatorNotes T73	lemma = 'way'
+T74	SENT 133 134	.
+#70	AnnotatorNotes T74	lemma = '.'
+T75	AT0 135 138	The
+#71	AnnotatorNotes T75	lemma = 'the'
+T76	ORD 139 144	first
+#72	AnnotatorNotes T76	lemma = 'first'
+T77	NN1 145 148	way
+#73	AnnotatorNotes T77	lemma = 'way'
+T78	VBZ 149 151	is
+#74	AnnotatorNotes T78	lemma = 'be'
+T79	PRP 152 154	by
+#75	AnnotatorNotes T79	lemma = 'by'
+T80	NN1 155 159	rail
+#76	AnnotatorNotes T80	lemma = 'rail'
+T81	PUN 159 160	,
+#77	AnnotatorNotes T81	lemma = ','
+T82	ORD 161 167	second
+#78	AnnotatorNotes T82	lemma = 'second'
+T83	NN1 168 171	way
+#79	AnnotatorNotes T83	lemma = 'way'
+T84	VBZ 172 174	is
+#80	AnnotatorNotes T84	lemma = 'be'
+T85	PRP 175 177	by
+#81	AnnotatorNotes T85	lemma = 'by'
+T86	NN1 178 182	road
+#82	AnnotatorNotes T86	lemma = 'road'
+T87	SENT 182 183	.
+#83	AnnotatorNotes T87	lemma = '.'
+T88	NN2 184 190	Metals
+#84	AnnotatorNotes T88	lemma = 'metal'
+T89	AV0 191 200	friquntly
+#85	AnnotatorNotes T89	lemma = 'friquntly'
+T90	VVN 201 212	transported
+#86	AnnotatorNotes T90	lemma = 'transport'
+T91	PRP 213 215	by
+#87	AnnotatorNotes T91	lemma = 'by'
+T92	NN1 216 220	rail
+#88	AnnotatorNotes T92	lemma = 'rail'
+T93	AV0 221 225	then
+#89	AnnotatorNotes T93	lemma = 'then'
+T94	PRP 226 228	by
+#90	AnnotatorNotes T94	lemma = 'by'
+T95	NN1 229 233	road
+#91	AnnotatorNotes T95	lemma = 'road'
+T96	SENT 233 234	.
+#92	AnnotatorNotes T96	lemma = '.'
+T97	PRP 235 237	In
+#93	AnnotatorNotes T97	lemma = 'in'
+T98	AT0 238 241	the
+#94	AnnotatorNotes T98	lemma = 'the'
+T99	ORD 242 247	first
+#95	AnnotatorNotes T99	lemma = 'first'
+T100	NN1 248 251	way
+#96	AnnotatorNotes T100	lemma = 'way'
+T101	VBZ 252 254	is
+#97	AnnotatorNotes T101	lemma = 'be'
+T102	CRD 255 257	35
+#98	AnnotatorNotes T102	lemma = '35'
+T103	NN0 257 258	%
+#99	AnnotatorNotes T103	lemma = '%'
+T104	PUN 258 259	,
+#100	AnnotatorNotes T104	lemma = ','
+T105	ORD 260 266	second
+#101	AnnotatorNotes T105	lemma = 'second'
+T106	NN1 267 270	way
+#102	AnnotatorNotes T106	lemma = 'way'
+T107	VBZ 271 273	is
+#103	AnnotatorNotes T107	lemma = 'be'
+T108	CRD 274 276	11
+#104	AnnotatorNotes T108	lemma = '11'
+T109	NN0 276 277	%
+#105	AnnotatorNotes T109	lemma = '%'
+T110	SENT 277 278	.
+#106	AnnotatorNotes T110	lemma = '.'
+T111	AV0 279 283	Also
+#107	AnnotatorNotes T111	lemma = 'also'
+T112	PUN 283 284	,
+#108	AnnotatorNotes T112	lemma = ','
+T113	AT0 285 288	the
+#109	AnnotatorNotes T113	lemma = 'the'
+T114	NN2 289 295	metals
+#110	AnnotatorNotes T114	lemma = 'metal'
+T115	VBZ 296 298	is
+#111	AnnotatorNotes T115	lemma = 'be'
+T116	AV0 299 303	most
+#112	AnnotatorNotes T116	lemma = 'most'
+T117	AJ0 304 311	popular
+#113	AnnotatorNotes T117	lemma = 'popular'
+T118	NN2 312 317	goods
+#114	AnnotatorNotes T118	lemma = 'goods'
+T119	PRP 318 320	by
+#115	AnnotatorNotes T119	lemma = 'by'
+T120	NN1 321 325	rail
+#116	AnnotatorNotes T120	lemma = 'rail'
+T121	PUN 325 326	,
+#117	AnnotatorNotes T121	lemma = ','
+T122	CJC 327 330	but
+#118	AnnotatorNotes T122	lemma = 'but'
+T123	AT0 331 334	the
+#119	AnnotatorNotes T123	lemma = 'the'
+T124	NN2 335 340	goods
+#120	AnnotatorNotes T124	lemma = 'goods'
+T125	DTQ 341 346	which
+#121	AnnotatorNotes T125	lemma = 'which'
+T126	NN1 347 351	mast
+#122	AnnotatorNotes T126	lemma = 'mast'
+T127	NN1 352 358	poplar
+#123	AnnotatorNotes T127	lemma = 'poplar'
+T128	PRP 359 361	by
+#124	AnnotatorNotes T128	lemma = 'by'
+T129	NN1 362 366	road
+#125	AnnotatorNotes T129	lemma = 'road'
+T130	VBZ 367 369	is
+#126	AnnotatorNotes T130	lemma = 'be'
+T131	NN1 370 374	food
+#127	AnnotatorNotes T131	lemma = 'food'
+T132	NN2 375 383	products
+#128	AnnotatorNotes T132	lemma = 'product'
+T133	SENT 383 384	.
+#129	AnnotatorNotes T133	lemma = '.'
+T134	AV0 385 389	Also
+#130	AnnotatorNotes T134	lemma = 'also'
+T135	PUN 389 390	,
+#131	AnnotatorNotes T135	lemma = ','
+T136	AJ0 391 403	manufactured
+#132	AnnotatorNotes T136	lemma = 'manufactured|manufacture'
+T137	NN2 404 409	goods
+#133	AnnotatorNotes T137	lemma = 'goods'
+T138	AV0 410 414	both
+#134	AnnotatorNotes T138	lemma = 'both'
+T139	VVN 415 426	transported
+#135	AnnotatorNotes T139	lemma = 'transport'
+T140	PRP 427 429	by
+#136	AnnotatorNotes T140	lemma = 'by'
+T141	NN1 430 434	rail
+#137	AnnotatorNotes T141	lemma = 'rail'
+T142	PUL 435 436	(
+#138	AnnotatorNotes T142	lemma = '('
+T143	CRD 436 438	25
+#139	AnnotatorNotes T143	lemma = '25'
+T144	NN0 438 439	%
+#140	AnnotatorNotes T144	lemma = '%'
+T145	PUR 439 440	)
+#141	AnnotatorNotes T145	lemma = ')'
+T146	CJC 441 444	and
+#142	AnnotatorNotes T146	lemma = 'and'
+T147	PRP 445 447	by
+#143	AnnotatorNotes T147	lemma = 'by'
+T148	NN1 448 452	road
+#144	AnnotatorNotes T148	lemma = 'road'
+T149	PUL 453 454	(
+#145	AnnotatorNotes T149	lemma = '('
+T150	CRD 454 456	28
+#146	AnnotatorNotes T150	lemma = '28'
+T151	NN0 456 457	%
+#147	AnnotatorNotes T151	lemma = '%'
+T152	PUR 457 458	)
+#148	AnnotatorNotes T152	lemma = ')'
+T153	SENT 458 459	.
+#149	AnnotatorNotes T153	lemma = '.'
+T154	AV0 461 468	However
+#150	AnnotatorNotes T154	lemma = 'however'
+T155	PUN 468 469	,
+#151	AnnotatorNotes T155	lemma = ','
+T156	NN1 470 479	machinery
+#152	AnnotatorNotes T156	lemma = 'machinery'
+T157	VVN 480 491	transported
+#153	AnnotatorNotes T157	lemma = 'transport'
+T158	PRP 492 494	by
+#154	AnnotatorNotes T158	lemma = 'by'
+T159	NN1 495 499	rail
+#155	AnnotatorNotes T159	lemma = 'rail'
+T160	AV0 500 506	really
+#156	AnnotatorNotes T160	lemma = 'really'
+T161	AV0 507 511	more
+#157	AnnotatorNotes T161	lemma = 'more'
+T162	AV0 512 516	then
+#158	AnnotatorNotes T162	lemma = 'then'
+T163	PRP 517 519	by
+#159	AnnotatorNotes T163	lemma = 'by'
+T164	NN1 520 524	road
+#160	AnnotatorNotes T164	lemma = 'road'
+T165	PUL 525 526	(
+#161	AnnotatorNotes T165	lemma = '('
+T166	PRP 526 528	by
+#162	AnnotatorNotes T166	lemma = 'by'
+T167	NN1 529 533	rail
+#163	AnnotatorNotes T167	lemma = 'rail'
+T168	VBZ 534 536	is
+#164	AnnotatorNotes T168	lemma = 'be'
+T169	CRD 537 539	12
+#165	AnnotatorNotes T169	lemma = '12'
+T170	NN0 539 540	%
+#166	AnnotatorNotes T170	lemma = '%'
+T171	PUN 540 541	,
+#167	AnnotatorNotes T171	lemma = ','
+T172	PRP 542 544	by
+#168	AnnotatorNotes T172	lemma = 'by'
+T173	NN1 545 549	road
+#169	AnnotatorNotes T173	lemma = 'road'
+T174	VBZ 550 552	is
+#170	AnnotatorNotes T174	lemma = 'be'
+T175	CRD 553 554	2
+#171	AnnotatorNotes T175	lemma = '2'
+T176	NN0 554 555	%
+#172	AnnotatorNotes T176	lemma = '%'
+T177	PUR 555 556	)
+#173	AnnotatorNotes T177	lemma = ')'
+T178	SENT 556 557	.
+#174	AnnotatorNotes T178	lemma = '.'
+T179	PNP 558 560	It
+#175	AnnotatorNotes T179	lemma = 'it'
+T180	VBZ 561 563	is
+#176	AnnotatorNotes T180	lemma = 'be'
+T181	AJ0 564 570	cleary
+#177	AnnotatorNotes T181	lemma = 'cleary'
+T182	VVN 571 575	seen
+#178	AnnotatorNotes T182	lemma = 'see'
+T183	PUN 575 576	,
+#179	AnnotatorNotes T183	lemma = ','
+T184	DT0 577 581	that
+#180	AnnotatorNotes T184	lemma = 'that'
+T185	NN2 582 587	goods
+#181	AnnotatorNotes T185	lemma = 'goods'
+T186	PRP 588 592	like
+#182	AnnotatorNotes T186	lemma = 'like'
+T187	NN2 593 602	chemicals
+#183	AnnotatorNotes T187	lemma = 'chemical'
+T188	CJC 603 606	and
+#184	AnnotatorNotes T188	lemma = 'and'
+T189	AJ0 607 619	non-metallic
+#185	AnnotatorNotes T189	lemma = 'non-metallic'
+T190	NN2 620 628	minerals
+#186	AnnotatorNotes T190	lemma = 'mineral'
+T191	VHZ 629 632	has
+#187	AnnotatorNotes T191	lemma = 'have'
+T192	AJ0 633 639	middle
+#188	AnnotatorNotes T192	lemma = 'middle'
+T193	NN1 640 650	percentage
+#189	AnnotatorNotes T193	lemma = 'percentage'
+T194	PRF 651 653	of
+#190	AnnotatorNotes T194	lemma = 'of'
+T195	AJ0 654 661	popular
+#191	AnnotatorNotes T195	lemma = 'popular'
+T196	VVN 662 673	transported
+#192	AnnotatorNotes T196	lemma = 'transport'
+T197	PRP 674 676	by
+#193	AnnotatorNotes T197	lemma = 'by'
+T198	NN1 677 681	road
+#194	AnnotatorNotes T198	lemma = 'road'
+T199	CJC 682 685	and
+#195	AnnotatorNotes T199	lemma = 'and'
+T200	PRP 686 688	by
+#196	AnnotatorNotes T200	lemma = 'by'
+T201	NN1 689 693	rail
+#197	AnnotatorNotes T201	lemma = 'rail'
+T202	SENT 693 694	.
+#198	AnnotatorNotes T202	lemma = '.'
+T203	PRP 695 698	For
+#199	AnnotatorNotes T203	lemma = 'for'
+T204	NN1 699 707	instance
+#200	AnnotatorNotes T204	lemma = 'instance'
+T205	PUN 707 708	,
+#201	AnnotatorNotes T205	lemma = ','
+T206	NN2 709 718	chemicals
+#202	AnnotatorNotes T206	lemma = 'chemical'
+T207	VVZ 719 727	consists
+#203	AnnotatorNotes T207	lemma = 'consist'
+T208	CRD 728 730	11
+#204	AnnotatorNotes T208	lemma = '11'
+T209	NN0 730 731	%
+#205	AnnotatorNotes T209	lemma = '%'
+T210	PRP 732 734	by
+#206	AnnotatorNotes T210	lemma = 'by'
+T211	NN1 735 739	rail
+#207	AnnotatorNotes T211	lemma = 'rail'
+T212	CJC 740 743	and
+#208	AnnotatorNotes T212	lemma = 'and'
+T213	CRD 744 746	16
+#209	AnnotatorNotes T213	lemma = '16'
+T214	NN0 746 747	%
+#210	AnnotatorNotes T214	lemma = '%'
+T215	PRP 748 750	by
+#211	AnnotatorNotes T215	lemma = 'by'
+T216	NN1 751 755	road
+#212	AnnotatorNotes T216	lemma = 'road'
+T217	PUN 755 756	,
+#213	AnnotatorNotes T217	lemma = ','
+T218	CJC 757 760	and
+#214	AnnotatorNotes T218	lemma = 'and'
+T219	AJ0 761 773	non-metallic
+#215	AnnotatorNotes T219	lemma = 'non-metallic'
+T220	NN2 774 782	minerals
+#216	AnnotatorNotes T220	lemma = 'mineral'
+T221	VHZ 783 786	has
+#217	AnnotatorNotes T221	lemma = 'have'
+T222	CRD 787 789	11
+#218	AnnotatorNotes T222	lemma = '11'
+T223	NN0 789 790	%
+#219	AnnotatorNotes T223	lemma = '%'
+T224	PRP 791 793	by
+#220	AnnotatorNotes T224	lemma = 'by'
+T225	NN1 794 798	rail
+#221	AnnotatorNotes T225	lemma = 'rail'
+T226	CJC 799 802	and
+#222	AnnotatorNotes T226	lemma = 'and'
+T227	CRD 803 805	13
+#223	AnnotatorNotes T227	lemma = '13'
+T228	NN0 805 806	%
+#224	AnnotatorNotes T228	lemma = '%'
+T229	PRP 807 809	by
+#225	AnnotatorNotes T229	lemma = 'by'
+T230	NN1 810 814	road
+#226	AnnotatorNotes T230	lemma = 'road'
+T231	SENT 814 815	.
+#227	AnnotatorNotes T231	lemma = '.'
+T232	AV0 817 824	Overall
+#228	AnnotatorNotes T232	lemma = 'overall'
+T233	PUN 824 825	,
+#229	AnnotatorNotes T233	lemma = ','
+T234	AV0 826 830	only
+#230	AnnotatorNotes T234	lemma = 'only'
+T235	AJ0 831 843	manufactured
+#231	AnnotatorNotes T235	lemma = 'manufactured|manufacture'
+T236	NN2 844 849	goods
+#232	AnnotatorNotes T236	lemma = 'goods'
+T237	VHZ 850 853	has
+#233	AnnotatorNotes T237	lemma = 'have'
+T238	CRD 854 856	25
+#234	AnnotatorNotes T238	lemma = '25'
+T239	NN0 856 857	%
+#235	AnnotatorNotes T239	lemma = '%'
+T240	PRP 858 862	from
+#236	AnnotatorNotes T240	lemma = 'from'
+T241	DT0 863 867	both
+#237	AnnotatorNotes T241	lemma = 'both'
+T242	NN1 868 871	pie
+#238	AnnotatorNotes T242	lemma = 'pie'
+T243	NN2 872 880	diagrams
+#239	AnnotatorNotes T243	lemma = 'diagram'
+T244	PUN 880 881	,
+#240	AnnotatorNotes T244	lemma = ','
+T245	CJS 882 889	because
+#241	AnnotatorNotes T245	lemma = 'because'
+T246	DT0 890 897	another
+#242	AnnotatorNotes T246	lemma = 'another'
+T247	NN2 898 903	goods
+#243	AnnotatorNotes T247	lemma = 'goods'
+T248	VVB 904 911	consist
+#244	AnnotatorNotes T248	lemma = 'consist'
+T249	AJ0 912 921	different
+#245	AnnotatorNotes T249	lemma = 'different'
+T250	NN1 922 932	percentage
+#246	AnnotatorNotes T250	lemma = 'percentage'
+T251	PRP 933 937	from
+#247	AnnotatorNotes T251	lemma = 'from'
+T252	NN1 938 941	pie
+#248	AnnotatorNotes T252	lemma = 'pie'
+T253	NN2 942 950	diagrams
+#249	AnnotatorNotes T253	lemma = 'diagram'
+T254	SENT 950 951	.
+#250	AnnotatorNotes T254	lemma = '.'
+T255	PRP 952 955	For
+#251	AnnotatorNotes T255	lemma = 'for'
+T256	NN1 956 963	example
+#252	AnnotatorNotes T256	lemma = 'example'
+T257	PUN 963 964	,
+#253	AnnotatorNotes T257	lemma = ','
+T258	NN1 965 969	food
+#254	AnnotatorNotes T258	lemma = 'food'
+T259	NN2 970 978	products
+#255	AnnotatorNotes T259	lemma = 'product'
+T260	PUN 978 979	,
+#256	AnnotatorNotes T260	lemma = ','
+T261	DTQ 980 985	which
+#257	AnnotatorNotes T261	lemma = 'which'
+T262	VHZ 986 989	has
+#258	AnnotatorNotes T262	lemma = 'have'
+T263	AV0 990 994	only
+#259	AnnotatorNotes T263	lemma = 'only'
+T264	CRD 995 997	11
+#260	AnnotatorNotes T264	lemma = '11'
+T265	NN0 997 998	%
+#261	AnnotatorNotes T265	lemma = '%'
+T266	AVP 999 1001	in
+#262	AnnotatorNotes T266	lemma = 'in'
+T267	PRP 1002 1004	by
+#263	AnnotatorNotes T267	lemma = 'by'
+T268	NN1 1005 1009	rail
+#264	AnnotatorNotes T268	lemma = 'rail'
+T269	PUN 1009 1010	,
+#265	AnnotatorNotes T269	lemma = ','
+T270	CJC 1011 1014	and
+#266	AnnotatorNotes T270	lemma = 'and'
+T271	PNP 1015 1017	it
+#267	AnnotatorNotes T271	lemma = 'it'
+T272	VBZ 1018 1020	is
+#268	AnnotatorNotes T272	lemma = 'be'
+T273	AT0 1021 1024	the
+#269	AnnotatorNotes T273	lemma = 'the'
+T274	AV0 1025 1029	most
+#270	AnnotatorNotes T274	lemma = 'most'
+T275	AJ0 1030 1037	popular
+#271	AnnotatorNotes T275	lemma = 'popular'
+T276	NN2 1038 1043	goods
+#272	AnnotatorNotes T276	lemma = 'goods'
+T277	PRP 1044 1046	by
+#273	AnnotatorNotes T277	lemma = 'by'
+T278	NN1 1047 1051	road
+#274	AnnotatorNotes T278	lemma = 'road'
+T279	PUL 1052 1053	(
+#275	AnnotatorNotes T279	lemma = '('
+T280	CRD 1053 1055	30
+#276	AnnotatorNotes T280	lemma = '30'
+T281	NN0 1055 1056	%
+#277	AnnotatorNotes T281	lemma = '%'
+T282	PUR 1056 1057	)
+#278	AnnotatorNotes T282	lemma = ')'
+T283	SENT 1057 1058	.
+#279	AnnotatorNotes T283	lemma = '.'
+T284	AT0 1059 1062	The
+#280	AnnotatorNotes T284	lemma = 'the'
+T285	AV0 1063 1067	most
+#281	AnnotatorNotes T285	lemma = 'most'
+T286	AJ0 1068 1077	unpopular
+#282	AnnotatorNotes T286	lemma = 'unpopular'
+T287	NN2 1078 1083	goods
+#283	AnnotatorNotes T287	lemma = 'goods'
+T288	VBZ 1084 1086	is
+#284	AnnotatorNotes T288	lemma = 'be'
+T289	NN1 1087 1096	machinery
+#285	AnnotatorNotes T289	lemma = 'machinery'
+T290	PUL 1097 1098	(
+#286	AnnotatorNotes T290	lemma = '('
+T291	CRD 1098 1100	12
+#287	AnnotatorNotes T291	lemma = '12'
+T292	NN0 1100 1101	%
+#288	AnnotatorNotes T292	lemma = '%'
+T293	PRP 1102 1104	by
+#289	AnnotatorNotes T293	lemma = 'by'
+T294	NN1 1105 1109	rail
+#290	AnnotatorNotes T294	lemma = 'rail'
+T295	CJC 1110 1113	and
+#291	AnnotatorNotes T295	lemma = 'and'
+T296	CRD 1114 1115	2
+#292	AnnotatorNotes T296	lemma = '2'
+T297	NN0 1115 1116	%
+#293	AnnotatorNotes T297	lemma = '%'
+T298	PRP 1117 1119	by
+#294	AnnotatorNotes T298	lemma = 'by'
+T299	NN1 1120 1124	road
+#295	AnnotatorNotes T299	lemma = 'road'
+T300	PUR 1124 1125	)
+#296	AnnotatorNotes T300	lemma = ')'
+T301	SENT 1125 1126	.
+#297	AnnotatorNotes T301	lemma = ''

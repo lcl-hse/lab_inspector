@@ -1,0 +1,586 @@
+T1	Punctuation 55 62	However
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	However,
+T2	Articles 156 166	the people
+A4	Cause T2 Absence_of_Category_in_L1
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	people
+T3	Possessive 277 284	artists
+A7	Cause T3 L1_interference
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	artists'
+T4	Redundant_comp 355 366	for artists
+A10	Cause T4 Other
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+A13	Delete T4
+T5	Spelling 393 401	talanted
+A14	Cause T5 L1_interference
+A15	Weight-language T5 Major
+A16	Weight-understanding T5 Minor
+#4	AnnotatorNotes T5	talented
+T6	lex_item_choice 566 576	understand
+A17	Cause T6 Other
+A18	Weight-language T6 Major
+A19	Weight-understanding T6 Minor
+#5	AnnotatorNotes T6	mean
+T7	Possessive 608 618	government
+A20	Cause T7 Other
+A21	Weight-language T7 Major
+A22	Weight-understanding T7 Major
+#6	AnnotatorNotes T7	government's
+T8	Punctuation 560 682	if we understand by the word "restrictions" the government wish to say what subjects and issues should not be talked about
+A23	Cause T8 Other
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	if we mean by the word "restrictions" the government's wish to say what subjects and issues should not be talked about,
+T9	Articles 992 998	an art
+A26	Cause T9 Absence_of_Category_in_L1
+A27	Weight-language T9 Major
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	art
+T10	Absence_explanation 859 868	a control
+A29	Cause T10 Other
+A30	Weight-language T10 Minor
+A31	Weight-understanding T10 Major
+#9	AnnotatorNotes T10	such a control
+T11	Redundant_comp 887 893	in way
+A32	Cause T11 Other
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Major
+A35	Delete T11
+T12	Redundant_comp 906 912	should
+A36	Cause T12 Other
+A37	Weight-language T12 Major
+A38	Weight-understanding T12 Major
+A39	Delete T12
+T13	ADV 0 8	Nowadays
+#10	AnnotatorNotes T13	lemma = 'nowadays'
+T14	PUNCT 8 9	,
+#11	AnnotatorNotes T14	lemma = ','
+T15	ADV 10 15	there
+#12	AnnotatorNotes T15	lemma = 'there'
+T16	VERB 16 19	are
+#13	AnnotatorNotes T16	lemma = 'be'
+T17	DET 20 21	a
+#14	AnnotatorNotes T17	lemma = 'a'
+T18	NOUN 22 25	lot
+#15	AnnotatorNotes T18	lemma = 'lot'
+T19	ADP 26 28	of
+#16	AnnotatorNotes T19	lemma = 'of'
+T20	NOUN 29 33	ways
+#17	AnnotatorNotes T20	lemma = 'way'
+T21	PART 34 36	to
+#18	AnnotatorNotes T21	lemma = 'to'
+T22	VERB 37 44	express
+#19	AnnotatorNotes T22	lemma = 'express'
+T23	PRON 45 53	yourself
+#20	AnnotatorNotes T23	lemma = 'your'
+T24	PUNCT 53 54	.
+#21	AnnotatorNotes T24	lemma = '.'
+T25	ADV 55 62	However
+#22	AnnotatorNotes T25	lemma = 'however'
+T26	ADV 63 68	there
+#23	AnnotatorNotes T26	lemma = 'there'
+T27	AUX 69 72	are
+#24	AnnotatorNotes T27	lemma = 'be'
+T28	PRON 73 78	those
+#25	AnnotatorNotes T28	lemma = 'that'
+T29	PRON 79 82	who
+#26	AnnotatorNotes T29	lemma = 'who'
+T30	VERB 83 90	believe
+#27	AnnotatorNotes T30	lemma = 'believe'
+T31	SCONJ 91 95	that
+#28	AnnotatorNotes T31	lemma = 'that'
+T32	ADV 96 101	there
+#29	AnnotatorNotes T32	lemma = 'there'
+T33	AUX 102 108	should
+#30	AnnotatorNotes T33	lemma = 'shall'
+T34	VERB 109 111	be
+#31	AnnotatorNotes T34	lemma = 'be'
+T35	DET 112 116	some
+#32	AnnotatorNotes T35	lemma = 'some'
+T36	NOUN 117 122	rules
+#33	AnnotatorNotes T36	lemma = 'rule'
+T37	SCONJ 123 127	that
+#34	AnnotatorNotes T37	lemma = 'that'
+T38	ADP 128 130	in
+#35	AnnotatorNotes T38	lemma = 'in'
+T39	DET 131 135	some
+#36	AnnotatorNotes T39	lemma = 'some'
+T40	NOUN 136 139	way
+#37	AnnotatorNotes T40	lemma = 'way'
+T41	AUX 140 146	should
+#38	AnnotatorNotes T41	lemma = 'shall'
+T42	VERB 147 155	restrict
+#39	AnnotatorNotes T42	lemma = 'restrict'
+T43	DET 156 159	the
+#40	AnnotatorNotes T43	lemma = 'the'
+T44	NOUN 160 166	people
+#41	AnnotatorNotes T44	lemma = 'people'
+T45	ADP 167 169	in
+#42	AnnotatorNotes T45	lemma = 'in'
+T46	VERB 170 180	expressing
+#43	AnnotatorNotes T46	lemma = 'express'
+T47	DET 181 186	their
+#44	AnnotatorNotes T47	lemma = 'their'
+T48	ADJ 187 190	own
+#45	AnnotatorNotes T48	lemma = 'own'
+T49	NOUN 191 197	vision
+#46	AnnotatorNotes T49	lemma = 'vision'
+T50	ADP 198 200	of
+#47	AnnotatorNotes T50	lemma = 'of'
+T51	DET 201 204	the
+#48	AnnotatorNotes T51	lemma = 'the'
+T52	NOUN 205 210	world
+#49	AnnotatorNotes T52	lemma = 'world'
+T53	PUNCT 210 211	.
+#50	AnnotatorNotes T53	lemma = '.'
+T54	ADJ 212 217	First
+#51	AnnotatorNotes T54	lemma = 'first'
+T55	ADP 218 220	of
+#52	AnnotatorNotes T55	lemma = 'of'
+T56	PRON 221 224	all
+#53	AnnotatorNotes T56	lemma = 'all'
+T57	PUNCT 224 225	,
+#54	AnnotatorNotes T57	lemma = ','
+T58	PRON 226 227	I
+#55	AnnotatorNotes T58	lemma = 'I'
+T59	ADV 228 236	strongly
+#56	AnnotatorNotes T59	lemma = 'strongly'
+T60	VERB 237 244	believe
+#57	AnnotatorNotes T60	lemma = 'believe'
+T61	SCONJ 245 249	that
+#58	AnnotatorNotes T61	lemma = 'that'
+T62	VERB 250 256	making
+#59	AnnotatorNotes T62	lemma = 'make'
+T63	NOUN 257 269	restrictions
+#60	AnnotatorNotes T63	lemma = 'restriction'
+T64	ADP 270 272	on
+#61	AnnotatorNotes T64	lemma = 'on'
+T65	DET 273 276	the
+#62	AnnotatorNotes T65	lemma = 'the'
+T66	NOUN 277 284	artists
+#63	AnnotatorNotes T66	lemma = 'artist'
+T67	NOUN 285 289	work
+#64	AnnotatorNotes T67	lemma = 'work'
+T68	ADP 290 292	in
+#65	AnnotatorNotes T68	lemma = 'in'
+T69	DET 293 297	some
+#66	AnnotatorNotes T69	lemma = 'some'
+T70	NOUN 298 301	way
+#67	AnnotatorNotes T70	lemma = 'way'
+T71	AUX 302 306	will
+#68	AnnotatorNotes T71	lemma = 'will'
+T72	VERB 307 315	decrease
+#69	AnnotatorNotes T72	lemma = 'decrease'
+T73	DET 316 319	the
+#70	AnnotatorNotes T73	lemma = 'the'
+T74	NOUN 320 331	possibility
+#71	AnnotatorNotes T74	lemma = 'possibility'
+T75	ADP 332 334	of
+#72	AnnotatorNotes T75	lemma = 'of'
+T76	VERB 335 341	making
+#73	AnnotatorNotes T76	lemma = 'make'
+T77	NOUN 342 354	masterpieces
+#74	AnnotatorNotes T77	lemma = 'masterpiece'
+T78	ADP 355 358	for
+#75	AnnotatorNotes T78	lemma = 'for'
+T79	NOUN 359 366	artists
+#76	AnnotatorNotes T79	lemma = 'artist'
+T80	PUNCT 366 367	.
+#77	AnnotatorNotes T80	lemma = '.'
+T81	SCONJ 368 370	As
+#78	AnnotatorNotes T81	lemma = 'as'
+T82	PRON 371 372	I
+#79	AnnotatorNotes T82	lemma = 'I'
+T83	AUX 373 375	am
+#80	AnnotatorNotes T83	lemma = 'be'
+T84	ADJ 376 380	sure
+#81	AnnotatorNotes T84	lemma = 'sure'
+T85	SCONJ 381 385	that
+#82	AnnotatorNotes T85	lemma = 'that'
+T86	ADV 386 392	really
+#83	AnnotatorNotes T86	lemma = 'really'
+T87	VERB 393 401	talanted
+#84	AnnotatorNotes T87	lemma = 'talant'
+T88	NOUN 402 409	artists
+#85	AnnotatorNotes T88	lemma = 'artist'
+T89	VERB 410 413	see
+#86	AnnotatorNotes T89	lemma = 'see'
+T90	DET 414 417	the
+#87	AnnotatorNotes T90	lemma = 'the'
+T91	NOUN 418 423	world
+#88	AnnotatorNotes T91	lemma = 'world'
+T92	ADP 424 426	in
+#89	AnnotatorNotes T92	lemma = 'in'
+T93	DET 427 428	a
+#90	AnnotatorNotes T93	lemma = 'a'
+T94	ADV 429 433	very
+#91	AnnotatorNotes T94	lemma = 'very'
+T95	ADJ 434 442	specific
+#92	AnnotatorNotes T95	lemma = 'specific'
+T96	NOUN 443 446	way
+#93	AnnotatorNotes T96	lemma = 'way'
+T97	CCONJ 447 450	and
+#94	AnnotatorNotes T97	lemma = 'and'
+T98	ADV 451 455	only
+#95	AnnotatorNotes T98	lemma = 'only'
+T99	DET 456 460	such
+#96	AnnotatorNotes T99	lemma = 'such'
+T100	ADJ 461 468	unusual
+#97	AnnotatorNotes T100	lemma = 'unusual'
+T101	NOUN 469 479	expression
+#98	AnnotatorNotes T101	lemma = 'expression'
+T102	ADP 480 482	of
+#99	AnnotatorNotes T102	lemma = 'of'
+T103	DET 483 486	the
+#100	AnnotatorNotes T103	lemma = 'the'
+T104	NOUN 487 492	world
+#101	AnnotatorNotes T104	lemma = 'world'
+T105	AUX 493 496	can
+#102	AnnotatorNotes T105	lemma = 'can'
+T106	AUX 497 499	be
+#103	AnnotatorNotes T106	lemma = 'be'
+T107	ADV 500 506	really
+#104	AnnotatorNotes T107	lemma = 'really'
+T108	ADJ 507 515	valuable
+#105	AnnotatorNotes T108	lemma = 'valuable'
+T109	CCONJ 516 519	and
+#106	AnnotatorNotes T109	lemma = 'and'
+T110	AUX 520 523	can
+#107	AnnotatorNotes T110	lemma = 'can'
+T111	VERB 524 530	become
+#108	AnnotatorNotes T111	lemma = 'become'
+T112	DET 531 534	the
+#109	AnnotatorNotes T112	lemma = 'the'
+T113	ADJ 535 543	greatest
+#110	AnnotatorNotes T113	lemma = 'greatest'
+T114	NOUN 544 548	work
+#111	AnnotatorNotes T114	lemma = 'work'
+T115	PUNCT 548 549	.
+#112	AnnotatorNotes T115	lemma = '.'
+T116	ADV 550 558	Moreover
+#113	AnnotatorNotes T116	lemma = 'moreover'
+T117	PUNCT 558 559	,
+#114	AnnotatorNotes T117	lemma = ','
+T118	SCONJ 560 562	if
+#115	AnnotatorNotes T118	lemma = 'if'
+T119	PRON 563 565	we
+#116	AnnotatorNotes T119	lemma = 'we'
+T120	VERB 566 576	understand
+#117	AnnotatorNotes T120	lemma = 'understand'
+T121	ADP 577 579	by
+#118	AnnotatorNotes T121	lemma = 'by'
+T122	DET 580 583	the
+#119	AnnotatorNotes T122	lemma = 'the'
+T123	NOUN 584 588	word
+#120	AnnotatorNotes T123	lemma = 'word'
+T124	FB 587 588	d		
+#121	AnnotatorNotes T124	lemma = 'PUNCT'
+T125	NOUN 590 602	restrictions
+#122	AnnotatorNotes T125	lemma = 'restriction'
+T126	FB 601 602	s		
+#123	AnnotatorNotes T126	lemma = 'PUNCT'
+T127	DET 604 607	the
+#124	AnnotatorNotes T127	lemma = 'the'
+T128	NOUN 608 618	government
+#125	AnnotatorNotes T128	lemma = 'government'
+T129	VERB 619 623	wish
+#126	AnnotatorNotes T129	lemma = 'wish'
+T130	PART 624 626	to
+#127	AnnotatorNotes T130	lemma = 'to'
+T131	VERB 627 630	say
+#128	AnnotatorNotes T131	lemma = 'say'
+T132	SCONJ 631 635	what
+#129	AnnotatorNotes T132	lemma = 'what'
+T133	NOUN 636 644	subjects
+#130	AnnotatorNotes T133	lemma = 'subject'
+T134	CCONJ 645 648	and
+#131	AnnotatorNotes T134	lemma = 'and'
+T135	NOUN 649 655	issues
+#132	AnnotatorNotes T135	lemma = 'issue'
+T136	AUX 656 662	should
+#133	AnnotatorNotes T136	lemma = 'shall'
+T137	PART 663 666	not
+#134	AnnotatorNotes T137	lemma = 'not'
+T138	AUX 667 669	be
+#135	AnnotatorNotes T138	lemma = 'be'
+T139	VERB 670 676	talked
+#136	AnnotatorNotes T139	lemma = 'talk'
+T140	ADP 677 682	about
+#137	AnnotatorNotes T140	lemma = 'about'
+T141	ADV 683 687	then
+#138	AnnotatorNotes T141	lemma = 'then'
+T142	PRON 688 690	it
+#139	AnnotatorNotes T142	lemma = 'it'
+T143	AUX 691 693	is
+#140	AnnotatorNotes T143	lemma = 'be'
+T144	ADJ 694 702	ideology
+#141	AnnotatorNotes T144	lemma = 'ideology'
+T145	PUNCT 702 703	.
+#142	AnnotatorNotes T145	lemma = '.'
+T146	PRON 704 705	I
+#143	AnnotatorNotes T146	lemma = 'I'
+T147	VERB 706 711	think
+#144	AnnotatorNotes T147	lemma = 'think'
+T148	SCONJ 712 716	that
+#145	AnnotatorNotes T148	lemma = 'that'
+T149	DET 717 721	such
+#146	AnnotatorNotes T149	lemma = 'such'
+T150	NOUN 722 727	types
+#147	AnnotatorNotes T150	lemma = 'type'
+T151	ADP 728 730	of
+#148	AnnotatorNotes T151	lemma = 'of'
+T152	NOUN 731 743	restrictions
+#149	AnnotatorNotes T152	lemma = 'restriction'
+T153	AUX 744 747	can
+#150	AnnotatorNotes T153	lemma = 'can'
+T154	VERB 748 752	lead
+#151	AnnotatorNotes T154	lemma = 'lead'
+T155	ADP 753 755	to
+#152	AnnotatorNotes T155	lemma = 'to'
+T156	DET 756 759	the
+#153	AnnotatorNotes T156	lemma = 'the'
+T157	NOUN 760 770	appearance
+#154	AnnotatorNotes T157	lemma = 'appearance'
+T158	ADP 771 773	of
+#155	AnnotatorNotes T158	lemma = 'of'
+T159	NUM 774 781	hundred
+#156	AnnotatorNotes T159	lemma = 'hundred'
+T160	ADJ 782 790	ordinary
+#157	AnnotatorNotes T160	lemma = 'ordinary'
+T161	NOUN 791 794	art
+#158	AnnotatorNotes T161	lemma = 'art'
+T162	NOUN 795 800	works
+#159	AnnotatorNotes T162	lemma = 'work'
+T163	PUNCT 800 801	.
+#160	AnnotatorNotes T163	lemma = '.'
+T164	ADP 802 804	On
+#161	AnnotatorNotes T164	lemma = 'on'
+T165	DET 805 808	the
+#162	AnnotatorNotes T165	lemma = 'the'
+T166	ADJ 809 814	other
+#163	AnnotatorNotes T166	lemma = 'other'
+T167	NOUN 815 819	hand
+#164	AnnotatorNotes T167	lemma = 'hand'
+T168	PUNCT 819 820	,
+#165	AnnotatorNotes T168	lemma = ','
+T169	PRON 821 822	I
+#166	AnnotatorNotes T169	lemma = 'I'
+T170	AUX 823 826	can
+#167	AnnotatorNotes T170	lemma = 'can'
+T171	VERB 827 830	say
+#168	AnnotatorNotes T171	lemma = 'say'
+T172	SCONJ 831 835	that
+#169	AnnotatorNotes T172	lemma = 'that'
+T173	ADV 836 841	there
+#170	AnnotatorNotes T173	lemma = 'there'
+T174	AUX 842 848	should
+#171	AnnotatorNotes T174	lemma = 'shall'
+T175	ADV 849 855	always
+#172	AnnotatorNotes T175	lemma = 'always'
+T176	VERB 856 858	be
+#173	AnnotatorNotes T176	lemma = 'be'
+T177	DET 859 860	a
+#174	AnnotatorNotes T177	lemma = 'a'
+T178	NOUN 861 868	control
+#175	AnnotatorNotes T178	lemma = 'control'
+T179	ADP 869 871	by
+#176	AnnotatorNotes T179	lemma = 'by'
+T180	DET 872 875	the
+#177	AnnotatorNotes T180	lemma = 'the'
+T181	NOUN 876 886	government
+#178	AnnotatorNotes T181	lemma = 'government'
+T182	ADP 887 889	in
+#179	AnnotatorNotes T182	lemma = 'in'
+T183	NOUN 890 893	way
+#180	AnnotatorNotes T183	lemma = 'way'
+T184	SCONJ 894 898	that
+#181	AnnotatorNotes T184	lemma = 'that'
+T185	NOUN 899 905	people
+#182	AnnotatorNotes T185	lemma = 'people'
+T186	AUX 906 912	should
+#183	AnnotatorNotes T186	lemma = 'shall'
+T187	VERB 913 917	know
+#184	AnnotatorNotes T187	lemma = 'know'
+T188	SCONJ 918 922	that
+#185	AnnotatorNotes T188	lemma = 'that'
+T189	PRON 923 927	they
+#186	AnnotatorNotes T189	lemma = 'they'
+T190	_ 928 934	cannot
+#187	AnnotatorNotes T190	lemma = '_'
+T191	VERB 935 941	afford
+#188	AnnotatorNotes T191	lemma = 'afford'
+T192	PRON 942 952	themselves
+#189	AnnotatorNotes T192	lemma = 'they'
+T193	PART 953 955	to
+#190	AnnotatorNotes T193	lemma = 'to'
+T194	VERB 956 958	do
+#191	AnnotatorNotes T194	lemma = 'do'
+T195	PRON 959 969	everything
+#192	AnnotatorNotes T195	lemma = 'everything'
+T196	PRON 970 974	they
+#193	AnnotatorNotes T196	lemma = 'they'
+T197	VERB 975 979	want
+#194	AnnotatorNotes T197	lemma = 'want'
+T198	CCONJ 980 983	and
+#195	AnnotatorNotes T198	lemma = 'and'
+T199	VERB 984 988	call
+#196	AnnotatorNotes T199	lemma = 'call'
+T200	PRON 989 991	it
+#197	AnnotatorNotes T200	lemma = 'it'
+T201	DET 992 994	an
+#198	AnnotatorNotes T201	lemma = 'a'
+T202	NOUN 995 998	art
+#199	AnnotatorNotes T202	lemma = 'art'
+T203	PUNCT 998 999	.
+#200	AnnotatorNotes T203	lemma = '.'
+T204	ADP 1000 1003	For
+#201	AnnotatorNotes T204	lemma = 'for'
+T205	NOUN 1004 1011	example
+#202	AnnotatorNotes T205	lemma = 'example'
+T206	PUNCT 1011 1012	,
+#203	AnnotatorNotes T206	lemma = ','
+T207	PRON 1013 1014	I
+#204	AnnotatorNotes T207	lemma = 'I'
+T208	AUX 1015 1018	was
+#205	AnnotatorNotes T208	lemma = 'be'
+T209	VERB 1019 1023	told
+#206	AnnotatorNotes T209	lemma = 'tell'
+T210	ADP 1024 1029	about
+#207	AnnotatorNotes T210	lemma = 'about'
+T211	DET 1030 1031	a
+#208	AnnotatorNotes T211	lemma = 'a'
+T212	NOUN 1032 1035	man
+#209	AnnotatorNotes T212	lemma = 'man'
+T213	PRON 1036 1039	who
+#210	AnnotatorNotes T213	lemma = 'who'
+T214	VERB 1040 1044	used
+#211	AnnotatorNotes T214	lemma = 'use'
+T215	PART 1045 1047	to
+#212	AnnotatorNotes T215	lemma = 'to'
+T216	VERB 1048 1053	paint
+#213	AnnotatorNotes T216	lemma = 'paint'
+T217	DET 1054 1057	his
+#214	AnnotatorNotes T217	lemma = 'his'
+T218	NOUN 1058 1062	body
+#215	AnnotatorNotes T218	lemma = 'body'
+T219	ADP 1063 1067	with
+#216	AnnotatorNotes T219	lemma = 'with'
+T220	ADJ 1068 1077	different
+#217	AnnotatorNotes T220	lemma = 'different'
+T221	NOUN 1078 1085	colours
+#218	AnnotatorNotes T221	lemma = 'colour'
+T222	CCONJ 1086 1089	and
+#219	AnnotatorNotes T222	lemma = 'and'
+T223	NOUN 1090 1092	go
+#220	AnnotatorNotes T223	lemma = 'go'
+T224	VERB 1093 1098	naked
+#221	AnnotatorNotes T224	lemma = 'nak'
+T225	ADP 1099 1101	to
+#222	AnnotatorNotes T225	lemma = 'to'
+T226	DET 1102 1105	the
+#223	AnnotatorNotes T226	lemma = 'the'
+T227	NOUN 1106 1110	park
+#224	AnnotatorNotes T227	lemma = 'park'
+T228	PUNCT 1110 1111	.
+#225	AnnotatorNotes T228	lemma = '.'
+T229	PRON 1112 1114	He
+#226	AnnotatorNotes T229	lemma = 'he'
+T230	VERB 1115 1121	called
+#227	AnnotatorNotes T230	lemma = 'call'
+T231	PRON 1122 1129	himself
+#228	AnnotatorNotes T231	lemma = 'he'
+T232	DET 1130 1131	a
+#229	AnnotatorNotes T232	lemma = 'a'
+T233	FB 1130 1131	a		
+#230	AnnotatorNotes T233	lemma = 'PUNCT'
+T234	NOUN 1133 1138	child
+#231	AnnotatorNotes T234	lemma = 'child'
+T235	ADP 1139 1141	of
+#232	AnnotatorNotes T235	lemma = 'of'
+T236	NOUN 1142 1148	nature
+#233	AnnotatorNotes T236	lemma = 'nature'
+T237	FB 1147 1148	e		
+#234	AnnotatorNotes T237	lemma = 'PUNCT'
+T238	PUNCT 1149 1150	.
+#235	AnnotatorNotes T238	lemma = '.'
+T239	ADV 1151 1156	There
+#236	AnnotatorNotes T239	lemma = 'there'
+T240	VERB 1157 1159	is
+#237	AnnotatorNotes T240	lemma = 'be'
+T241	DET 1160 1162	no
+#238	AnnotatorNotes T241	lemma = 'no'
+T242	NOUN 1163 1168	doubt
+#239	AnnotatorNotes T242	lemma = 'doubt'
+T243	SCONJ 1169 1173	that
+#240	AnnotatorNotes T243	lemma = 'that'
+T244	PRON 1174 1176	he
+#241	AnnotatorNotes T244	lemma = 'he'
+T245	VERB 1177 1183	scared
+#242	AnnotatorNotes T245	lemma = 'scar'
+T246	NOUN 1184 1190	people
+#243	AnnotatorNotes T246	lemma = 'people'
+T247	ADP 1191 1197	around
+#244	AnnotatorNotes T247	lemma = 'around'
+T248	PRON 1198 1201	him
+#245	AnnotatorNotes T248	lemma = 'he'
+T249	PUNCT 1201 1202	.
+#246	AnnotatorNotes T249	lemma = '.'
+T250	ADP 1203 1205	To
+#247	AnnotatorNotes T250	lemma = 'to'
+T251	NOUN 1206 1214	conclude
+#248	AnnotatorNotes T251	lemma = 'conclude'
+T252	PUNCT 1214 1215	,
+#249	AnnotatorNotes T252	lemma = ','
+T253	PRON 1216 1217	I
+#250	AnnotatorNotes T253	lemma = 'I'
+T254	VERB 1218 1225	believe
+#251	AnnotatorNotes T254	lemma = 'believe'
+T255	SCONJ 1226 1230	that
+#252	AnnotatorNotes T255	lemma = 'that'
+T256	ADV 1231 1236	there
+#253	AnnotatorNotes T256	lemma = 'there'
+T257	AUX 1237 1243	should
+#254	AnnotatorNotes T257	lemma = 'shall'
+T258	VERB 1244 1246	be
+#255	AnnotatorNotes T258	lemma = 'be'
+T259	NUM 1247 1250	one
+#256	AnnotatorNotes T259	lemma = 'one'
+T260	ADJ 1251 1255	main
+#257	AnnotatorNotes T260	lemma = 'main'
+T261	NOUN 1256 1267	restriction
+#258	AnnotatorNotes T261	lemma = 'restriction'
+T262	PUNCT 1268 1269	-
+#259	AnnotatorNotes T262	lemma = '-'
+T263	PART 1270 1273	not
+#260	AnnotatorNotes T263	lemma = 'not'
+T264	PART 1274 1276	to
+#261	AnnotatorNotes T264	lemma = 'to'
+T265	VERB 1277 1281	make
+#262	AnnotatorNotes T265	lemma = 'make'
+T266	NOUN 1282 1286	harm
+#263	AnnotatorNotes T266	lemma = 'harm'
+T267	ADP 1287 1289	to
+#264	AnnotatorNotes T267	lemma = 'to'
+T268	ADJ 1290 1295	other
+#265	AnnotatorNotes T268	lemma = 'other'
+T269	NOUN 1296 1302	people
+#266	AnnotatorNotes T269	lemma = 'people'
+T270	SCONJ 1303 1308	while
+#267	AnnotatorNotes T270	lemma = 'while'
+T271	VERB 1309 1319	expressing
+#268	AnnotatorNotes T271	lemma = 'express'
+T272	DET 1320 1324	your
+#269	AnnotatorNotes T272	lemma = 'you'
+T273	ADJ 1325 1328	own
+#270	AnnotatorNotes T273	lemma = 'own'
+T274	NOUN 1329 1334	ideas
+#271	AnnotatorNotes T274	lemma = 'idea'
+T275	PUNCT 1334 1335	.
+#272	AnnotatorNotes T275	lemma = '.'

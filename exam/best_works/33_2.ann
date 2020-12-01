@@ -1,0 +1,872 @@
+T1	Punctuation 0 9	Nowadays,
+#1	AnnotatorNotes T1	Nowadays
+T2	Agreement_errors 814 820	allows
+T4	Spelling 1634 1638	thay
+#3	AnnotatorNotes T4	they
+T5	Punctuation 1697 1710	In conclusion
+#4	AnnotatorNotes T5	In conclusion,
+T7	Articles 1529 1538	addiction
+#6	AnnotatorNotes T7	an addiction
+T9	lex_item_choice 791 797	rising
+#8	AnnotatorNotes T9	setting up
+#9	AnnotatorNotes T2	allow
+T12	Lack_par_constr 1274 1286	of listening
+#11	AnnotatorNotes T12	to listen
+T13	Lack_par_constr 1297 1304	reading
+#12	AnnotatorNotes T13	read
+R1	Parallel_construction Arg1:T12 Arg2:T13	
+T14	Lack_par_constr 1337 1345	watching
+#13	AnnotatorNotes T14	watch
+R2	Parallel_construction Arg1:T12 Arg2:T14	
+T6	Linking_device 1736 1746	as for me,
+#5	AnnotatorNotes T6	in my view
+T15	Spelling 1803 1809	choise
+#14	AnnotatorNotes T15	choice
+T16	Tense_form 2103 2107	need
+#15	AnnotatorNotes T16	needs
+T18	Redundant_comp 2209 2213	even
+A1	Delete T18
+T3	Infinitive_constr 1274 1286	of listening
+T8	Verb_Inf 814 835	allows you understand
+T11	Articles 1655 1667	a real world
+#2	AnnotatorNotes T11	the real world
+#7	AnnotatorNotes T8	allows you to understand
+#10	AnnotatorNotes T3	to listen
+T10	note 2222 2223	.
+#17	AnnotatorNotes T10	Макарова
+T19	ADV 0 8	Nowadays
+#18	AnnotatorNotes T19	lemma = 'nowadays'
+T20	PUNCT 8 9	,
+#19	AnnotatorNotes T20	lemma = ','
+T21	ADJ 10 14	many
+#20	AnnotatorNotes T21	lemma = 'many'
+T22	NOUN 15 21	people
+#21	AnnotatorNotes T22	lemma = 'people'
+T23	VERB 22 25	use
+#22	AnnotatorNotes T23	lemma = 'use'
+T24	ADJ 26 32	social
+#23	AnnotatorNotes T24	lemma = 'social'
+T25	NOUN 33 41	networks
+#24	AnnotatorNotes T25	lemma = 'network'
+T26	PART 42 44	to
+#25	AnnotatorNotes T26	lemma = 'to'
+T27	VERB 45 49	keep
+#26	AnnotatorNotes T27	lemma = 'keep'
+T28	ADP 50 52	in
+#27	AnnotatorNotes T28	lemma = 'in'
+T29	NOUN 53 58	touch
+#28	AnnotatorNotes T29	lemma = 'touch'
+T30	ADP 59 63	with
+#29	AnnotatorNotes T30	lemma = 'with'
+T31	NOUN 64 71	friends
+#30	AnnotatorNotes T31	lemma = 'friend'
+T32	PUNCT 71 72	,
+#31	AnnotatorNotes T32	lemma = ','
+T33	PART 73 75	to
+#32	AnnotatorNotes T33	lemma = 'to'
+T34	VERB 76 80	find
+#33	AnnotatorNotes T34	lemma = 'find'
+T35	ADJ 81 84	new
+#34	AnnotatorNotes T35	lemma = 'new'
+T36	NOUN 85 89	ones
+#35	AnnotatorNotes T36	lemma = 'one'
+T37	PUNCT 89 90	,
+#36	AnnotatorNotes T37	lemma = ','
+T38	PART 91 93	to
+#37	AnnotatorNotes T38	lemma = 'to'
+T39	VERB 94 98	gain
+#38	AnnotatorNotes T39	lemma = 'gain'
+T40	DET 99 103	some
+#39	AnnotatorNotes T40	lemma = 'some'
+T41	NOUN 104 113	knowledge
+#40	AnnotatorNotes T41	lemma = 'knowledge'
+T42	CCONJ 114 116	or
+#41	AnnotatorNotes T42	lemma = 'or'
+T43	SCONJ 117 124	because
+#42	AnnotatorNotes T43	lemma = 'because'
+T44	DET 125 130	their
+#43	AnnotatorNotes T44	lemma = 'their'
+T45	NOUN 131 135	work
+#44	AnnotatorNotes T45	lemma = 'work'
+T46	AUX 136 138	is
+#45	AnnotatorNotes T46	lemma = 'be'
+T47	VERB 139 148	connected
+#46	AnnotatorNotes T47	lemma = 'connect'
+T48	ADP 149 153	with
+#47	AnnotatorNotes T48	lemma = 'with'
+T49	ADJ 154 160	social
+#48	AnnotatorNotes T49	lemma = 'social'
+T50	NOUN 161 169	networks
+#49	AnnotatorNotes T50	lemma = 'network'
+T51	PUNCT 169 170	.
+#50	AnnotatorNotes T51	lemma = '.'
+T52	DET 171 174	The
+#51	AnnotatorNotes T52	lemma = 'the'
+T53	ADJ 175 181	social
+#52	AnnotatorNotes T53	lemma = 'socail'
+T54	NOUN 182 187	media
+#53	AnnotatorNotes T54	lemma = 'media'
+T55	AUX 188 190	is
+#54	AnnotatorNotes T55	lemma = 'be'
+T56	VERB 191 195	used
+#55	AnnotatorNotes T56	lemma = 'use'
+T57	CCONJ 196 202	either
+#56	AnnotatorNotes T57	lemma = 'either'
+T58	ADP 203 206	for
+#57	AnnotatorNotes T58	lemma = 'for'
+T59	NOUN 207 220	entertainment
+#58	AnnotatorNotes T59	lemma = 'entertainment'
+T60	CCONJ 221 223	or
+#59	AnnotatorNotes T60	lemma = 'or'
+T61	ADP 224 227	for
+#60	AnnotatorNotes T61	lemma = 'for'
+T62	NOUN 228 235	sharing
+#61	AnnotatorNotes T62	lemma = 'shar'
+T63	NOUN 236 245	knowledge
+#62	AnnotatorNotes T63	lemma = 'knowledge'
+T64	CCONJ 246 249	and
+#63	AnnotatorNotes T64	lemma = 'and'
+T65	VERB 250 257	getting
+#64	AnnotatorNotes T65	lemma = 'get'
+T66	NOUN 258 269	information
+#65	AnnotatorNotes T66	lemma = 'information'
+T67	PUNCT 269 270	.
+#66	AnnotatorNotes T67	lemma = '.'
+T68	ADV 271 278	However
+#67	AnnotatorNotes T68	lemma = 'however'
+T69	PUNCT 278 279	,
+#68	AnnotatorNotes T69	lemma = ','
+T70	ADV 280 285	there
+#69	AnnotatorNotes T70	lemma = 'there'
+T71	VERB 286 289	are
+#70	AnnotatorNotes T71	lemma = 'be'
+T72	DET 290 294	some
+#71	AnnotatorNotes T72	lemma = 'some'
+T73	NOUN 295 301	people
+#72	AnnotatorNotes T73	lemma = 'people'
+T74	PRON 302 305	who
+#73	AnnotatorNotes T74	lemma = 'who'
+T75	VERB 306 311	claim
+#74	AnnotatorNotes T75	lemma = 'claim'
+T76	SCONJ 312 316	that
+#75	AnnotatorNotes T76	lemma = 'that'
+T77	DET 317 320	the
+#76	AnnotatorNotes T77	lemma = 'the'
+T78	ADJ 321 325	main
+#77	AnnotatorNotes T78	lemma = 'main'
+T79	NOUN 326 334	function
+#78	AnnotatorNotes T79	lemma = 'function'
+T80	ADP 335 337	of
+#79	AnnotatorNotes T80	lemma = 'of'
+T81	ADJ 338 344	social
+#80	AnnotatorNotes T81	lemma = 'social'
+T82	NOUN 345 352	network
+#81	AnnotatorNotes T82	lemma = 'network'
+T83	AUX 353 355	is
+#82	AnnotatorNotes T83	lemma = 'be'
+T84	VERB 356 363	sharing
+#83	AnnotatorNotes T84	lemma = 'share'
+T85	NOUN 364 375	information
+#84	AnnotatorNotes T85	lemma = 'information'
+T86	PUNCT 375 376	.
+#85	AnnotatorNotes T86	lemma = '.'
+T87	ADP 377 379	At
+#86	AnnotatorNotes T87	lemma = 'at'
+T88	DET 380 383	the
+#87	AnnotatorNotes T88	lemma = 'the'
+T89	ADJ 384 388	same
+#88	AnnotatorNotes T89	lemma = 'same'
+T90	NOUN 389 393	time
+#89	AnnotatorNotes T90	lemma = 'time'
+T91	PUNCT 393 394	,
+#90	AnnotatorNotes T91	lemma = ','
+T92	PRON 395 401	others
+#91	AnnotatorNotes T92	lemma = 'other'
+T93	VERB 402 407	think
+#92	AnnotatorNotes T93	lemma = 'think'
+T94	SCONJ 408 412	that
+#93	AnnotatorNotes T94	lemma = 'that'
+T95	DET 413 416	the
+#94	AnnotatorNotes T95	lemma = 'the'
+T96	NOUN 417 424	purpose
+#95	AnnotatorNotes T96	lemma = 'purpose'
+T97	ADP 425 427	of
+#96	AnnotatorNotes T97	lemma = 'of'
+T98	VERB 428 433	using
+#97	AnnotatorNotes T98	lemma = 'use'
+T99	ADJ 434 440	social
+#98	AnnotatorNotes T99	lemma = 'social'
+T100	NOUN 441 446	media
+#99	AnnotatorNotes T100	lemma = 'medium'
+T101	AUX 447 449	is
+#100	AnnotatorNotes T101	lemma = 'be'
+T102	ADJ 450 454	just
+#101	AnnotatorNotes T102	lemma = 'just'
+T103	ADP 455 458	for
+#102	AnnotatorNotes T103	lemma = 'for'
+T104	NOUN 459 462	fun
+#103	AnnotatorNotes T104	lemma = 'fun'
+T105	PUNCT 462 463	.
+#104	AnnotatorNotes T105	lemma = '.'
+T106	ADP 465 467	On
+#105	AnnotatorNotes T106	lemma = 'on'
+T107	DET 468 471	the
+#106	AnnotatorNotes T107	lemma = 'the'
+T108	NUM 472 475	one
+#107	AnnotatorNotes T108	lemma = 'one'
+T109	NOUN 476 480	hand
+#108	AnnotatorNotes T109	lemma = 'hand'
+T110	PUNCT 480 481	,
+#109	AnnotatorNotes T110	lemma = ','
+T111	ADJ 482 488	social
+#110	AnnotatorNotes T111	lemma = 'social'
+T112	NOUN 489 497	networks
+#111	AnnotatorNotes T112	lemma = 'network'
+T113	AUX 498 501	are
+#112	AnnotatorNotes T113	lemma = 'be'
+T114	ADV 502 508	really
+#113	AnnotatorNotes T114	lemma = 'really'
+T115	DET 509 510	a
+#114	AnnotatorNotes T115	lemma = 'a'
+T116	ADJ 511 515	good
+#115	AnnotatorNotes T116	lemma = 'good'
+T117	NOUN 516 519	way
+#116	AnnotatorNotes T117	lemma = 'way'
+T118	PART 520 522	to
+#117	AnnotatorNotes T118	lemma = 'to'
+T119	VERB 523 528	share
+#118	AnnotatorNotes T119	lemma = 'share'
+T120	NOUN 529 540	information
+#119	AnnotatorNotes T120	lemma = 'information'
+T121	ADP 541 545	with
+#120	AnnotatorNotes T121	lemma = 'with'
+T122	PRON 546 552	others
+#121	AnnotatorNotes T122	lemma = 'other'
+T123	PUNCT 552 553	.
+#122	AnnotatorNotes T123	lemma = '.'
+T124	PRON 554 557	You
+#123	AnnotatorNotes T124	lemma = 'you'
+T125	VERB 558 562	have
+#124	AnnotatorNotes T125	lemma = 'have'
+T126	DET 563 567	your
+#125	AnnotatorNotes T126	lemma = 'you'
+T127	NOUN 568 573	group
+#126	AnnotatorNotes T127	lemma = 'group'
+T128	ADP 574 576	of
+#127	AnnotatorNotes T128	lemma = 'of'
+T129	NOUN 577 583	people
+#128	AnnotatorNotes T129	lemma = 'people'
+T130	ADP 584 586	in
+#129	AnnotatorNotes T130	lemma = 'in'
+T131	NOUN 587 594	contact
+#130	AnnotatorNotes T131	lemma = 'contact'
+T132	CCONJ 595 598	and
+#131	AnnotatorNotes T132	lemma = 'and'
+T133	PRON 599 603	they
+#132	AnnotatorNotes T133	lemma = 'they'
+T134	AUX 604 607	can
+#133	AnnotatorNotes T134	lemma = 'can'
+T135	ADV 608 614	always
+#134	AnnotatorNotes T135	lemma = 'always'
+T136	VERB 615 618	see
+#135	AnnotatorNotes T136	lemma = 'see'
+T137	SCONJ 619 623	when
+#136	AnnotatorNotes T137	lemma = 'when'
+T138	PRON 624 627	you
+#137	AnnotatorNotes T138	lemma = 'you'
+T139	VERB 628 634	upload
+#138	AnnotatorNotes T139	lemma = 'upload'
+T140	DET 635 636	a
+#139	AnnotatorNotes T140	lemma = 'a'
+T141	NOUN 637 642	photo
+#140	AnnotatorNotes T141	lemma = 'photo'
+T142	CCONJ 643 645	or
+#141	AnnotatorNotes T142	lemma = 'or'
+T143	VERB 646 651	write
+#142	AnnotatorNotes T143	lemma = 'write'
+T144	PRON 652 661	something
+#143	AnnotatorNotes T144	lemma = 'something'
+T145	ADP 662 667	about
+#144	AnnotatorNotes T145	lemma = 'about'
+T146	DET 668 672	your
+#145	AnnotatorNotes T146	lemma = 'you'
+T147	NOUN 673 677	life
+#146	AnnotatorNotes T147	lemma = 'life'
+T148	PUNCT 677 678	.
+#147	AnnotatorNotes T148	lemma = '.'
+T149	ADV 679 687	Moreover
+#148	AnnotatorNotes T149	lemma = 'moreover'
+T150	PUNCT 687 688	,
+#149	AnnotatorNotes T150	lemma = ','
+T151	PRON 689 691	it
+#150	AnnotatorNotes T151	lemma = 'it'
+T152	AUX 692 694	is
+#151	AnnotatorNotes T152	lemma = 'be'
+T153	DET 695 696	a
+#152	AnnotatorNotes T153	lemma = 'a'
+T154	ADV 697 701	very
+#153	AnnotatorNotes T154	lemma = 'very'
+T155	ADJ 702 707	quick
+#154	AnnotatorNotes T155	lemma = 'quick'
+T156	NOUN 708 711	way
+#155	AnnotatorNotes T156	lemma = 'way'
+T157	PART 712 714	to
+#156	AnnotatorNotes T157	lemma = 'to'
+T158	VERB 715 720	share
+#157	AnnotatorNotes T158	lemma = 'share'
+T159	NOUN 721 732	information
+#158	AnnotatorNotes T159	lemma = 'information'
+T160	PRON 733 736	all
+#159	AnnotatorNotes T160	lemma = 'all'
+T161	ADP 737 741	over
+#160	AnnotatorNotes T161	lemma = 'over'
+T162	DET 742 745	the
+#161	AnnotatorNotes T162	lemma = 'the'
+T163	NOUN 746 751	world
+#162	AnnotatorNotes T163	lemma = 'world'
+T164	PUNCT 751 752	.
+#163	AnnotatorNotes T164	lemma = '.'
+T165	VERB 753 759	Having
+#164	AnnotatorNotes T165	lemma = 'have'
+T166	NOUN 760 767	friends
+#165	AnnotatorNotes T166	lemma = 'friend'
+T167	PRON 768 771	all
+#166	AnnotatorNotes T167	lemma = 'all'
+T168	ADP 772 776	over
+#167	AnnotatorNotes T168	lemma = 'over'
+T169	DET 777 780	the
+#168	AnnotatorNotes T169	lemma = 'the'
+T170	NOUN 781 786	world
+#169	AnnotatorNotes T170	lemma = 'world'
+T171	CCONJ 787 790	and
+#170	AnnotatorNotes T171	lemma = 'and'
+T172	VERB 791 797	rising
+#171	AnnotatorNotes T172	lemma = 'rise'
+T173	ADJ 798 804	social
+#172	AnnotatorNotes T173	lemma = 'social'
+T174	NOUN 805 813	networks
+#173	AnnotatorNotes T174	lemma = 'network'
+T175	VERB 814 820	allows
+#174	AnnotatorNotes T175	lemma = 'allow'
+T176	PRON 821 824	you
+#175	AnnotatorNotes T176	lemma = 'you'
+T177	ADP 825 835	understand
+#176	AnnotatorNotes T177	lemma = 'understand'
+T178	ADJ 836 845	different
+#177	AnnotatorNotes T178	lemma = 'different'
+T179	NOUN 846 854	cultures
+#178	AnnotatorNotes T179	lemma = 'culture'
+T180	CCONJ 855 858	and
+#179	AnnotatorNotes T180	lemma = 'and'
+T181	NOUN 859 864	learn
+#180	AnnotatorNotes T181	lemma = 'learn'
+T182	ADP 865 870	about
+#181	AnnotatorNotes T182	lemma = 'about'
+T183	PRON 871 875	them
+#182	AnnotatorNotes T183	lemma = 'they'
+T184	PUNCT 875 876	.
+#183	AnnotatorNotes T184	lemma = '.'
+T185	ADV 877 884	However
+#184	AnnotatorNotes T185	lemma = 'however'
+T186	PUNCT 884 885	,
+#185	AnnotatorNotes T186	lemma = ','
+T187	VERB 886 893	sharing
+#186	AnnotatorNotes T187	lemma = 'shar'
+T188	NOUN 894 905	information
+#187	AnnotatorNotes T188	lemma = 'information'
+T189	ADP 906 908	in
+#188	AnnotatorNotes T189	lemma = 'in'
+T190	ADJ 909 915	social
+#189	AnnotatorNotes T190	lemma = 'social'
+T191	NOUN 916 924	networks
+#190	AnnotatorNotes T191	lemma = 'network'
+T192	AUX 925 928	may
+#191	AnnotatorNotes T192	lemma = 'may'
+T193	VERB 929 933	have
+#192	AnnotatorNotes T193	lemma = 'have'
+T194	DET 934 938	some
+#193	AnnotatorNotes T194	lemma = 'some'
+T195	NOUN 939 952	disadvantages
+#194	AnnotatorNotes T195	lemma = 'disadvantage'
+T196	PUNCT 952 953	.
+#195	AnnotatorNotes T196	lemma = '.'
+T197	ADP 954 957	For
+#196	AnnotatorNotes T197	lemma = 'for'
+T198	NOUN 958 965	example
+#197	AnnotatorNotes T198	lemma = 'example'
+T199	PUNCT 965 966	,
+#198	AnnotatorNotes T199	lemma = ','
+T200	VERB 967 971	lack
+#199	AnnotatorNotes T200	lemma = 'lack'
+T201	ADP 972 974	of
+#200	AnnotatorNotes T201	lemma = 'of'
+T202	NOUN 975 979	data
+#201	AnnotatorNotes T202	lemma = 'datum'
+T203	NOUN 980 988	security
+#202	AnnotatorNotes T203	lemma = 'security'
+T204	AUX 989 992	can
+#203	AnnotatorNotes T204	lemma = 'can'
+T205	VERB 993 997	lead
+#204	AnnotatorNotes T205	lemma = 'lead'
+T206	ADP 998 1000	to
+#205	AnnotatorNotes T206	lemma = 'to'
+T207	DET 1001 1005	some
+#206	AnnotatorNotes T207	lemma = 'some'
+T208	ADJ 1006 1016	unpleasant
+#207	AnnotatorNotes T208	lemma = 'unpleasant'
+T209	NOUN 1017 1029	consequences
+#208	AnnotatorNotes T209	lemma = 'consequence'
+T210	PUNCT 1029 1030	.
+#209	AnnotatorNotes T210	lemma = '.'
+T211	ADV 1031 1039	Moreover
+#210	AnnotatorNotes T211	lemma = 'moreover'
+T212	PUNCT 1039 1040	,
+#211	AnnotatorNotes T212	lemma = ','
+T213	DET 1041 1044	the
+#212	AnnotatorNotes T213	lemma = 'the'
+T214	NOUN 1045 1056	information
+#213	AnnotatorNotes T214	lemma = 'information'
+T215	AUX 1057 1060	can
+#214	AnnotatorNotes T215	lemma = 'can'
+T216	AUX 1061 1063	be
+#215	AnnotatorNotes T216	lemma = 'be'
+T217	CCONJ 1064 1068	both
+#216	AnnotatorNotes T217	lemma = 'both'
+T218	VERB 1069 1078	incorrect
+#217	AnnotatorNotes T218	lemma = 'incorrect'
+T219	CCONJ 1079 1082	and
+#218	AnnotatorNotes T219	lemma = 'and'
+T220	VERB 1083 1089	boring
+#219	AnnotatorNotes T220	lemma = 'boring'
+T221	PUNCT 1089 1090	.
+#220	AnnotatorNotes T221	lemma = '.'
+T222	ADP 1091 1094	For
+#221	AnnotatorNotes T222	lemma = 'for'
+T223	NOUN 1095 1102	example
+#222	AnnotatorNotes T223	lemma = 'example'
+T224	PUNCT 1102 1103	,
+#223	AnnotatorNotes T224	lemma = ','
+T225	DET 1104 1108	some
+#224	AnnotatorNotes T225	lemma = 'some'
+T226	NOUN 1109 1115	people
+#225	AnnotatorNotes T226	lemma = 'people'
+T227	AUX 1116 1119	are
+#226	AnnotatorNotes T227	lemma = 'be'
+T228	VERB 1120 1129	uploading
+#227	AnnotatorNotes T228	lemma = 'uploading'
+T229	NOUN 1130 1139	thousands
+#228	AnnotatorNotes T229	lemma = 'thousand'
+T230	ADP 1140 1142	of
+#229	AnnotatorNotes T230	lemma = 'of'
+T231	NOUN 1143 1149	photos
+#230	AnnotatorNotes T231	lemma = 'photo'
+T232	ADP 1150 1152	of
+#231	AnnotatorNotes T232	lemma = 'of'
+T233	DET 1153 1158	their
+#232	AnnotatorNotes T233	lemma = 'their'
+T234	NOUN 1159 1163	pets
+#233	AnnotatorNotes T234	lemma = 'pet'
+T235	PUNCT 1163 1164	.
+#234	AnnotatorNotes T235	lemma = '.'
+T236	CCONJ 1165 1168	And
+#235	AnnotatorNotes T236	lemma = 'and'
+T237	PRON 1169 1173	that
+#236	AnnotatorNotes T237	lemma = 'that'
+T238	VERB 1174 1179	seems
+#237	AnnotatorNotes T238	lemma = 'seem'
+T239	PART 1180 1183	not
+#238	AnnotatorNotes T239	lemma = 'not'
+T240	ADV 1184 1188	very
+#239	AnnotatorNotes T240	lemma = 'very'
+T241	ADJ 1189 1195	useful
+#240	AnnotatorNotes T241	lemma = 'useful'
+T242	PUNCT 1195 1196	.
+#241	AnnotatorNotes T242	lemma = '.'
+T243	ADP 1198 1200	On
+#242	AnnotatorNotes T243	lemma = 'on'
+T244	DET 1201 1204	the
+#243	AnnotatorNotes T244	lemma = 'the'
+T245	ADJ 1205 1210	other
+#244	AnnotatorNotes T245	lemma = 'other'
+T246	NOUN 1211 1215	hand
+#245	AnnotatorNotes T246	lemma = 'hand'
+T247	PUNCT 1215 1216	,
+#246	AnnotatorNotes T247	lemma = ','
+T248	DET 1217 1221	some
+#247	AnnotatorNotes T248	lemma = 'some'
+T249	ADJ 1222 1228	social
+#248	AnnotatorNotes T249	lemma = 'social'
+T250	NOUN 1229 1237	networks
+#249	AnnotatorNotes T250	lemma = 'network'
+T251	VERB 1238 1245	provide
+#250	AnnotatorNotes T251	lemma = 'provide'
+T252	NOUN 1246 1252	people
+#251	AnnotatorNotes T252	lemma = 'people'
+T253	ADP 1253 1257	with
+#252	AnnotatorNotes T253	lemma = 'with'
+T254	DET 1258 1261	the
+#253	AnnotatorNotes T254	lemma = 'the'
+T255	NOUN 1262 1273	possibility
+#254	AnnotatorNotes T255	lemma = 'possibility'
+T256	ADP 1274 1276	of
+#255	AnnotatorNotes T256	lemma = 'of'
+T257	NOUN 1277 1286	listening
+#256	AnnotatorNotes T257	lemma = 'listening'
+T258	ADP 1287 1289	to
+#257	AnnotatorNotes T258	lemma = 'to'
+T259	NOUN 1290 1295	music
+#258	AnnotatorNotes T259	lemma = 'music'
+T260	PUNCT 1295 1296	,
+#259	AnnotatorNotes T260	lemma = ','
+T261	VERB 1297 1304	reading
+#260	AnnotatorNotes T261	lemma = 'read'
+T262	DET 1305 1309	some
+#261	AnnotatorNotes T262	lemma = 'some'
+T263	NOUN 1310 1314	news
+#262	AnnotatorNotes T263	lemma = 'new'
+T264	CCONJ 1315 1318	and
+#263	AnnotatorNotes T264	lemma = 'and'
+T265	NOUN 1319 1327	articles
+#264	AnnotatorNotes T265	lemma = 'article'
+T266	CCONJ 1328 1331	and
+#265	AnnotatorNotes T266	lemma = 'and'
+T267	ADV 1332 1336	even
+#266	AnnotatorNotes T267	lemma = 'even'
+T268	PRON 1337 1345	watching
+#267	AnnotatorNotes T268	lemma = 'watch'
+T269	VERB 1346 1352	videos
+#268	AnnotatorNotes T269	lemma = 'video'
+T270	PUNCT 1352 1353	.
+#269	AnnotatorNotes T270	lemma = '.'
+T271	DET 1354 1358	Many
+#270	AnnotatorNotes T271	lemma = 'many'
+T272	NOUN 1359 1365	people
+#271	AnnotatorNotes T272	lemma = 'people'
+T273	VERB 1366 1371	start
+#272	AnnotatorNotes T273	lemma = 'start'
+T274	PART 1372 1374	to
+#273	AnnotatorNotes T274	lemma = 'to'
+T275	VERB 1375 1378	use
+#274	AnnotatorNotes T275	lemma = 'use'
+T276	PRON 1379 1388	something
+#275	AnnotatorNotes T276	lemma = 'someth'
+T277	ADP 1389 1391	on
+#276	AnnotatorNotes T277	lemma = 'on'
+T278	DET 1392 1397	their
+#277	AnnotatorNotes T278	lemma = 'their'
+T279	ADJ 1398 1401	own
+#278	AnnotatorNotes T279	lemma = 'own'
+T280	NOUN 1402 1407	pages
+#279	AnnotatorNotes T280	lemma = 'page'
+T281	ADP 1408 1410	as
+#280	AnnotatorNotes T281	lemma = 'as'
+T282	DET 1411 1412	a
+#281	AnnotatorNotes T282	lemma = 'a'
+T283	NOUN 1413 1418	hobby
+#282	AnnotatorNotes T283	lemma = 'hobby'
+T284	PUNCT 1418 1419	,
+#283	AnnotatorNotes T284	lemma = ','
+T285	VERB 1420 1426	create
+#284	AnnotatorNotes T285	lemma = 'create'
+T286	DET 1427 1431	some
+#285	AnnotatorNotes T286	lemma = 'some'
+T287	NOUN 1432 1438	groups
+#286	AnnotatorNotes T287	lemma = 'group'
+T288	CCONJ 1439 1442	and
+#287	AnnotatorNotes T288	lemma = 'and'
+T289	ADV 1443 1447	even
+#288	AnnotatorNotes T289	lemma = 'even'
+T290	ADJ 1448 1456	organize
+#289	AnnotatorNotes T290	lemma = 'organize'
+T291	NOUN 1457 1463	events
+#290	AnnotatorNotes T291	lemma = 'event'
+T292	ADP 1464 1468	with
+#291	AnnotatorNotes T292	lemma = 'with'
+T293	DET 1469 1472	the
+#292	AnnotatorNotes T293	lemma = 'the'
+T294	NOUN 1473 1477	help
+#293	AnnotatorNotes T294	lemma = 'help'
+T295	ADP 1478 1480	of
+#294	AnnotatorNotes T295	lemma = 'of'
+T296	ADJ 1481 1487	social
+#295	AnnotatorNotes T296	lemma = 'social'
+T297	NOUN 1488 1493	media
+#296	AnnotatorNotes T297	lemma = 'medium'
+T298	PUNCT 1493 1494	.
+#297	AnnotatorNotes T298	lemma = '.'
+T299	ADV 1495 1502	However
+#298	AnnotatorNotes T299	lemma = 'however'
+T300	PUNCT 1502 1503	,
+#299	AnnotatorNotes T300	lemma = ','
+T301	ADV 1504 1513	sometimes
+#300	AnnotatorNotes T301	lemma = 'sometimes'
+T302	PRON 1514 1516	it
+#301	AnnotatorNotes T302	lemma = 'it'
+T303	AUX 1517 1520	may
+#302	AnnotatorNotes T303	lemma = 'may'
+T304	VERB 1521 1525	lead
+#303	AnnotatorNotes T304	lemma = 'lead'
+T305	ADP 1526 1528	to
+#304	AnnotatorNotes T305	lemma = 'to'
+T306	NOUN 1529 1538	addiction
+#305	AnnotatorNotes T306	lemma = 'addiction'
+T307	PUNCT 1538 1539	,
+#306	AnnotatorNotes T307	lemma = ','
+T308	SCONJ 1540 1544	when
+#307	AnnotatorNotes T308	lemma = 'when'
+T309	NOUN 1545 1551	people
+#308	AnnotatorNotes T309	lemma = 'people'
+T310	VERB 1552 1557	spend
+#309	AnnotatorNotes T310	lemma = 'spend'
+T311	ADV 1558 1564	almost
+#310	AnnotatorNotes T311	lemma = 'almost'
+T312	PRON 1565 1568	all
+#311	AnnotatorNotes T312	lemma = 'all'
+T313	DET 1569 1574	their
+#312	AnnotatorNotes T313	lemma = 'their'
+T314	NOUN 1575 1579	time
+#313	AnnotatorNotes T314	lemma = 'time'
+T315	ADP 1580 1582	in
+#314	AnnotatorNotes T315	lemma = 'in'
+T316	NOUN 1583 1591	networks
+#315	AnnotatorNotes T316	lemma = 'network'
+T317	PUNCT 1592 1593	(
+#316	AnnotatorNotes T317	lemma = '('
+T318	ADV 1593 1597	even
+#317	AnnotatorNotes T318	lemma = 'even'
+T319	ADP 1598 1604	during
+#318	AnnotatorNotes T319	lemma = 'during'
+T320	NOUN 1605 1612	working
+#319	AnnotatorNotes T320	lemma = 'working'
+T321	NOUN 1613 1618	hours
+#320	AnnotatorNotes T321	lemma = 'hour'
+T322	PUNCT 1618 1619	)
+#321	AnnotatorNotes T322	lemma = ')'
+T323	PUNCT 1619 1620	.
+#322	AnnotatorNotes T323	lemma = '.'
+T324	ADP 1621 1623	In
+#323	AnnotatorNotes T324	lemma = 'in'
+T325	NOUN 1624 1632	addition
+#324	AnnotatorNotes T325	lemma = 'addition'
+T326	PUNCT 1632 1633	,
+#325	AnnotatorNotes T326	lemma = ','
+T327	AUX 1634 1638	thay
+#326	AnnotatorNotes T327	lemma = 'thay'
+T328	AUX 1639 1642	may
+#327	AnnotatorNotes T328	lemma = 'may'
+T329	ADV 1643 1647	even
+#328	AnnotatorNotes T329	lemma = 'even'
+T330	VERB 1648 1654	forget
+#329	AnnotatorNotes T330	lemma = 'forget'
+T331	DET 1655 1656	a
+#330	AnnotatorNotes T331	lemma = 'a'
+T332	ADJ 1657 1661	real
+#331	AnnotatorNotes T332	lemma = 'real'
+T333	NOUN 1662 1667	world
+#332	AnnotatorNotes T333	lemma = 'world'
+T334	ADP 1668 1675	because
+#333	AnnotatorNotes T334	lemma = 'because'
+T335	ADP 1676 1678	of
+#334	AnnotatorNotes T335	lemma = 'of'
+T336	ADJ 1679 1686	virtual
+#335	AnnotatorNotes T336	lemma = 'virtual'
+T337	NOUN 1687 1694	reality
+#336	AnnotatorNotes T337	lemma = 'reality'
+T338	PUNCT 1694 1695	.
+#337	AnnotatorNotes T338	lemma = '.'
+T339	ADP 1697 1699	In
+#338	AnnotatorNotes T339	lemma = 'in'
+T340	NOUN 1700 1710	conclusion
+#339	AnnotatorNotes T340	lemma = 'conclusion'
+T341	PRON 1711 1712	I
+#340	AnnotatorNotes T341	lemma = 'I'
+T342	AUX 1713 1718	would
+#341	AnnotatorNotes T342	lemma = 'will'
+T343	VERB 1719 1723	like
+#342	AnnotatorNotes T343	lemma = 'like'
+T344	PART 1724 1726	to
+#343	AnnotatorNotes T344	lemma = 'to'
+T345	VERB 1727 1730	say
+#344	AnnotatorNotes T345	lemma = 'say'
+T346	SCONJ 1731 1735	that
+#345	AnnotatorNotes T346	lemma = 'that'
+T347	ADP 1736 1738	as
+#346	AnnotatorNotes T347	lemma = 'as'
+T348	ADP 1739 1742	for
+#347	AnnotatorNotes T348	lemma = 'for'
+T349	PRON 1743 1745	me
+#348	AnnotatorNotes T349	lemma = 'i'
+T350	PUNCT 1745 1746	,
+#349	AnnotatorNotes T350	lemma = ','
+T351	NOUN 1747 1755	purposes
+#350	AnnotatorNotes T351	lemma = 'purpose'
+T352	ADP 1756 1758	of
+#351	AnnotatorNotes T352	lemma = 'of'
+T353	VERB 1759 1764	using
+#352	AnnotatorNotes T353	lemma = 'use'
+T354	DET 1765 1766	a
+#353	AnnotatorNotes T354	lemma = 'a'
+T355	ADJ 1767 1773	social
+#354	AnnotatorNotes T355	lemma = 'social'
+T356	NOUN 1774 1781	network
+#355	AnnotatorNotes T356	lemma = 'network'
+T357	NOUN 1782 1788	depend
+#356	AnnotatorNotes T357	lemma = 'depend'
+T358	ADP 1789 1791	on
+#357	AnnotatorNotes T358	lemma = 'on'
+T359	DET 1792 1793	a
+#358	AnnotatorNotes T359	lemma = 'a'
+T360	ADJ 1794 1802	personal
+#359	AnnotatorNotes T360	lemma = 'personal'
+T361	NOUN 1803 1809	choise
+#360	AnnotatorNotes T361	lemma = 'choise'
+T362	PUNCT 1809 1810	.
+#361	AnnotatorNotes T362	lemma = '.'
+T363	ADV 1811 1823	Nevertheless
+#362	AnnotatorNotes T363	lemma = 'nevertheless'
+T364	PUNCT 1823 1824	,
+#363	AnnotatorNotes T364	lemma = ','
+T365	PRON 1825 1826	I
+#364	AnnotatorNotes T365	lemma = 'I'
+T366	AUX 1827 1829	do
+#365	AnnotatorNotes T366	lemma = 'do'
+T367	PART 1830 1833	not
+#366	AnnotatorNotes T367	lemma = 'not'
+T368	VERB 1834 1841	suppose
+#367	AnnotatorNotes T368	lemma = 'suppose'
+T369	SCONJ 1842 1846	that
+#368	AnnotatorNotes T369	lemma = 'that'
+T370	ADJ 1847 1853	social
+#369	AnnotatorNotes T370	lemma = 'social'
+T371	NOUN 1854 1862	networks
+#370	AnnotatorNotes T371	lemma = 'network'
+T372	AUX 1863 1866	are
+#371	AnnotatorNotes T372	lemma = 'be'
+T373	DET 1867 1868	a
+#372	AnnotatorNotes T373	lemma = 'a'
+T374	ADJ 1869 1877	reliable
+#373	AnnotatorNotes T374	lemma = 'reliable'
+T375	NOUN 1878 1884	source
+#374	AnnotatorNotes T375	lemma = 'source'
+T376	ADP 1885 1887	of
+#375	AnnotatorNotes T376	lemma = 'of'
+T377	NOUN 1888 1899	information
+#376	AnnotatorNotes T377	lemma = 'information'
+T378	PUNCT 1899 1900	.
+#377	AnnotatorNotes T378	lemma = '.'
+T379	PRON 1901 1902	I
+#378	AnnotatorNotes T379	lemma = 'I'
+T380	VERB 1903 1908	guess
+#379	AnnotatorNotes T380	lemma = 'guess'
+T381	SCONJ 1909 1913	that
+#380	AnnotatorNotes T381	lemma = 'that'
+T382	ADJ 1914 1920	social
+#381	AnnotatorNotes T382	lemma = 'social'
+T383	NOUN 1921 1929	networks
+#382	AnnotatorNotes T383	lemma = 'network'
+T384	AUX 1930 1933	may
+#383	AnnotatorNotes T384	lemma = 'may'
+T385	AUX 1934 1936	be
+#384	AnnotatorNotes T385	lemma = 'be'
+T386	DET 1937 1938	a
+#385	AnnotatorNotes T386	lemma = 'a'
+T387	ADJ 1939 1943	good
+#386	AnnotatorNotes T387	lemma = 'good'
+T388	NOUN 1944 1947	way
+#387	AnnotatorNotes T388	lemma = 'way'
+T389	PART 1948 1950	to
+#388	AnnotatorNotes T389	lemma = 'to'
+T390	VERB 1951 1956	share
+#389	AnnotatorNotes T390	lemma = 'share'
+T391	NOUN 1957 1968	information
+#390	AnnotatorNotes T391	lemma = 'information'
+T392	ADP 1969 1973	with
+#391	AnnotatorNotes T392	lemma = 'with'
+T393	DET 1974 1978	your
+#392	AnnotatorNotes T393	lemma = 'you'
+T394	NOUN 1979 1985	friend
+#393	AnnotatorNotes T394	lemma = 'friend'
+T395	SCONJ 1986 1988	if
+#394	AnnotatorNotes T395	lemma = 'if'
+T396	PRON 1989 1993	they
+#395	AnnotatorNotes T396	lemma = 'they'
+T397	AUX 1994 1997	are
+#396	AnnotatorNotes T397	lemma = 'be'
+T398	ADJ 1998 2008	interested
+#397	AnnotatorNotes T398	lemma = 'interest'
+T399	ADP 2009 2011	in
+#398	AnnotatorNotes T399	lemma = 'in'
+T400	PRON 2012 2014	it
+#399	AnnotatorNotes T400	lemma = 'it'
+T401	PUNCT 2014 2015	.
+#400	AnnotatorNotes T401	lemma = '.'
+T402	PRON 2016 2017	I
+#401	AnnotatorNotes T402	lemma = 'I'
+T403	AUX 2018 2023	still
+#402	AnnotatorNotes T403	lemma = 'still'
+T404	VERB 2024 2029	think
+#403	AnnotatorNotes T404	lemma = 'think'
+T405	SCONJ 2030 2034	that
+#404	AnnotatorNotes T405	lemma = 'that'
+T406	ADJ 2035 2041	social
+#405	AnnotatorNotes T406	lemma = 'social'
+T407	NOUN 2042 2047	media
+#406	AnnotatorNotes T407	lemma = 'medium'
+T408	AUX 2048 2050	is
+#407	AnnotatorNotes T408	lemma = 'be'
+T409	ADV 2051 2055	more
+#408	AnnotatorNotes T409	lemma = 'more'
+T410	ADP 2056 2059	for
+#409	AnnotatorNotes T410	lemma = 'for'
+T411	NOUN 2060 2073	entertainment
+#410	AnnotatorNotes T411	lemma = 'entertainment'
+T412	PUNCT 2073 2074	.
+#411	AnnotatorNotes T412	lemma = '.'
+T413	ADV 2075 2082	However
+#412	AnnotatorNotes T413	lemma = 'however'
+T414	PUNCT 2082 2083	,
+#413	AnnotatorNotes T414	lemma = ','
+T415	DET 2084 2087	the
+#414	AnnotatorNotes T415	lemma = 'the'
+T416	NOUN 2088 2096	question
+#415	AnnotatorNotes T416	lemma = 'question'
+T417	ADV 2097 2102	still
+#416	AnnotatorNotes T417	lemma = 'still'
+T418	VERB 2103 2107	need
+#417	AnnotatorNotes T418	lemma = 'need'
+T419	DET 2108 2109	a
+#418	AnnotatorNotes T419	lemma = 'a'
+T420	ADJ 2110 2117	further
+#419	AnnotatorNotes T420	lemma = 'further'
+T421	NOUN 2118 2128	discussion
+#420	AnnotatorNotes T421	lemma = 'discussion'
+T422	PUNCT 2128 2129	,
+#421	AnnotatorNotes T422	lemma = ','
+T423	SCONJ 2130 2137	because
+#422	AnnotatorNotes T423	lemma = 'because'
+T424	VERB 2138 2143	using
+#423	AnnotatorNotes T424	lemma = 'use'
+T425	ADJ 2144 2150	social
+#424	AnnotatorNotes T425	lemma = 'social'
+T426	NOUN 2151 2159	networks
+#425	AnnotatorNotes T426	lemma = 'network'
+T427	ADP 2160 2163	for
+#426	AnnotatorNotes T427	lemma = 'for'
+T428	NOUN 2164 2177	entertainment
+#427	AnnotatorNotes T428	lemma = 'entertainment'
+T429	CCONJ 2178 2181	and
+#428	AnnotatorNotes T429	lemma = 'and'
+T430	NOUN 2182 2189	sharing
+#429	AnnotatorNotes T430	lemma = 'shar'
+T431	NOUN 2190 2201	information
+#430	AnnotatorNotes T431	lemma = 'information'
+T432	AUX 2202 2205	can
+#431	AnnotatorNotes T432	lemma = 'can'
+T433	AUX 2206 2208	be
+#432	AnnotatorNotes T433	lemma = 'be'
+T434	ADV 2209 2213	even
+#433	AnnotatorNotes T434	lemma = 'even'
+T435	ADJ 2214 2222	combined
+#434	AnnotatorNotes T435	lemma = 'combine'
+T436	PUNCT 2222 2223	.
+#435	AnnotatorNotes T436	lemma = '.'

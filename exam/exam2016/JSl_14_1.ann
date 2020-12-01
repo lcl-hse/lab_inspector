@@ -1,0 +1,316 @@
+T1	Agreement_errors 40 45	It is
+#1	AnnotatorNotes T1	They are
+T2	Coherence 120 209	On them show changed how much access childrens in schools was been in 2000 and 2012 years
+#2	AnnotatorNotes T2	This chart shows how much children have access to primary education in schools during 12 years
+T3	lex_item_choice 242 246	less
+#3	AnnotatorNotes T3	low
+T4	lex_item_choice 247 271	numbers access choldrens
+#4	AnnotatorNotes T4	level of uneducated children
+T5	Spelling 262 271	choldrens
+#5	AnnotatorNotes T5	children
+T6	lex_item_choice 285 289	like
+#6	AnnotatorNotes T6	comparing 
+T7	Redundant_comp 280 284	year
+A1	Delete T7
+T8	Redundant_comp 295 299	year
+A2	Delete T8
+T9	Absence_comp_sent 370 379	the girls
+#7	AnnotatorNotes T9	the number of girls
+T10	Tense_form 380 399	was been a lot like
+#8	AnnotatorNotes T10	were similar to
+T11	lex_item_choice 395 399	like
+#9	AnnotatorNotes T11	similar to
+T12	Word_order 436 452	the boys numbers
+#10	AnnotatorNotes T12	the number of boys
+T13	Tense_form 453 466	was been move
+#11	AnnotatorNotes T13	was
+T14	lex_item_choice 467 471	like
+#12	AnnotatorNotes T14	similar to
+T15	Absence_comp_sent 472 477	girls
+#13	AnnotatorNotes T15	the number of girls
+T16	Redundant_comp 486 490	year
+A3	Delete T16
+T17	Spelling 499 501	al
+#14	AnnotatorNotes T17	all
+T18	PNP 0 2	We
+#15	AnnotatorNotes T18	lemma = 'we'
+T19	VVB 3 6	see
+#16	AnnotatorNotes T19	lemma = 'see'
+T20	CRD 7 12	three
+#17	AnnotatorNotes T20	lemma = 'three'
+T21	NN1 13 18	chart
+#18	AnnotatorNotes T21	lemma = 'chart'
+T22	NN2 19 25	groups
+#19	AnnotatorNotes T22	lemma = 'group'
+T23	PRP 26 28	in
+#20	AnnotatorNotes T23	lemma = 'in'
+T24	DT0 29 32	all
+#21	AnnotatorNotes T24	lemma = 'all'
+T25	NN2 33 38	years
+#22	AnnotatorNotes T25	lemma = 'year'
+T26	SENT 38 39	.
+#23	AnnotatorNotes T26	lemma = '.'
+T27	PNP 40 42	It
+#24	AnnotatorNotes T27	lemma = 'it'
+T28	VBZ 43 45	is
+#25	AnnotatorNotes T28	lemma = 'be'
+T29	NP0 46 52	Africa
+#26	AnnotatorNotes T29	lemma = 'africa'
+T30	NN1 53 58	chart
+#27	AnnotatorNotes T30	lemma = 'chart'
+T31	NN1 59 64	group
+#28	AnnotatorNotes T31	lemma = 'group'
+T32	PUN 64 65	,
+#29	AnnotatorNotes T32	lemma = ','
+T33	NP0 66 71	South
+#30	AnnotatorNotes T33	lemma = 'south'
+T34	NP0 72 76	Asia
+#31	AnnotatorNotes T34	lemma = 'asia'
+T35	NN1 77 82	chart
+#32	AnnotatorNotes T35	lemma = 'chart'
+T36	NN1 83 88	group
+#33	AnnotatorNotes T36	lemma = 'group'
+T37	CJC 89 92	and
+#34	AnnotatorNotes T37	lemma = 'and'
+T38	NN1 93 97	Rest
+#35	AnnotatorNotes T38	lemma = 'rest'
+T39	PRF 98 100	of
+#36	AnnotatorNotes T39	lemma = 'of'
+T40	NN1 101 106	World
+#37	AnnotatorNotes T40	lemma = 'world'
+T41	NN1 107 112	chart
+#38	AnnotatorNotes T41	lemma = 'chart'
+T42	NN1 113 118	Group
+#39	AnnotatorNotes T42	lemma = 'group'
+T43	SENT 118 119	.
+#40	AnnotatorNotes T43	lemma = '.'
+T44	AV0 120 122	On
+#41	AnnotatorNotes T44	lemma = 'on'
+T45	PNP 123 127	them
+#42	AnnotatorNotes T45	lemma = 'they'
+T46	VVB 128 132	show
+#43	AnnotatorNotes T46	lemma = 'show'
+T47	VVN 133 140	changed
+#44	AnnotatorNotes T47	lemma = 'change|changed'
+T48	AVQ 141 144	how
+#45	AnnotatorNotes T48	lemma = 'how'
+T49	DT0 145 149	much
+#46	AnnotatorNotes T49	lemma = 'much'
+T50	NN1 150 156	access
+#47	AnnotatorNotes T50	lemma = 'access'
+T51	NN2 157 166	childrens
+#48	AnnotatorNotes T51	lemma = 'children'
+T52	PRP 167 169	in
+#49	AnnotatorNotes T52	lemma = 'in'
+T53	NN2 170 177	schools
+#50	AnnotatorNotes T53	lemma = 'school'
+T54	VBD 178 181	was
+#51	AnnotatorNotes T54	lemma = 'be'
+T55	VBN 182 186	been
+#52	AnnotatorNotes T55	lemma = 'be'
+T56	PRP 187 189	in
+#53	AnnotatorNotes T56	lemma = 'in'
+T57	CRD 190 194	2000
+#54	AnnotatorNotes T57	lemma = '2000'
+T58	CJC 195 198	and
+#55	AnnotatorNotes T58	lemma = 'and'
+T59	CRD 199 203	2012
+#56	AnnotatorNotes T59	lemma = '2012'
+T60	NN2 204 209	years
+#57	AnnotatorNotes T60	lemma = 'year'
+T61	SENT 209 210	.
+#58	AnnotatorNotes T61	lemma = '.'
+T62	PRP 211 213	In
+#59	AnnotatorNotes T62	lemma = 'in'
+T63	DT0 214 217	all
+#60	AnnotatorNotes T63	lemma = 'all'
+T64	NN1 218 223	chart
+#61	AnnotatorNotes T64	lemma = 'chart'
+T65	NN2 224 230	groups
+#62	AnnotatorNotes T65	lemma = 'group'
+T66	PNP 231 233	we
+#63	AnnotatorNotes T66	lemma = 'we'
+T67	VVB 234 237	see
+#64	AnnotatorNotes T67	lemma = 'see'
+T68	AVQ 238 241	how
+#65	AnnotatorNotes T68	lemma = 'how'
+T69	DT0 242 246	less
+#66	AnnotatorNotes T69	lemma = 'less'
+T70	NN2 247 254	numbers
+#67	AnnotatorNotes T70	lemma = 'number'
+T71	VVB 255 261	access
+#68	AnnotatorNotes T71	lemma = 'access'
+T72	NN2 262 271	choldrens
+#69	AnnotatorNotes T72	lemma = 'choldrens'
+T73	PRP 272 274	in
+#70	AnnotatorNotes T73	lemma = 'in'
+T74	CRD 275 279	2012
+#71	AnnotatorNotes T74	lemma = '2012'
+T75	NN1 280 284	year
+#72	AnnotatorNotes T75	lemma = 'year'
+T76	PRP 285 289	like
+#73	AnnotatorNotes T76	lemma = 'like'
+T77	CRD 290 294	2000
+#74	AnnotatorNotes T77	lemma = '2000'
+T78	NN1 295 299	year
+#75	AnnotatorNotes T78	lemma = 'year'
+T79	SENT 299 300	.
+#76	AnnotatorNotes T79	lemma = '.'
+T80	CJC 301 304	And
+#77	AnnotatorNotes T80	lemma = 'and'
+T81	AV0 305 309	then
+#78	AnnotatorNotes T81	lemma = 'then'
+T82	PNP 310 312	we
+#79	AnnotatorNotes T82	lemma = 'we'
+T83	VVB 313 316	see
+#80	AnnotatorNotes T83	lemma = 'see'
+T84	PRP 317 319	in
+#81	AnnotatorNotes T84	lemma = 'in'
+T85	NP0 320 326	Africa
+#82	AnnotatorNotes T85	lemma = 'africa'
+T86	NN1 327 332	chart
+#83	AnnotatorNotes T86	lemma = 'chart'
+T87	NN1 333 338	group
+#84	AnnotatorNotes T87	lemma = 'group'
+T88	CJC 339 342	and
+#85	AnnotatorNotes T88	lemma = 'and'
+T89	NN1 343 347	Rest
+#86	AnnotatorNotes T89	lemma = 'rest'
+T90	PRF 348 350	of
+#87	AnnotatorNotes T90	lemma = 'of'
+T91	NN1 351 356	World
+#88	AnnotatorNotes T91	lemma = 'world'
+T92	PRP 357 359	in
+#89	AnnotatorNotes T92	lemma = 'in'
+T93	DT0 360 363	all
+#90	AnnotatorNotes T93	lemma = 'all'
+T94	NN2 364 369	years
+#91	AnnotatorNotes T94	lemma = 'year'
+T95	AT0 370 373	the
+#92	AnnotatorNotes T95	lemma = 'the'
+T96	NN2 374 379	girls
+#93	AnnotatorNotes T96	lemma = 'girl'
+T97	VBD 380 383	was
+#94	AnnotatorNotes T97	lemma = 'be'
+T98	VBN 384 388	been
+#95	AnnotatorNotes T98	lemma = 'be'
+T99	AT0 389 390	a
+#96	AnnotatorNotes T99	lemma = 'a'
+T100	NN1 391 394	lot
+#97	AnnotatorNotes T100	lemma = 'lot'
+T101	PRP 395 399	like
+#98	AnnotatorNotes T101	lemma = 'like'
+T102	NN2 400 404	boys
+#99	AnnotatorNotes T102	lemma = 'boy'
+T103	PUN 404 405	,
+#100	AnnotatorNotes T103	lemma = ','
+T104	CJC 406 409	but
+#101	AnnotatorNotes T104	lemma = 'but'
+T105	PRP 410 412	in
+#102	AnnotatorNotes T105	lemma = 'in'
+T106	NP0 413 418	South
+#103	AnnotatorNotes T106	lemma = 'south'
+T107	NP0 419 423	Asia
+#104	AnnotatorNotes T107	lemma = 'asia'
+T108	NN1 424 429	chart
+#105	AnnotatorNotes T108	lemma = 'chart'
+T109	NN1 430 435	group
+#106	AnnotatorNotes T109	lemma = 'group'
+T110	AT0 436 439	the
+#107	AnnotatorNotes T110	lemma = 'the'
+T111	NN2 440 444	boys
+#108	AnnotatorNotes T111	lemma = 'boy'
+T112	NN2 445 452	numbers
+#109	AnnotatorNotes T112	lemma = 'number'
+T113	VBD 453 456	was
+#110	AnnotatorNotes T113	lemma = 'be'
+T114	VBN 457 461	been
+#111	AnnotatorNotes T114	lemma = 'be'
+T115	NN1 462 466	move
+#112	AnnotatorNotes T115	lemma = 'move'
+T116	PRP 467 471	like
+#113	AnnotatorNotes T116	lemma = 'like'
+T117	NN2 472 477	girls
+#114	AnnotatorNotes T117	lemma = 'girl'
+T118	PRP 478 480	in
+#115	AnnotatorNotes T118	lemma = 'in'
+T119	CRD 481 485	2012
+#116	AnnotatorNotes T119	lemma = '2012'
+T120	NN1 486 490	year
+#117	AnnotatorNotes T120	lemma = 'year'
+T121	SENT 490 491	.
+#118	AnnotatorNotes T121	lemma = '.'
+T122	AV0 492 494	So
+#119	AnnotatorNotes T122	lemma = 'so'
+T123	PUN 494 495	,
+#120	AnnotatorNotes T123	lemma = ','
+T124	PRP 496 498	in
+#121	AnnotatorNotes T124	lemma = 'in'
+T125	DT0 499 501	al
+#122	AnnotatorNotes T125	lemma = 'al'
+T126	NN2 502 508	groups
+#123	AnnotatorNotes T126	lemma = 'group'
+T127	PNP 509 511	we
+#124	AnnotatorNotes T127	lemma = 'we'
+T128	VM0 512 515	can
+#125	AnnotatorNotes T128	lemma = 'can'
+T129	VVI 516 519	see
+#126	AnnotatorNotes T129	lemma = 'see'
+T130	AVQ 520 523	how
+#127	AnnotatorNotes T130	lemma = 'how'
+T131	AJ0 524 530	fallen
+#128	AnnotatorNotes T131	lemma = 'fallen|fall'
+T132	PRP 531 533	in
+#129	AnnotatorNotes T132	lemma = 'in'
+T133	NN1 534 540	school
+#130	AnnotatorNotes T133	lemma = 'school'
+T134	NN2 541 548	numbers
+#131	AnnotatorNotes T134	lemma = 'number'
+T135	PRF 549 551	of
+#132	AnnotatorNotes T135	lemma = 'of'
+T136	NN1 552 558	access
+#133	AnnotatorNotes T136	lemma = 'access'
+T137	NN2 559 568	childrens
+#134	AnnotatorNotes T137	lemma = 'children'
+T138	CJC 569 572	and
+#135	AnnotatorNotes T138	lemma = 'and'
+T139	AV0 573 577	then
+#136	AnnotatorNotes T139	lemma = 'then'
+T140	PNP 578 580	we
+#137	AnnotatorNotes T140	lemma = 'we'
+T141	VVB 581 584	see
+#138	AnnotatorNotes T141	lemma = 'see'
+T142	AVQ 585 588	how
+#139	AnnotatorNotes T142	lemma = 'how'
+T143	NN2 589 596	numbers
+#140	AnnotatorNotes T143	lemma = 'number'
+T144	PRF 597 599	of
+#141	AnnotatorNotes T144	lemma = 'of'
+T145	NN2 600 605	girls
+#142	AnnotatorNotes T145	lemma = 'girl'
+T146	VBD 606 609	was
+#143	AnnotatorNotes T146	lemma = 'be'
+T147	VBN 610 614	been
+#144	AnnotatorNotes T147	lemma = 'be'
+T148	AV0 615 619	more
+#145	AnnotatorNotes T148	lemma = 'more'
+T149	PRP 620 624	like
+#146	AnnotatorNotes T149	lemma = 'like'
+T150	NN2 625 630	girls
+#147	AnnotatorNotes T150	lemma = 'girl'
+T151	PRP 631 633	in
+#148	AnnotatorNotes T151	lemma = 'in'
+T152	AT0 634 635	a
+#149	AnnotatorNotes T152	lemma = 'a'
+T153	DT0 636 640	more
+#150	AnnotatorNotes T153	lemma = 'more'
+T154	NN1 641 645	part
+#151	AnnotatorNotes T154	lemma = 'part'
+T155	PRF 646 648	of
+#152	AnnotatorNotes T155	lemma = 'of'
+T156	NN1 649 654	chart
+#153	AnnotatorNotes T156	lemma = 'chart'
+T157	NN2 655 661	groups
+#154	AnnotatorNotes T157	lemma = 'group'
+T158	SENT 661 662	.
+#155	AnnotatorNotes T158	lemma = ''

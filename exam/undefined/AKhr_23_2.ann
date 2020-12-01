@@ -1,0 +1,836 @@
+T1	Tense_form 109 113	form
+A1	Cause T1 Other
+A2	Weight-language T1 Major
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	forms
+T2	Tense_form 145 154	influence
+A4	Cause T2 Other
+A5	Weight-language T2 Major
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	influences
+T3	Often_confused 383 387	arts
+A7	Cause T3 Other
+A8	Weight-language T3 Major
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	art
+T4	Noun_number 555 561	artist
+A10	Cause T4 Typo
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	artists
+T5	Punctuation 628 631	and
+A13	Cause T5 Other
+A14	Weight-language T5 Major
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	, and
+T6	Often_confused 702 711	publicity
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Minor
+#6	AnnotatorNotes T6	public
+T7	Articles 702 711	publicity
+A19	Cause T7 Absence_of_Category_in_L1
+A20	Weight-language T7 Minor
+A21	Weight-understanding T7 Minor
+#7	AnnotatorNotes T7	the public
+T8	Punctuation 713 721	Moreover
+A22	Cause T8 Other
+A23	Weight-language T8 Major
+A24	Weight-understanding T8 Minor
+#8	AnnotatorNotes T8	Moreover,
+T9	Articles 743 750	culture
+A25	Cause T9 Absence_of_Category_in_L1
+A26	Weight-language T9 Minor
+A27	Weight-understanding T9 Minor
+#9	AnnotatorNotes T9	the culture
+T10	Spelling 788 795	genious
+A28	Cause T10 Other
+A29	Weight-language T10 Critical
+A30	Weight-understanding T10 Minor
+#10	AnnotatorNotes T10	genius
+T11	Category_confusion 788 795	genious
+A31	Cause T11 Other
+A32	Weight-language T11 Major
+A33	Weight-understanding T11 Minor
+#11	AnnotatorNotes T11	ingenious
+T12	Absence_comp_sent 850 854	wise
+A34	Cause T12 L1_interference
+A35	Weight-language T12 Major
+A36	Weight-understanding T12 Minor
+#12	AnnotatorNotes T12	wise man
+T13	Articles 846 854	the wise
+A37	Cause T13 Absence_of_Category_in_L1
+A38	Weight-language T13 Major
+A39	Weight-understanding T13 Minor
+#13	AnnotatorNotes T13	wise man
+T14	Punctuation 1069 1086	On the other hand
+A40	Cause T14 Other
+A41	Weight-language T14 Major
+A42	Weight-understanding T14 Minor
+#14	AnnotatorNotes T14	On the one hand,
+T15	Punctuation 1087 1097	to my mind
+A43	Cause T15 Other
+A44	Weight-language T15 Major
+A45	Weight-understanding T15 Minor
+#15	AnnotatorNotes T15	to my mind,
+T16	Articles 1098 1117	the good government
+A46	Cause T16 Absence_of_Category_in_L1
+A47	Weight-language T16 Major
+A48	Weight-understanding T16 Major
+#16	AnnotatorNotes T16	a good government
+T17	Often_confused 1389 1393	arts
+A49	Cause T17 Other
+A50	Weight-language T17 Major
+A51	Weight-understanding T17 Major
+#17	AnnotatorNotes T17	art
+T18	Punctuation 1464 1465	,
+A52	Cause T18 Other
+A53	Weight-language T18 Critical
+A54	Weight-understanding T18 Major
+A55	Delete T18
+T19	Spelling 1514 1522	recomend
+A56	Cause T19 L1_interference
+A57	Weight-language T19 Major
+A58	Weight-understanding T19 Minor
+#18	AnnotatorNotes T19	recommend
+T20	Verb_Bare_Inf 1511 1522	to recomend
+A59	Cause T20 Absence_of_Category_in_L1
+A60	Weight-language T20 Critical
+A61	Weight-understanding T20 Major
+#19	AnnotatorNotes T20	recommend
+T21	Articles 1523 1531	citizens
+A62	Cause T21 Absence_of_Category_in_L1
+A63	Weight-language T21 Minor
+A64	Weight-understanding T21 Minor
+#20	AnnotatorNotes T21	the citizens
+T22	Spelling 1601 1607	devide
+A65	Cause T22 Other
+A66	Weight-language T22 Critical
+A67	Weight-understanding T22 Minor
+#21	AnnotatorNotes T22	divide
+T23	Often_confused 1738 1742	arts
+A68	Cause T23 Other
+A69	Weight-language T23 Major
+A70	Weight-understanding T23 Major
+#22	AnnotatorNotes T23	art
+T24	Non_defining 1656 1742	which is proposed to the whole society and should be controlled by specialists in arts
+A71	Cause T24 Other
+A72	Weight-language T24 Major
+A73	Weight-understanding T24 Minor
+#23	AnnotatorNotes T24	which is proposed to the whole society and should be controlled by specialists in art,
+T25	Articles 1757 1778	an individual culture
+A74	Cause T25 Absence_of_Category_in_L1
+A75	Weight-language T25 Major
+A76	Weight-understanding T25 Minor
+#24	AnnotatorNotes T25	individual culture
+T26	lex_item_choice 1844 1852	seamless
+A77	Cause T26 Other
+A78	Weight-language T26 Major
+A79	Weight-understanding T26 Critical
+#25	AnnotatorNotes T26	??? UNCLEAR (MAYBE: endless)
+T27	PRON 0 2	It
+#26	AnnotatorNotes T27	lemma = 'it'
+T28	AUX 3 5	is
+#27	AnnotatorNotes T28	lemma = 'be'
+T29	ADJ 6 13	obvious
+#28	AnnotatorNotes T29	lemma = 'obvious'
+T30	SCONJ 14 18	that
+#29	AnnotatorNotes T30	lemma = 'that'
+T31	ADJ 19 27	cultural
+#30	AnnotatorNotes T31	lemma = 'cultural'
+T32	NOUN 28 35	aspects
+#31	AnnotatorNotes T32	lemma = 'aspect'
+T33	ADV 36 49	significantly
+#32	AnnotatorNotes T33	lemma = 'significantly'
+T34	VERB 50 56	affect
+#33	AnnotatorNotes T34	lemma = 'affect'
+T35	ADJ 57 62	other
+#34	AnnotatorNotes T35	lemma = 'other'
+T36	NOUN 63 70	spheres
+#35	AnnotatorNotes T36	lemma = 'sphere'
+T37	ADP 71 73	of
+#36	AnnotatorNotes T37	lemma = 'of'
+T38	ADJ 74 80	social
+#37	AnnotatorNotes T38	lemma = 'social'
+T39	NOUN 81 85	life
+#38	AnnotatorNotes T39	lemma = 'life'
+T40	PUNCT 85 86	.
+#39	AnnotatorNotes T40	lemma = '.'
+T41	ADV 87 95	Nowadays
+#40	AnnotatorNotes T41	lemma = 'nowadays'
+T42	ADJ 96 100	mass
+#41	AnnotatorNotes T42	lemma = 'mass'
+T43	NOUN 101 108	culture
+#42	AnnotatorNotes T43	lemma = 'culture'
+T44	VERB 109 113	form
+#43	AnnotatorNotes T44	lemma = 'form'
+T45	DET 114 117	the
+#44	AnnotatorNotes T45	lemma = 'the'
+T46	NOUN 118 125	opinion
+#45	AnnotatorNotes T46	lemma = 'opinion'
+T47	ADP 126 128	of
+#46	AnnotatorNotes T47	lemma = 'of'
+T48	ADJ 129 133	many
+#47	AnnotatorNotes T48	lemma = 'many'
+T49	NOUN 134 140	people
+#48	AnnotatorNotes T49	lemma = 'people'
+T50	CCONJ 141 144	and
+#49	AnnotatorNotes T50	lemma = 'and'
+T51	NOUN 145 154	influence
+#50	AnnotatorNotes T51	lemma = 'influence'
+T52	DET 155 160	their
+#51	AnnotatorNotes T52	lemma = 'their'
+T53	NOUN 161 170	lifestyle
+#52	AnnotatorNotes T53	lemma = 'lifestyle'
+T54	ADV 171 173	as
+#53	AnnotatorNotes T54	lemma = 'as'
+T55	ADV 174 178	well
+#54	AnnotatorNotes T55	lemma = 'well'
+T56	PUNCT 178 179	.
+#55	AnnotatorNotes T56	lemma = '.'
+T57	CCONJ 180 183	But
+#56	AnnotatorNotes T57	lemma = 'but'
+T58	ADV 184 189	there
+#57	AnnotatorNotes T58	lemma = 'there'
+T59	VERB 190 193	are
+#58	AnnotatorNotes T59	lemma = 'be'
+T60	DET 194 195	a
+#59	AnnotatorNotes T60	lemma = 'a'
+T61	NOUN 196 199	lot
+#60	AnnotatorNotes T61	lemma = 'lot'
+T62	ADP 200 202	of
+#61	AnnotatorNotes T62	lemma = 'of'
+T63	NOUN 203 214	outstanding
+#62	AnnotatorNotes T63	lemma = 'outstanding'
+T64	CCONJ 215 218	and
+#63	AnnotatorNotes T64	lemma = 'and'
+T65	ADV 219 228	sometimes
+#64	AnnotatorNotes T65	lemma = 'sometimes'
+T66	ADJ 229 240	provocative
+#65	AnnotatorNotes T66	lemma = 'provocative'
+T67	NOUN 241 248	artists
+#66	AnnotatorNotes T67	lemma = 'artist'
+T68	PRON 249 254	whose
+#67	AnnotatorNotes T68	lemma = 'whose'
+T69	VERB 255 260	ideas
+#68	AnnotatorNotes T69	lemma = 'idea'
+T70	PUNCT 260 261	,
+#69	AnnotatorNotes T70	lemma = ','
+T71	VERB 262 271	according
+#70	AnnotatorNotes T71	lemma = 'accord'
+T72	ADP 272 274	to
+#71	AnnotatorNotes T72	lemma = 'to'
+T73	DET 275 279	some
+#72	AnnotatorNotes T73	lemma = 'some'
+T74	NOUN 280 286	people
+#73	AnnotatorNotes T74	lemma = 'people'
+T75	PUNCT 286 287	,
+#74	AnnotatorNotes T75	lemma = ','
+T76	AUX 288 291	may
+#75	AnnotatorNotes T76	lemma = 'may'
+T77	FB 290 291	y		
+#76	AnnotatorNotes T77	lemma = 'PUNCT'
+T78	ADV 293 300	destroy
+#77	AnnotatorNotes T78	lemma = 'destroy'
+T79	FB 299 300	y		
+#78	AnnotatorNotes T79	lemma = 'PUNCT'
+T80	DET 302 305	the
+#79	AnnotatorNotes T80	lemma = 'the'
+T81	NOUN 306 311	minds
+#80	AnnotatorNotes T81	lemma = 'mind'
+T82	ADP 312 314	of
+#81	AnnotatorNotes T82	lemma = 'of'
+T83	DET 315 318	the
+#82	AnnotatorNotes T83	lemma = 'the'
+T84	NOUN 319 329	spectators
+#83	AnnotatorNotes T84	lemma = 'spectator'
+T85	CCONJ 330 332	or
+#84	AnnotatorNotes T85	lemma = 'or'
+T86	NOUN 333 340	readers
+#85	AnnotatorNotes T86	lemma = 'reader'
+T87	PUNCT 340 341	.
+#86	AnnotatorNotes T87	lemma = '.'
+T88	ADV 342 344	So
+#87	AnnotatorNotes T88	lemma = 'so'
+T89	PUNCT 344 345	,
+#88	AnnotatorNotes T89	lemma = ','
+T90	ADV 346 354	somebody
+#89	AnnotatorNotes T90	lemma = 'somebody'
+T91	AUX 355 361	should
+#90	AnnotatorNotes T91	lemma = 'shall'
+T92	VERB 362 369	control
+#91	AnnotatorNotes T92	lemma = 'control'
+T93	ADJ 370 382	contemporary
+#92	AnnotatorNotes T93	lemma = 'contemporary'
+T94	NOUN 383 387	arts
+#93	AnnotatorNotes T94	lemma = 'art'
+T95	PUNCT 387 388	.
+#94	AnnotatorNotes T95	lemma = '.'
+T96	CCONJ 389 392	And
+#95	AnnotatorNotes T96	lemma = 'and'
+T97	DET 393 396	the
+#96	AnnotatorNotes T97	lemma = 'the'
+T98	ADV 397 401	most
+#97	AnnotatorNotes T98	lemma = 'most'
+T99	ADJ 402 410	powerful
+#98	AnnotatorNotes T99	lemma = 'powerful'
+T100	CCONJ 411 414	and
+#99	AnnotatorNotes T100	lemma = 'and'
+T101	ADJ 415 425	legitimate
+#100	AnnotatorNotes T101	lemma = 'legitimate'
+T102	NOUN 426 431	actor
+#101	AnnotatorNotes T102	lemma = 'actor'
+T103	PRON 432 435	who
+#102	AnnotatorNotes T103	lemma = 'who'
+T104	AUX 436 439	can
+#103	AnnotatorNotes T104	lemma = 'can'
+T105	VERB 440 444	make
+#104	AnnotatorNotes T105	lemma = 'make'
+T106	DET 445 449	some
+#105	AnnotatorNotes T106	lemma = 'some'
+T107	NOUN 450 462	restrictions
+#106	AnnotatorNotes T107	lemma = 'restriction'
+T108	AUX 463 465	is
+#107	AnnotatorNotes T108	lemma = 'be'
+T109	DET 466 469	the
+#108	AnnotatorNotes T109	lemma = 'the'
+T110	NOUN 470 480	government
+#109	AnnotatorNotes T110	lemma = 'government'
+T111	PUNCT 480 481	.
+#110	AnnotatorNotes T111	lemma = '.'
+T112	AUX 482 484	Is
+#111	AnnotatorNotes T112	lemma = 'be'
+T113	PRON 485 487	it
+#112	AnnotatorNotes T113	lemma = 'it'
+T114	ADV 488 494	really
+#113	AnnotatorNotes T114	lemma = 'really'
+T115	ADV 495 497	so
+#114	AnnotatorNotes T115	lemma = 'so'
+T116	PUNCT 497 498	?
+#115	AnnotatorNotes T116	lemma = '?'
+T117	VERB 499 502	Let
+#116	AnnotatorNotes T117	lemma = 'let'
+T118	PRON 503 505	us
+#117	AnnotatorNotes T118	lemma = 'us'
+T119	VERB 506 511	think
+#118	AnnotatorNotes T119	lemma = 'think'
+T120	ADP 512 517	about
+#119	AnnotatorNotes T120	lemma = 'about'
+T121	PRON 518 520	it
+#120	AnnotatorNotes T121	lemma = 'it'
+T122	PUNCT 520 521	.
+#121	AnnotatorNotes T122	lemma = '.'
+T123	ADP 522 524	On
+#122	AnnotatorNotes T123	lemma = 'on'
+T124	DET 525 528	the
+#123	AnnotatorNotes T124	lemma = 'the'
+T125	NUM 529 532	one
+#124	AnnotatorNotes T125	lemma = 'one'
+T126	NOUN 533 537	hand
+#125	AnnotatorNotes T126	lemma = 'hand'
+T127	PUNCT 537 538	,
+#126	AnnotatorNotes T127	lemma = ','
+T128	DET 539 540	a
+#127	AnnotatorNotes T128	lemma = 'a'
+T129	NOUN 541 544	lot
+#128	AnnotatorNotes T129	lemma = 'lot'
+T130	ADP 545 547	of
+#129	AnnotatorNotes T130	lemma = 'of'
+T131	ADJ 548 554	modern
+#130	AnnotatorNotes T131	lemma = 'modern'
+T132	NOUN 555 561	artist
+#131	AnnotatorNotes T132	lemma = 'artist'
+T133	NOUN 562 565	try
+#132	AnnotatorNotes T133	lemma = 'try'
+T134	PART 566 568	to
+#133	AnnotatorNotes T134	lemma = 'to'
+T135	VERB 569 576	achieve
+#134	AnnotatorNotes T135	lemma = 'achieve'
+T136	NOUN 577 581	fame
+#135	AnnotatorNotes T136	lemma = 'fame'
+T137	CCONJ 582 585	and
+#136	AnnotatorNotes T137	lemma = 'and'
+T138	ADJ 586 589	get
+#137	AnnotatorNotes T138	lemma = 'get'
+T139	NOUN 590 595	money
+#138	AnnotatorNotes T139	lemma = 'money'
+T140	ADP 596 599	for
+#139	AnnotatorNotes T140	lemma = 'for'
+T141	DET 600 605	their
+#140	AnnotatorNotes T141	lemma = 'their'
+T142	ADJ 606 609	new
+#141	AnnotatorNotes T142	lemma = 'new'
+T143	ADJ 610 621	interesting
+#142	AnnotatorNotes T143	lemma = 'interesting'
+T144	NOUN 622 627	ideas
+#143	AnnotatorNotes T144	lemma = 'idea'
+T145	CCONJ 628 631	and
+#144	AnnotatorNotes T145	lemma = 'and'
+T146	PRON 632 636	they
+#145	AnnotatorNotes T146	lemma = 'they'
+T147	ADV 637 644	usually
+#146	AnnotatorNotes T147	lemma = 'usually'
+T148	VERB 645 647	do
+#147	AnnotatorNotes T148	lemma = 'do'
+T149	PRON 648 650	it
+#148	AnnotatorNotes T149	lemma = 'it'
+T150	ADP 651 653	in
+#149	AnnotatorNotes T150	lemma = 'in'
+T151	ADJ 654 667	inappropriate
+#150	AnnotatorNotes T151	lemma = 'inappropriate'
+T152	NOUN 668 672	ways
+#151	AnnotatorNotes T152	lemma = 'way'
+T153	PART 673 675	to
+#152	AnnotatorNotes T153	lemma = 'to'
+T154	VERB 676 683	attract
+#153	AnnotatorNotes T154	lemma = 'attract'
+T155	ADJ 684 688	more
+#154	AnnotatorNotes T155	lemma = 'more'
+T156	NOUN 689 698	attention
+#155	AnnotatorNotes T156	lemma = 'attention'
+T157	ADP 699 701	of
+#156	AnnotatorNotes T157	lemma = 'of'
+T158	NOUN 702 711	publicity
+#157	AnnotatorNotes T158	lemma = 'publicity'
+T159	PUNCT 711 712	.
+#158	AnnotatorNotes T159	lemma = '.'
+T160	ADP 713 721	Moreover
+#159	AnnotatorNotes T160	lemma = 'Moreover'
+T161	ADP 722 725	for
+#160	AnnotatorNotes T161	lemma = 'for'
+T162	DET 726 730	some
+#161	AnnotatorNotes T162	lemma = 'some'
+T163	NOUN 731 739	creators
+#162	AnnotatorNotes T163	lemma = 'creator'
+T164	ADP 740 742	of
+#163	AnnotatorNotes T164	lemma = 'of'
+T165	NOUN 743 750	culture
+#164	AnnotatorNotes T165	lemma = 'culture'
+T166	PRON 751 753	it
+#165	AnnotatorNotes T166	lemma = 'it'
+T167	AUX 754 756	is
+#166	AnnotatorNotes T167	lemma = 'be'
+T168	ADV 757 761	very
+#167	AnnotatorNotes T168	lemma = 'very'
+T169	ADJ 762 771	important
+#168	AnnotatorNotes T169	lemma = 'important'
+T170	PART 772 774	to
+#169	AnnotatorNotes T170	lemma = 'to'
+T171	VERB 775 781	spread
+#170	AnnotatorNotes T171	lemma = 'spread'
+T172	DET 782 787	their
+#171	AnnotatorNotes T172	lemma = 'their'
+T173	ADJ 788 795	genious
+#172	AnnotatorNotes T173	lemma = 'genious'
+T174	NOUN 796 801	ideas
+#173	AnnotatorNotes T174	lemma = 'idea'
+T175	CCONJ 802 805	and
+#174	AnnotatorNotes T175	lemma = 'and'
+T176	VERB 806 813	express
+#175	AnnotatorNotes T176	lemma = 'express'
+T177	DET 814 819	their
+#176	AnnotatorNotes T177	lemma = 'their'
+T178	ADJ 820 823	own
+#177	AnnotatorNotes T178	lemma = 'own'
+T179	NOUN 824 829	views
+#178	AnnotatorNotes T179	lemma = 'view'
+T180	CCONJ 830 833	and
+#179	AnnotatorNotes T180	lemma = 'and'
+T181	NOUN 834 841	opinion
+#180	AnnotatorNotes T181	lemma = 'opinion'
+T182	PUNCT 841 842	.
+#181	AnnotatorNotes T182	lemma = '.'
+T183	SCONJ 843 845	As
+#182	AnnotatorNotes T183	lemma = 'as'
+T184	DET 846 849	the
+#183	AnnotatorNotes T184	lemma = 'the'
+T185	NOUN 850 854	wise
+#184	AnnotatorNotes T185	lemma = 'wise'
+T186	VERB 855 859	said
+#185	AnnotatorNotes T186	lemma = 'say'
+T187	PUNCT 859 860	,
+#186	AnnotatorNotes T187	lemma = ','
+T188	ADV 861 866	there
+#187	AnnotatorNotes T188	lemma = 'there'
+T189	VERB 867 870	are
+#188	AnnotatorNotes T189	lemma = 'be'
+T190	DET 871 873	no
+#189	AnnotatorNotes T190	lemma = 'no'
+T191	NOUN 874 880	frames
+#190	AnnotatorNotes T191	lemma = 'frame'
+T192	ADP 881 884	for
+#191	AnnotatorNotes T192	lemma = 'for'
+T193	VERB 885 893	thinking
+#192	AnnotatorNotes T193	lemma = 'thinking'
+T194	CCONJ 894 897	and
+#193	AnnotatorNotes T194	lemma = 'and'
+T195	VERB 898 906	creating
+#194	AnnotatorNotes T195	lemma = 'create'
+T196	NOUN 907 914	wonders
+#195	AnnotatorNotes T196	lemma = 'wonder'
+T197	PUNCT 914 915	.
+#196	AnnotatorNotes T197	lemma = '.'
+T198	CCONJ 916 919	And
+#197	AnnotatorNotes T198	lemma = 'and'
+T199	PRON 920 921	I
+#198	AnnotatorNotes T199	lemma = 'I'
+T200	ADV 922 932	constantly
+#199	AnnotatorNotes T200	lemma = 'constantly'
+T201	VERB 933 938	agree
+#200	AnnotatorNotes T201	lemma = 'agree'
+T202	ADP 939 943	with
+#201	AnnotatorNotes T202	lemma = 'with'
+T203	DET 944 948	this
+#202	AnnotatorNotes T203	lemma = 'this'
+T204	NOUN 949 958	statement
+#203	AnnotatorNotes T204	lemma = 'statement'
+T205	PUNCT 958 959	.
+#204	AnnotatorNotes T205	lemma = '.'
+T206	CCONJ 960 963	But
+#205	AnnotatorNotes T206	lemma = 'but'
+T207	DET 964 967	the
+#206	AnnotatorNotes T207	lemma = 'the'
+T208	NOUN 968 972	fact
+#207	AnnotatorNotes T208	lemma = 'fact'
+T209	AUX 973 975	is
+#208	AnnotatorNotes T209	lemma = 'be'
+T210	DET 976 980	that
+#209	AnnotatorNotes T210	lemma = 'that'
+T211	NOUN 981 987	plenty
+#210	AnnotatorNotes T211	lemma = 'plenty'
+T212	ADP 988 990	of
+#211	AnnotatorNotes T212	lemma = 'of'
+T213	NOUN 991 998	artists
+#212	AnnotatorNotes T213	lemma = 'artist'
+T214	VERB 999 1006	believe
+#213	AnnotatorNotes T214	lemma = 'believe'
+T215	DET 1007 1012	their
+#214	AnnotatorNotes T215	lemma = 'their'
+T216	NOUN 1013 1018	works
+#215	AnnotatorNotes T216	lemma = 'work'
+T217	PART 1019 1021	to
+#216	AnnotatorNotes T217	lemma = 'to'
+T218	AUX 1022 1024	be
+#217	AnnotatorNotes T218	lemma = 'be'
+T219	ADJ 1025 1032	popular
+#218	AnnotatorNotes T219	lemma = 'popular'
+T220	PUNCT 1032 1033	.
+#219	AnnotatorNotes T220	lemma = '.'
+T221	CCONJ 1034 1037	And
+#220	AnnotatorNotes T221	lemma = 'and'
+T222	ADV 1038 1042	here
+#221	AnnotatorNotes T222	lemma = 'here'
+T223	PRON 1043 1045	we
+#222	AnnotatorNotes T223	lemma = 'we'
+T224	VERB 1046 1050	face
+#223	AnnotatorNotes T224	lemma = 'face'
+T225	DET 1051 1054	the
+#224	AnnotatorNotes T225	lemma = 'the'
+T226	ADJ 1055 1059	main
+#225	AnnotatorNotes T226	lemma = 'main'
+T227	NOUN 1060 1067	problem
+#226	AnnotatorNotes T227	lemma = 'problem'
+T228	PUNCT 1067 1068	.
+#227	AnnotatorNotes T228	lemma = '.'
+T229	ADP 1069 1071	On
+#228	AnnotatorNotes T229	lemma = 'on'
+T230	DET 1072 1075	the
+#229	AnnotatorNotes T230	lemma = 'the'
+T231	ADJ 1076 1081	other
+#230	AnnotatorNotes T231	lemma = 'other'
+T232	NOUN 1082 1086	hand
+#231	AnnotatorNotes T232	lemma = 'hand'
+T233	ADP 1087 1089	to
+#232	AnnotatorNotes T233	lemma = 'to'
+T234	DET 1090 1092	my
+#233	AnnotatorNotes T234	lemma = 'my'
+T235	NOUN 1093 1097	mind
+#234	AnnotatorNotes T235	lemma = 'mind'
+T236	DET 1098 1101	the
+#235	AnnotatorNotes T236	lemma = 'the'
+T237	ADJ 1102 1106	good
+#236	AnnotatorNotes T237	lemma = 'good'
+T238	NOUN 1107 1117	government
+#237	AnnotatorNotes T238	lemma = 'government'
+T239	AUX 1118 1124	should
+#238	AnnotatorNotes T239	lemma = 'shall'
+T240	VERB 1125 1135	understand
+#239	AnnotatorNotes T240	lemma = 'understand'
+T241	CCONJ 1136 1139	and
+#240	AnnotatorNotes T241	lemma = 'and'
+T242	ADV 1140 1147	somehow
+#241	AnnotatorNotes T242	lemma = 'somehow'
+T243	VERB 1148 1155	control
+#242	AnnotatorNotes T243	lemma = 'control'
+T244	DET 1156 1159	the
+#243	AnnotatorNotes T244	lemma = 'the'
+T245	ADJ 1160 1168	cultural
+#244	AnnotatorNotes T245	lemma = 'cultural'
+T246	NOUN 1169 1180	environment
+#245	AnnotatorNotes T246	lemma = 'environment'
+T247	ADP 1181 1183	in
+#246	AnnotatorNotes T247	lemma = 'in'
+T248	DET 1184 1187	the
+#247	AnnotatorNotes T248	lemma = 'the'
+T249	NOUN 1188 1195	country
+#248	AnnotatorNotes T249	lemma = 'country'
+T250	SCONJ 1196 1203	because
+#249	AnnotatorNotes T250	lemma = 'because'
+T251	ADV 1204 1209	there
+#250	AnnotatorNotes T251	lemma = 'there'
+T252	VERB 1210 1213	are
+#251	AnnotatorNotes T252	lemma = 'be'
+T253	DET 1214 1215	a
+#252	AnnotatorNotes T253	lemma = 'a'
+T254	NOUN 1216 1219	lot
+#253	AnnotatorNotes T254	lemma = 'lot'
+T255	ADP 1220 1222	of
+#254	AnnotatorNotes T255	lemma = 'of'
+T256	ADJ 1223 1229	social
+#255	AnnotatorNotes T256	lemma = 'social'
+T257	NOUN 1230 1239	conflicts
+#256	AnnotatorNotes T257	lemma = 'conflict'
+T258	CCONJ 1240 1243	and
+#257	AnnotatorNotes T258	lemma = 'and'
+T259	NOUN 1244 1257	disagreements
+#258	AnnotatorNotes T259	lemma = 'disagreement'
+T260	PRON 1258 1263	which
+#259	AnnotatorNotes T260	lemma = 'which'
+T261	VERB 1264 1269	arise
+#260	AnnotatorNotes T261	lemma = 'arize'
+T262	ADP 1270 1272	on
+#261	AnnotatorNotes T262	lemma = 'on'
+T263	DET 1273 1276	the
+#262	AnnotatorNotes T263	lemma = 'the'
+T264	NOUN 1277 1281	base
+#263	AnnotatorNotes T264	lemma = 'base'
+T265	ADP 1282 1284	of
+#264	AnnotatorNotes T265	lemma = 'of'
+T266	ADJ 1285 1293	cultural
+#265	AnnotatorNotes T266	lemma = 'cultural'
+T267	NOUN 1294 1305	preferences
+#266	AnnotatorNotes T267	lemma = 'preference'
+T268	PUNCT 1305 1306	.
+#267	AnnotatorNotes T268	lemma = '.'
+T269	CCONJ 1307 1310	But
+#268	AnnotatorNotes T269	lemma = 'but'
+T270	PRON 1311 1312	I
+#269	AnnotatorNotes T270	lemma = 'I'
+T271	VERB 1313 1320	believe
+#270	AnnotatorNotes T271	lemma = 'believe'
+T272	SCONJ 1321 1325	that
+#271	AnnotatorNotes T272	lemma = 'that'
+T273	PRON 1326 1328	it
+#272	AnnotatorNotes T273	lemma = 'it'
+T274	AUX 1329 1334	could
+#273	AnnotatorNotes T274	lemma = 'can'
+T275	AUX 1335 1337	be
+#274	AnnotatorNotes T275	lemma = 'be'
+T276	VERB 1338 1342	done
+#275	AnnotatorNotes T276	lemma = 'do'
+T277	ADV 1343 1347	only
+#276	AnnotatorNotes T277	lemma = 'only'
+T278	ADP 1348 1350	by
+#277	AnnotatorNotes T278	lemma = 'by'
+T279	NOUN 1351 1364	professionals
+#278	AnnotatorNotes T279	lemma = 'professional'
+T280	PRON 1365 1368	who
+#279	AnnotatorNotes T280	lemma = 'who'
+T281	AUX 1369 1372	are
+#280	AnnotatorNotes T281	lemma = 'be'
+T282	VERB 1373 1383	acquainted
+#281	AnnotatorNotes T282	lemma = 'acquaint'
+T283	ADP 1384 1388	with
+#282	AnnotatorNotes T283	lemma = 'with'
+T284	NOUN 1389 1393	arts
+#283	AnnotatorNotes T284	lemma = 'art'
+T285	PUNCT 1393 1394	.
+#284	AnnotatorNotes T285	lemma = '.'
+T286	PROPN 1395 1402	Besides
+#285	AnnotatorNotes T286	lemma = 'Beside'
+T287	PUNCT 1402 1403	,
+#286	AnnotatorNotes T287	lemma = ','
+T288	DET 1404 1405	a
+#287	AnnotatorNotes T288	lemma = 'a'
+T289	ADJ 1406 1413	special
+#288	AnnotatorNotes T289	lemma = 'special'
+T290	NOUN 1414 1424	department
+#289	AnnotatorNotes T290	lemma = 'department'
+T291	PRON 1425 1430	which
+#290	AnnotatorNotes T291	lemma = 'which'
+T292	VERB 1431 1434	has
+#291	AnnotatorNotes T292	lemma = 'have'
+T293	DET 1435 1438	the
+#292	AnnotatorNotes T293	lemma = 'the'
+T294	NOUN 1439 1444	right
+#293	AnnotatorNotes T294	lemma = 'right'
+T295	PART 1445 1447	to
+#294	AnnotatorNotes T295	lemma = 'to'
+T296	VERB 1448 1456	regulate
+#295	AnnotatorNotes T296	lemma = 'regulate'
+T297	NOUN 1457 1464	culture
+#296	AnnotatorNotes T297	lemma = 'culture'
+T298	PUNCT 1464 1465	,
+#297	AnnotatorNotes T298	lemma = ','
+T299	AUX 1466 1471	could
+#298	AnnotatorNotes T299	lemma = 'can'
+T300	PART 1472 1475	not
+#299	AnnotatorNotes T300	lemma = 'not'
+T301	VERB 1476 1480	make
+#300	AnnotatorNotes T301	lemma = 'make'
+T302	ADJ 1481 1487	strict
+#301	AnnotatorNotes T302	lemma = 'strict'
+T303	NOUN 1488 1500	prohibitions
+#302	AnnotatorNotes T303	lemma = 'prohibition'
+T304	PUNCT 1500 1501	,
+#303	AnnotatorNotes T304	lemma = ','
+T305	CCONJ 1502 1505	but
+#304	AnnotatorNotes T305	lemma = 'but'
+T306	ADV 1506 1510	only
+#305	AnnotatorNotes T306	lemma = 'only'
+T307	PART 1511 1513	to
+#306	AnnotatorNotes T307	lemma = 'to'
+T308	VERB 1514 1522	recomend
+#307	AnnotatorNotes T308	lemma = 'recomend'
+T309	NOUN 1523 1531	citizens
+#308	AnnotatorNotes T309	lemma = 'citizen'
+T310	PART 1532 1534	to
+#309	AnnotatorNotes T310	lemma = 'to'
+T311	VERB 1535 1541	choose
+#310	AnnotatorNotes T311	lemma = 'choose'
+T312	ADV 1542 1553	consciously
+#311	AnnotatorNotes T312	lemma = 'consciously'
+T313	PRON 1554 1558	what
+#312	AnnotatorNotes T313	lemma = 'what'
+T314	PART 1559 1561	to
+#313	AnnotatorNotes T314	lemma = 'to'
+T315	VERB 1562 1566	read
+#314	AnnotatorNotes T315	lemma = 'read'
+T316	CCONJ 1567 1570	and
+#315	AnnotatorNotes T316	lemma = 'and'
+T317	PRON 1571 1576	watch
+#316	AnnotatorNotes T317	lemma = 'watch'
+T318	PUNCT 1576 1577	.
+#317	AnnotatorNotes T318	lemma = '.'
+T319	ADV 1578 1580	So
+#318	AnnotatorNotes T319	lemma = 'so'
+T320	PUNCT 1580 1581	,
+#319	AnnotatorNotes T320	lemma = ','
+T321	PRON 1582 1584	it
+#320	AnnotatorNotes T321	lemma = 'it'
+T322	AUX 1585 1587	is
+#321	AnnotatorNotes T322	lemma = 'be'
+T323	ADJ 1588 1597	important
+#322	AnnotatorNotes T323	lemma = 'important'
+T324	PART 1598 1600	to
+#323	AnnotatorNotes T324	lemma = 'to'
+T325	VERB 1601 1607	devide
+#324	AnnotatorNotes T325	lemma = 'devide'
+T326	NOUN 1608 1615	culture
+#325	AnnotatorNotes T326	lemma = 'culture'
+T327	ADP 1616 1620	into
+#326	AnnotatorNotes T327	lemma = 'into'
+T328	NUM 1621 1624	two
+#327	AnnotatorNotes T328	lemma = 'two'
+T329	ADJ 1625 1633	separate
+#328	AnnotatorNotes T329	lemma = 'separate'
+T330	NOUN 1634 1639	types
+#329	AnnotatorNotes T330	lemma = 'type'
+T331	PUNCT 1640 1641	-
+#330	AnnotatorNotes T331	lemma = '-'
+T332	ADJ 1642 1646	mass
+#331	AnnotatorNotes T332	lemma = 'mass'
+T333	NOUN 1647 1654	culture
+#332	AnnotatorNotes T333	lemma = 'culture'
+T334	PUNCT 1654 1655	,
+#333	AnnotatorNotes T334	lemma = ','
+T335	PRON 1656 1661	which
+#334	AnnotatorNotes T335	lemma = 'which'
+T336	AUX 1662 1664	is
+#335	AnnotatorNotes T336	lemma = 'be'
+T337	VERB 1665 1673	proposed
+#336	AnnotatorNotes T337	lemma = 'propose'
+T338	ADP 1674 1676	to
+#337	AnnotatorNotes T338	lemma = 'to'
+T339	DET 1677 1680	the
+#338	AnnotatorNotes T339	lemma = 'the'
+T340	ADJ 1681 1686	whole
+#339	AnnotatorNotes T340	lemma = 'whole'
+T341	NOUN 1687 1694	society
+#340	AnnotatorNotes T341	lemma = 'society'
+T342	CCONJ 1695 1698	and
+#341	AnnotatorNotes T342	lemma = 'and'
+T343	AUX 1699 1705	should
+#342	AnnotatorNotes T343	lemma = 'shall'
+T344	AUX 1706 1708	be
+#343	AnnotatorNotes T344	lemma = 'be'
+T345	VERB 1709 1719	controlled
+#344	AnnotatorNotes T345	lemma = 'control'
+T346	ADP 1720 1722	by
+#345	AnnotatorNotes T346	lemma = 'by'
+T347	NOUN 1723 1734	specialists
+#346	AnnotatorNotes T347	lemma = 'specialist'
+T348	ADP 1735 1737	in
+#347	AnnotatorNotes T348	lemma = 'in'
+T349	NOUN 1738 1742	arts
+#348	AnnotatorNotes T349	lemma = 'art'
+T350	CCONJ 1743 1746	and
+#349	AnnotatorNotes T350	lemma = 'and'
+T351	ADJ 1747 1756	so-called
+#350	AnnotatorNotes T351	lemma = 'so-called'
+T352	DET 1757 1759	an
+#351	AnnotatorNotes T352	lemma = 'a'
+T353	ADJ 1760 1770	individual
+#352	AnnotatorNotes T353	lemma = 'individual'
+T354	NOUN 1771 1778	culture
+#353	AnnotatorNotes T354	lemma = 'culture'
+T355	PUNCT 1778 1779	,
+#354	AnnotatorNotes T355	lemma = ','
+T356	PRON 1780 1785	which
+#355	AnnotatorNotes T356	lemma = 'which'
+T357	AUX 1786 1788	is
+#356	AnnotatorNotes T357	lemma = 'be'
+T358	VERB 1789 1797	afforded
+#357	AnnotatorNotes T358	lemma = 'afford'
+T359	ADV 1798 1802	only
+#358	AnnotatorNotes T359	lemma = 'only'
+T360	ADP 1803 1805	to
+#359	AnnotatorNotes T360	lemma = 'to'
+T361	DET 1806 1807	a
+#360	AnnotatorNotes T361	lemma = 'a'
+T362	ADJ 1808 1814	narrow
+#361	AnnotatorNotes T362	lemma = 'narrow'
+T363	NOUN 1815 1820	layer
+#362	AnnotatorNotes T363	lemma = 'layer'
+T364	ADP 1821 1823	of
+#363	AnnotatorNotes T364	lemma = 'of'
+T365	DET 1824 1827	the
+#364	AnnotatorNotes T365	lemma = 'the'
+T366	NOUN 1828 1835	society
+#365	AnnotatorNotes T366	lemma = 'society'
+T367	CCONJ 1836 1839	and
+#366	AnnotatorNotes T367	lemma = 'and'
+T368	VERB 1840 1843	has
+#367	AnnotatorNotes T368	lemma = 'have'
+T369	ADJ 1844 1852	seamless
+#368	AnnotatorNotes T369	lemma = 'seamless'
+T370	NOUN 1853 1861	horizons
+#369	AnnotatorNotes T370	lemma = 'horizon'
+T371	PART 1862 1864	to
+#370	AnnotatorNotes T371	lemma = 'to'
+T372	AUX 1865 1867	be
+#371	AnnotatorNotes T372	lemma = 'be'
+T373	VERB 1868 1877	developed
+#372	AnnotatorNotes T373	lemma = 'develop'
+T374	ADP 1878 1880	by
+#373	AnnotatorNotes T374	lemma = 'by'
+T375	NOUN 1881 1892	outstanding
+#374	AnnotatorNotes T375	lemma = 'outstanding'
+T376	CCONJ 1893 1896	and
+#375	AnnotatorNotes T376	lemma = 'and'
+T377	ADJ 1897 1908	provocative
+#376	AnnotatorNotes T377	lemma = 'provocative'
+T378	NOUN 1909 1916	artists
+#377	AnnotatorNotes T378	lemma = 'artist'
+T379	PUNCT 1916 1917	.
+#378	AnnotatorNotes T379	lemma = '.'

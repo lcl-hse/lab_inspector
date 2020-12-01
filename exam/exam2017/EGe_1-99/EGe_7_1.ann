@@ -1,0 +1,400 @@
+T1	Spelling 409 415	applie
+#1	AnnotatorNotes T1	use
+T2	note 891 892	.
+#2	AnnotatorNotes T2	Oleynik
+T3	Spelling 87 91	ades
+#3	AnnotatorNotes T3	ages
+T4	Articles 146 149	USA
+#4	AnnotatorNotes T4	the USA
+T5	Punctuation 152 174	According to the graph
+#5	AnnotatorNotes T5	According to the graph,
+T6	Capitalisation 330 338	Linkedin
+#6	AnnotatorNotes T6	LinkedIn
+T7	Punctuation 340 376	As it can be seen from the bar chart
+#7	AnnotatorNotes T7	As it can be seen from the bar chart,
+T8	Capitalisation 561 569	Linkedin
+#8	AnnotatorNotes T8	LinkedIn
+T9	Articles 818 821	USA
+#9	AnnotatorNotes T9	the USA
+T10	Prepositions 822 840	between all adults
+#10	AnnotatorNotes T10	among all adults
+T11	Capitalisation 846 854	Linkedin
+#11	AnnotatorNotes T11	LinkedIn
+T12	Punctuation 668 679	Facebook(63
+#12	AnnotatorNotes T12	Faceook (63
+T13	Absence_comp_sent 677 679	63
+#13	AnnotatorNotes T13	63 per cent
+T14	Capitalisation 723 731	Linkedin
+#14	AnnotatorNotes T14	LinkedIn
+T15	Punctuation 723 743	Linkedin(22 percent)
+#15	AnnotatorNotes T15	LinkedIn (22 per cent).
+T16	Standard 209 258	higher(87 and 53 percent) than usage of Instagram
+#16	AnnotatorNotes T16	higher than usage of Instagram (87 and 53 per cent respectively)
+T17	Absence_explanation 209 258	higher(87 and 53 percent) than usage of Instagram
+#17	AnnotatorNotes T17	higher than usage of Instagram (87 and 53 per cent respectively)
+T18	lex_item_choice 533 543	sitting in
+#18	AnnotatorNotes T18	using
+T19	Redundant 558 560	in
+R1	Parallel_construction Arg1:T19 Arg2:T18
+T20	AT0 0 3	The
+#19	AnnotatorNotes T20	lemma = 'the'
+T21	NN1 4 7	bar
+#20	AnnotatorNotes T21	lemma = 'bar'
+T22	NN1 8 13	chart
+#21	AnnotatorNotes T22	lemma = 'chart'
+T23	VVZ 14 25	illustrates
+#22	AnnotatorNotes T23	lemma = 'illustrate'
+T24	NN0 26 30	data
+#23	AnnotatorNotes T24	lemma = 'data'
+T25	PRP 31 33	on
+#24	AnnotatorNotes T25	lemma = 'on'
+T26	VVG 34 39	using
+#25	AnnotatorNotes T26	lemma = 'use'
+T27	DT0 40 47	several
+#26	AnnotatorNotes T27	lemma = 'several'
+T28	AJ0 48 54	social
+#27	AnnotatorNotes T28	lemma = 'social'
+T29	NN2 55 63	networks
+#28	AnnotatorNotes T29	lemma = 'network'
+T30	PRP 64 66	by
+#29	AnnotatorNotes T30	lemma = 'by'
+T31	NN0 67 73	people
+#30	AnnotatorNotes T31	lemma = 'people'
+T32	PRF 74 76	of
+#31	AnnotatorNotes T32	lemma = 'of'
+T33	AJ0 77 86	different
+#32	AnnotatorNotes T33	lemma = 'different'
+T34	NN1 87 91	ades
+#33	AnnotatorNotes T34	lemma = 'ades'
+T35	PUL 92 93	(
+#34	AnnotatorNotes T35	lemma = '('
+T36	CRD 93 98	18-29
+#35	AnnotatorNotes T36	lemma = '18-29'
+T37	NN2 99 104	years
+#36	AnnotatorNotes T37	lemma = 'year'
+T38	PUN 104 105	,
+#37	AnnotatorNotes T38	lemma = ','
+T39	CRD 106 111	30-49
+#38	AnnotatorNotes T39	lemma = '30-49'
+T40	NN2 112 117	years
+#39	AnnotatorNotes T40	lemma = 'year'
+T41	PUN 117 118	,
+#40	AnnotatorNotes T41	lemma = ','
+T42	CRD 119 124	50-64
+#41	AnnotatorNotes T42	lemma = '50-64'
+T43	NN2 125 130	years
+#42	AnnotatorNotes T43	lemma = 'year'
+T44	PUN 130 131	,
+#43	AnnotatorNotes T44	lemma = ','
+T45	AJ0 132 135	65+
+#44	AnnotatorNotes T45	lemma = '65+'
+T46	NN2 136 141	years
+#45	AnnotatorNotes T46	lemma = 'year'
+T47	PUR 141 142	)
+#46	AnnotatorNotes T47	lemma = ')'
+T48	PRP 143 145	in
+#47	AnnotatorNotes T48	lemma = 'in'
+T49	NP0 146 149	USA
+#48	AnnotatorNotes T49	lemma = 'usa'
+T50	SENT 149 150	.
+#49	AnnotatorNotes T50	lemma = '.'
+T51	VVG 152 161	According
+#50	AnnotatorNotes T51	lemma = 'accord'
+T52	PRP 162 164	to
+#51	AnnotatorNotes T52	lemma = 'to'
+T53	AT0 165 168	the
+#52	AnnotatorNotes T53	lemma = 'the'
+T54	NN1 169 174	graph
+#53	AnnotatorNotes T54	lemma = 'graph'
+T55	NN1 175 180	usage
+#54	AnnotatorNotes T55	lemma = 'usage'
+T56	PRF 181 183	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	NN1 184 192	Facebook
+#56	AnnotatorNotes T57	lemma = 'Facebook'
+T58	VBZ 193 195	is
+#57	AnnotatorNotes T58	lemma = 'be'
+T59	AV0 196 208	considerably
+#58	AnnotatorNotes T59	lemma = 'considerably'
+T60	AJC 209 215	higher
+#59	AnnotatorNotes T60	lemma = 'high'
+T61	PUL 215 216	(
+#60	AnnotatorNotes T61	lemma = '('
+T62	CRD 216 218	87
+#61	AnnotatorNotes T62	lemma = '87'
+T63	CJC 219 222	and
+#62	AnnotatorNotes T63	lemma = 'and'
+T64	CRD 223 225	53
+#63	AnnotatorNotes T64	lemma = '53'
+T65	NN0 226 233	percent
+#64	AnnotatorNotes T65	lemma = 'percent'
+T66	PUR 233 234	)
+#65	AnnotatorNotes T66	lemma = ')'
+T67	CJS 235 239	than
+#66	AnnotatorNotes T67	lemma = 'than'
+T68	NN1 240 245	usage
+#67	AnnotatorNotes T68	lemma = 'usage'
+T69	PRF 246 248	of
+#68	AnnotatorNotes T69	lemma = 'of'
+T70	NN1 249 258	Instagram
+#69	AnnotatorNotes T70	lemma = 'Instagram'
+T71	PRP 259 264	among
+#70	AnnotatorNotes T71	lemma = 'among'
+T72	CRD 265 270	18-29
+#71	AnnotatorNotes T72	lemma = '18-29'
+T73	PRP 271 275	aged
+#72	AnnotatorNotes T73	lemma = 'aged'
+T74	NN0 276 282	people
+#73	AnnotatorNotes T74	lemma = 'people'
+T75	SENT 282 283	.
+#74	AnnotatorNotes T75	lemma = '.'
+T76	AV0 284 292	Moreover
+#75	AnnotatorNotes T76	lemma = 'moreover'
+T77	PUN 292 293	,
+#76	AnnotatorNotes T77	lemma = ','
+T78	AV0 294 298	only
+#77	AnnotatorNotes T78	lemma = 'only'
+T79	CRD 299 301	22
+#78	AnnotatorNotes T79	lemma = '22'
+T80	NN0 302 309	percent
+#79	AnnotatorNotes T80	lemma = 'percent'
+T81	PRF 310 312	of
+#80	AnnotatorNotes T81	lemma = 'of'
+T82	AJ0 313 318	young
+#81	AnnotatorNotes T82	lemma = 'young'
+T83	NN0 319 325	people
+#82	AnnotatorNotes T83	lemma = 'people'
+T84	VVB 326 329	use
+#83	AnnotatorNotes T84	lemma = 'use'
+T85	NP0 330 338	Linkedin
+#84	AnnotatorNotes T85	lemma = 'Linkedin'
+T86	SENT 338 339	.
+#85	AnnotatorNotes T86	lemma = '.'
+T87	CJS 340 342	As
+#86	AnnotatorNotes T87	lemma = 'as'
+T88	PNP 343 345	it
+#87	AnnotatorNotes T88	lemma = 'it'
+T89	VM0 346 349	can
+#88	AnnotatorNotes T89	lemma = 'can'
+T90	VBI 350 352	be
+#89	AnnotatorNotes T90	lemma = 'be'
+T91	VVN 353 357	seen
+#90	AnnotatorNotes T91	lemma = 'see'
+T92	PRP 358 362	from
+#91	AnnotatorNotes T92	lemma = 'from'
+T93	AT0 363 366	the
+#92	AnnotatorNotes T93	lemma = 'the'
+T94	NN1 367 370	bar
+#93	AnnotatorNotes T94	lemma = 'bar'
+T95	NN1 371 376	chart
+#94	AnnotatorNotes T95	lemma = 'chart'
+T96	CRD 377 379	25
+#95	AnnotatorNotes T96	lemma = '25'
+T97	NN0 380 387	percent
+#96	AnnotatorNotes T97	lemma = 'percent'
+T98	PRF 388 390	of
+#97	AnnotatorNotes T98	lemma = 'of'
+T99	CRD 391 396	30-49
+#98	AnnotatorNotes T99	lemma = '30-49'
+T100	PRP 397 401	aged
+#99	AnnotatorNotes T100	lemma = 'aged'
+T101	NN0 402 408	people
+#100	AnnotatorNotes T101	lemma = 'people'
+T102	NN1 409 415	applie
+#101	AnnotatorNotes T102	lemma = 'applie'
+T103	NN1 416 425	Instagram
+#102	AnnotatorNotes T103	lemma = 'Instagram'
+T104	PUN 425 426	,
+#103	AnnotatorNotes T104	lemma = ','
+T105	DTQ 427 431	what
+#104	AnnotatorNotes T105	lemma = 'what'
+T106	VBZ 432 434	is
+#105	AnnotatorNotes T106	lemma = 'be'
+T107	AV0 435 448	significantly
+#106	AnnotatorNotes T107	lemma = 'significantly'
+T108	AJC 449 454	lower
+#107	AnnotatorNotes T108	lemma = 'low'
+T109	CJS 455 459	than
+#108	AnnotatorNotes T109	lemma = 'than'
+T110	VVG 460 468	applying
+#109	AnnotatorNotes T110	lemma = 'apply'
+T111	NN1 469 477	Facebook
+#110	AnnotatorNotes T111	lemma = 'Facebook'
+T112	PUL 477 478	(
+#111	AnnotatorNotes T112	lemma = '('
+T113	CRD 478 480	73
+#112	AnnotatorNotes T113	lemma = '73'
+T114	PUR 480 481	)
+#113	AnnotatorNotes T114	lemma = ')'
+T115	SENT 481 482	.
+#114	AnnotatorNotes T115	lemma = '.'
+T116	AV0 484 495	Furthermore
+#115	AnnotatorNotes T116	lemma = 'furthermore'
+T117	PUN 495 496	,
+#116	AnnotatorNotes T117	lemma = ','
+T118	EX0 497 502	there
+#117	AnnotatorNotes T118	lemma = 'there'
+T119	VBZ 503 505	is
+#118	AnnotatorNotes T119	lemma = 'be'
+T120	AT0 506 507	a
+#119	AnnotatorNotes T120	lemma = 'a'
+T121	AJ0 508 513	great
+#120	AnnotatorNotes T121	lemma = 'great'
+T122	NN1 514 524	difference
+#121	AnnotatorNotes T122	lemma = 'difference'
+T123	PRP 525 532	between
+#122	AnnotatorNotes T123	lemma = 'between'
+T124	VVG 533 540	sitting
+#123	AnnotatorNotes T124	lemma = 'sit|sitting'
+T125	PRP 541 543	in
+#124	AnnotatorNotes T125	lemma = 'in'
+T126	NN1 544 553	Instagram
+#125	AnnotatorNotes T126	lemma = 'Instagram'
+T127	CJC 554 557	and
+#126	AnnotatorNotes T127	lemma = 'and'
+T128	PRP 558 560	in
+#127	AnnotatorNotes T128	lemma = 'in'
+T129	NP0 561 569	Linkedin
+#128	AnnotatorNotes T129	lemma = 'Linkedin'
+T130	PUL 569 570	(
+#129	AnnotatorNotes T130	lemma = '('
+T131	CRD 570 571	6
+#130	AnnotatorNotes T131	lemma = '6'
+T132	CJC 572 575	and
+#131	AnnotatorNotes T132	lemma = 'and'
+T133	CRD 576 578	22
+#132	AnnotatorNotes T133	lemma = '22'
+T134	NN0 579 586	percent
+#133	AnnotatorNotes T134	lemma = 'percent'
+T135	PUR 586 587	)
+#134	AnnotatorNotes T135	lemma = ')'
+T136	PRP 588 593	among
+#135	AnnotatorNotes T136	lemma = 'among'
+T137	AJ0 594 597	old
+#136	AnnotatorNotes T137	lemma = 'old'
+T138	NN0 598 604	people
+#137	AnnotatorNotes T138	lemma = 'people'
+T139	PUL 604 605	(
+#138	AnnotatorNotes T139	lemma = '('
+T140	NN0 605 608	65+
+#139	AnnotatorNotes T140	lemma = '65+'
+T141	PUR 608 609	)
+#140	AnnotatorNotes T141	lemma = ')'
+T142	SENT 609 610	.
+#141	AnnotatorNotes T142	lemma = '.'
+T143	PRP 611 613	In
+#142	AnnotatorNotes T143	lemma = 'in'
+T144	NN1 614 622	addition
+#143	AnnotatorNotes T144	lemma = 'addition'
+T145	PUN 622 623	,
+#144	AnnotatorNotes T145	lemma = ','
+T146	NN0 624 630	people
+#145	AnnotatorNotes T146	lemma = 'people'
+T147	PNQ 631 634	who
+#146	AnnotatorNotes T147	lemma = 'who'
+T148	VBB 635 638	are
+#147	AnnotatorNotes T148	lemma = 'be'
+T149	CRD 639 644	50-64
+#148	AnnotatorNotes T149	lemma = '50-64'
+T150	VBB 645 648	are
+#149	AnnotatorNotes T150	lemma = 'be'
+T151	AV0 649 653	more
+#150	AnnotatorNotes T151	lemma = 'more'
+T152	AJ0 654 664	interested
+#151	AnnotatorNotes T152	lemma = 'interested|interest'
+T153	PRP 665 667	in
+#152	AnnotatorNotes T153	lemma = 'in'
+T154	NN1 668 676	Facebook
+#153	AnnotatorNotes T154	lemma = 'Facebook'
+T155	PUL 676 677	(
+#154	AnnotatorNotes T155	lemma = '('
+T156	CRD 677 679	63
+#155	AnnotatorNotes T156	lemma = '63'
+T157	PUR 679 680	)
+#156	AnnotatorNotes T157	lemma = ')'
+T158	AV0 681 687	rather
+#157	AnnotatorNotes T158	lemma = 'rather'
+T159	CJS 688 692	than
+#158	AnnotatorNotes T159	lemma = 'than'
+T160	PRP 693 695	in
+#159	AnnotatorNotes T160	lemma = 'in'
+T161	NP0 696 705	Instagram
+#160	AnnotatorNotes T161	lemma = 'Instagram'
+T162	PUL 706 707	(
+#161	AnnotatorNotes T162	lemma = '('
+T163	CRD 707 709	11
+#162	AnnotatorNotes T163	lemma = '11'
+T164	NN0 710 717	percent
+#163	AnnotatorNotes T164	lemma = 'percent'
+T165	PUR 717 718	)
+#164	AnnotatorNotes T165	lemma = ')'
+T166	CJC 719 722	and
+#165	AnnotatorNotes T166	lemma = 'and'
+T167	NP0 723 731	Linkedin
+#166	AnnotatorNotes T167	lemma = 'Linkedin'
+T168	PUL 731 732	(
+#167	AnnotatorNotes T168	lemma = '('
+T169	CRD 732 734	22
+#168	AnnotatorNotes T169	lemma = '22'
+T170	NN0 735 742	percent
+#169	AnnotatorNotes T170	lemma = 'percent'
+T171	PUR 742 743	)
+#170	AnnotatorNotes T171	lemma = ')'
+T172	AV0 744 751	Overall
+#171	AnnotatorNotes T172	lemma = 'overall'
+T173	PUN 751 752	,
+#172	AnnotatorNotes T173	lemma = ','
+T174	NN1 753 761	Facebook
+#173	AnnotatorNotes T174	lemma = 'Facebook'
+T175	PUN 761 762	,
+#174	AnnotatorNotes T175	lemma = ','
+T176	VVG 763 772	according
+#175	AnnotatorNotes T176	lemma = 'accord'
+T177	PRP 773 775	to
+#176	AnnotatorNotes T177	lemma = 'to'
+T178	AT0 776 779	the
+#177	AnnotatorNotes T178	lemma = 'the'
+T179	NN1 780 785	graph
+#178	AnnotatorNotes T179	lemma = 'graph'
+T180	PUN 785 786	,
+#179	AnnotatorNotes T180	lemma = ','
+T181	VBZ 787 789	is
+#180	AnnotatorNotes T181	lemma = 'be'
+T182	AT0 790 793	the
+#181	AnnotatorNotes T182	lemma = 'the'
+T183	AV0 794 798	most
+#182	AnnotatorNotes T183	lemma = 'most'
+T184	AJ0 799 806	popular
+#183	AnnotatorNotes T184	lemma = 'popular'
+T185	NN1 807 814	website
+#184	AnnotatorNotes T185	lemma = 'website'
+T186	PRP 815 817	in
+#185	AnnotatorNotes T186	lemma = 'in'
+T187	NP0 818 821	USA
+#186	AnnotatorNotes T187	lemma = 'usa'
+T188	PRP 822 829	between
+#187	AnnotatorNotes T188	lemma = 'between'
+T189	DT0 830 833	all
+#188	AnnotatorNotes T189	lemma = 'all'
+T190	NN2 834 840	adults
+#189	AnnotatorNotes T190	lemma = 'adult'
+T191	SENT 840 841	.
+#190	AnnotatorNotes T191	lemma = '.'
+T192	CJC 842 845	And
+#191	AnnotatorNotes T192	lemma = 'and'
+T193	NP0 846 854	Linkedin
+#192	AnnotatorNotes T193	lemma = 'Linkedin'
+T194	VHZ 855 858	has
+#193	AnnotatorNotes T194	lemma = 'have'
+T195	AT0 859 862	the
+#194	AnnotatorNotes T195	lemma = 'the'
+T196	AJS 863 869	lowest
+#195	AnnotatorNotes T196	lemma = 'low'
+T197	NN1 870 880	popularity
+#196	AnnotatorNotes T197	lemma = 'popularity'
+T198	PRP 881 883	in
+#197	AnnotatorNotes T198	lemma = 'in'
+T199	NP0 884 891	America
+#198	AnnotatorNotes T199	lemma = 'america'
+T200	SENT 891 892	.
+#199	AnnotatorNotes T200	lemma = ''

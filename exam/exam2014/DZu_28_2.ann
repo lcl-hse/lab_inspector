@@ -1,0 +1,617 @@
+T1	Spelling 6 15	sientists
+#1	AnnotatorNotes T1	scientists
+T2	Spelling 221 229	Franckly
+#2	AnnotatorNotes T2	Frankly
+T3	lex_item_choice 197 201	Does
+#3	AnnotatorNotes T3	Is 
+A1	Cause T3
+T4	Spelling 399 403	love
+#4	AnnotatorNotes T4	live
+A2	Cause T4
+T5	Spelling 636 644	Bethoven
+#5	AnnotatorNotes T5	Beethoven 
+A3	Cause T5
+T6	Often_confused 657 662	women
+#6	AnnotatorNotes T6	woman 
+A4	Cause T6
+T7	lex_item_choice 671 678	illness
+#7	AnnotatorNotes T7	ill
+A5	Cause T7
+T8	Punctuation 778 787	say, that
+#8	AnnotatorNotes T8	say that 
+A6	Cause T8
+T9	Spelling 1191 1203	intelligente
+#9	AnnotatorNotes T9	intelligent 
+A7	Cause T9
+T10	lex_item_choice 1243 1248	truth
+#10	AnnotatorNotes T10	true 
+A8	Cause T10
+T11	Spelling 1253 1259	cource
+#11	AnnotatorNotes T11	course 
+A9	Cause T11
+T12	Spelling 1288 1294	natury
+#12	AnnotatorNotes T12	nature 
+A10	Cause T12
+T13	Punctuation 1337 1343	theirs
+#13	AnnotatorNotes T13	their's 
+A11	Cause T13
+T14	AV0 0 5	Today
+#14	AnnotatorNotes T14	lemma = 'today'
+T15	NN2 6 15	sientists
+#15	AnnotatorNotes T15	lemma = 'sientists'
+T16	VBB 16 19	are
+#16	AnnotatorNotes T16	lemma = 'be'
+T17	VVB 20 24	tend
+#17	AnnotatorNotes T17	lemma = 'tend'
+T18	TO0 25 27	to
+#18	AnnotatorNotes T18	lemma = 'to'
+T19	VVI 28 32	talk
+#19	AnnotatorNotes T19	lemma = 'talk'
+T20	PRP 33 38	about
+#20	AnnotatorNotes T20	lemma = 'about'
+T21	NN0 39 45	people
+#21	AnnotatorNotes T21	lemma = 'people'
+T22	POS 45 47	's
+#22	AnnotatorNotes T22	lemma = 's'
+T23	AJ0 48 55	natural
+#23	AnnotatorNotes T23	lemma = 'natural'
+T24	NN2 56 65	abilities
+#24	AnnotatorNotes T24	lemma = 'ability'
+T25	PRP 66 68	in
+#25	AnnotatorNotes T25	lemma = 'in'
+T26	AT0 69 70	a
+#26	AnnotatorNotes T26	lemma = 'a'
+T27	NN1 71 74	way
+#27	AnnotatorNotes T27	lemma = 'way'
+T28	CJT 75 79	that
+#28	AnnotatorNotes T28	lemma = 'that'
+T29	DT0 80 85	these
+#29	AnnotatorNotes T29	lemma = 'these'
+T30	NN2 86 95	abilities
+#30	AnnotatorNotes T30	lemma = 'ability'
+T31	VHB 96 100	have
+#31	AnnotatorNotes T31	lemma = 'have'
+T32	AJC 101 108	greater
+#32	AnnotatorNotes T32	lemma = 'great'
+T33	NN1 109 119	importance
+#33	AnnotatorNotes T33	lemma = 'importance'
+T34	PRP 120 122	in
+#34	AnnotatorNotes T34	lemma = 'in'
+T35	DPS 123 126	our
+#35	AnnotatorNotes T35	lemma = 'we'
+T36	NN2 127 142	characteristics
+#36	AnnotatorNotes T36	lemma = 'characteristic'
+T37	CJS 143 147	than
+#37	AnnotatorNotes T37	lemma = 'than'
+T38	DT0 148 153	those
+#38	AnnotatorNotes T38	lemma = 'those'
+T39	NN2 154 163	abilities
+#39	AnnotatorNotes T39	lemma = 'ability'
+T40	CJT 164 168	that
+#40	AnnotatorNotes T40	lemma = 'that'
+T41	VBD 169 173	were
+#41	AnnotatorNotes T41	lemma = 'be'
+T42	VVN 174 179	taken
+#42	AnnotatorNotes T42	lemma = 'take|taken'
+T43	PRP 180 186	during
+#43	AnnotatorNotes T43	lemma = 'during'
+T44	DPS 187 190	our
+#44	AnnotatorNotes T44	lemma = 'we'
+T45	NN1 191 195	life
+#45	AnnotatorNotes T45	lemma = 'life'
+T46	SENT 195 196	.
+#46	AnnotatorNotes T46	lemma = '.'
+T47	VDZ 197 201	Does
+#47	AnnotatorNotes T47	lemma = 'do'
+T48	PNP 202 204	it
+#48	AnnotatorNotes T48	lemma = 'it'
+T49	AJ0 205 209	true
+#49	AnnotatorNotes T49	lemma = 'true'
+T50	CJC 210 212	or
+#50	AnnotatorNotes T50	lemma = 'or'
+T51	AJ0 213 218	false
+#51	AnnotatorNotes T51	lemma = 'false'
+T52	SENT 218 219	?
+#52	AnnotatorNotes T52	lemma = '?'
+T53	AV0 221 229	Franckly
+#53	AnnotatorNotes T53	lemma = 'Franckly'
+T54	VVG 230 238	speaking
+#54	AnnotatorNotes T54	lemma = 'speak|speaking'
+T55	PUN 238 239	,
+#55	AnnotatorNotes T55	lemma = ','
+T56	PNP 240 241	I
+#56	AnnotatorNotes T56	lemma = 'i'
+T57	VBB 242 244	am
+#57	AnnotatorNotes T57	lemma = 'be'
+T58	AV0 245 250	still
+#58	AnnotatorNotes T58	lemma = 'still'
+T59	PRP 251 253	in
+#59	AnnotatorNotes T59	lemma = 'in'
+T60	CRD 254 255	2
+#60	AnnotatorNotes T60	lemma = '2'
+T61	NN2 256 261	minds
+#61	AnnotatorNotes T61	lemma = 'mind'
+T62	PRP 262 267	about
+#62	AnnotatorNotes T62	lemma = 'about'
+T63	DT0 268 272	this
+#63	AnnotatorNotes T63	lemma = 'this'
+T64	NN1 273 281	question
+#64	AnnotatorNotes T64	lemma = 'question'
+T65	SENT 281 282	.
+#65	AnnotatorNotes T65	lemma = '.'
+T66	ORD 283 288	First
+#66	AnnotatorNotes T66	lemma = 'first'
+T67	PRF 289 291	of
+#67	AnnotatorNotes T67	lemma = 'of'
+T68	DT0 292 295	all
+#68	AnnotatorNotes T68	lemma = 'all'
+T69	PUN 295 296	,
+#69	AnnotatorNotes T69	lemma = ','
+T70	PNP 297 299	we
+#70	AnnotatorNotes T70	lemma = 'we'
+T71	VM0 300 303	can
+#71	AnnotatorNotes T71	lemma = 'can'
+T72	XX0 303 306	not
+#72	AnnotatorNotes T72	lemma = 'not'
+T73	VVI 307 312	avoid
+#73	AnnotatorNotes T73	lemma = 'avoid'
+T74	DPS 313 316	our
+#74	AnnotatorNotes T74	lemma = 'we'
+T75	AJ0 317 324	genetic
+#75	AnnotatorNotes T75	lemma = 'genetic'
+T76	POS 324 326	's
+#76	AnnotatorNotes T76	lemma = 's'
+T77	NN2 327 332	gifts
+#77	AnnotatorNotes T77	lemma = 'gift'
+T78	SENT 332 333	.
+#78	AnnotatorNotes T78	lemma = '.'
+T79	PNP 334 338	They
+#79	AnnotatorNotes T79	lemma = 'they'
+T80	VM0 339 342	can
+#80	AnnotatorNotes T80	lemma = 'can'
+T81	VHI 343 347	have
+#81	AnnotatorNotes T81	lemma = 'have'
+T82	NN2 348 358	advantages
+#82	AnnotatorNotes T82	lemma = 'advantage'
+T83	PRP 359 362	for
+#83	AnnotatorNotes T83	lemma = 'for'
+T84	PNP 363 365	us
+#84	AnnotatorNotes T84	lemma = 'we'
+T85	CJC 366 368	or
+#85	AnnotatorNotes T85	lemma = 'or'
+T86	NN2 369 382	disadvantages
+#86	AnnotatorNotes T86	lemma = 'disadvantage'
+T87	PUN 382 383	,
+#87	AnnotatorNotes T87	lemma = ','
+T88	CJC 384 387	but
+#88	AnnotatorNotes T88	lemma = 'but'
+T89	PNP 388 390	we
+#89	AnnotatorNotes T89	lemma = 'we'
+T90	VHB 391 395	have
+#90	AnnotatorNotes T90	lemma = 'have'
+T91	TO0 396 398	to
+#91	AnnotatorNotes T91	lemma = 'to'
+T92	VVI 399 403	love
+#92	AnnotatorNotes T92	lemma = 'love'
+T93	PRP 404 408	with
+#93	AnnotatorNotes T93	lemma = 'with'
+T94	DT0 409 414	these
+#94	AnnotatorNotes T94	lemma = 'these'
+T95	NN2 415 419	gens
+#95	AnnotatorNotes T95	lemma = 'gen'
+T96	DT0 420 423	all
+#96	AnnotatorNotes T96	lemma = 'all'
+T97	DPS 424 427	our
+#97	AnnotatorNotes T97	lemma = 'we'
+T98	NN1 428 432	life
+#98	AnnotatorNotes T98	lemma = 'life'
+T99	SENT 432 433	.
+#99	AnnotatorNotes T99	lemma = '.'
+T100	PNP 434 436	It
+#100	AnnotatorNotes T100	lemma = 'it'
+T101	VBZ 437 439	is
+#101	AnnotatorNotes T101	lemma = 'be'
+T102	AJ0 440 449	difficult
+#102	AnnotatorNotes T102	lemma = 'difficult'
+T103	TO0 450 452	to
+#103	AnnotatorNotes T103	lemma = 'to'
+T104	VVI 453 462	transform
+#104	AnnotatorNotes T104	lemma = 'transform'
+T105	PNP 463 467	them
+#105	AnnotatorNotes T105	lemma = 'they'
+T106	PUN 467 468	,
+#106	AnnotatorNotes T106	lemma = ','
+T107	CJS 469 471	so
+#107	AnnotatorNotes T107	lemma = 'so'
+T108	PNP 472 474	it
+#108	AnnotatorNotes T108	lemma = 'it'
+T109	VBZ 475 477	is
+#109	AnnotatorNotes T109	lemma = 'be'
+T110	AJC 478 484	better
+#110	AnnotatorNotes T110	lemma = 'good'
+T111	TO0 485 487	to
+#111	AnnotatorNotes T111	lemma = 'to'
+T112	VVI 488 491	use
+#112	AnnotatorNotes T112	lemma = 'use'
+T113	PNP 492 496	them
+#113	AnnotatorNotes T113	lemma = 'they'
+T114	PRP 497 499	in
+#114	AnnotatorNotes T114	lemma = 'in'
+T115	AT0 500 501	a
+#115	AnnotatorNotes T115	lemma = 'a'
+T116	AJ0 502 507	right
+#116	AnnotatorNotes T116	lemma = 'right'
+T117	NN1 508 511	way
+#117	AnnotatorNotes T117	lemma = 'way'
+T118	SENT 511 512	.
+#118	AnnotatorNotes T118	lemma = '.'
+T119	EX0 513 518	There
+#119	AnnotatorNotes T119	lemma = 'there'
+T120	VBB 519 522	are
+#120	AnnotatorNotes T120	lemma = 'be'
+T121	AT0 523 524	a
+#121	AnnotatorNotes T121	lemma = 'a'
+T122	NN1 525 528	lot
+#122	AnnotatorNotes T122	lemma = 'lot'
+T123	PRF 529 531	of
+#123	AnnotatorNotes T123	lemma = 'of'
+T124	NN2 532 539	stories
+#124	AnnotatorNotes T124	lemma = 'story'
+T125	CJC 540 543	and
+#125	AnnotatorNotes T125	lemma = 'and'
+T126	NN2 544 552	examples
+#126	AnnotatorNotes T126	lemma = 'example'
+T127	PUN 552 553	,
+#127	AnnotatorNotes T127	lemma = ','
+T128	CJS 554 558	when
+#128	AnnotatorNotes T128	lemma = 'when'
+T129	AJ0 559 567	talented
+#129	AnnotatorNotes T129	lemma = 'talented'
+T130	NN2 568 575	parents
+#130	AnnotatorNotes T130	lemma = 'parent'
+T131	VVD 576 580	gave
+#131	AnnotatorNotes T131	lemma = 'give'
+T132	DPS 581 586	their
+#132	AnnotatorNotes T132	lemma = 'they'
+T133	POS 586 588	's
+#133	AnnotatorNotes T133	lemma = 's'
+T134	NN1 589 594	child
+#134	AnnotatorNotes T134	lemma = 'child'
+T135	AT0 595 596	a
+#135	AnnotatorNotes T135	lemma = 'a'
+T136	NN1 597 603	talent
+#136	AnnotatorNotes T136	lemma = 'talent'
+T137	AV0 604 607	too
+#137	AnnotatorNotes T137	lemma = 'too'
+T138	SENT 607 608	.
+#138	AnnotatorNotes T138	lemma = '.'
+T139	CJC 609 612	But
+#139	AnnotatorNotes T139	lemma = 'but'
+T140	PUN 612 613	,
+#140	AnnotatorNotes T140	lemma = ','
+T141	CJS 614 616	if
+#141	AnnotatorNotes T141	lemma = 'if'
+T142	PNP 617 618	I
+#142	AnnotatorNotes T142	lemma = 'i'
+T143	VBB 619 621	am
+#143	AnnotatorNotes T143	lemma = 'be'
+T144	XX0 622 625	not
+#144	AnnotatorNotes T144	lemma = 'not'
+T145	AJ0 626 634	mistaken
+#145	AnnotatorNotes T145	lemma = 'mistaken|mistake'
+T146	PUN 634 635	,
+#146	AnnotatorNotes T146	lemma = ','
+T147	NP0 636 644	Bethoven
+#147	AnnotatorNotes T147	lemma = 'Bethoven'
+T148	VBD 645 648	was
+#148	AnnotatorNotes T148	lemma = 'be'
+T149	VVN 649 653	born
+#149	AnnotatorNotes T149	lemma = 'bear|born'
+T150	PRP 654 656	by
+#150	AnnotatorNotes T150	lemma = 'by'
+T151	NN2 657 662	women
+#151	AnnotatorNotes T151	lemma = 'woman'
+T152	PNQ 663 666	who
+#152	AnnotatorNotes T152	lemma = 'who'
+T153	VBD 667 670	was
+#153	AnnotatorNotes T153	lemma = 'be'
+T154	NN1 671 678	illness
+#154	AnnotatorNotes T154	lemma = 'illness'
+T155	CJC 679 682	and
+#155	AnnotatorNotes T155	lemma = 'and'
+T156	VHD 683 686	had
+#156	AnnotatorNotes T156	lemma = 'have'
+T157	AT0 687 689	no
+#157	AnnotatorNotes T157	lemma = 'no'
+T158	AJ0 690 697	healthy
+#158	AnnotatorNotes T158	lemma = 'healthy'
+T159	NN2 698 706	children
+#159	AnnotatorNotes T159	lemma = 'child'
+T160	AV0 707 713	before
+#160	AnnotatorNotes T160	lemma = 'before'
+T161	SENT 713 714	.
+#161	AnnotatorNotes T161	lemma = '.'
+T162	VVG 716 724	Speaking
+#162	AnnotatorNotes T162	lemma = 'speak|speaking'
+T163	PRP 725 730	about
+#163	AnnotatorNotes T163	lemma = 'about'
+T164	DPS 731 734	our
+#164	AnnotatorNotes T164	lemma = 'we'
+T165	NN1 735 745	experience
+#165	AnnotatorNotes T165	lemma = 'experience'
+T166	CJC 746 749	and
+#166	AnnotatorNotes T166	lemma = 'and'
+T167	DPS 750 753	its
+#167	AnnotatorNotes T167	lemma = 'it'
+T168	NN1 754 758	role
+#168	AnnotatorNotes T168	lemma = 'role'
+T169	PRP 759 761	in
+#169	AnnotatorNotes T169	lemma = 'in'
+T170	DPS 762 765	our
+#170	AnnotatorNotes T170	lemma = 'we'
+T171	NN1 766 770	life
+#171	AnnotatorNotes T171	lemma = 'life'
+T172	PUN 770 771	,
+#172	AnnotatorNotes T172	lemma = ','
+T173	PNP 772 773	I
+#173	AnnotatorNotes T173	lemma = 'i'
+T174	VM0 774 777	can
+#174	AnnotatorNotes T174	lemma = 'can'
+T175	VVI 778 781	say
+#175	AnnotatorNotes T175	lemma = 'say'
+T176	PUN 781 782	,
+#176	AnnotatorNotes T176	lemma = ','
+T177	CJT 783 787	that
+#177	AnnotatorNotes T177	lemma = 'that'
+T178	AV0 788 797	sometimes
+#178	AnnotatorNotes T178	lemma = 'sometimes'
+T179	PNP 798 800	we
+#179	AnnotatorNotes T179	lemma = 'we'
+T180	VBB 801 804	are
+#180	AnnotatorNotes T180	lemma = 'be'
+T181	AJ0 805 809	able
+#181	AnnotatorNotes T181	lemma = 'able'
+T182	TO0 810 812	to
+#182	AnnotatorNotes T182	lemma = 'to'
+T183	VVI 813 818	avoid
+#183	AnnotatorNotes T183	lemma = 'avoid'
+T184	DPS 819 822	our
+#184	AnnotatorNotes T184	lemma = 'we'
+T185	NN2 823 827	gens
+#185	AnnotatorNotes T185	lemma = 'gen'
+T186	CJC 828 831	and
+#186	AnnotatorNotes T186	lemma = 'and'
+T187	TO0 832 834	to
+#187	AnnotatorNotes T187	lemma = 'to'
+T188	VBI 835 837	be
+#188	AnnotatorNotes T188	lemma = 'be'
+T189	AV0 838 840	as
+#189	AnnotatorNotes T189	lemma = 'as'
+T190	AV0 841 845	well
+#190	AnnotatorNotes T190	lemma = 'well'
+T191	CJS 846 848	as
+#191	AnnotatorNotes T191	lemma = 'as'
+T192	PNP 849 851	we
+#192	AnnotatorNotes T192	lemma = 'we'
+T193	VVB 852 856	want
+#193	AnnotatorNotes T193	lemma = 'want'
+T194	TO0 857 859	to
+#194	AnnotatorNotes T194	lemma = 'to'
+T195	VBI 860 862	be
+#195	AnnotatorNotes T195	lemma = 'be'
+T196	SENT 862 863	.
+#196	AnnotatorNotes T196	lemma = '.'
+T197	PRP 864 867	For
+#197	AnnotatorNotes T197	lemma = 'for'
+T198	NN1 868 875	example
+#198	AnnotatorNotes T198	lemma = 'example'
+T199	PUN 875 876	,
+#199	AnnotatorNotes T199	lemma = ','
+T200	DT0 877 881	some
+#200	AnnotatorNotes T200	lemma = 'some'
+T201	NN2 882 890	children
+#201	AnnotatorNotes T201	lemma = 'child'
+T202	VBD 891 895	were
+#202	AnnotatorNotes T202	lemma = 'be'
+T203	VVN 896 900	born
+#203	AnnotatorNotes T203	lemma = 'bear|born'
+T204	PRP 901 905	from
+#204	AnnotatorNotes T204	lemma = 'from'
+T205	NN2 906 913	parents
+#205	AnnotatorNotes T205	lemma = 'parent'
+T206	PNQ 914 917	who
+#206	AnnotatorNotes T206	lemma = 'who'
+T207	VHB 918 922	have
+#207	AnnotatorNotes T207	lemma = 'have'
+T208	DT0 923 927	some
+#208	AnnotatorNotes T208	lemma = 'some'
+T209	NN2 928 936	problems
+#209	AnnotatorNotes T209	lemma = 'problem'
+T210	PRP 937 941	with
+#210	AnnotatorNotes T210	lemma = 'with'
+T211	DPS 942 947	their
+#211	AnnotatorNotes T211	lemma = 'they'
+T212	NN1 948 954	weight
+#212	AnnotatorNotes T212	lemma = 'weight'
+T213	SENT 954 955	.
+#213	AnnotatorNotes T213	lemma = '.'
+T214	PNP 956 958	It
+#214	AnnotatorNotes T214	lemma = 'it'
+T215	VDZ 959 963	does
+#215	AnnotatorNotes T215	lemma = 'do'
+T216	XX0 964 967	not
+#216	AnnotatorNotes T216	lemma = 'not'
+T217	VVI 968 972	mean
+#217	AnnotatorNotes T217	lemma = 'mean'
+T218	CJT 973 977	that
+#218	AnnotatorNotes T218	lemma = 'that'
+T219	DT0 978 983	these
+#219	AnnotatorNotes T219	lemma = 'these'
+T220	NN2 984 992	children
+#220	AnnotatorNotes T220	lemma = 'child'
+T221	VHB 993 997	have
+#221	AnnotatorNotes T221	lemma = 'have'
+T222	AT0 998 1000	no
+#222	AnnotatorNotes T222	lemma = 'no'
+T223	NN1 1001 1012	opportunity
+#223	AnnotatorNotes T223	lemma = 'opportunity'
+T224	TO0 1013 1015	to
+#224	AnnotatorNotes T224	lemma = 'to'
+T225	VBI 1016 1018	be
+#225	AnnotatorNotes T225	lemma = 'be'
+T226	AJ0 1019 1023	thin
+#226	AnnotatorNotes T226	lemma = 'thin'
+T227	SENT 1023 1024	.
+#227	AnnotatorNotes T227	lemma = '.'
+T228	CJS 1025 1027	If
+#228	AnnotatorNotes T228	lemma = 'if'
+T229	PNP 1028 1031	you
+#229	AnnotatorNotes T229	lemma = 'you'
+T230	AV0 1032 1038	really
+#230	AnnotatorNotes T230	lemma = 'really'
+T231	VVB 1039 1043	want
+#231	AnnotatorNotes T231	lemma = 'want'
+T232	TO0 1044 1046	to
+#232	AnnotatorNotes T232	lemma = 'to'
+T233	VVI 1047 1052	reach
+#233	AnnotatorNotes T233	lemma = 'reach'
+T234	PNI 1053 1062	something
+#234	AnnotatorNotes T234	lemma = 'something'
+T235	PUN 1062 1063	,
+#235	AnnotatorNotes T235	lemma = ','
+T236	PNP 1064 1067	you
+#236	AnnotatorNotes T236	lemma = 'you'
+T237	VM0 1068 1072	will
+#237	AnnotatorNotes T237	lemma = 'will'
+T238	VDI 1073 1075	do
+#238	AnnotatorNotes T238	lemma = 'do'
+T239	PNP 1076 1078	it
+#239	AnnotatorNotes T239	lemma = 'it'
+T240	SENT 1078 1079	.
+#240	AnnotatorNotes T240	lemma = '.'
+T241	TO0 1081 1083	To
+#241	AnnotatorNotes T241	lemma = 'to'
+T242	VVI 1084 1087	sum
+#242	AnnotatorNotes T242	lemma = 'sum'
+T243	AVP 1088 1090	up
+#243	AnnotatorNotes T243	lemma = 'up'
+T244	PUN 1090 1091	,
+#244	AnnotatorNotes T244	lemma = ','
+T245	PNP 1092 1093	I
+#245	AnnotatorNotes T245	lemma = 'i'
+T246	VM0 1094 1099	would
+#246	AnnotatorNotes T246	lemma = 'would'
+T247	VVI 1100 1104	like
+#247	AnnotatorNotes T247	lemma = 'like'
+T248	TO0 1105 1107	to
+#248	AnnotatorNotes T248	lemma = 'to'
+T249	VVI 1108 1111	say
+#249	AnnotatorNotes T249	lemma = 'say'
+T250	PUN 1111 1112	,
+#250	AnnotatorNotes T250	lemma = ','
+T251	AT0 1113 1115	no
+#251	AnnotatorNotes T251	lemma = 'no'
+T252	NN1 1116 1122	matter
+#252	AnnotatorNotes T252	lemma = 'matter'
+T253	PNQ 1123 1126	who
+#253	AnnotatorNotes T253	lemma = 'who'
+T254	PNP 1127 1130	you
+#254	AnnotatorNotes T254	lemma = 'you'
+T255	VBD 1131 1134	was
+#255	AnnotatorNotes T255	lemma = 'be'
+T256	VVN 1135 1139	born
+#256	AnnotatorNotes T256	lemma = 'bear|born'
+T257	PUN 1139 1140	,
+#257	AnnotatorNotes T257	lemma = ','
+T258	DPS 1141 1145	your
+#258	AnnotatorNotes T258	lemma = 'you'
+T259	AJ0 1146 1153	willing
+#259	AnnotatorNotes T259	lemma = 'willing|will'
+T260	TO0 1154 1156	to
+#260	AnnotatorNotes T260	lemma = 'to'
+T261	VBI 1157 1159	be
+#261	AnnotatorNotes T261	lemma = 'be'
+T262	AJ0 1160 1167	healthy
+#262	AnnotatorNotes T262	lemma = 'healthy'
+T263	PUN 1167 1168	,
+#263	AnnotatorNotes T263	lemma = ','
+T264	AJ0 1169 1175	clever
+#264	AnnotatorNotes T264	lemma = 'clever'
+T265	PUN 1175 1176	,
+#265	AnnotatorNotes T265	lemma = ','
+T266	AJ0 1177 1181	kind
+#266	AnnotatorNotes T266	lemma = 'kind'
+T267	PUN 1181 1182	,
+#267	AnnotatorNotes T267	lemma = ','
+T268	AJ0 1183 1189	strong
+#268	AnnotatorNotes T268	lemma = 'strong'
+T269	PUN 1189 1190	,
+#269	AnnotatorNotes T269	lemma = ','
+T270	NN1 1191 1203	intelligente
+#270	AnnotatorNotes T270	lemma = 'intelligente'
+T271	CJC 1204 1207	and
+#271	AnnotatorNotes T271	lemma = 'and'
+T272	PNI 1208 1216	everyone
+#272	AnnotatorNotes T272	lemma = 'everyone'
+T273	PNP 1217 1220	you
+#273	AnnotatorNotes T273	lemma = 'you'
+T274	VVB 1221 1225	want
+#274	AnnotatorNotes T274	lemma = 'want'
+T275	TO0 1226 1228	to
+#275	AnnotatorNotes T275	lemma = 'to'
+T276	VBI 1229 1231	be
+#276	AnnotatorNotes T276	lemma = 'be'
+T277	PUN 1231 1232	,
+#277	AnnotatorNotes T277	lemma = ','
+T278	VM0 1233 1237	will
+#278	AnnotatorNotes T278	lemma = 'will'
+T279	VVI 1238 1242	come
+#279	AnnotatorNotes T279	lemma = 'come'
+T280	NN1 1243 1248	truth
+#280	AnnotatorNotes T280	lemma = 'truth'
+T281	SENT 1248 1249	.
+#281	AnnotatorNotes T281	lemma = '.'
+T282	PRF 1250 1252	Of
+#282	AnnotatorNotes T282	lemma = 'of'
+T283	NN1 1253 1259	cource
+#283	AnnotatorNotes T283	lemma = 'cource'
+T284	PUN 1259 1260	,
+#284	AnnotatorNotes T284	lemma = ','
+T285	DT0 1261 1265	some
+#285	AnnotatorNotes T285	lemma = 'some'
+T286	PRF 1266 1268	of
+#286	AnnotatorNotes T286	lemma = 'of'
+T287	PNP 1269 1271	us
+#287	AnnotatorNotes T287	lemma = 'we'
+T288	VBB 1272 1275	are
+#288	AnnotatorNotes T288	lemma = 'be'
+T289	AJ0 1276 1282	gifted
+#289	AnnotatorNotes T289	lemma = 'gifted|gift'
+T290	PRP 1283 1287	from
+#290	AnnotatorNotes T290	lemma = 'from'
+T291	NN1 1288 1294	natury
+#291	AnnotatorNotes T291	lemma = 'natury'
+T292	PUN 1294 1295	,
+#292	AnnotatorNotes T292	lemma = ','
+T293	CJC 1296 1299	and
+#293	AnnotatorNotes T293	lemma = 'and'
+T294	DT0 1300 1304	some
+#294	AnnotatorNotes T294	lemma = 'some'
+T295	PRF 1305 1307	of
+#295	AnnotatorNotes T295	lemma = 'of'
+T296	PNP 1308 1310	us
+#296	AnnotatorNotes T296	lemma = 'we'
+T297	VBB 1311 1314	are
+#297	AnnotatorNotes T297	lemma = 'be'
+T298	VVG 1315 1321	making
+#298	AnnotatorNotes T298	lemma = 'make|making'
+T299	PNX 1322 1332	themselves
+#299	AnnotatorNotes T299	lemma = 'themselves'
+T300	AV0 1333 1336	all
+#300	AnnotatorNotes T300	lemma = 'all'
+T301	PNP 1337 1343	theirs
+#301	AnnotatorNotes T301	lemma = 'theirs'
+T302	VVZ 1344 1349	lives
+#302	AnnotatorNotes T302	lemma = 'live|life'
+T303	SENT 1349 1350	.
+#303	AnnotatorNotes T303	lemma = ''

@@ -1,0 +1,411 @@
+T1	Spelling 790 796	counry
+#1	AnnotatorNotes T1	country
+T2	Linking_device 110 117	Overall
+#2	AnnotatorNotes T2	To begin with
+T3	Absence_comp_sent 122 126	easy
+#3	AnnotatorNotes T3	is easy
+T4	Spelling 169 172	tha
+#4	AnnotatorNotes T4	than
+T5	Agreement_errors 176 180	rise
+#5	AnnotatorNotes T5	rises
+T6	Spelling 249 254	quiet
+#6	AnnotatorNotes T6	quite
+T7	Articles 301 311	population
+#7	AnnotatorNotes T7	the population
+T8	Spelling 365 371	wheras
+#8	AnnotatorNotes T8	whereas
+T9	Tense_choice 384 391	decline
+#9	AnnotatorNotes T9	declined
+T10	Often_confused 414 418	than
+#10	AnnotatorNotes T10	then
+T11	Tense_form 419 433	didn't changed
+#11	AnnotatorNotes T11	change
+T12	Spelling 440 450	proximetly
+#12	AnnotatorNotes T12	approximately
+T13	Spelling 469 477	obviouse
+#13	AnnotatorNotes T13	obvious
+T14	Articles 483 489	number
+#14	AnnotatorNotes T14	the number
+T15	Tense_choice 505 511	become
+#15	AnnotatorNotes T15	would become
+T16	Spelling 554 556	An
+#16	AnnotatorNotes T16	At
+T17	Articles 580 590	remarcable
+#17	AnnotatorNotes T17	a remarkable
+T18	Spelling 580 590	remarcable
+#18	AnnotatorNotes T18	a remarkable
+T19	Spelling 591 601	fuctuation
+#19	AnnotatorNotes T19	fluctuation
+T20	Articles 605 606	a
+#20	AnnotatorNotes T20	the 
+T21	Tense_choice 665 670	reach
+#21	AnnotatorNotes T21	reached
+T22	Often_confused 704 708	than
+#22	AnnotatorNotes T22	then
+T23	Tense_choice 716 723	decline
+#23	AnnotatorNotes T23	would decline
+T24	Spelling 736 742	wheras
+#24	AnnotatorNotes T24	whereas
+T25	Tense_choice 757 761	grow
+#25	AnnotatorNotes T25	would grow
+T26	Noun_number 790 796	counry
+#26	AnnotatorNotes T26	countries
+T27	Tense_choice 828 832	grow
+#27	AnnotatorNotes T27	would grow
+T28	Articles 854 860	quater
+#28	AnnotatorNotes T28	a quarter
+T29	Spelling 854 860	quater
+#29	AnnotatorNotes T29	a quarter
+T30	Punctuation 356 364	steadily
+#30	AnnotatorNotes T30	steadily,
+T31	Numerical 512 524	twice bigger
+#31	AnnotatorNotes T31	twice as big
+T32	Standard 709 723	slowly decline
+#32	AnnotatorNotes T32	would decline steadily
+R1	Dependent_change Arg1:T23 Arg2:T32
+T33	AT0 0 3	The
+#33	AnnotatorNotes T33	lemma = 'the'
+T34	NN1 4 9	graph
+#34	AnnotatorNotes T34	lemma = 'graph'
+T35	VVZ 10 21	illustrates
+#35	AnnotatorNotes T35	lemma = 'illustrate'
+T36	AT0 22 25	the
+#36	AnnotatorNotes T36	lemma = 'the'
+T37	NN1 26 36	percentage
+#37	AnnotatorNotes T37	lemma = 'percentage'
+T38	PRF 37 39	of
+#38	AnnotatorNotes T38	lemma = 'of'
+T39	NN0 40 46	people
+#39	AnnotatorNotes T39	lemma = 'people'
+T40	AJC 47 52	older
+#40	AnnotatorNotes T40	lemma = 'old'
+T41	CJS 53 57	than
+#41	AnnotatorNotes T41	lemma = 'than'
+T42	CRD 58 60	65
+#42	AnnotatorNotes T42	lemma = '65'
+T43	PRP 61 65	from
+#43	AnnotatorNotes T43	lemma = 'from'
+T44	CRD 66 70	1940
+#44	AnnotatorNotes T44	lemma = '1940'
+T45	PRP 71 73	to
+#45	AnnotatorNotes T45	lemma = 'to'
+T46	CRD 74 78	2040
+#46	AnnotatorNotes T46	lemma = '2040'
+T47	PRP 79 81	in
+#47	AnnotatorNotes T47	lemma = 'in'
+T48	NP0 82 87	Japan
+#48	AnnotatorNotes T48	lemma = 'japan'
+T49	PUN 87 88	,
+#49	AnnotatorNotes T49	lemma = ','
+T50	NP0 89 95	Sweden
+#50	AnnotatorNotes T50	lemma = 'sweden'
+T51	CJC 96 99	and
+#51	AnnotatorNotes T51	lemma = 'and'
+T52	AT0 100 103	the
+#52	AnnotatorNotes T52	lemma = 'the'
+T53	NP0 104 107	USA
+#53	AnnotatorNotes T53	lemma = 'usa'
+T54	SENT 107 108	.
+#54	AnnotatorNotes T54	lemma = '.'
+T55	AV0 110 117	Overall
+#55	AnnotatorNotes T55	lemma = 'overall'
+T56	PUN 117 118	,
+#56	AnnotatorNotes T56	lemma = ','
+T57	PNP 119 121	it
+#57	AnnotatorNotes T57	lemma = 'it'
+T58	AJ0 122 126	easy
+#58	AnnotatorNotes T58	lemma = 'easy'
+T59	TO0 127 129	to
+#59	AnnotatorNotes T59	lemma = 'to'
+T60	VVI 130 136	notice
+#60	AnnotatorNotes T60	lemma = 'notice'
+T61	CJT 137 141	that
+#61	AnnotatorNotes T61	lemma = 'that'
+T62	AT0 142 145	the
+#62	AnnotatorNotes T62	lemma = 'the'
+T63	NN1 146 152	number
+#63	AnnotatorNotes T63	lemma = 'number'
+T64	PRF 153 155	of
+#64	AnnotatorNotes T64	lemma = 'of'
+T65	NN0 156 162	people
+#65	AnnotatorNotes T65	lemma = 'people'
+T66	AJC 163 168	older
+#66	AnnotatorNotes T66	lemma = 'old'
+T67	DT0 169 172	tha
+#67	AnnotatorNotes T67	lemma = 'tha'
+T68	CRD 173 175	65
+#68	AnnotatorNotes T68	lemma = '65'
+T69	NN1 176 180	rise
+#69	AnnotatorNotes T69	lemma = 'rise'
+T70	PRP 181 183	in
+#70	AnnotatorNotes T70	lemma = 'in'
+T71	DT0 184 187	all
+#71	AnnotatorNotes T71	lemma = 'all'
+T72	CRD 188 193	three
+#72	AnnotatorNotes T72	lemma = 'three'
+T73	NN2 194 203	countries
+#73	AnnotatorNotes T73	lemma = 'country'
+T74	SENT 204 205	.
+#74	AnnotatorNotes T74	lemma = '.'
+T75	AV0 206 213	However
+#75	AnnotatorNotes T75	lemma = 'however'
+T76	PUN 213 214	,
+#76	AnnotatorNotes T76	lemma = ','
+T77	NN2 215 221	trends
+#77	AnnotatorNotes T77	lemma = 'trend'
+T78	PRP 222 224	in
+#78	AnnotatorNotes T78	lemma = 'in'
+T79	AT0 225 228	the
+#79	AnnotatorNotes T79	lemma = 'the'
+T80	NP0 229 232	USA
+#80	AnnotatorNotes T80	lemma = 'usa'
+T81	CJC 233 236	and
+#81	AnnotatorNotes T81	lemma = 'and'
+T82	NP0 237 243	Sweden
+#82	AnnotatorNotes T82	lemma = 'sweden'
+T83	VVB 244 248	look
+#83	AnnotatorNotes T83	lemma = 'look'
+T84	AJ0 249 254	quiet
+#84	AnnotatorNotes T84	lemma = 'quiet'
+T85	AJ0 255 262	similar
+#85	AnnotatorNotes T85	lemma = 'similar'
+T86	SENT 262 263	.
+#86	AnnotatorNotes T86	lemma = '.'
+T87	PNP 265 267	It
+#87	AnnotatorNotes T87	lemma = 'it'
+T88	VVZ 268 273	seems
+#88	AnnotatorNotes T88	lemma = 'seem'
+T89	CJT 274 278	that
+#89	AnnotatorNotes T89	lemma = 'that'
+T90	PRP 279 286	between
+#90	AnnotatorNotes T90	lemma = 'between'
+T91	CRD 287 291	1940
+#91	AnnotatorNotes T91	lemma = '1940'
+T92	CJC 292 295	and
+#92	AnnotatorNotes T92	lemma = 'and'
+T93	CRD 296 300	1980
+#93	AnnotatorNotes T93	lemma = '1980'
+T94	NN1 301 311	population
+#94	AnnotatorNotes T94	lemma = 'population'
+T95	PRP 312 316	aged
+#95	AnnotatorNotes T95	lemma = 'aged'
+T96	CRD 317 319	65
+#96	AnnotatorNotes T96	lemma = '65'
+T97	CJC 320 323	and
+#97	AnnotatorNotes T97	lemma = 'and'
+T98	AVP 324 328	over
+#98	AnnotatorNotes T98	lemma = 'over'
+T99	PRP 329 331	in
+#99	AnnotatorNotes T99	lemma = 'in'
+T100	NP0 332 338	Sweden
+#100	AnnotatorNotes T100	lemma = 'sweden'
+T101	CJC 339 342	and
+#101	AnnotatorNotes T101	lemma = 'and'
+T102	AT0 343 346	the
+#102	AnnotatorNotes T102	lemma = 'the'
+T103	NP0 347 350	USA
+#103	AnnotatorNotes T103	lemma = 'usa'
+T104	VVD 351 355	rose
+#104	AnnotatorNotes T104	lemma = 'rise|rose'
+T105	AV0 356 364	steadily
+#105	AnnotatorNotes T105	lemma = 'steadily'
+T106	NN2 365 371	wheras
+#106	AnnotatorNotes T106	lemma = 'wheras'
+T107	PRP 372 374	in
+#107	AnnotatorNotes T107	lemma = 'in'
+T108	NP0 375 380	Japan
+#108	AnnotatorNotes T108	lemma = 'japan'
+T109	PNP 381 383	it
+#109	AnnotatorNotes T109	lemma = 'it'
+T110	VVB 384 391	decline
+#110	AnnotatorNotes T110	lemma = 'decline'
+T111	PRP 392 396	from
+#111	AnnotatorNotes T111	lemma = 'from'
+T112	CRD 397 401	1940
+#112	AnnotatorNotes T112	lemma = '1940'
+T113	PRP 402 404	to
+#113	AnnotatorNotes T113	lemma = 'to'
+T114	CRD 405 409	1960
+#114	AnnotatorNotes T114	lemma = '1960'
+T115	CJC 410 413	and
+#115	AnnotatorNotes T115	lemma = 'and'
+T116	CJS 414 418	than
+#116	AnnotatorNotes T116	lemma = 'than'
+T117	VDD 419 422	did
+#117	AnnotatorNotes T117	lemma = 'do'
+T118	XX0 422 425	n't
+#118	AnnotatorNotes T118	lemma = 'not'
+T119	VVN 426 433	changed
+#119	AnnotatorNotes T119	lemma = 'change|changed'
+T120	PRP 434 439	until
+#120	AnnotatorNotes T120	lemma = 'until'
+T121	AV0 440 450	proximetly
+#121	AnnotatorNotes T121	lemma = 'proximetly'
+T122	CRD 451 455	1985
+#122	AnnotatorNotes T122	lemma = '1985'
+T123	SENT 455 456	.
+#123	AnnotatorNotes T123	lemma = '.'
+T124	AV0 457 461	Also
+#124	AnnotatorNotes T124	lemma = 'also'
+T125	PUN 461 462	,
+#125	AnnotatorNotes T125	lemma = ','
+T126	PNP 463 465	it
+#126	AnnotatorNotes T126	lemma = 'it'
+T127	VBZ 466 468	is
+#127	AnnotatorNotes T127	lemma = 'be'
+T128	AJ0 469 477	obviouse
+#128	AnnotatorNotes T128	lemma = 'obviouse'
+T129	CJT 478 482	that
+#129	AnnotatorNotes T129	lemma = 'that'
+T130	NN1 483 489	number
+#130	AnnotatorNotes T130	lemma = 'number'
+T131	PRF 490 492	of
+#131	AnnotatorNotes T131	lemma = 'of'
+T132	AJ0 493 497	aged
+#132	AnnotatorNotes T132	lemma = 'aged|age'
+T133	NN0 498 504	people
+#133	AnnotatorNotes T133	lemma = 'people'
+T134	VVB 505 511	become
+#134	AnnotatorNotes T134	lemma = 'become'
+T135	AV0 512 517	twice
+#135	AnnotatorNotes T135	lemma = 'twice'
+T136	AJC 518 524	bigger
+#136	AnnotatorNotes T136	lemma = 'big'
+T137	PRP 525 529	from
+#137	AnnotatorNotes T137	lemma = 'from'
+T138	CRD 530 534	1985
+#138	AnnotatorNotes T138	lemma = '1985'
+T139	PRP 535 537	to
+#139	AnnotatorNotes T139	lemma = 'to'
+T140	CRD 538 542	2030
+#140	AnnotatorNotes T140	lemma = '2030'
+T141	PRP 543 545	in
+#141	AnnotatorNotes T141	lemma = 'in'
+T142	NP0 546 551	Japan
+#142	AnnotatorNotes T142	lemma = 'japan'
+T143	SENT 552 553	.
+#143	AnnotatorNotes T143	lemma = '.'
+T144	AT0 554 556	An
+#144	AnnotatorNotes T144	lemma = 'an'
+T145	AT0 557 560	the
+#145	AnnotatorNotes T145	lemma = 'the'
+T146	DT0 561 565	same
+#146	AnnotatorNotes T146	lemma = 'same'
+T147	NN1 566 570	time
+#147	AnnotatorNotes T147	lemma = 'time'
+T148	EX0 571 576	there
+#148	AnnotatorNotes T148	lemma = 'there'
+T149	VBZ 577 579	is
+#149	AnnotatorNotes T149	lemma = 'be'
+T150	AJ0 580 590	remarcable
+#150	AnnotatorNotes T150	lemma = 'remarcable'
+T151	NN1 591 601	fuctuation
+#151	AnnotatorNotes T151	lemma = 'fuctuation'
+T152	PRF 602 604	of
+#152	AnnotatorNotes T152	lemma = 'of'
+T153	AT0 605 606	a
+#153	AnnotatorNotes T153	lemma = 'a'
+T154	NN1 607 613	number
+#154	AnnotatorNotes T154	lemma = 'number'
+T155	PRF 614 616	of
+#155	AnnotatorNotes T155	lemma = 'of'
+T156	AJC 617 622	older
+#156	AnnotatorNotes T156	lemma = 'old'
+T157	NN0 623 629	people
+#157	AnnotatorNotes T157	lemma = 'people'
+T158	PRP 630 632	in
+#158	AnnotatorNotes T158	lemma = 'in'
+T159	NP0 633 639	Sweden
+#159	AnnotatorNotes T159	lemma = 'sweden'
+T160	PRP 640 644	over
+#160	AnnotatorNotes T160	lemma = 'over'
+T161	AT0 645 648	the
+#161	AnnotatorNotes T161	lemma = 'the'
+T162	DT0 649 653	same
+#162	AnnotatorNotes T162	lemma = 'same'
+T163	NN1 654 660	period
+#163	AnnotatorNotes T163	lemma = 'period'
+T164	PUN 660 661	,
+#164	AnnotatorNotes T164	lemma = ','
+T165	PNP 662 664	it
+#165	AnnotatorNotes T165	lemma = 'it'
+T166	VVB 665 670	reach
+#166	AnnotatorNotes T166	lemma = 'reach'
+T167	AT0 671 672	a
+#167	AnnotatorNotes T167	lemma = 'a'
+T168	NN1 673 677	peak
+#168	AnnotatorNotes T168	lemma = 'peak'
+T169	PRF 678 680	of
+#169	AnnotatorNotes T169	lemma = 'of'
+T170	CRD 681 683	20
+#170	AnnotatorNotes T170	lemma = '20'
+T171	NN0 684 691	percent
+#171	AnnotatorNotes T171	lemma = 'percent'
+T172	PRP 692 694	in
+#172	AnnotatorNotes T172	lemma = 'in'
+T173	CRD 695 699	2010
+#173	AnnotatorNotes T173	lemma = '2010'
+T174	CJC 700 703	and
+#174	AnnotatorNotes T174	lemma = 'and'
+T175	CJS 704 708	than
+#175	AnnotatorNotes T175	lemma = 'than'
+T176	AV0 709 715	slowly
+#176	AnnotatorNotes T176	lemma = 'slowly'
+T177	VVI 716 723	decline
+#177	AnnotatorNotes T177	lemma = 'decline'
+T178	PRP 724 729	until
+#178	AnnotatorNotes T178	lemma = 'until'
+T179	CRD 730 734	2030
+#179	AnnotatorNotes T179	lemma = '2030'
+T180	PUN 734 735	,
+#180	AnnotatorNotes T180	lemma = ','
+T181	NN2 736 742	wheras
+#181	AnnotatorNotes T181	lemma = 'wheras'
+T182	PRP 743 745	in
+#182	AnnotatorNotes T182	lemma = 'in'
+T183	AT0 746 749	the
+#183	AnnotatorNotes T183	lemma = 'the'
+T184	NP0 750 753	USA
+#184	AnnotatorNotes T184	lemma = 'usa'
+T185	PNP 754 756	it
+#185	AnnotatorNotes T185	lemma = 'it'
+T186	VVB 757 761	grow
+#186	AnnotatorNotes T186	lemma = 'grow'
+T187	AV0 762 770	steadily
+#187	AnnotatorNotes T187	lemma = 'steadily'
+T188	SENT 770 771	.
+#188	AnnotatorNotes T188	lemma = '.'
+T189	PRP 772 777	After
+#189	AnnotatorNotes T189	lemma = 'after'
+T190	CRD 778 782	2030
+#190	AnnotatorNotes T190	lemma = '2030'
+T191	PRP 783 785	in
+#191	AnnotatorNotes T191	lemma = 'in'
+T192	DT0 786 789	all
+#192	AnnotatorNotes T192	lemma = 'all'
+T193	NN1 790 796	counry
+#193	AnnotatorNotes T193	lemma = 'counry'
+T194	AT0 797 800	the
+#194	AnnotatorNotes T194	lemma = 'the'
+T195	NN1 801 811	proportion
+#195	AnnotatorNotes T195	lemma = 'proportion'
+T196	PRF 812 814	of
+#196	AnnotatorNotes T196	lemma = 'of'
+T197	AJC 815 820	older
+#197	AnnotatorNotes T197	lemma = 'old'
+T198	NN0 821 827	people
+#198	AnnotatorNotes T198	lemma = 'people'
+T199	VVB 828 832	grow
+#199	AnnotatorNotes T199	lemma = 'grow'
+T200	CJC 833 836	and
+#200	AnnotatorNotes T200	lemma = 'and'
+T201	VVB 837 843	become
+#201	AnnotatorNotes T201	lemma = 'become'
+T202	AV0 844 848	more
+#202	AnnotatorNotes T202	lemma = 'more'
+T203	CJS 849 853	than
+#203	AnnotatorNotes T203	lemma = 'than'
+T204	AJ0 854 860	quater
+#204	AnnotatorNotes T204	lemma = 'quater'
+T205	SENT 860 861	.
+#205	AnnotatorNotes T205	lemma = ''

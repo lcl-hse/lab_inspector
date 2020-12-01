@@ -1,0 +1,625 @@
+T1	Spelling 534 543	backspine
+#1	AnnotatorNotes T1	spine
+T2	Punctuation 104 105	,
+A1	Delete T2
+T3	Spelling 188 193	lifes
+#2	AnnotatorNotes T3	lives
+T4	Spelling 739 746	prooved
+#3	AnnotatorNotes T4	proved
+T5	Spelling 801 806	couse
+#4	AnnotatorNotes T5	cause
+T6	Spelling 871 877	cource
+#5	AnnotatorNotes T6	course
+T7	Comparative_adj 1383 1392	more safe
+#6	AnnotatorNotes T7	safer
+T8	Spelling 1417 1421	ther
+#7	AnnotatorNotes T8	there
+T9	Spelling 1476 1481	helth
+#8	AnnotatorNotes T9	health
+T10	lex_item_choice 274 281	results
+#9	AnnotatorNotes T10	achievements
+T11	Absence_comp_colloc 626 636	electronic
+#10	AnnotatorNotes T11	electronic appliances
+T12	Agreement_errors 637 645	produces
+#11	AnnotatorNotes T12	produce
+R1	Dependent_change Arg1:T11 Arg2:T12
+T13	Noun_number 663 667	wave
+#12	AnnotatorNotes T13	waves
+T14	Redundant_comp 685 691	poorly
+A2	Delete T14
+T15	Tense_choice 736 746	is prooved
+#13	AnnotatorNotes T15	has been proved
+T16	Punctuation 765 766	,
+A3	Delete T16
+T17	Linking_device 821 829	Although
+#14	AnnotatorNotes T17	However
+T18	Spelling 981 987	limite
+#15	AnnotatorNotes T18	limit
+T19	Tense_choice 1036 1043	talking
+#16	AnnotatorNotes T19	talk
+T20	Prepositions 1044 1047	via
+#17	AnnotatorNotes T20	on
+T21	Articles 1048 1054	phones
+#18	AnnotatorNotes T21	the phones
+T22	Category_confusion 1059 1070	particulary
+#19	AnnotatorNotes T22	particular
+T23	Verb_Inf_Gerund 1093 1098	limit
+#20	AnnotatorNotes T23	limiting
+T24	Prepositions 1129 1131	by
+#21	AnnotatorNotes T24	to
+T25	Articles 1191 1205	a brain cancer
+#22	AnnotatorNotes T25	brain cancer
+T26	Agreement_errors 1206 1210	fall
+#23	AnnotatorNotes T26	falls
+T27	Redundant_comp 1362 1369	so that
+A4	Delete T27
+T28	AV0 0 8	Nowadays
+#24	AnnotatorNotes T28	lemma = 'nowadays'
+T29	AJ0 9 15	modern
+#25	AnnotatorNotes T29	lemma = 'modern'
+T30	NN1 16 26	technology
+#26	AnnotatorNotes T30	lemma = 'technology'
+T31	VBZ 27 29	is
+#27	AnnotatorNotes T31	lemma = 'be'
+T32	AT0 30 33	the
+#28	AnnotatorNotes T32	lemma = 'the'
+T33	AJ0 34 38	very
+#29	AnnotatorNotes T33	lemma = 'very'
+T34	NN1 39 44	basis
+#30	AnnotatorNotes T34	lemma = 'basis'
+T35	PRF 45 47	of
+#31	AnnotatorNotes T35	lemma = 'of'
+T36	NN1 48 59	information
+#32	AnnotatorNotes T36	lemma = 'information'
+T37	NN1 60 67	society
+#33	AnnotatorNotes T37	lemma = 'society'
+T38	PNP 68 70	we
+#34	AnnotatorNotes T38	lemma = 'we'
+T39	VVB 71 75	live
+#35	AnnotatorNotes T39	lemma = 'live'
+T40	AVP 76 78	in
+#36	AnnotatorNotes T40	lemma = 'in'
+T41	SENT 78 79	.
+#37	AnnotatorNotes T41	lemma = '.'
+T42	EX0 80 85	There
+#38	AnnotatorNotes T42	lemma = 'there'
+T43	VBZ 86 88	is
+#39	AnnotatorNotes T43	lemma = 'be'
+T44	AT0 89 91	an
+#40	AnnotatorNotes T44	lemma = 'an'
+T45	NN1 92 99	opinion
+#41	AnnotatorNotes T45	lemma = 'opinion'
+T46	CJT 100 104	that
+#42	AnnotatorNotes T46	lemma = 'that'
+T47	PUN 104 105	,
+#43	AnnotatorNotes T47	lemma = ','
+T48	AT0 106 109	the
+#44	AnnotatorNotes T48	lemma = 'the'
+T49	NN2 110 117	results
+#45	AnnotatorNotes T49	lemma = 'result'
+T50	PRF 118 120	of
+#46	AnnotatorNotes T50	lemma = 'of'
+T51	AJ0 121 131	scientific
+#47	AnnotatorNotes T51	lemma = 'scientific'
+T52	NN1 132 140	progress
+#48	AnnotatorNotes T52	lemma = 'progress'
+T53	VBB 141 144	are
+#49	AnnotatorNotes T53	lemma = 'be'
+T54	AJ0 145 151	likely
+#50	AnnotatorNotes T54	lemma = 'likely'
+T55	TO0 152 154	to
+#51	AnnotatorNotes T55	lemma = 'to'
+T56	VHI 155 159	have
+#52	AnnotatorNotes T56	lemma = 'have'
+T57	AJ0 160 168	negative
+#53	AnnotatorNotes T57	lemma = 'negative'
+T58	NN1 169 175	impact
+#54	AnnotatorNotes T58	lemma = 'impact'
+T59	PRP 176 178	on
+#55	AnnotatorNotes T59	lemma = 'on'
+T60	NN0 179 185	people
+#56	AnnotatorNotes T60	lemma = 'people'
+T61	POS 185 187	's
+#57	AnnotatorNotes T61	lemma = 's'
+T62	NN2 188 193	lifes
+#58	AnnotatorNotes T62	lemma = 'life'
+T63	SENT 193 194	.
+#59	AnnotatorNotes T63	lemma = '.'
+T64	PRP 195 197	In
+#60	AnnotatorNotes T64	lemma = 'in'
+T65	AJ0 198 208	particular
+#61	AnnotatorNotes T65	lemma = 'particular'
+T66	PUN 208 209	,
+#62	AnnotatorNotes T66	lemma = ','
+T67	NN2 210 222	technologies
+#63	AnnotatorNotes T67	lemma = 'technology'
+T68	VM0 223 226	can
+#64	AnnotatorNotes T68	lemma = 'can'
+T69	VVI 227 232	cause
+#65	AnnotatorNotes T69	lemma = 'cause'
+T70	NN2 233 241	diseases
+#66	AnnotatorNotes T70	lemma = 'disease'
+T71	SENT 241 242	.
+#67	AnnotatorNotes T71	lemma = '.'
+T72	TO0 243 245	To
+#68	AnnotatorNotes T72	lemma = 'to'
+T73	VVI 246 251	begin
+#69	AnnotatorNotes T73	lemma = 'begin'
+T74	PRP 252 256	with
+#70	AnnotatorNotes T74	lemma = 'with'
+T75	PUN 256 257	,
+#71	AnnotatorNotes T75	lemma = ','
+T76	AT0 258 261	the
+#72	AnnotatorNotes T76	lemma = 'the'
+T77	AV0 262 266	most
+#73	AnnotatorNotes T77	lemma = 'most'
+T78	AJ0 267 273	famous
+#74	AnnotatorNotes T78	lemma = 'famous'
+T79	NN2 274 281	results
+#75	AnnotatorNotes T79	lemma = 'result'
+T80	PRF 282 284	of
+#76	AnnotatorNotes T80	lemma = 'of'
+T81	AJ0 285 298	technological
+#77	AnnotatorNotes T81	lemma = 'technological'
+T82	NN1 299 307	progress
+#78	AnnotatorNotes T82	lemma = 'progress'
+T83	PUN 307 308	,
+#79	AnnotatorNotes T83	lemma = ','
+T84	AT0 309 312	the
+#80	AnnotatorNotes T84	lemma = 'the'
+T85	NN2 313 322	computers
+#81	AnnotatorNotes T85	lemma = 'computer'
+T86	PUN 322 323	,
+#82	AnnotatorNotes T86	lemma = ','
+T87	VHB 324 328	have
+#83	AnnotatorNotes T87	lemma = 'have'
+T88	AT0 329 330	a
+#84	AnnotatorNotes T88	lemma = 'a'
+T89	AJ0 331 342	detrimental
+#85	AnnotatorNotes T89	lemma = 'detrimental'
+T90	NN1 343 349	effect
+#86	AnnotatorNotes T90	lemma = 'effect'
+T91	PRP 350 352	on
+#87	AnnotatorNotes T91	lemma = 'on'
+T92	NN1 353 358	sight
+#88	AnnotatorNotes T92	lemma = 'sight'
+T93	SENT 358 359	.
+#89	AnnotatorNotes T93	lemma = '.'
+T94	NN2 360 371	Individuals
+#90	AnnotatorNotes T94	lemma = 'individual'
+T95	VVG 372 380	spending
+#91	AnnotatorNotes T95	lemma = 'spend|spending'
+T96	DT0 381 385	many
+#92	AnnotatorNotes T96	lemma = 'many'
+T97	NN2 386 391	hours
+#93	AnnotatorNotes T97	lemma = 'hour'
+T98	PRP 392 394	in
+#94	AnnotatorNotes T98	lemma = 'in'
+T99	NN1 395 400	front
+#95	AnnotatorNotes T99	lemma = 'front'
+T100	PRF 401 403	of
+#96	AnnotatorNotes T100	lemma = 'of'
+T101	NN2 404 413	computers
+#97	AnnotatorNotes T101	lemma = 'computer'
+T102	POS 413 414	'
+#98	AnnotatorNotes T102	lemma = ''
+T103	NN2 415 423	monitors
+#99	AnnotatorNotes T103	lemma = 'monitor'
+T104	VVB 424 428	tend
+#100	AnnotatorNotes T104	lemma = 'tend'
+T105	TO0 429 431	to
+#101	AnnotatorNotes T105	lemma = 'to'
+T106	VVI 432 436	wear
+#102	AnnotatorNotes T106	lemma = 'wear'
+T107	NN2 437 444	glasses
+#103	AnnotatorNotes T107	lemma = 'glass'
+T108	SENT 444 445	.
+#104	AnnotatorNotes T108	lemma = '.'
+T109	AV0 446 454	Moreover
+#105	AnnotatorNotes T109	lemma = 'moreover'
+T110	PUN 454 455	,
+#106	AnnotatorNotes T110	lemma = ','
+T111	AJ0 456 461	wrong
+#107	AnnotatorNotes T111	lemma = 'wrong'
+T112	NN1 462 469	posture
+#108	AnnotatorNotes T112	lemma = 'posture'
+T113	PUN 469 470	,
+#109	AnnotatorNotes T113	lemma = ','
+T114	CJS 471 476	while
+#110	AnnotatorNotes T114	lemma = 'while'
+T115	VVG 477 484	working
+#111	AnnotatorNotes T115	lemma = 'work|working'
+T116	PRP 485 489	with
+#112	AnnotatorNotes T116	lemma = 'with'
+T117	NN1 490 498	computer
+#113	AnnotatorNotes T117	lemma = 'computer'
+T118	PRP 499 502	for
+#114	AnnotatorNotes T118	lemma = 'for'
+T119	AJ0 503 507	long
+#115	AnnotatorNotes T119	lemma = 'long'
+T120	NN2 508 513	hours
+#116	AnnotatorNotes T120	lemma = 'hour'
+T121	PUN 513 514	,
+#117	AnnotatorNotes T121	lemma = ','
+T122	VM0 515 520	could
+#118	AnnotatorNotes T122	lemma = 'could'
+T123	AV0 521 526	badly
+#119	AnnotatorNotes T123	lemma = 'badly'
+T124	VVI 527 533	affect
+#120	AnnotatorNotes T124	lemma = 'affect'
+T125	NN1 534 543	backspine
+#121	AnnotatorNotes T125	lemma = 'backspine'
+T126	SENT 543 544	.
+#122	AnnotatorNotes T126	lemma = '.'
+T127	AV0 545 556	Furthermore
+#123	AnnotatorNotes T127	lemma = 'furthermore'
+T128	PUN 556 557	,
+#124	AnnotatorNotes T128	lemma = ','
+T129	NN0 558 564	people
+#125	AnnotatorNotes T129	lemma = 'people'
+T130	VBB 565 568	are
+#126	AnnotatorNotes T130	lemma = 'be'
+T131	VVN 569 579	surrounded
+#127	AnnotatorNotes T131	lemma = 'surround'
+T132	PRP 580 584	with
+#128	AnnotatorNotes T132	lemma = 'with'
+T133	AT0 585 586	a
+#129	AnnotatorNotes T133	lemma = 'a'
+T134	NN1 587 590	lot
+#130	AnnotatorNotes T134	lemma = 'lot'
+T135	PRF 591 593	of
+#131	AnnotatorNotes T135	lemma = 'of'
+T136	AJ0 594 604	electronic
+#132	AnnotatorNotes T136	lemma = 'electronic'
+T137	NN2 605 612	devices
+#133	AnnotatorNotes T137	lemma = 'device'
+T138	AJ0 613 621	everyday
+#134	AnnotatorNotes T138	lemma = 'everyday'
+T139	SENT 621 622	.
+#135	AnnotatorNotes T139	lemma = '.'
+T140	CJS 623 625	As
+#136	AnnotatorNotes T140	lemma = 'as'
+T141	AJ0 626 636	electronic
+#137	AnnotatorNotes T141	lemma = 'electronic'
+T142	VVZ 637 645	produces
+#138	AnnotatorNotes T142	lemma = 'produce'
+T143	AJ0 646 662	electro-magnetic
+#139	AnnotatorNotes T143	lemma = 'electro-magnetic'
+T144	NN1 663 667	wave
+#140	AnnotatorNotes T144	lemma = 'wave'
+T145	PUN 667 668	,
+#141	AnnotatorNotes T145	lemma = ','
+T146	PNP 669 671	it
+#142	AnnotatorNotes T146	lemma = 'it'
+T147	VBZ 672 674	is
+#143	AnnotatorNotes T147	lemma = 'be'
+T148	AJ0 675 681	likely
+#144	AnnotatorNotes T148	lemma = 'likely'
+T149	TO0 682 684	to
+#145	AnnotatorNotes T149	lemma = 'to'
+T150	AV0 685 691	poorly
+#146	AnnotatorNotes T150	lemma = 'poorly'
+T151	VVI 692 698	affect
+#147	AnnotatorNotes T151	lemma = 'affect'
+T152	NN2 699 706	tissues
+#148	AnnotatorNotes T152	lemma = 'tissue'
+T153	PRF 707 709	of
+#149	AnnotatorNotes T153	lemma = 'of'
+T154	DPS 710 713	our
+#150	AnnotatorNotes T154	lemma = 'we'
+T155	NN1 714 718	body
+#151	AnnotatorNotes T155	lemma = 'body'
+T156	SENT 718 719	.
+#152	AnnotatorNotes T156	lemma = '.'
+T157	PRP 720 723	For
+#153	AnnotatorNotes T157	lemma = 'for'
+T158	NN1 724 731	example
+#154	AnnotatorNotes T158	lemma = 'example'
+T159	PUN 731 732	,
+#155	AnnotatorNotes T159	lemma = ','
+T160	PNP 733 735	it
+#156	AnnotatorNotes T160	lemma = 'it'
+T161	VBZ 736 738	is
+#157	AnnotatorNotes T161	lemma = 'be'
+T162	AJ0 739 746	prooved
+#158	AnnotatorNotes T162	lemma = 'prooved'
+T163	PRP 747 749	by
+#159	AnnotatorNotes T163	lemma = 'by'
+T164	NN2 750 760	scientists
+#160	AnnotatorNotes T164	lemma = 'scientist'
+T165	CJT 761 765	that
+#161	AnnotatorNotes T165	lemma = 'that'
+T166	PUN 765 766	,
+#162	AnnotatorNotes T166	lemma = ','
+T167	VVG 767 774	talking
+#163	AnnotatorNotes T167	lemma = 'talk|talking'
+T168	PRP 775 778	via
+#164	AnnotatorNotes T168	lemma = 'via'
+T169	NN1 779 788	cellphone
+#165	AnnotatorNotes T169	lemma = 'cellphone'
+T170	AT0 789 790	a
+#166	AnnotatorNotes T170	lemma = 'a'
+T171	NN1 791 794	lot
+#167	AnnotatorNotes T171	lemma = 'lot'
+T172	VM0 795 800	could
+#168	AnnotatorNotes T172	lemma = 'could'
+T173	VVI 801 806	couse
+#169	AnnotatorNotes T173	lemma = 'couse'
+T174	NN1 807 812	brain
+#170	AnnotatorNotes T174	lemma = 'brain'
+T175	NN1 813 819	cancer
+#171	AnnotatorNotes T175	lemma = 'cancer'
+T176	SENT 819 820	.
+#172	AnnotatorNotes T176	lemma = '.'
+T177	CJS 821 829	Although
+#173	AnnotatorNotes T177	lemma = 'although'
+T178	PUN 829 830	,
+#174	AnnotatorNotes T178	lemma = ','
+T179	AT0 831 834	the
+#175	AnnotatorNotes T179	lemma = 'the'
+T180	NN1 835 844	situation
+#176	AnnotatorNotes T180	lemma = 'situation'
+T181	VBZ 845 847	is
+#177	AnnotatorNotes T181	lemma = 'be'
+T182	XX0 848 851	not
+#178	AnnotatorNotes T182	lemma = 'not'
+T183	DT0 852 856	that
+#179	AnnotatorNotes T183	lemma = 'that'
+T184	AJ0 857 866	desperate
+#180	AnnotatorNotes T184	lemma = 'desperate'
+T185	SENT 866 867	.
+#181	AnnotatorNotes T185	lemma = '.'
+T186	PRF 868 870	Of
+#182	AnnotatorNotes T186	lemma = 'of'
+T187	NN1 871 877	cource
+#183	AnnotatorNotes T187	lemma = 'cource'
+T188	EX0 878 883	there
+#184	AnnotatorNotes T188	lemma = 'there'
+T189	VBB 884 887	are
+#185	AnnotatorNotes T189	lemma = 'be'
+T190	DT0 888 892	some
+#186	AnnotatorNotes T190	lemma = 'some'
+T191	NN2 893 897	ways
+#187	AnnotatorNotes T191	lemma = 'way'
+T192	PRF 898 900	of
+#188	AnnotatorNotes T192	lemma = 'of'
+T193	VVG 901 909	reducing
+#189	AnnotatorNotes T193	lemma = 'reduce|reducing'
+T194	AT0 910 913	the
+#190	AnnotatorNotes T194	lemma = 'the'
+T195	AJ0 914 921	harmful
+#191	AnnotatorNotes T195	lemma = 'harmful'
+T196	NN2 922 929	effects
+#192	AnnotatorNotes T196	lemma = 'effect'
+T197	PRF 930 932	of
+#193	AnnotatorNotes T197	lemma = 'of'
+T198	AJ0 933 939	modern
+#194	AnnotatorNotes T198	lemma = 'modern'
+T199	NN2 940 952	technologies
+#195	AnnotatorNotes T199	lemma = 'technology'
+T200	SENT 952 953	.
+#196	AnnotatorNotes T200	lemma = '.'
+T201	ORD 954 959	First
+#197	AnnotatorNotes T201	lemma = 'first'
+T202	PRF 960 962	of
+#198	AnnotatorNotes T202	lemma = 'of'
+T203	DT0 963 966	all
+#199	AnnotatorNotes T203	lemma = 'all'
+T204	PUN 966 967	,
+#200	AnnotatorNotes T204	lemma = ','
+T205	NN0 968 974	people
+#201	AnnotatorNotes T205	lemma = 'people'
+T206	VM0 975 980	could
+#202	AnnotatorNotes T206	lemma = 'could'
+T207	VVI 981 987	limite
+#203	AnnotatorNotes T207	lemma = 'limite'
+T208	AT0 988 991	the
+#204	AnnotatorNotes T208	lemma = 'the'
+T209	NN1 992 996	time
+#205	AnnotatorNotes T209	lemma = 'time'
+T210	PNP 997 1001	they
+#206	AnnotatorNotes T210	lemma = 'they'
+T211	VVB 1002 1007	spend
+#207	AnnotatorNotes T211	lemma = 'spend'
+T212	PRP 1008 1010	in
+#208	AnnotatorNotes T212	lemma = 'in'
+T213	NN1 1011 1016	front
+#209	AnnotatorNotes T213	lemma = 'front'
+T214	PRF 1017 1019	of
+#210	AnnotatorNotes T214	lemma = 'of'
+T215	AT0 1020 1023	the
+#211	AnnotatorNotes T215	lemma = 'the'
+T216	NN1 1024 1032	computer
+#212	AnnotatorNotes T216	lemma = 'computer'
+T217	CJC 1033 1035	or
+#213	AnnotatorNotes T217	lemma = 'or'
+T218	VVG 1036 1043	talking
+#214	AnnotatorNotes T218	lemma = 'talk|talking'
+T219	PRP 1044 1047	via
+#215	AnnotatorNotes T219	lemma = 'via'
+T220	NN2 1048 1054	phones
+#216	AnnotatorNotes T220	lemma = 'phone'
+T221	SENT 1054 1055	.
+#217	AnnotatorNotes T221	lemma = '.'
+T222	PRP 1056 1058	In
+#218	AnnotatorNotes T222	lemma = 'in'
+T223	NN1 1059 1070	particulary
+#219	AnnotatorNotes T223	lemma = 'particulary'
+T224	PUN 1070 1071	,
+#220	AnnotatorNotes T224	lemma = ','
+T225	NN2 1072 1082	scientists
+#221	AnnotatorNotes T225	lemma = 'scientist'
+T226	VVB 1083 1092	recommend
+#222	AnnotatorNotes T226	lemma = 'recommend'
+T227	NN1 1093 1098	limit
+#223	AnnotatorNotes T227	lemma = 'limit'
+T228	AT0 1099 1102	the
+#224	AnnotatorNotes T228	lemma = 'the'
+T229	NN1 1103 1107	time
+#225	AnnotatorNotes T229	lemma = 'time'
+T230	VVN 1108 1113	spent
+#226	AnnotatorNotes T230	lemma = 'spend|spent'
+T231	PRP 1114 1116	on
+#227	AnnotatorNotes T231	lemma = 'on'
+T232	NN1 1117 1122	phone
+#228	AnnotatorNotes T232	lemma = 'phone'
+T233	NN2 1123 1128	calls
+#229	AnnotatorNotes T233	lemma = 'call'
+T234	PRP 1129 1131	by
+#230	AnnotatorNotes T234	lemma = 'by'
+T235	CRD 1132 1134	30
+#231	AnnotatorNotes T235	lemma = '30'
+T236	NN2 1135 1142	minutes
+#232	AnnotatorNotes T236	lemma = 'minute'
+T237	PRP 1143 1146	per
+#233	AnnotatorNotes T237	lemma = 'per'
+T238	NN1 1147 1150	day
+#234	AnnotatorNotes T238	lemma = 'day'
+T239	SENT 1150 1151	.
+#235	AnnotatorNotes T239	lemma = '.'
+T240	PRP 1152 1154	In
+#236	AnnotatorNotes T240	lemma = 'in'
+T241	DT0 1155 1159	this
+#237	AnnotatorNotes T241	lemma = 'this'
+T242	NN1 1160 1163	way
+#238	AnnotatorNotes T242	lemma = 'way'
+T243	AT0 1164 1167	the
+#239	AnnotatorNotes T243	lemma = 'the'
+T244	NN1 1168 1179	probability
+#240	AnnotatorNotes T244	lemma = 'probability'
+T245	PRF 1180 1182	of
+#241	AnnotatorNotes T245	lemma = 'of'
+T246	VVG 1183 1190	causing
+#242	AnnotatorNotes T246	lemma = 'cause'
+T247	AT0 1191 1192	a
+#243	AnnotatorNotes T247	lemma = 'a'
+T248	NN1 1193 1198	brain
+#244	AnnotatorNotes T248	lemma = 'brain'
+T249	NN1 1199 1205	cancer
+#245	AnnotatorNotes T249	lemma = 'cancer'
+T250	NN1 1206 1210	fall
+#246	AnnotatorNotes T250	lemma = 'fall'
+T251	AV0 1211 1223	dramatically
+#247	AnnotatorNotes T251	lemma = 'dramatically'
+T252	SENT 1223 1224	.
+#248	AnnotatorNotes T252	lemma = '.'
+T253	AT0 1225 1228	The
+#249	AnnotatorNotes T253	lemma = 'the'
+T254	AJ0 1229 1234	other
+#250	AnnotatorNotes T254	lemma = 'other'
+T255	NN1 1235 1238	way
+#251	AnnotatorNotes T255	lemma = 'way'
+T256	TO0 1239 1241	to
+#252	AnnotatorNotes T256	lemma = 'to'
+T257	VVI 1242 1250	decrease
+#253	AnnotatorNotes T257	lemma = 'decrease'
+T258	AT0 1251 1254	the
+#254	AnnotatorNotes T258	lemma = 'the'
+T259	NN1 1255 1261	number
+#255	AnnotatorNotes T259	lemma = 'number'
+T260	PRF 1262 1264	of
+#256	AnnotatorNotes T260	lemma = 'of'
+T261	NN1 1265 1271	health
+#257	AnnotatorNotes T261	lemma = 'health'
+T262	NN2 1272 1280	problems
+#258	AnnotatorNotes T262	lemma = 'problem'
+T263	VBZ 1281 1283	is
+#259	AnnotatorNotes T263	lemma = 'be'
+T264	AT0 1284 1287	the
+#260	AnnotatorNotes T264	lemma = 'the'
+T265	AJ0 1288 1298	scientific
+#261	AnnotatorNotes T265	lemma = 'scientific'
+T266	NN1 1299 1307	progress
+#262	AnnotatorNotes T266	lemma = 'progress'
+T267	SENT 1307 1308	.
+#263	AnnotatorNotes T267	lemma = '.'
+T268	AJ0 1309 1312	New
+#264	AnnotatorNotes T268	lemma = 'new'
+T269	NN2 1313 1325	technologies
+#265	AnnotatorNotes T269	lemma = 'technology'
+T270	VVB 1326 1330	help
+#266	AnnotatorNotes T270	lemma = 'help'
+T271	TO0 1331 1333	to
+#267	AnnotatorNotes T271	lemma = 'to'
+T272	VVI 1334 1341	improve
+#268	AnnotatorNotes T272	lemma = 'improve'
+T273	AJ0 1342 1352	electronic
+#269	AnnotatorNotes T273	lemma = 'electronic'
+T274	NN2 1353 1360	devices
+#270	AnnotatorNotes T274	lemma = 'device'
+T275	PUN 1360 1361	,
+#271	AnnotatorNotes T275	lemma = ','
+T276	AV0 1362 1364	so
+#272	AnnotatorNotes T276	lemma = 'so'
+T277	DT0 1365 1369	that
+#273	AnnotatorNotes T277	lemma = 'that'
+T278	TO0 1370 1372	to
+#274	AnnotatorNotes T278	lemma = 'to'
+T279	VVI 1373 1377	make
+#275	AnnotatorNotes T279	lemma = 'make'
+T280	PNP 1378 1382	them
+#276	AnnotatorNotes T280	lemma = 'they'
+T281	AV0 1383 1387	more
+#277	AnnotatorNotes T281	lemma = 'more'
+T282	AJ0 1388 1392	safe
+#278	AnnotatorNotes T282	lemma = 'safe'
+T283	SENT 1392 1393	.
+#279	AnnotatorNotes T283	lemma = '.'
+T284	DT0 1394 1397	All
+#280	AnnotatorNotes T284	lemma = 'all'
+T285	NN2 1398 1404	things
+#281	AnnotatorNotes T285	lemma = 'thing'
+T286	VVN 1405 1415	considered
+#282	AnnotatorNotes T286	lemma = 'consider|considered'
+T287	PUN 1415 1416	,
+#283	AnnotatorNotes T287	lemma = ','
+T288	NN1 1417 1421	ther
+#284	AnnotatorNotes T288	lemma = 'ther'
+T289	VBZ 1422 1424	is
+#285	AnnotatorNotes T289	lemma = 'be'
+T290	AT0 1425 1427	no
+#286	AnnotatorNotes T290	lemma = 'no'
+T291	NN1 1428 1433	doubt
+#287	AnnotatorNotes T291	lemma = 'doubt'
+T292	CJT 1434 1438	that
+#288	AnnotatorNotes T292	lemma = 'that'
+T293	AJ0 1439 1445	modern
+#289	AnnotatorNotes T293	lemma = 'modern'
+T294	NN2 1446 1458	technologies
+#290	AnnotatorNotes T294	lemma = 'technology'
+T295	VM0 1459 1464	could
+#291	AnnotatorNotes T295	lemma = 'could'
+T296	VVI 1465 1470	cause
+#292	AnnotatorNotes T296	lemma = 'cause'
+T297	DT0 1471 1475	some
+#293	AnnotatorNotes T297	lemma = 'some'
+T298	NN1 1476 1481	helth
+#294	AnnotatorNotes T298	lemma = 'helth'
+T299	NN2 1482 1490	problems
+#295	AnnotatorNotes T299	lemma = 'problem'
+T300	SENT 1490 1491	.
+#296	AnnotatorNotes T300	lemma = '.'
+T301	AV0 1492 1504	Nevertheless
+#297	AnnotatorNotes T301	lemma = 'nevertheless'
+T302	PUN 1504 1505	,
+#298	AnnotatorNotes T302	lemma = ','
+T303	NN0 1506 1512	people
+#299	AnnotatorNotes T303	lemma = 'people'
+T304	VM0 1513 1516	can
+#300	AnnotatorNotes T304	lemma = 'can'
+T305	VVI 1517 1523	reduce
+#301	AnnotatorNotes T305	lemma = 'reduce'
+T306	AT0 1524 1527	the
+#302	AnnotatorNotes T306	lemma = 'the'
+T307	AJ0 1528 1539	detrimental
+#303	AnnotatorNotes T307	lemma = 'detrimental'
+T308	NN2 1540 1547	effects
+#304	AnnotatorNotes T308	lemma = 'effect'
+T309	PRF 1548 1550	of
+#305	AnnotatorNotes T309	lemma = 'of'
+T310	AJ0 1551 1561	scientific
+#306	AnnotatorNotes T310	lemma = 'scientific'
+T311	NN1 1562 1570	progress
+#307	AnnotatorNotes T311	lemma = 'progress'
+T312	SENT 1570 1571	.
+#308	AnnotatorNotes T312	lemma = ''

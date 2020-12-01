@@ -1,0 +1,538 @@
+T1	Redundant_comp 138 143	begin
+A1	Cause T1 L1_interference
+A2	Delete T1
+T2	suggestion 205 206	?
+A3	Delete T2
+T3	Spelling 330 336	awfull
+A4	Cause T3 Typo
+#1	AnnotatorNotes T3	awful 
+T4	Redundant_comp 576 578	to
+T5	Category_confusion 632 639	solving
+A6	Cause T5 L1_interference
+#2	AnnotatorNotes T5	solution to
+T6	Pronouns 640 644	this
+A7	Cause T6 Other
+#3	AnnotatorNotes T6	these
+T7	Possessive 941 949	students
+A8	Cause T7 Other
+#4	AnnotatorNotes T7	student
+T8	Inappropriate_register 1325 1341	it will be apsen
+#5	AnnotatorNotes T8	there will be no problem
+T9	ADP 0 2	In
+#6	AnnotatorNotes T9	lemma = 'in'
+T10	ADJ 3 7	many
+#7	AnnotatorNotes T10	lemma = 'many'
+T11	NOUN 8 17	countries
+#8	AnnotatorNotes T11	lemma = 'country'
+T12	NOUN 18 25	schools
+#9	AnnotatorNotes T12	lemma = 'school'
+T13	VERB 26 30	have
+#10	AnnotatorNotes T13	lemma = 'have'
+T14	ADJ 31 37	severe
+#11	AnnotatorNotes T14	lemma = 'severe'
+T15	NOUN 38 46	problems
+#12	AnnotatorNotes T15	lemma = 'problem'
+T16	ADP 47 51	with
+#13	AnnotatorNotes T16	lemma = 'with'
+T17	NOUN 52 59	student
+#14	AnnotatorNotes T17	lemma = 'student'
+T18	NOUN 60 69	behaviour
+#15	AnnotatorNotes T18	lemma = 'behaviour'
+T19	PUNCT 69 70	.
+#16	AnnotatorNotes T19	lemma = '.'
+T20	ADP 72 74	In
+#17	AnnotatorNotes T20	lemma = 'in'
+T21	DET 75 78	our
+#18	AnnotatorNotes T21	lemma = 'us'
+T22	NOUN 79 83	time
+#19	AnnotatorNotes T22	lemma = 'time'
+T23	PRON 84 86	it
+#20	AnnotatorNotes T23	lemma = 'it'
+T24	AUX 87 89	is
+#21	AnnotatorNotes T24	lemma = 'be'
+T25	ADV 90 94	very
+#22	AnnotatorNotes T25	lemma = 'very'
+T26	ADJ 95 101	actual
+#23	AnnotatorNotes T26	lemma = 'actual'
+T27	NOUN 102 109	problem
+#24	AnnotatorNotes T27	lemma = 'problem'
+T28	PUNCT 109 110	,
+#25	AnnotatorNotes T28	lemma = ','
+T29	SCONJ 111 118	because
+#26	AnnotatorNotes T29	lemma = 'because'
+T30	NOUN 119 126	parents
+#27	AnnotatorNotes T30	lemma = 'parent'
+T31	ADV 127 131	more
+#28	AnnotatorNotes T31	lemma = 'more'
+T32	ADV 132 137	often
+#29	AnnotatorNotes T32	lemma = 'often'
+T33	VERB 138 143	begin
+#30	AnnotatorNotes T33	lemma = 'begin'
+T34	NOUN 144 150	forget
+#31	AnnotatorNotes T34	lemma = 'forget'
+T35	ADP 151 156	about
+#32	AnnotatorNotes T35	lemma = 'about'
+T36	DET 157 162	their
+#33	AnnotatorNotes T36	lemma = 'their'
+T37	NOUN 163 171	children
+#34	AnnotatorNotes T37	lemma = 'child'
+T38	CCONJ 172 175	and
+#35	AnnotatorNotes T38	lemma = 'and'
+T39	VERB 176 179	pay
+#36	AnnotatorNotes T39	lemma = 'pay'
+T40	PRON 180 184	them
+#37	AnnotatorNotes T40	lemma = 'they'
+T41	ADV 185 189	very
+#38	AnnotatorNotes T41	lemma = 'very'
+T42	ADJ 190 193	few
+#39	AnnotatorNotes T42	lemma = 'few'
+T43	NOUN 194 203	attention
+#40	AnnotatorNotes T43	lemma = 'attention'
+T44	PUNCT 205 206	?
+#41	AnnotatorNotes T44	lemma = '?'
+T45	SCONJ 207 211	that
+#42	AnnotatorNotes T45	lemma = 'that'
+T46	DET 211 213	’s
+#43	AnnotatorNotes T46	lemma = '’s'
+T47	ADV 214 217	why
+#44	AnnotatorNotes T47	lemma = 'why'
+T48	ADJ 218 225	student
+#45	AnnotatorNotes T48	lemma = 'student'
+T49	NOUN 226 235	behaviour
+#46	AnnotatorNotes T49	lemma = 'behaviour'
+T50	AUX 236 239	can
+#47	AnnotatorNotes T50	lemma = 'can'
+T51	AUX 240 242	be
+#48	AnnotatorNotes T51	lemma = 'be'
+T52	VERB 243 246	bad
+#49	AnnotatorNotes T52	lemma = 'bad'
+T53	PUNCT 246 247	.
+#50	AnnotatorNotes T53	lemma = '.'
+T54	ADP 249 251	On
+#51	AnnotatorNotes T54	lemma = 'on'
+T55	DET 252 255	the
+#52	AnnotatorNotes T55	lemma = 'the'
+T56	NUM 256 259	one
+#53	AnnotatorNotes T56	lemma = 'one'
+T57	NOUN 260 264	hand
+#54	AnnotatorNotes T57	lemma = 'hand'
+T58	DET 265 269	this
+#55	AnnotatorNotes T58	lemma = 'this'
+T59	NOUN 270 277	problem
+#56	AnnotatorNotes T59	lemma = 'problem'
+T60	AUX 278 280	is
+#57	AnnotatorNotes T60	lemma = 'be'
+T61	ADV 281 287	really
+#58	AnnotatorNotes T61	lemma = 'really'
+T62	ADJ 288 295	serious
+#59	AnnotatorNotes T62	lemma = 'serious'
+T63	PUNCT 295 296	,
+#60	AnnotatorNotes T63	lemma = ','
+T64	SCONJ 297 304	because
+#61	AnnotatorNotes T64	lemma = 'because'
+T65	ADJ 305 312	student
+#62	AnnotatorNotes T65	lemma = 'student'
+T66	NOUN 313 322	behaviour
+#63	AnnotatorNotes T66	lemma = 'behaviour'
+T67	AUX 323 326	can
+#64	AnnotatorNotes T67	lemma = 'can'
+T68	AUX 327 329	be
+#65	AnnotatorNotes T68	lemma = 'be'
+T69	ADJ 330 336	awfull
+#66	AnnotatorNotes T69	lemma = 'awfull'
+T70	ADP 337 341	from
+#67	AnnotatorNotes T70	lemma = 'from'
+T71	DET 342 346	some
+#68	AnnotatorNotes T71	lemma = 'some'
+T72	ADJ 347 355	physical
+#69	AnnotatorNotes T72	lemma = 'physical'
+T73	NOUN 356 364	problems
+#70	AnnotatorNotes T73	lemma = 'problem'
+T74	PUNCT 364 365	.
+#71	AnnotatorNotes T74	lemma = '.'
+T75	ADP 366 369	For
+#72	AnnotatorNotes T75	lemma = 'for'
+T76	NOUN 370 377	example
+#73	AnnotatorNotes T76	lemma = 'example'
+T77	DET 378 383	their
+#74	AnnotatorNotes T77	lemma = 'their'
+T78	ADJ 384 387	bad
+#75	AnnotatorNotes T78	lemma = 'bad'
+T79	NOUN 388 397	childhood
+#76	AnnotatorNotes T79	lemma = 'childhood'
+T80	CCONJ 398 400	or
+#77	AnnotatorNotes T80	lemma = 'or'
+T81	NOUN 401 410	situation
+#78	AnnotatorNotes T81	lemma = 'situation'
+T82	ADP 411 413	in
+#79	AnnotatorNotes T82	lemma = 'in'
+T83	DET 414 419	their
+#80	AnnotatorNotes T83	lemma = 'their'
+T84	NOUN 420 426	family
+#81	AnnotatorNotes T84	lemma = 'family'
+T85	PUNCT 426 427	.
+#82	AnnotatorNotes T85	lemma = '.'
+T86	ADV 428 432	Very
+#83	AnnotatorNotes T86	lemma = 'very'
+T87	ADV 433 438	often
+#84	AnnotatorNotes T87	lemma = 'often'
+T88	VERB 439 446	parents
+#85	AnnotatorNotes T88	lemma = 'parent'
+T89	ADJ 447 450	don
+#86	AnnotatorNotes T89	lemma = 'don'
+T90	NOUN 450 452	’t
+#87	AnnotatorNotes T90	lemma = '’t'
+T91	ADP 453 458	spend
+#88	AnnotatorNotes T91	lemma = 'spend'
+T92	ADJ 459 465	enough
+#89	AnnotatorNotes T92	lemma = 'enough'
+T93	NOUN 466 470	time
+#90	AnnotatorNotes T93	lemma = 'time'
+T94	ADP 471 475	with
+#91	AnnotatorNotes T94	lemma = 'with'
+T95	NOUN 476 484	children
+#92	AnnotatorNotes T95	lemma = 'child'
+T96	CCONJ 485 488	and
+#93	AnnotatorNotes T96	lemma = 'and'
+T97	ADP 489 494	after
+#94	AnnotatorNotes T97	lemma = 'after'
+T98	SCONJ 495 499	that
+#95	AnnotatorNotes T98	lemma = 'that'
+T99	PRON 500 504	they
+#96	AnnotatorNotes T99	lemma = 'they'
+T100	VERB 505 508	get
+#97	AnnotatorNotes T100	lemma = 'get'
+T101	NOUN 509 514	angry
+#98	AnnotatorNotes T101	lemma = 'angry'
+T102	CCONJ 515 518	and
+#99	AnnotatorNotes T102	lemma = 'and'
+T103	DET 519 524	their
+#100	AnnotatorNotes T103	lemma = 'their'
+T104	NOUN 525 534	behaviour
+#101	AnnotatorNotes T104	lemma = 'behaviour'
+T105	AUX 535 537	is
+#102	AnnotatorNotes T105	lemma = 'be'
+T106	ADJ 538 543	awful
+#103	AnnotatorNotes T106	lemma = 'awful'
+T107	PUNCT 543 544	.
+#104	AnnotatorNotes T107	lemma = '.'
+T108	SCONJ 545 549	That
+#105	AnnotatorNotes T108	lemma = 'that'
+T109	DET 549 551	’s
+#106	AnnotatorNotes T109	lemma = '’'
+T110	ADJ 552 555	why
+#107	AnnotatorNotes T110	lemma = 'why'
+T111	NOUN 556 564	students
+#108	AnnotatorNotes T111	lemma = 'student'
+T112	ADV 565 569	also
+#109	AnnotatorNotes T112	lemma = 'also'
+T113	ADV 570 575	often
+#110	AnnotatorNotes T113	lemma = 'often'
+T114	PART 576 578	to
+#111	AnnotatorNotes T114	lemma = 'to'
+T115	VERB 579 581	do
+#112	AnnotatorNotes T115	lemma = 'do'
+T116	ADJ 582 590	unnormal
+#113	AnnotatorNotes T116	lemma = 'unnormal'
+T117	NOUN 591 597	things
+#114	AnnotatorNotes T117	lemma = 'thing'
+T118	ADP 598 600	at
+#115	AnnotatorNotes T118	lemma = 'at'
+T119	NOUN 601 607	school
+#116	AnnotatorNotes T119	lemma = 'school'
+T120	CCONJ 608 611	and
+#117	AnnotatorNotes T120	lemma = 'and'
+T121	NOUN 612 620	teachers
+#118	AnnotatorNotes T121	lemma = 'teacher'
+T122	AUX 621 624	can
+#119	AnnotatorNotes T122	lemma = 'can'
+T123	VERB 624 626	’t
+#120	AnnotatorNotes T123	lemma = '’t'
+T124	NOUN 627 631	find
+#121	AnnotatorNotes T124	lemma = 'find'
+T125	VERB 632 639	solving
+#122	AnnotatorNotes T125	lemma = 'solve'
+T126	DET 640 644	this
+#123	AnnotatorNotes T126	lemma = 'this'
+T127	NOUN 645 653	problems
+#124	AnnotatorNotes T127	lemma = 'problem'
+T128	PUNCT 653 654	.
+#125	AnnotatorNotes T128	lemma = '.'
+T129	ADP 656 658	On
+#126	AnnotatorNotes T129	lemma = 'on'
+T130	DET 659 662	the
+#127	AnnotatorNotes T130	lemma = 'the'
+T131	ADJ 663 668	other
+#128	AnnotatorNotes T131	lemma = 'other'
+T132	NOUN 669 673	hand
+#129	AnnotatorNotes T132	lemma = 'hand'
+T133	VERB 674 677	bad
+#130	AnnotatorNotes T133	lemma = 'bad'
+T134	NOUN 678 687	behaviour
+#131	AnnotatorNotes T134	lemma = 'behaviour'
+T135	ADP 688 690	of
+#132	AnnotatorNotes T135	lemma = 'of'
+T136	NOUN 691 699	students
+#133	AnnotatorNotes T136	lemma = 'student'
+T137	AUX 700 702	is
+#134	AnnotatorNotes T137	lemma = 'be'
+T138	ADJ 703 709	normal
+#135	AnnotatorNotes T138	lemma = 'norm'
+T139	PUNCT 709 710	.
+#136	AnnotatorNotes T139	lemma = '.'
+T140	ADP 711 718	Because
+#137	AnnotatorNotes T140	lemma = 'because'
+T141	DET 719 722	all
+#138	AnnotatorNotes T141	lemma = 'all'
+T142	NOUN 723 731	children
+#139	AnnotatorNotes T142	lemma = 'child'
+T143	VERB 732 736	like
+#140	AnnotatorNotes T143	lemma = 'like'
+T144	PART 737 739	to
+#141	AnnotatorNotes T144	lemma = 'to'
+T145	VERB 740 744	play
+#142	AnnotatorNotes T145	lemma = 'play'
+T146	PUNCT 744 745	,
+#143	AnnotatorNotes T146	lemma = ','
+T147	ADV 746 751	shout
+#144	AnnotatorNotes T147	lemma = 'shout'
+T148	PUNCT 751 752	,
+#145	AnnotatorNotes T148	lemma = ','
+T149	SCONJ 753 758	laugh
+#146	AnnotatorNotes T149	lemma = 'laugh'
+T150	CCONJ 759 762	and
+#147	AnnotatorNotes T150	lemma = 'and'
+T151	PART 763 765	to
+#148	AnnotatorNotes T151	lemma = 'to'
+T152	VERB 766 768	do
+#149	AnnotatorNotes T152	lemma = 'do'
+T153	ADV 769 774	silly
+#150	AnnotatorNotes T153	lemma = 'silly'
+T154	NOUN 775 780	thing
+#151	AnnotatorNotes T154	lemma = 'thing'
+T155	PUNCT 780 781	.
+#152	AnnotatorNotes T155	lemma = '.'
+T156	CCONJ 782 785	And
+#153	AnnotatorNotes T156	lemma = 'and'
+T157	SCONJ 786 788	if
+#154	AnnotatorNotes T157	lemma = 'if'
+T158	NOUN 789 793	kids
+#155	AnnotatorNotes T158	lemma = 'kid'
+T159	NUM 794 797	don
+#156	AnnotatorNotes T159	lemma = 'don'
+T160	NOUN 797 799	’t
+#157	AnnotatorNotes T160	lemma = '’t'
+T161	AUX 800 802	do
+#158	AnnotatorNotes T161	lemma = 'do'
+T162	DET 803 806	all
+#159	AnnotatorNotes T162	lemma = 'all'
+T163	PRON 807 811	this
+#160	AnnotatorNotes T163	lemma = 'this'
+T164	CCONJ 812 815	and
+#161	AnnotatorNotes T164	lemma = 'and'
+T165	VERB 816 820	look
+#162	AnnotatorNotes T165	lemma = 'look'
+T166	ADP 821 825	like
+#163	AnnotatorNotes T166	lemma = 'like'
+T167	ADV 826 835	seriously
+#164	AnnotatorNotes T167	lemma = 'seriously'
+T168	CCONJ 836 839	and
+#165	AnnotatorNotes T168	lemma = 'and'
+T169	ADV 840 852	depressionly
+#166	AnnotatorNotes T169	lemma = 'depressionly'
+T170	PRON 853 855	it
+#167	AnnotatorNotes T170	lemma = 'it'
+T171	AUX 856 858	is
+#168	AnnotatorNotes T171	lemma = 'be'
+T172	PART 859 862	not
+#169	AnnotatorNotes T172	lemma = 'not'
+T173	ADV 863 867	well
+#170	AnnotatorNotes T173	lemma = 'well'
+T174	PUNCT 867 868	.
+#171	AnnotatorNotes T174	lemma = '.'
+T175	PRON 869 871	It
+#172	AnnotatorNotes T175	lemma = 'it'
+T176	ADV 872 876	also
+#173	AnnotatorNotes T176	lemma = 'also'
+T177	AUX 877 880	can
+#174	AnnotatorNotes T177	lemma = 'can'
+T178	VERB 881 884	say
+#175	AnnotatorNotes T178	lemma = 'say'
+T179	ADP 885 890	about
+#176	AnnotatorNotes T179	lemma = 'about'
+T180	DET 891 895	some
+#177	AnnotatorNotes T180	lemma = 'some'
+T181	NOUN 896 904	problems
+#178	AnnotatorNotes T181	lemma = 'problem'
+T182	PUNCT 904 905	.
+#179	AnnotatorNotes T182	lemma = '.'
+T183	ADP 907 909	In
+#180	AnnotatorNotes T183	lemma = 'in'
+T184	NOUN 910 920	conclusion
+#181	AnnotatorNotes T184	lemma = 'conclusion'
+T185	PUNCT 920 921	,
+#182	AnnotatorNotes T185	lemma = ','
+T186	PRON 922 923	I
+#183	AnnotatorNotes T186	lemma = 'I'
+T187	VERB 924 928	want
+#184	AnnotatorNotes T187	lemma = 'want'
+T188	PART 929 931	to
+#185	AnnotatorNotes T188	lemma = 'to'
+T189	VERB 932 935	say
+#186	AnnotatorNotes T189	lemma = 'say'
+T190	SCONJ 936 940	that
+#187	AnnotatorNotes T190	lemma = 'that'
+T191	NOUN 941 949	students
+#188	AnnotatorNotes T191	lemma = 'student'
+T192	NOUN 950 959	behaviour
+#189	AnnotatorNotes T192	lemma = 'behaviou'
+T193	AUX 960 966	should
+#190	AnnotatorNotes T193	lemma = 'shall'
+T194	AUX 967 969	be
+#191	AnnotatorNotes T194	lemma = 'be'
+T195	ADJ 970 973	bad
+#192	AnnotatorNotes T195	lemma = 'bad'
+T196	CCONJ 974 977	and
+#193	AnnotatorNotes T196	lemma = 'and'
+T197	ADV 978 982	well
+#194	AnnotatorNotes T197	lemma = 'well'
+T198	ADJ 983 991	similary
+#195	AnnotatorNotes T198	lemma = 'similary'
+T199	PUNCT 991 992	,
+#196	AnnotatorNotes T199	lemma = ','
+T200	SCONJ 993 1000	because
+#197	AnnotatorNotes T200	lemma = 'because'
+T201	DET 1001 1004	all
+#198	AnnotatorNotes T201	lemma = 'all'
+T202	NOUN 1005 1013	children
+#199	AnnotatorNotes T202	lemma = 'child'
+T203	AUX 1014 1018	must
+#200	AnnotatorNotes T203	lemma = 'must'
+T204	VERB 1019 1023	have
+#201	AnnotatorNotes T204	lemma = 'have'
+T205	ADJ 1024 1029	happy
+#202	AnnotatorNotes T205	lemma = 'happy'
+T206	NOUN 1030 1039	childhood
+#203	AnnotatorNotes T206	lemma = 'childhood'
+T207	CCONJ 1040 1043	and
+#204	AnnotatorNotes T207	lemma = 'and'
+T208	VERB 1044 1048	know
+#205	AnnotatorNotes T208	lemma = 'know'
+T209	PRON 1049 1053	what
+#206	AnnotatorNotes T209	lemma = 'what'
+T210	AUX 1054 1058	does
+#207	AnnotatorNotes T210	lemma = 'do'
+T211	PRON 1059 1061	it
+#208	AnnotatorNotes T211	lemma = 'it'
+T212	VERB 1062 1066	mean
+#209	AnnotatorNotes T212	lemma = 'mean'
+T213	ADJ 1067 1073	“happy
+#210	AnnotatorNotes T213	lemma = '“happy'
+T214	PUNCT 1073 1074	”
+#211	AnnotatorNotes T214	lemma = '”'
+T215	CCONJ 1075 1078	and
+#212	AnnotatorNotes T215	lemma = 'and'
+T216	ADJ 1079 1085	“funny
+#213	AnnotatorNotes T216	lemma = '“funny'
+T217	PUNCT 1085 1086	”
+#214	AnnotatorNotes T217	lemma = '”'
+T218	NOUN 1087 1090	kid
+#215	AnnotatorNotes T218	lemma = 'kid'
+T219	PUNCT 1090 1091	.
+#216	AnnotatorNotes T219	lemma = '.'
+T220	CCONJ 1092 1095	And
+#217	AnnotatorNotes T220	lemma = 'and'
+T221	PRON 1096 1098	it
+#218	AnnotatorNotes T221	lemma = 'it'
+T222	AUX 1099 1101	is
+#219	AnnotatorNotes T222	lemma = 'be'
+T223	ADJ 1102 1111	necessary
+#220	AnnotatorNotes T223	lemma = 'necessary'
+T224	ADP 1112 1115	for
+#221	AnnotatorNotes T224	lemma = 'for'
+T225	NOUN 1116 1123	parents
+#222	AnnotatorNotes T225	lemma = 'parent'
+T226	PART 1124 1126	to
+#223	AnnotatorNotes T226	lemma = 'to'
+T227	VERB 1127 1130	pay
+#224	AnnotatorNotes T227	lemma = 'pay'
+T228	DET 1131 1136	their
+#225	AnnotatorNotes T228	lemma = 'their'
+T229	NOUN 1137 1141	kids
+#226	AnnotatorNotes T229	lemma = 'kid'
+T230	ADP 1142 1146	more
+#227	AnnotatorNotes T230	lemma = 'more'
+T231	NOUN 1147 1156	attention
+#228	AnnotatorNotes T231	lemma = 'attention'
+T232	PUNCT 1156 1157	,
+#229	AnnotatorNotes T232	lemma = ','
+T233	ADV 1158 1162	tell
+#230	AnnotatorNotes T233	lemma = 'tell'
+T234	PRON 1163 1167	them
+#231	AnnotatorNotes T234	lemma = 'they'
+T235	PRON 1168 1172	what
+#232	AnnotatorNotes T235	lemma = 'what'
+T236	AUX 1173 1175	is
+#233	AnnotatorNotes T236	lemma = 'be'
+T237	ADJ 1176 1179	bad
+#234	AnnotatorNotes T237	lemma = 'bad'
+T238	CCONJ 1180 1183	and
+#235	AnnotatorNotes T238	lemma = 'and'
+T239	PRON 1184 1188	what
+#236	AnnotatorNotes T239	lemma = 'what'
+T240	AUX 1189 1191	is
+#237	AnnotatorNotes T240	lemma = 'be'
+T241	ADJ 1192 1198	normal
+#238	AnnotatorNotes T241	lemma = 'normal'
+T242	PUNCT 1198 1199	,
+#239	AnnotatorNotes T242	lemma = ','
+T243	ADV 1200 1204	then
+#240	AnnotatorNotes T243	lemma = 'then'
+T244	NOUN 1205 1213	children
+#241	AnnotatorNotes T244	lemma = 'child'
+T245	AUX 1214 1218	will
+#242	AnnotatorNotes T245	lemma = 'will'
+T246	VERB 1219 1223	have
+#243	AnnotatorNotes T246	lemma = 'have'
+T247	ADJ 1224 1230	normal
+#244	AnnotatorNotes T247	lemma = 'normal'
+T248	NOUN 1231 1240	behaviour
+#245	AnnotatorNotes T248	lemma = 'behaviour'
+T249	PUNCT 1240 1241	,
+#246	AnnotatorNotes T249	lemma = ','
+T250	ADJ 1242 1247	happy
+#247	AnnotatorNotes T250	lemma = 'happy'
+T251	NOUN 1248 1257	childhood
+#248	AnnotatorNotes T251	lemma = 'childhood'
+T252	CCONJ 1258 1261	and
+#249	AnnotatorNotes T252	lemma = 'and'
+T253	NOUN 1262 1269	schools
+#250	AnnotatorNotes T253	lemma = 'school'
+T254	AUX 1270 1274	will
+#251	AnnotatorNotes T254	lemma = 'will'
+T255	PART 1275 1278	not
+#252	AnnotatorNotes T255	lemma = 'not'
+T256	VERB 1279 1283	have
+#253	AnnotatorNotes T256	lemma = 'have'
+T257	PART 1284 1286	to
+#254	AnnotatorNotes T257	lemma = 'to'
+T258	VERB 1287 1295	research
+#255	AnnotatorNotes T258	lemma = 'research'
+T259	VERB 1296 1303	solving
+#256	AnnotatorNotes T259	lemma = 'solve'
+T260	DET 1304 1308	this
+#257	AnnotatorNotes T260	lemma = 'this'
+T261	NOUN 1309 1316	problem
+#258	AnnotatorNotes T261	lemma = 'problem'
+T262	SCONJ 1317 1324	because
+#259	AnnotatorNotes T262	lemma = 'because'
+T263	PRON 1325 1327	it
+#260	AnnotatorNotes T263	lemma = 'it'
+T264	AUX 1328 1332	will
+#261	AnnotatorNotes T264	lemma = 'will'
+T265	AUX 1333 1335	be
+#262	AnnotatorNotes T265	lemma = 'be'
+T266	ADJ 1336 1342	apsent
+#263	AnnotatorNotes T266	lemma = 'apsent'
+T267	PUNCT 1342 1343	.
+#264	AnnotatorNotes T267	lemma = '.'

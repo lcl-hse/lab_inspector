@@ -1,0 +1,617 @@
+T1	Redundant_comp 188 197	importing
+A1	Delete T1
+T2	Articles 198 215	country's economy
+#1	AnnotatorNotes T2	a country's economy
+T3	Articles 219 232	a main reason
+#2	AnnotatorNotes T3	the main reason
+T4	Prepositions 296 299	for
+#3	AnnotatorNotes T4	with
+T5	Absence_explanation 335 344	First off
+#4	AnnotatorNotes T5	First of all
+T6	Redundant_comp 621 624	for
+A2	Delete T6
+T7	Ref_device 630 634	said
+#5	AnnotatorNotes T7	this 
+T8	Agreement_errors 643 647	need
+#6	AnnotatorNotes T8	needs
+T9	lex_item_choice 717 723	expand
+#7	AnnotatorNotes T9	insist
+T10	Punctuation 714 735	to expand on my point
+#8	AnnotatorNotes T10	, to insist on my point, 
+T11	Articles 890 907	country's economy
+#9	AnnotatorNotes T11	a country's economy
+T12	Punctuation 946 949	For
+#10	AnnotatorNotes T12	. For
+T13	lex_item_choice 1007 1014	article
+#11	AnnotatorNotes T13	type
+T14	Redundant_comp 1055 1062	as such
+A3	Delete T14
+T15	Redundant_comp 1074 1081	for the
+T16	Prepositions 1128 1133	kinds
+#12	AnnotatorNotes T16	kinds of
+T17	Confusion_of_structures 1192 1225	whereas if not for importing food
+#13	AnnotatorNotes T17	otherwise
+T18	Category_confusion 1260 1265	quick
+#14	AnnotatorNotes T18	quickly
+T19	Category_confusion 1287 1296	importing
+#15	AnnotatorNotes T19	import
+T20	Articles 1337 1346	diversity
+#16	AnnotatorNotes T20	the diversity
+T21	Category_confusion 1406 1415	importing
+#17	AnnotatorNotes T21	import
+T22	Infinitive_constr 1423 1436	for exporting
+#18	AnnotatorNotes T22	to export
+T23	Articles 1479 1493	the population
+#19	AnnotatorNotes T23	population
+T24	PNP 0 2	It
+#20	AnnotatorNotes T24	lemma = 'it'
+T25	VBZ 3 5	is
+#21	AnnotatorNotes T25	lemma = 'be'
+T26	AV0 6 12	widely
+#22	AnnotatorNotes T26	lemma = 'widely'
+T27	VVN 13 19	argued
+#23	AnnotatorNotes T27	lemma = 'argue'
+T28	CJT 20 24	that
+#24	AnnotatorNotes T28	lemma = 'that'
+T29	NN2 25 34	countries
+#25	AnnotatorNotes T29	lemma = 'country'
+T30	AV0 35 39	only
+#26	AnnotatorNotes T30	lemma = 'only'
+T31	VVB 40 44	need
+#27	AnnotatorNotes T31	lemma = 'need'
+T32	TO0 45 47	to
+#28	AnnotatorNotes T32	lemma = 'to'
+T33	VVI 48 55	produce
+#29	AnnotatorNotes T33	lemma = 'produce'
+T34	AT0 56 59	the
+#30	AnnotatorNotes T34	lemma = 'the'
+T35	NN1 60 64	food
+#31	AnnotatorNotes T35	lemma = 'food'
+T36	CJT 65 69	that
+#32	AnnotatorNotes T36	lemma = 'that'
+T37	DPS 70 75	their
+#33	AnnotatorNotes T37	lemma = 'they'
+T38	DT0 76 79	own
+#34	AnnotatorNotes T38	lemma = 'own'
+T39	NN1 80 90	population
+#35	AnnotatorNotes T39	lemma = 'population'
+T40	VVZ 91 95	eats
+#36	AnnotatorNotes T40	lemma = 'eat'
+T41	CJC 96 99	and
+#37	AnnotatorNotes T41	lemma = 'and'
+T42	VM0 100 106	should
+#38	AnnotatorNotes T42	lemma = 'should'
+T43	VVI 107 110	aim
+#39	AnnotatorNotes T43	lemma = 'aim'
+T44	TO0 111 113	to
+#40	AnnotatorNotes T44	lemma = 'to'
+T45	VVI 114 120	import
+#41	AnnotatorNotes T45	lemma = 'import'
+T46	CJS 121 123	as
+#42	AnnotatorNotes T46	lemma = 'as'
+T47	AV0 124 130	little
+#43	AnnotatorNotes T47	lemma = 'little'
+T48	CJS 131 133	as
+#44	AnnotatorNotes T48	lemma = 'as'
+T49	AJ0 134 142	possible
+#45	AnnotatorNotes T49	lemma = 'possible'
+T50	SENT 142 143	.
+#46	AnnotatorNotes T50	lemma = '.'
+T51	CJC 144 147	And
+#47	AnnotatorNotes T51	lemma = 'and'
+T52	CJS 148 153	while
+#48	AnnotatorNotes T52	lemma = 'while'
+T53	NN0 154 160	people
+#49	AnnotatorNotes T53	lemma = 'people'
+T54	AV0 161 168	usually
+#50	AnnotatorNotes T54	lemma = 'usually'
+T55	VVB 169 174	bring
+#51	AnnotatorNotes T55	lemma = 'bring'
+T56	AVP 175 177	up
+#52	AnnotatorNotes T56	lemma = 'up'
+T57	NN1 178 184	damage
+#53	AnnotatorNotes T57	lemma = 'damage'
+T58	PRP 185 187	to
+#54	AnnotatorNotes T58	lemma = 'to'
+T59	VVG 188 197	importing
+#55	AnnotatorNotes T59	lemma = 'import|importing'
+T60	NN1 198 205	country
+#56	AnnotatorNotes T60	lemma = 'country'
+T61	POS 205 207	's
+#57	AnnotatorNotes T61	lemma = 's'
+T62	NN1 208 215	economy
+#58	AnnotatorNotes T62	lemma = 'economy'
+T63	PRP 216 218	as
+#59	AnnotatorNotes T63	lemma = 'as'
+T64	AT0 219 220	a
+#60	AnnotatorNotes T64	lemma = 'a'
+T65	AJ0 221 225	main
+#61	AnnotatorNotes T65	lemma = 'main'
+T66	NN1 226 232	reason
+#62	AnnotatorNotes T66	lemma = 'reason'
+T67	PRP 233 235	to
+#63	AnnotatorNotes T67	lemma = 'to'
+T68	AVQ 236 239	why
+#64	AnnotatorNotes T68	lemma = 'why'
+T69	PNP 240 244	they
+#65	AnnotatorNotes T69	lemma = 'they'
+T70	VVB 245 250	think
+#66	AnnotatorNotes T70	lemma = 'think'
+T71	DT0 251 255	that
+#67	AnnotatorNotes T71	lemma = 'that'
+T72	NN1 256 259	way
+#68	AnnotatorNotes T72	lemma = 'way'
+T73	PUN 259 260	,
+#69	AnnotatorNotes T73	lemma = ','
+T74	PNP 261 262	I
+#70	AnnotatorNotes T74	lemma = 'i'
+T75	AV0 263 271	strongly
+#71	AnnotatorNotes T75	lemma = 'strongly'
+T76	VVB 272 280	disagree
+#72	AnnotatorNotes T76	lemma = 'disagree'
+T77	PRP 281 285	with
+#73	AnnotatorNotes T77	lemma = 'with'
+T78	DT0 286 290	that
+#74	AnnotatorNotes T78	lemma = 'that'
+T79	NN1 291 295	idea
+#75	AnnotatorNotes T79	lemma = 'idea'
+T80	PRP 296 299	for
+#76	AnnotatorNotes T80	lemma = 'for'
+T81	AT0 300 301	a
+#77	AnnotatorNotes T81	lemma = 'a'
+T82	NN1 302 308	number
+#78	AnnotatorNotes T82	lemma = 'number'
+T83	PRF 309 311	of
+#79	AnnotatorNotes T83	lemma = 'of'
+T84	NN2 312 319	reasons
+#80	AnnotatorNotes T84	lemma = 'reason'
+T85	VVN 320 326	listed
+#81	AnnotatorNotes T85	lemma = 'list|listed'
+T86	AV0 327 332	below
+#82	AnnotatorNotes T86	lemma = 'below'
+T87	SENT 332 333	.
+#83	AnnotatorNotes T87	lemma = '.'
+T88	ORD 335 340	First
+#84	AnnotatorNotes T88	lemma = 'first'
+T89	AVP 341 344	off
+#85	AnnotatorNotes T89	lemma = 'off'
+T90	PUN 344 345	,
+#86	AnnotatorNotes T90	lemma = ','
+T91	PRP 346 348	in
+#87	AnnotatorNotes T91	lemma = 'in'
+T92	NN1 349 354	order
+#88	AnnotatorNotes T92	lemma = 'order'
+T93	TO0 355 357	to
+#89	AnnotatorNotes T93	lemma = 'to'
+T94	VVI 358 362	stay
+#90	AnnotatorNotes T94	lemma = 'stay'
+T95	AJ0 363 370	healthy
+#91	AnnotatorNotes T95	lemma = 'healthy'
+T96	NN0 371 377	people
+#92	AnnotatorNotes T96	lemma = 'people'
+T97	VVB 378 382	need
+#93	AnnotatorNotes T97	lemma = 'need'
+T98	NN2 383 391	vitamins
+#94	AnnotatorNotes T98	lemma = 'vitamin'
+T99	CJC 392 395	and
+#95	AnnotatorNotes T99	lemma = 'and'
+T100	AJ0 396 401	other
+#96	AnnotatorNotes T100	lemma = 'other'
+T101	NN1 402 411	nutrition
+#97	AnnotatorNotes T101	lemma = 'nutrition'
+T102	NN2 412 420	elements
+#98	AnnotatorNotes T102	lemma = 'element'
+T103	SENT 420 421	.
+#99	AnnotatorNotes T103	lemma = '.'
+T104	DT0 422 427	Those
+#100	AnnotatorNotes T104	lemma = 'those'
+T105	NN2 428 436	elements
+#101	AnnotatorNotes T105	lemma = 'element'
+T106	VM0 437 440	can
+#102	AnnotatorNotes T106	lemma = 'can'
+T107	VBI 441 443	be
+#103	AnnotatorNotes T107	lemma = 'be'
+T108	VVN 444 449	found
+#104	AnnotatorNotes T108	lemma = 'find'
+T109	PRP 450 452	in
+#105	AnnotatorNotes T109	lemma = 'in'
+T110	AJ0 453 462	different
+#106	AnnotatorNotes T110	lemma = 'different'
+T111	NN2 463 468	kinds
+#107	AnnotatorNotes T111	lemma = 'kind'
+T112	PRF 469 471	of
+#108	AnnotatorNotes T112	lemma = 'of'
+T113	NN1 472 476	food
+#109	AnnotatorNotes T113	lemma = 'food'
+T114	PRP 477 481	from
+#110	AnnotatorNotes T114	lemma = 'from'
+T115	DT0 482 485	all
+#111	AnnotatorNotes T115	lemma = 'all'
+T116	PRP 486 490	over
+#112	AnnotatorNotes T116	lemma = 'over'
+T117	AT0 491 494	the
+#113	AnnotatorNotes T117	lemma = 'the'
+T118	NN1 495 500	world
+#114	AnnotatorNotes T118	lemma = 'world'
+T119	SENT 500 501	.
+#115	AnnotatorNotes T119	lemma = '.'
+T120	AV0 502 511	Obviously
+#116	AnnotatorNotes T120	lemma = 'obviously'
+T121	PUN 511 512	,
+#117	AnnotatorNotes T121	lemma = ','
+T122	AT0 513 515	no
+#118	AnnotatorNotes T122	lemma = 'no'
+T123	NN1 516 523	country
+#119	AnnotatorNotes T123	lemma = 'country'
+T124	PRP 524 526	in
+#120	AnnotatorNotes T124	lemma = 'in'
+T125	AT0 527 530	the
+#121	AnnotatorNotes T125	lemma = 'the'
+T126	NN1 531 536	world
+#122	AnnotatorNotes T126	lemma = 'world'
+T127	VM0 537 540	can
+#123	AnnotatorNotes T127	lemma = 'can'
+T128	VVI 541 548	produce
+#124	AnnotatorNotes T128	lemma = 'produce'
+T129	DT0 549 552	all
+#125	AnnotatorNotes T129	lemma = 'all'
+T130	PRF 553 555	of
+#126	AnnotatorNotes T130	lemma = 'of'
+T131	AT0 556 559	the
+#127	AnnotatorNotes T131	lemma = 'the'
+T132	NN1 560 565	world
+#128	AnnotatorNotes T132	lemma = 'world'
+T133	POS 565 567	's
+#129	AnnotatorNotes T133	lemma = 's'
+T134	NN1 568 575	variety
+#130	AnnotatorNotes T134	lemma = 'variety'
+T135	PRF 576 578	of
+#131	AnnotatorNotes T135	lemma = 'of'
+T136	NN1 579 583	food
+#132	AnnotatorNotes T136	lemma = 'food'
+T137	PRP 584 590	within
+#133	AnnotatorNotes T137	lemma = 'within'
+T138	DPS 591 594	its
+#134	AnnotatorNotes T138	lemma = 'it'
+T139	NN2 595 602	borders
+#135	AnnotatorNotes T139	lemma = 'border'
+T140	PUN 602 603	,
+#136	AnnotatorNotes T140	lemma = ','
+T141	AV0 604 606	so
+#137	AnnotatorNotes T141	lemma = 'so'
+T142	TO0 607 609	to
+#138	AnnotatorNotes T142	lemma = 'to'
+T143	VVI 610 620	compensate
+#139	AnnotatorNotes T143	lemma = 'compensate'
+T144	PRP 621 624	for
+#140	AnnotatorNotes T144	lemma = 'for'
+T145	DT0 625 629	that
+#141	AnnotatorNotes T145	lemma = 'that'
+T146	VVD 630 634	said
+#142	AnnotatorNotes T146	lemma = 'say|said'
+T147	NN1 635 642	country
+#143	AnnotatorNotes T147	lemma = 'country'
+T148	VVB 643 647	need
+#144	AnnotatorNotes T148	lemma = 'need'
+T149	TO0 648 650	to
+#145	AnnotatorNotes T149	lemma = 'to'
+T150	VVI 651 655	rely
+#146	AnnotatorNotes T150	lemma = 'rely'
+T151	PRP 656 658	on
+#147	AnnotatorNotes T151	lemma = 'on'
+T152	NN1 659 665	import
+#148	AnnotatorNotes T152	lemma = 'import'
+T153	SENT 665 666	.
+#149	AnnotatorNotes T153	lemma = '.'
+T154	DT0 667 671	That
+#150	AnnotatorNotes T154	lemma = 'that'
+T155	AV0 672 677	alone
+#151	AnnotatorNotes T155	lemma = 'alone'
+T156	VBZ 678 680	is
+#152	AnnotatorNotes T156	lemma = 'be'
+T157	AT0 681 682	a
+#153	AnnotatorNotes T157	lemma = 'a'
+T158	NN1 683 689	reason
+#154	AnnotatorNotes T158	lemma = 'reason'
+T159	PRP 690 693	for
+#155	AnnotatorNotes T159	lemma = 'for'
+T160	VVG 694 703	importing
+#156	AnnotatorNotes T160	lemma = 'import|importing'
+T161	NN1 704 708	food
+#157	AnnotatorNotes T161	lemma = 'food'
+T162	PUN 708 709	,
+#158	AnnotatorNotes T162	lemma = ','
+T163	CJC 710 713	but
+#159	AnnotatorNotes T163	lemma = 'but'
+T164	TO0 714 716	to
+#160	AnnotatorNotes T164	lemma = 'to'
+T165	VVI 717 723	expand
+#161	AnnotatorNotes T165	lemma = 'expand'
+T166	PRP 724 726	on
+#162	AnnotatorNotes T166	lemma = 'on'
+T167	DPS 727 729	my
+#163	AnnotatorNotes T167	lemma = 'i'
+T168	NN1 730 735	point
+#164	AnnotatorNotes T168	lemma = 'point'
+T169	PNP 736 737	I
+#165	AnnotatorNotes T169	lemma = 'i'
+T170	VVB 738 743	think
+#166	AnnotatorNotes T170	lemma = 'think'
+T171	PNP 744 746	it
+#167	AnnotatorNotes T171	lemma = 'it'
+T172	VM0 747 753	should
+#168	AnnotatorNotes T172	lemma = 'should'
+T173	VBI 754 756	be
+#169	AnnotatorNotes T173	lemma = 'be'
+T174	VVN 757 762	noted
+#170	AnnotatorNotes T174	lemma = 'note|noted'
+T175	CJT 763 767	that
+#171	AnnotatorNotes T175	lemma = 'that'
+T176	AT0 768 771	the
+#172	AnnotatorNotes T176	lemma = 'the'
+T177	AJC 772 777	wider
+#173	AnnotatorNotes T177	lemma = 'wide'
+T178	NN1 778 784	choice
+#174	AnnotatorNotes T178	lemma = 'choice'
+T179	NN0 785 791	people
+#175	AnnotatorNotes T179	lemma = 'people'
+T180	VHB 792 796	have
+#176	AnnotatorNotes T180	lemma = 'have'
+T181	PUN 796 797	,
+#177	AnnotatorNotes T181	lemma = ','
+T182	AT0 798 801	the
+#178	AnnotatorNotes T182	lemma = 'the'
+T183	AJC 802 808	better
+#179	AnnotatorNotes T183	lemma = 'good'
+T184	PNP 809 811	it
+#180	AnnotatorNotes T184	lemma = 'it'
+T185	VBZ 812 814	is
+#181	AnnotatorNotes T185	lemma = 'be'
+T186	PRP 815 818	for
+#182	AnnotatorNotes T186	lemma = 'for'
+T187	AT0 819 822	the
+#183	AnnotatorNotes T187	lemma = 'the'
+T188	NN1 823 830	country
+#184	AnnotatorNotes T188	lemma = 'country'
+T189	POS 830 832	's
+#185	AnnotatorNotes T189	lemma = 's'
+T190	NN1 833 840	economy
+#186	AnnotatorNotes T190	lemma = 'economy'
+T191	SENT 840 841	.
+#187	AnnotatorNotes T191	lemma = '.'
+T192	AV0 843 851	Secondly
+#188	AnnotatorNotes T192	lemma = 'secondly'
+T193	PUN 851 852	,
+#189	AnnotatorNotes T193	lemma = ','
+T194	VVG 853 862	importing
+#190	AnnotatorNotes T194	lemma = 'import|importing'
+T195	NN1 863 867	food
+#191	AnnotatorNotes T195	lemma = 'food'
+T196	VM0 868 871	can
+#192	AnnotatorNotes T196	lemma = 'can'
+T197	VBI 872 874	be
+#193	AnnotatorNotes T197	lemma = 'be'
+T198	AJ0 875 885	beneficial
+#194	AnnotatorNotes T198	lemma = 'beneficial'
+T199	PRP 886 889	for
+#195	AnnotatorNotes T199	lemma = 'for'
+T200	NN1 890 897	country
+#196	AnnotatorNotes T200	lemma = 'country'
+T201	POS 897 899	's
+#197	AnnotatorNotes T201	lemma = 's'
+T202	NN1 900 907	economy
+#198	AnnotatorNotes T202	lemma = 'economy'
+T203	PRP 908 910	in
+#199	AnnotatorNotes T203	lemma = 'in'
+T204	AT0 911 914	the
+#200	AnnotatorNotes T204	lemma = 'the'
+T205	NN2 915 919	ways
+#201	AnnotatorNotes T205	lemma = 'way'
+T206	CJT 920 924	that
+#202	AnnotatorNotes T206	lemma = 'that'
+T207	VM0 925 930	might
+#203	AnnotatorNotes T207	lemma = 'might'
+T208	XX0 931 934	not
+#204	AnnotatorNotes T208	lemma = 'not'
+T209	VBI 935 937	be
+#205	AnnotatorNotes T209	lemma = 'be'
+T210	AJ0 938 945	obvious
+#206	AnnotatorNotes T210	lemma = 'obvious'
+T211	PRP 946 949	For
+#207	AnnotatorNotes T211	lemma = 'for'
+T212	NN1 950 957	example
+#208	AnnotatorNotes T212	lemma = 'example'
+T213	PUN 957 958	,
+#209	AnnotatorNotes T213	lemma = ','
+T214	CJS 959 961	if
+#210	AnnotatorNotes T214	lemma = 'if'
+T215	AT0 962 963	a
+#211	AnnotatorNotes T215	lemma = 'a'
+T216	NN1 964 971	country
+#212	AnnotatorNotes T216	lemma = 'country'
+T217	VBZ 972 974	is
+#213	AnnotatorNotes T217	lemma = 'be'
+T218	VVG 975 984	producing
+#214	AnnotatorNotes T218	lemma = 'produce|producing'
+T219	AV0 985 988	too
+#215	AnnotatorNotes T219	lemma = 'too'
+T220	DT0 989 993	much
+#216	AnnotatorNotes T220	lemma = 'much'
+T221	PRF 994 996	of
+#217	AnnotatorNotes T221	lemma = 'of'
+T222	AT0 997 998	a
+#218	AnnotatorNotes T222	lemma = 'a'
+T223	AJ0 999 1006	certain
+#219	AnnotatorNotes T223	lemma = 'certain'
+T224	NN1 1007 1014	article
+#220	AnnotatorNotes T224	lemma = 'article'
+T225	PRF 1015 1017	of
+#221	AnnotatorNotes T225	lemma = 'of'
+T226	NN1 1018 1022	food
+#222	AnnotatorNotes T226	lemma = 'food'
+T227	PUN 1022 1023	,
+#223	AnnotatorNotes T227	lemma = ','
+T228	PNP 1024 1026	it
+#224	AnnotatorNotes T228	lemma = 'it'
+T229	VM0 1027 1030	can
+#225	AnnotatorNotes T229	lemma = 'can'
+T230	VVI 1031 1037	export
+#226	AnnotatorNotes T230	lemma = 'export'
+T231	AT0 1038 1041	the
+#227	AnnotatorNotes T231	lemma = 'the'
+T232	AJ0 1042 1050	overhead
+#228	AnnotatorNotes T232	lemma = 'overhead'
+T233	CJC 1051 1054	and
+#229	AnnotatorNotes T233	lemma = 'and'
+T234	CJS 1055 1057	as
+#230	AnnotatorNotes T234	lemma = 'as'
+T235	DT0 1058 1062	such
+#231	AnnotatorNotes T235	lemma = 'such'
+T236	VVB 1063 1073	compensate
+#232	AnnotatorNotes T236	lemma = 'compensate'
+T237	PRP 1074 1077	for
+#233	AnnotatorNotes T237	lemma = 'for'
+T238	AT0 1078 1081	the
+#234	AnnotatorNotes T238	lemma = 'the'
+T239	AJ0 1082 1090	possible
+#235	AnnotatorNotes T239	lemma = 'possible'
+T240	AJ0 1091 1101	economical
+#236	AnnotatorNotes T240	lemma = 'economical'
+T241	NN1 1102 1108	damage
+#237	AnnotatorNotes T241	lemma = 'damage'
+T242	PRF 1109 1111	of
+#238	AnnotatorNotes T242	lemma = 'of'
+T243	VVG 1112 1121	importing
+#239	AnnotatorNotes T243	lemma = 'import|importing'
+T244	AJ0 1122 1127	other
+#240	AnnotatorNotes T244	lemma = 'other'
+T245	NN2 1128 1133	kinds
+#241	AnnotatorNotes T245	lemma = 'kind'
+T246	NN1 1134 1138	food
+#242	AnnotatorNotes T246	lemma = 'food'
+T247	VVN 1139 1147	required
+#243	AnnotatorNotes T247	lemma = 'require|required'
+T248	PRP 1148 1151	for
+#244	AnnotatorNotes T248	lemma = 'for'
+T249	AT0 1152 1155	the
+#245	AnnotatorNotes T249	lemma = 'the'
+T250	AJ0 1156 1163	healthy
+#246	AnnotatorNotes T250	lemma = 'healthy'
+T251	NN1 1164 1168	diet
+#247	AnnotatorNotes T251	lemma = 'diet'
+T252	PRF 1169 1171	of
+#248	AnnotatorNotes T252	lemma = 'of'
+T253	AT0 1172 1174	an
+#249	AnnotatorNotes T253	lemma = 'an'
+T254	AJ0 1175 1182	average
+#250	AnnotatorNotes T254	lemma = 'average'
+T255	NN1 1183 1190	citizen
+#251	AnnotatorNotes T255	lemma = 'citizen'
+T256	PUN 1190 1191	,
+#252	AnnotatorNotes T256	lemma = ','
+T257	CJS 1192 1199	whereas
+#253	AnnotatorNotes T257	lemma = 'whereas'
+T258	CJS 1200 1202	if
+#254	AnnotatorNotes T258	lemma = 'if'
+T259	XX0 1203 1206	not
+#255	AnnotatorNotes T259	lemma = 'not'
+T260	PRP 1207 1210	for
+#256	AnnotatorNotes T260	lemma = 'for'
+T261	VVG 1211 1220	importing
+#257	AnnotatorNotes T261	lemma = 'import|importing'
+T262	NN1 1221 1225	food
+#258	AnnotatorNotes T262	lemma = 'food'
+T263	AT0 1226 1229	the
+#259	AnnotatorNotes T263	lemma = 'the'
+T264	NN1 1230 1237	economy
+#260	AnnotatorNotes T264	lemma = 'economy'
+T265	VM0 1238 1243	would
+#261	AnnotatorNotes T265	lemma = 'would'
+T266	VVI 1244 1252	stagnate
+#262	AnnotatorNotes T266	lemma = 'stagnate'
+T267	AV0 1253 1259	pretty
+#263	AnnotatorNotes T267	lemma = 'pretty'
+T268	AJ0 1260 1265	quick
+#264	AnnotatorNotes T268	lemma = 'quick'
+T269	SENT 1265 1266	.
+#265	AnnotatorNotes T269	lemma = '.'
+T270	TO0 1268 1270	To
+#266	AnnotatorNotes T270	lemma = 'to'
+T271	VVI 1271 1274	sum
+#267	AnnotatorNotes T271	lemma = 'sum'
+T272	AVP 1275 1277	up
+#268	AnnotatorNotes T272	lemma = 'up'
+T273	PUN 1277 1278	,
+#269	AnnotatorNotes T273	lemma = ','
+T274	PNP 1279 1280	I
+#270	AnnotatorNotes T274	lemma = 'i'
+T275	VVB 1281 1286	think
+#271	AnnotatorNotes T275	lemma = 'think'
+T276	VVG 1287 1296	importing
+#272	AnnotatorNotes T276	lemma = 'import|importing'
+T277	VBZ 1297 1299	is
+#273	AnnotatorNotes T277	lemma = 'be'
+T278	XX0 1300 1303	not
+#274	AnnotatorNotes T278	lemma = 'not'
+T279	AV0 1304 1315	necessarily
+#275	AnnotatorNotes T279	lemma = 'necessarily'
+T280	AT0 1316 1317	a
+#276	AnnotatorNotes T280	lemma = 'a'
+T281	AJ0 1318 1321	bad
+#277	AnnotatorNotes T281	lemma = 'bad'
+T282	NN1 1322 1327	thing
+#278	AnnotatorNotes T282	lemma = 'thing'
+T283	PUN 1327 1328	,
+#279	AnnotatorNotes T283	lemma = ','
+T284	CJS 1329 1336	because
+#280	AnnotatorNotes T284	lemma = 'because'
+T285	NN1 1337 1346	diversity
+#281	AnnotatorNotes T285	lemma = 'diversity'
+T286	PRP 1347 1349	in
+#282	AnnotatorNotes T286	lemma = 'in'
+T287	NN1 1350 1354	food
+#283	AnnotatorNotes T287	lemma = 'food'
+T288	VBZ 1355 1357	is
+#284	AnnotatorNotes T288	lemma = 'be'
+T289	AJ0 1358 1368	beneficial
+#285	AnnotatorNotes T289	lemma = 'beneficial'
+T290	PRP 1369 1372	for
+#286	AnnotatorNotes T290	lemma = 'for'
+T291	AT0 1373 1376	the
+#287	AnnotatorNotes T291	lemma = 'the'
+T292	NN1 1377 1387	population
+#288	AnnotatorNotes T292	lemma = 'population'
+T293	POS 1387 1389	's
+#289	AnnotatorNotes T293	lemma = 's'
+T294	NN1 1390 1396	health
+#290	AnnotatorNotes T294	lemma = 'health'
+T295	CJC 1397 1400	and
+#291	AnnotatorNotes T295	lemma = 'and'
+T296	AV0 1401 1405	also
+#292	AnnotatorNotes T296	lemma = 'also'
+T297	VVG 1406 1415	importing
+#293	AnnotatorNotes T297	lemma = 'import|importing'
+T298	VVZ 1416 1422	allows
+#294	AnnotatorNotes T298	lemma = 'allow'
+T299	PRP 1423 1426	for
+#295	AnnotatorNotes T299	lemma = 'for'
+T300	VVG 1427 1436	exporting
+#296	AnnotatorNotes T300	lemma = 'export|exporting'
+T301	NN2 1437 1446	overheads
+#297	AnnotatorNotes T301	lemma = 'overhead'
+T302	CJC 1447 1450	and
+#298	AnnotatorNotes T302	lemma = 'and'
+T303	XX0 1451 1454	not
+#299	AnnotatorNotes T303	lemma = 'not'
+T304	AJ0 1455 1463	worrying
+#300	AnnotatorNotes T304	lemma = 'worrying|worry'
+T305	PRP 1464 1469	about
+#301	AnnotatorNotes T305	lemma = 'about'
+T306	VVG 1470 1478	starving
+#302	AnnotatorNotes T306	lemma = 'starve|starving'
+T307	AT0 1479 1482	the
+#303	AnnotatorNotes T307	lemma = 'the'
+T308	NN1 1483 1493	population
+#304	AnnotatorNotes T308	lemma = 'population'
+T309	SENT 1493 1494	.
+#305	AnnotatorNotes T309	lemma = ''

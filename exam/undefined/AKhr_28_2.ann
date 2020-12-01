@@ -1,0 +1,892 @@
+T1	Absence_comp_sent 64 74	the oldest
+A1	Cause T1 L1_interference
+A2	Weight-language T1 Critical
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	the oldest ones
+T2	Redundant_comp 319 341	in the cultural sphere
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Minor
+#2	AnnotatorNotes T2	here
+T3	Spelling 515 517	or
+A7	Cause T3 Typo
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Minor
+#3	AnnotatorNotes T3	on
+T4	Articles 486 514	the great negative influence
+A10	Cause T4 Absence_of_Category_in_L1
+A11	Weight-language T4 Minor
+A12	Weight-understanding T4 Minor
+#4	AnnotatorNotes T4	a great negative influence
+T5	Articles 584 615	the major negative consequences
+A13	Cause T5 Absence_of_Category_in_L1
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Minor
+#5	AnnotatorNotes T5	major negative consequences
+T6	Redundant_comp 713 719	closed
+A16	Cause T6 Typo
+A17	Weight-language T6 Critical
+A18	Weight-understanding T6 Minor
+A19	Delete T6
+T7	Articles 720 727	country
+A20	Cause T7 Absence_of_Category_in_L1
+A21	Weight-language T7 Major
+A22	Weight-understanding T7 Minor
+#6	AnnotatorNotes T7	the country
+T8	Spelling 732 739	breaked
+A23	Cause T8 Other
+A24	Weight-language T8 Critical
+A25	Weight-understanding T8 Minor
+#7	AnnotatorNotes T8	broke
+T9	Spelling 913 920	centure
+A26	Cause T9 Typo
+A27	Weight-language T9 Critical
+A28	Weight-understanding T9 Minor
+#8	AnnotatorNotes T9	century
+T10	Articles 891 900	a culture
+A29	Cause T10 Absence_of_Category_in_L1
+A30	Weight-language T10 Major
+A31	Weight-understanding T10 Minor
+#9	AnnotatorNotes T10	the culture
+T11	Tense_choice 1289 1295	became
+A32	Cause T11 Other
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Major
+#10	AnnotatorNotes T11	becomes
+T12	Tense_choice 1327 1333	became
+A35	Cause T12 Other
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Major
+#11	AnnotatorNotes T12	becomes
+T13	Punctuation 1368 1369	,
+A38	Cause T13 Typo
+A39	Weight-language T13 Critical
+A40	Weight-understanding T13 Minor
+A41	Delete T13
+T14	Adjectives 1478 1486	bloodest
+A42	Cause T14 Other
+A43	Weight-language T14 Major
+A44	Weight-understanding T14 Major
+#12	AnnotatorNotes T14	bloody
+T15	Articles 1798 1804	a fate
+A45	Cause T15 Absence_of_Category_in_L1
+A46	Weight-language T15 Major
+A47	Weight-understanding T15 Minor
+#13	AnnotatorNotes T15	the fate
+T16	Articles 2176 2191	positive effect
+A48	Cause T16 Absence_of_Category_in_L1
+A49	Weight-language T16 Minor
+A50	Weight-understanding T16 Minor
+#14	AnnotatorNotes T16	a positive effect
+T17	Articles 2211 2218	context
+A51	Cause T17 Absence_of_Category_in_L1
+A52	Weight-language T17 Major
+A53	Weight-understanding T17 Minor
+#15	AnnotatorNotes T17	the context
+T18	Articles 2223 2232	situation
+A54	Cause T18 Absence_of_Category_in_L1
+A55	Weight-language T18 Major
+A56	Weight-understanding T18 Minor
+#16	AnnotatorNotes T18	the situation
+T19	DET 0 3	The
+#17	AnnotatorNotes T19	lemma = 'the'
+T20	NOUN 4 14	discussion
+#18	AnnotatorNotes T20	lemma = 'discussion'
+T21	ADP 15 20	about
+#19	AnnotatorNotes T21	lemma = 'about'
+T22	DET 21 24	the
+#20	AnnotatorNotes T22	lemma = 'the'
+T23	NOUN 25 31	degree
+#21	AnnotatorNotes T23	lemma = 'degree'
+T24	ADP 32 34	of
+#22	AnnotatorNotes T24	lemma = 'of'
+T25	NOUN 35 42	freedom
+#23	AnnotatorNotes T25	lemma = 'freedom'
+T26	ADP 43 45	in
+#24	AnnotatorNotes T26	lemma = 'in'
+T27	NOUN 46 53	culture
+#25	AnnotatorNotes T27	lemma = 'culture'
+T28	AUX 54 56	is
+#26	AnnotatorNotes T28	lemma = 'be'
+T29	NUM 57 60	one
+#27	AnnotatorNotes T29	lemma = 'one'
+T30	ADP 61 63	of
+#28	AnnotatorNotes T30	lemma = 'of'
+T31	DET 64 67	the
+#29	AnnotatorNotes T31	lemma = 'the'
+T32	NOUN 68 74	oldest
+#30	AnnotatorNotes T32	lemma = 'oldest'
+T33	ADP 75 80	among
+#31	AnnotatorNotes T33	lemma = 'among'
+T34	ADJ 81 90	important
+#32	AnnotatorNotes T34	lemma = 'important'
+T35	ADJ 91 97	social
+#33	AnnotatorNotes T35	lemma = 'social'
+T36	NOUN 98 104	issues
+#34	AnnotatorNotes T36	lemma = 'issue'
+T37	PUNCT 104 105	.
+#35	AnnotatorNotes T37	lemma = '.'
+T38	DET 106 110	Some
+#36	AnnotatorNotes T38	lemma = 'some'
+T39	NOUN 111 117	people
+#37	AnnotatorNotes T39	lemma = 'people'
+T40	VERB 118 123	think
+#38	AnnotatorNotes T40	lemma = 'think'
+T41	SCONJ 124 128	that
+#39	AnnotatorNotes T41	lemma = 'that'
+T42	DET 129 133	this
+#40	AnnotatorNotes T42	lemma = 'this'
+T43	NOUN 134 141	freedom
+#41	AnnotatorNotes T43	lemma = 'freedom'
+T44	AUX 142 148	should
+#42	AnnotatorNotes T44	lemma = 'shall'
+T45	AUX 149 151	be
+#43	AnnotatorNotes T45	lemma = 'be'
+T46	ADJ 152 160	absolute
+#44	AnnotatorNotes T46	lemma = 'absolute'
+T47	PUNCT 160 161	,
+#45	AnnotatorNotes T47	lemma = ','
+T48	CCONJ 162 165	and
+#46	AnnotatorNotes T48	lemma = 'and'
+T49	ADV 166 171	there
+#47	AnnotatorNotes T49	lemma = 'there'
+T50	AUX 172 178	should
+#48	AnnotatorNotes T50	lemma = 'shall'
+T51	VERB 179 181	be
+#49	AnnotatorNotes T51	lemma = 'be'
+T52	DET 182 184	no
+#50	AnnotatorNotes T52	lemma = 'no'
+T53	NOUN 185 189	bans
+#51	AnnotatorNotes T53	lemma = 'ban'
+T54	CCONJ 190 192	or
+#52	AnnotatorNotes T54	lemma = 'or'
+T55	NOUN 193 205	restrictions
+#53	AnnotatorNotes T55	lemma = 'restriction'
+T56	ADP 206 208	in
+#54	AnnotatorNotes T56	lemma = 'in'
+T57	ADJ 209 217	creative
+#55	AnnotatorNotes T57	lemma = 'creative'
+T58	NOUN 218 224	sphere
+#56	AnnotatorNotes T58	lemma = 'sphere'
+T59	PUNCT 224 225	.
+#57	AnnotatorNotes T59	lemma = '.'
+T60	ADV 226 233	However
+#58	AnnotatorNotes T60	lemma = 'however'
+T61	PUNCT 233 234	,
+#59	AnnotatorNotes T61	lemma = ','
+T62	ADJ 235 240	other
+#60	AnnotatorNotes T62	lemma = 'other'
+T63	NOUN 241 247	people
+#61	AnnotatorNotes T63	lemma = 'people'
+T64	VERB 248 255	suppose
+#62	AnnotatorNotes T64	lemma = 'suppose'
+T65	SCONJ 256 260	that
+#63	AnnotatorNotes T65	lemma = 'that'
+T66	DET 261 267	clever
+#64	AnnotatorNotes T66	lemma = 'clever'
+T67	NOUN 268 280	restrictions
+#65	AnnotatorNotes T67	lemma = 'restriction'
+T68	CCONJ 281 284	and
+#66	AnnotatorNotes T68	lemma = 'and'
+T69	NOUN 285 289	ways
+#67	AnnotatorNotes T69	lemma = 'way'
+T70	ADP 290 292	of
+#68	AnnotatorNotes T70	lemma = 'of'
+T71	NOUN 293 304	interaction
+#69	AnnotatorNotes T71	lemma = 'interaction'
+T72	AUX 305 308	are
+#70	AnnotatorNotes T72	lemma = 'be'
+T73	ADJ 309 318	necessary
+#71	AnnotatorNotes T73	lemma = 'necessary'
+T74	ADP 319 321	in
+#72	AnnotatorNotes T74	lemma = 'in'
+T75	DET 322 325	the
+#73	AnnotatorNotes T75	lemma = 'the'
+T76	ADJ 326 334	cultural
+#74	AnnotatorNotes T76	lemma = 'cultural'
+T77	NOUN 335 341	sphere
+#75	AnnotatorNotes T77	lemma = 'sphere'
+T78	ADV 342 345	too
+#76	AnnotatorNotes T78	lemma = 'too'
+T79	PUNCT 345 346	.
+#77	AnnotatorNotes T79	lemma = '.'
+T80	ADP 347 349	As
+#78	AnnotatorNotes T80	lemma = 'as'
+T81	ADP 350 353	for
+#79	AnnotatorNotes T81	lemma = 'for'
+T82	NOUN 354 356	me
+#80	AnnotatorNotes T82	lemma = 'i'
+T83	PUNCT 356 357	,
+#81	AnnotatorNotes T83	lemma = ','
+T84	PRON 358 359	I
+#82	AnnotatorNotes T84	lemma = 'I'
+T85	VERB 360 365	agree
+#83	AnnotatorNotes T85	lemma = 'agree'
+T86	ADP 366 370	with
+#84	AnnotatorNotes T86	lemma = 'with'
+T87	DET 371 374	the
+#85	AnnotatorNotes T87	lemma = 'the'
+T88	ADJ 375 380	first
+#86	AnnotatorNotes T88	lemma = 'first'
+T89	NOUN 381 389	position
+#87	AnnotatorNotes T89	lemma = 'position'
+T90	PUNCT 389 390	.
+#88	AnnotatorNotes T90	lemma = '.'
+T91	NOUN 391 395	Bans
+#89	AnnotatorNotes T91	lemma = 'Ban'
+T92	CCONJ 396 399	and
+#90	AnnotatorNotes T92	lemma = 'and'
+T93	NOUN 400 411	limitations
+#91	AnnotatorNotes T93	lemma = 'limitation'
+T94	ADP 412 415	for
+#92	AnnotatorNotes T94	lemma = 'for'
+T95	ADJ 416 424	creative
+#93	AnnotatorNotes T95	lemma = 'creative'
+T96	NOUN 425 432	artists
+#94	AnnotatorNotes T96	lemma = 'artist'
+T97	AUX 433 436	are
+#95	AnnotatorNotes T97	lemma = 'be'
+T98	PART 437 440	not
+#96	AnnotatorNotes T98	lemma = 'not'
+T99	ADJ 441 450	necessary
+#97	AnnotatorNotes T99	lemma = 'necessary'
+T100	PUNCT 450 451	.
+#98	AnnotatorNotes T100	lemma = '.'
+T101	ADV 452 460	Moreover
+#99	AnnotatorNotes T101	lemma = 'moreover'
+T102	PUNCT 460 461	,
+#100	AnnotatorNotes T102	lemma = ','
+T103	DET 462 467	these
+#101	AnnotatorNotes T103	lemma = 'this'
+T104	NOUN 468 480	restrictions
+#102	AnnotatorNotes T104	lemma = 'restriction'
+T105	VERB 481 485	have
+#103	AnnotatorNotes T105	lemma = 'have'
+T106	DET 486 489	the
+#104	AnnotatorNotes T106	lemma = 'the'
+T107	ADJ 490 495	great
+#105	AnnotatorNotes T107	lemma = 'great'
+T108	ADJ 496 504	negative
+#106	AnnotatorNotes T108	lemma = 'negative'
+T109	NOUN 505 514	influence
+#107	AnnotatorNotes T109	lemma = 'influence'
+T110	CCONJ 515 517	or
+#108	AnnotatorNotes T110	lemma = 'or'
+T111	DET 518 521	the
+#109	AnnotatorNotes T111	lemma = 'the'
+T112	NOUN 522 529	country
+#110	AnnotatorNotes T112	lemma = 'country'
+T113	PART 529 531	's
+#111	AnnotatorNotes T113	lemma = ''s'
+T114	NOUN 532 543	development
+#112	AnnotatorNotes T114	lemma = 'development'
+T115	CCONJ 544 547	and
+#113	AnnotatorNotes T115	lemma = 'and'
+T116	PRON 548 551	our
+#114	AnnotatorNotes T116	lemma = 'us'
+T117	ADV 552 556	well
+#115	AnnotatorNotes T117	lemma = 'well'
+T118	VERB 556 562	-being
+#116	AnnotatorNotes T118	lemma = '-be'
+T119	PUNCT 562 563	.
+#117	AnnotatorNotes T119	lemma = '.'
+T120	ADV 564 571	Firstly
+#118	AnnotatorNotes T120	lemma = 'firstly'
+T121	PUNCT 571 572	,
+#119	AnnotatorNotes T121	lemma = ','
+T122	PRON 573 575	we
+#120	AnnotatorNotes T122	lemma = 'we'
+T123	AUX 576 579	can
+#121	AnnotatorNotes T123	lemma = 'can'
+T124	VERB 580 583	see
+#122	AnnotatorNotes T124	lemma = 'see'
+T125	DET 584 587	the
+#123	AnnotatorNotes T125	lemma = 'the'
+T126	ADJ 588 593	major
+#124	AnnotatorNotes T126	lemma = 'major'
+T127	ADJ 594 602	negative
+#125	AnnotatorNotes T127	lemma = 'negative'
+T128	NOUN 603 615	consequences
+#126	AnnotatorNotes T128	lemma = 'consequence'
+T129	ADP 616 618	of
+#127	AnnotatorNotes T129	lemma = 'of'
+T130	DET 619 623	such
+#128	AnnotatorNotes T130	lemma = 'such'
+T131	NOUN 624 630	policy
+#129	AnnotatorNotes T131	lemma = 'policy'
+T132	ADP 631 633	in
+#130	AnnotatorNotes T132	lemma = 'in'
+T133	NOUN 634 641	history
+#131	AnnotatorNotes T133	lemma = 'history'
+T134	CCONJ 642 645	and
+#132	AnnotatorNotes T134	lemma = 'and'
+T135	ADJ 646 652	modern
+#133	AnnotatorNotes T135	lemma = 'modern'
+T136	NOUN 653 657	life
+#134	AnnotatorNotes T136	lemma = 'life'
+T137	PUNCT 657 658	.
+#135	AnnotatorNotes T137	lemma = '.'
+T138	ADP 659 662	For
+#136	AnnotatorNotes T138	lemma = 'for'
+T139	NOUN 663 671	instance
+#137	AnnotatorNotes T139	lemma = 'instance'
+T140	PUNCT 671 672	,
+#138	AnnotatorNotes T140	lemma = ','
+T141	NOUN 673 685	restrictions
+#139	AnnotatorNotes T141	lemma = 'restriction'
+T142	ADP 686 688	in
+#140	AnnotatorNotes T142	lemma = 'in'
+T143	DET 689 692	the
+#141	AnnotatorNotes T143	lemma = 'the'
+T144	PROPN 693 699	Soviet
+#142	AnnotatorNotes T144	lemma = 'Soviet'
+T145	PROPN 700 705	Union
+#143	AnnotatorNotes T145	lemma = 'Union'
+T146	VERB 706 712	closed
+#144	AnnotatorNotes T146	lemma = 'close'
+T147	ADJ 713 719	closed
+#145	AnnotatorNotes T147	lemma = 'closed'
+T148	NOUN 720 727	country
+#146	AnnotatorNotes T148	lemma = 'country'
+T149	CCONJ 728 731	and
+#147	AnnotatorNotes T149	lemma = 'and'
+T150	VERB 732 739	breaked
+#148	AnnotatorNotes T150	lemma = 'break'
+T151	ADV 740 751	practically
+#149	AnnotatorNotes T151	lemma = 'practically'
+T152	DET 752 755	all
+#150	AnnotatorNotes T152	lemma = 'all'
+T153	NOUN 756 761	links
+#151	AnnotatorNotes T153	lemma = 'link'
+T154	ADP 762 766	with
+#152	AnnotatorNotes T154	lemma = 'with'
+T155	ADJ 767 772	other
+#153	AnnotatorNotes T155	lemma = 'other'
+T156	NOUN 773 779	states
+#154	AnnotatorNotes T156	lemma = 'state'
+T157	CCONJ 780 783	and
+#155	AnnotatorNotes T157	lemma = 'and'
+T158	NOUN 784 792	cultures
+#156	AnnotatorNotes T158	lemma = 'culture'
+T159	PUNCT 792 793	.
+#157	AnnotatorNotes T159	lemma = '.'
+T160	ADP 794 796	As
+#158	AnnotatorNotes T160	lemma = 'as'
+T161	DET 797 798	a
+#159	AnnotatorNotes T161	lemma = 'a'
+T162	NOUN 799 805	result
+#160	AnnotatorNotes T162	lemma = 'result'
+T163	PUNCT 805 806	,
+#161	AnnotatorNotes T163	lemma = ','
+T164	DET 807 810	the
+#162	AnnotatorNotes T164	lemma = 'the'
+T165	ADJ 811 815	only
+#163	AnnotatorNotes T165	lemma = 'only'
+T166	NOUN 816 824	platform
+#164	AnnotatorNotes T166	lemma = 'platform'
+T167	ADP 825 828	for
+#165	AnnotatorNotes T167	lemma = 'for'
+T168	NOUN 829 840	interaction
+#166	AnnotatorNotes T168	lemma = 'interaction'
+T169	ADP 841 845	with
+#167	AnnotatorNotes T169	lemma = 'with'
+T170	ADJ 846 853	foreign
+#168	AnnotatorNotes T170	lemma = 'foreign'
+T171	NOUN 854 864	colleagues
+#169	AnnotatorNotes T171	lemma = 'colleague'
+T172	ADP 865 867	in
+#170	AnnotatorNotes T172	lemma = 'in'
+T173	ADJ 868 875	Russian
+#171	AnnotatorNotes T173	lemma = 'Russian'
+T174	NOUN 876 883	culture
+#172	AnnotatorNotes T174	lemma = 'culture'
+T175	ADV 884 887	now
+#173	AnnotatorNotes T175	lemma = 'now'
+T176	AUX 888 890	is
+#174	AnnotatorNotes T176	lemma = 'be'
+T177	DET 891 892	a
+#175	AnnotatorNotes T177	lemma = 'a'
+T178	NOUN 893 900	culture
+#176	AnnotatorNotes T178	lemma = 'culture'
+T179	ADP 901 903	of
+#177	AnnotatorNotes T179	lemma = 'of'
+T180	DET 904 907	the
+#178	AnnotatorNotes T180	lemma = 'the'
+T181	NUM 908 910	19
+#179	AnnotatorNotes T181	lemma = '19'
+T182	ADJ 910 912	th
+#180	AnnotatorNotes T182	lemma = 'th'
+T183	NOUN 913 920	centure
+#181	AnnotatorNotes T183	lemma = 'centure'
+T184	CCONJ 921 924	and
+#182	AnnotatorNotes T184	lemma = 'and'
+T185	DET 925 928	the
+#183	AnnotatorNotes T185	lemma = 'the'
+T186	NOUN 929 938	beginning
+#184	AnnotatorNotes T186	lemma = 'beginning'
+T187	ADP 939 941	of
+#185	AnnotatorNotes T187	lemma = 'of'
+T188	DET 942 945	the
+#186	AnnotatorNotes T188	lemma = 'the'
+T189	NUM 946 948	20
+#187	AnnotatorNotes T189	lemma = '20'
+T190	ADJ 948 950	th
+#188	AnnotatorNotes T190	lemma = 'th'
+T191	NOUN 951 958	century
+#189	AnnotatorNotes T191	lemma = 'century'
+T192	PUNCT 959 960	-
+#190	AnnotatorNotes T192	lemma = '-'
+T193	FB 959 960	-		
+#191	AnnotatorNotes T193	lemma = 'PUNCT'
+T194	DET 962 965	the
+#192	AnnotatorNotes T194	lemma = 'the'
+T195	PROPN 966 972	Golden
+#193	AnnotatorNotes T195	lemma = 'golden'
+T196	FB 971 972	n		
+#194	AnnotatorNotes T196	lemma = 'PUNCT'
+T197	CCONJ 974 977	and
+#195	AnnotatorNotes T197	lemma = 'and'
+T198	FB 976 977	d		
+#196	AnnotatorNotes T198	lemma = 'PUNCT'
+T199	DET 979 982	the
+#197	AnnotatorNotes T199	lemma = 'the'
+T200	PROPN 983 989	Silver
+#198	AnnotatorNotes T200	lemma = 'Silver'
+T201	FB 988 989	r		
+#199	AnnotatorNotes T201	lemma = 'PUNCT'
+T202	NOUN 991 1000	centuries
+#200	AnnotatorNotes T202	lemma = 'century'
+T203	PUNCT 1000 1001	.
+#201	AnnotatorNotes T203	lemma = '.'
+T204	ADJ 1002 1008	Soviet
+#202	AnnotatorNotes T204	lemma = 'soviet'
+T205	NOUN 1009 1016	culture
+#203	AnnotatorNotes T205	lemma = 'culture'
+T206	AUX 1017 1019	is
+#204	AnnotatorNotes T206	lemma = 'be'
+T207	VERB 1020 1027	nothing
+#205	AnnotatorNotes T207	lemma = 'nothing'
+T208	PUNCT 1027 1028	,
+#206	AnnotatorNotes T208	lemma = ','
+T209	CCONJ 1029 1032	and
+#207	AnnotatorNotes T209	lemma = 'and'
+T210	DET 1033 1037	this
+#208	AnnotatorNotes T210	lemma = 'this'
+T211	NOUN 1038 1042	fact
+#209	AnnotatorNotes T211	lemma = 'fact'
+T212	VERB 1043 1050	creates
+#210	AnnotatorNotes T212	lemma = 'create'
+T213	NOUN 1051 1063	difficulties
+#211	AnnotatorNotes T213	lemma = 'difficulty'
+T214	ADP 1064 1067	for
+#212	AnnotatorNotes T214	lemma = 'for'
+T215	ADJ 1068 1081	international
+#213	AnnotatorNotes T215	lemma = 'international'
+T216	NOUN 1082 1093	interaction
+#214	AnnotatorNotes T216	lemma = 'interaction'
+T217	PUNCT 1093 1094	.
+#215	AnnotatorNotes T217	lemma = '.'
+T218	ADV 1095 1103	Secondly
+#216	AnnotatorNotes T218	lemma = 'secondly'
+T219	PUNCT 1103 1104	,
+#217	AnnotatorNotes T219	lemma = ','
+T220	DET 1105 1108	the
+#218	AnnotatorNotes T220	lemma = 'the'
+T221	NOUN 1109 1121	restrictions
+#219	AnnotatorNotes T221	lemma = 'restriction'
+T222	CCONJ 1122 1125	and
+#220	AnnotatorNotes T222	lemma = 'and'
+T223	NOUN 1126 1137	limitations
+#221	AnnotatorNotes T223	lemma = 'limitation'
+T224	VERB 1138 1144	create
+#222	AnnotatorNotes T224	lemma = 'create'
+T225	ADJ 1145 1153	economic
+#223	AnnotatorNotes T225	lemma = 'economic'
+T226	NOUN 1154 1170	underdevelopment
+#224	AnnotatorNotes T226	lemma = 'underdevelopment'
+T227	ADP 1171 1173	in
+#225	AnnotatorNotes T227	lemma = 'in'
+T228	DET 1174 1178	some
+#226	AnnotatorNotes T228	lemma = 'some'
+T229	NOUN 1179 1185	extent
+#227	AnnotatorNotes T229	lemma = 'extent'
+T230	PUNCT 1185 1186	.
+#228	AnnotatorNotes T230	lemma = '.'
+T231	DET 1187 1191	Such
+#229	AnnotatorNotes T231	lemma = 'such'
+T232	NOUN 1192 1196	type
+#230	AnnotatorNotes T232	lemma = 'type'
+T233	ADP 1197 1199	of
+#231	AnnotatorNotes T233	lemma = 'of'
+T234	NOUN 1200 1206	policy
+#232	AnnotatorNotes T234	lemma = 'policy'
+T235	NOUN 1207 1213	causes
+#233	AnnotatorNotes T235	lemma = 'cause'
+T236	ADV 1214 1218	very
+#234	AnnotatorNotes T236	lemma = 'very'
+T237	ADJ 1219 1227	negative
+#235	AnnotatorNotes T237	lemma = 'negative'
+T238	NOUN 1228 1235	climate
+#236	AnnotatorNotes T238	lemma = 'climate'
+T239	ADP 1236 1239	for
+#237	AnnotatorNotes T239	lemma = 'for'
+T240	ADJ 1240 1243	new
+#238	AnnotatorNotes T240	lemma = 'new'
+T241	NOUN 1244 1252	business
+#239	AnnotatorNotes T241	lemma = 'business'
+T242	NOUN 1253 1258	ideas
+#240	AnnotatorNotes T242	lemma = 'idea'
+T243	PUNCT 1258 1259	.
+#241	AnnotatorNotes T243	lemma = '.'
+T244	ADP 1260 1262	As
+#242	AnnotatorNotes T244	lemma = 'as'
+T245	DET 1263 1264	a
+#243	AnnotatorNotes T245	lemma = 'a'
+T246	NOUN 1265 1271	result
+#244	AnnotatorNotes T246	lemma = 'result'
+T247	PUNCT 1271 1272	,
+#245	AnnotatorNotes T247	lemma = ','
+T248	ADJ 1273 1281	economic
+#246	AnnotatorNotes T248	lemma = 'economic'
+T249	NOUN 1282 1288	growth
+#247	AnnotatorNotes T249	lemma = 'growth'
+T250	VERB 1289 1295	became
+#248	AnnotatorNotes T250	lemma = 'become'
+T251	ADV 1296 1300	slow
+#249	AnnotatorNotes T251	lemma = 'slow'
+T252	PUNCT 1300 1301	,
+#250	AnnotatorNotes T252	lemma = ','
+T253	CCONJ 1302 1305	and
+#251	AnnotatorNotes T253	lemma = 'and'
+T254	ADJ 1306 1314	economic
+#252	AnnotatorNotes T254	lemma = 'economic'
+T255	NOUN 1315 1326	performance
+#253	AnnotatorNotes T255	lemma = 'performance'
+T256	VERB 1327 1333	became
+#254	AnnotatorNotes T256	lemma = 'become'
+T257	ADJ 1334 1338	poor
+#255	AnnotatorNotes T257	lemma = 'poor'
+T258	PUNCT 1338 1339	.
+#256	AnnotatorNotes T258	lemma = '.'
+T259	ADP 1340 1343	For
+#257	AnnotatorNotes T259	lemma = 'for'
+T260	NOUN 1344 1351	example
+#258	AnnotatorNotes T260	lemma = 'example'
+T261	PUNCT 1351 1352	,
+#259	AnnotatorNotes T261	lemma = ','
+T262	ADP 1353 1355	in
+#260	AnnotatorNotes T262	lemma = 'in'
+T263	DET 1356 1359	the
+#261	AnnotatorNotes T263	lemma = 'the'
+T264	NOUN 1360 1368	majority
+#262	AnnotatorNotes T264	lemma = 'majority'
+T265	PUNCT 1368 1369	,
+#263	AnnotatorNotes T265	lemma = ','
+T266	ADP 1370 1372	of
+#264	AnnotatorNotes T266	lemma = 'of'
+T267	ADJ 1373 1378	Asian
+#265	AnnotatorNotes T267	lemma = 'Asian'
+T268	ADJ 1379 1387	despotic
+#266	AnnotatorNotes T268	lemma = 'despotic'
+T269	NOUN 1388 1395	regimes
+#267	AnnotatorNotes T269	lemma = 'regime'
+T270	ADP 1396 1403	between
+#268	AnnotatorNotes T270	lemma = 'between'
+T271	DET 1404 1407	the
+#269	AnnotatorNotes T271	lemma = 'the'
+T272	NUM 1408 1410	17
+#270	AnnotatorNotes T272	lemma = '17'
+T273	ADJ 1410 1412	th
+#271	AnnotatorNotes T273	lemma = 'th'
+T274	CCONJ 1413 1416	and
+#272	AnnotatorNotes T274	lemma = 'and'
+T275	DET 1417 1420	the
+#273	AnnotatorNotes T275	lemma = 'the'
+T276	NUM 1421 1423	20
+#274	AnnotatorNotes T276	lemma = '20'
+T277	ADJ 1423 1425	th
+#275	AnnotatorNotes T277	lemma = 'th'
+T278	NOUN 1426 1435	centuries
+#276	AnnotatorNotes T278	lemma = 'century'
+T279	ADV 1436 1441	there
+#277	AnnotatorNotes T279	lemma = 'there'
+T280	AUX 1442 1446	were
+#278	AnnotatorNotes T280	lemma = 'be'
+T281	ADJ 1447 1455	cultural
+#279	AnnotatorNotes T281	lemma = 'cultural'
+T282	NOUN 1456 1468	restrictions
+#280	AnnotatorNotes T282	lemma = 'restriction'
+T283	CCONJ 1469 1472	and
+#281	AnnotatorNotes T283	lemma = 'and'
+T284	ADV 1473 1477	even
+#282	AnnotatorNotes T284	lemma = 'even'
+T285	ADJ 1478 1486	bloodest
+#283	AnnotatorNotes T285	lemma = 'bloodest'
+T286	NOUN 1487 1498	repressions
+#284	AnnotatorNotes T286	lemma = 'repression'
+T287	PUNCT 1498 1499	,
+#285	AnnotatorNotes T287	lemma = ','
+T288	CCONJ 1500 1503	and
+#286	AnnotatorNotes T288	lemma = 'and'
+T289	DET 1504 1509	these
+#287	AnnotatorNotes T289	lemma = 'this'
+T290	NOUN 1510 1517	regimes
+#288	AnnotatorNotes T290	lemma = 'regime'
+T291	CCONJ 1518 1521	and
+#289	AnnotatorNotes T291	lemma = 'and'
+T292	NOUN 1522 1528	states
+#290	AnnotatorNotes T292	lemma = 'state'
+T293	AUX 1529 1533	were
+#291	AnnotatorNotes T293	lemma = 'be'
+T294	ADV 1534 1541	totally
+#292	AnnotatorNotes T294	lemma = 'totally'
+T295	ADJ 1542 1554	unsuccessful
+#293	AnnotatorNotes T295	lemma = 'unsuccessful'
+T296	ADP 1555 1557	in
+#294	AnnotatorNotes T296	lemma = 'in'
+T297	DET 1558 1561	the
+#295	AnnotatorNotes T297	lemma = 'the'
+T298	ADJ 1562 1570	economic
+#296	AnnotatorNotes T298	lemma = 'economic'
+T299	NOUN 1571 1582	development
+#297	AnnotatorNotes T299	lemma = 'development'
+T300	PUNCT 1582 1583	.
+#298	AnnotatorNotes T300	lemma = '.'
+T301	ADV 1584 1591	However
+#299	AnnotatorNotes T301	lemma = 'however'
+T302	PUNCT 1591 1592	,
+#300	AnnotatorNotes T302	lemma = ','
+T303	ADP 1593 1595	in
+#301	AnnotatorNotes T303	lemma = 'in'
+T304	DET 1596 1600	some
+#302	AnnotatorNotes T304	lemma = 'some'
+T305	NOUN 1601 1610	countries
+#303	AnnotatorNotes T305	lemma = 'country'
+T306	PRON 1611 1613	we
+#304	AnnotatorNotes T306	lemma = 'we'
+T307	AUX 1614 1617	can
+#305	AnnotatorNotes T307	lemma = 'can'
+T308	VERB 1618 1621	see
+#306	AnnotatorNotes T308	lemma = 'see'
+T309	DET 1622 1625	the
+#307	AnnotatorNotes T309	lemma = 'the'
+T310	ADJ 1626 1634	positive
+#308	AnnotatorNotes T310	lemma = 'positive'
+T311	NOUN 1635 1643	examples
+#309	AnnotatorNotes T311	lemma = 'example'
+T312	ADP 1644 1646	of
+#310	AnnotatorNotes T312	lemma = 'of'
+T313	ADJ 1647 1655	cultural
+#311	AnnotatorNotes T313	lemma = 'cultural'
+T314	NOUN 1656 1668	restrictions
+#312	AnnotatorNotes T314	lemma = 'restriction'
+T315	PUNCT 1668 1669	.
+#313	AnnotatorNotes T315	lemma = '.'
+T316	ADP 1670 1673	For
+#314	AnnotatorNotes T316	lemma = 'for'
+T317	NOUN 1674 1682	instance
+#315	AnnotatorNotes T317	lemma = 'instance'
+T318	PUNCT 1682 1683	,
+#316	AnnotatorNotes T318	lemma = ','
+T319	DET 1684 1687	the
+#317	AnnotatorNotes T319	lemma = 'the'
+T320	PROPN 1688 1694	French
+#318	AnnotatorNotes T320	lemma = 'French'
+T321	NOUN 1695 1698	law
+#319	AnnotatorNotes T321	lemma = 'law'
+T322	ADP 1699 1704	about
+#320	AnnotatorNotes T322	lemma = 'about'
+T323	VERB 1705 1712	keeping
+#321	AnnotatorNotes T323	lemma = 'keep'
+T324	DET 1713 1716	the
+#322	AnnotatorNotes T324	lemma = 'the'
+T325	PROPN 1717 1723	French
+#323	AnnotatorNotes T325	lemma = 'French'
+T326	NOUN 1724 1732	language
+#324	AnnotatorNotes T326	lemma = 'language'
+T327	ADJ 1733 1737	free
+#325	AnnotatorNotes T327	lemma = 'free'
+T328	ADP 1738 1742	from
+#326	AnnotatorNotes T328	lemma = 'from'
+T329	ADJ 1743 1750	foreign
+#327	AnnotatorNotes T329	lemma = 'foreign'
+T330	NOUN 1751 1760	invasions
+#328	AnnotatorNotes T330	lemma = 'invasion'
+T331	VERB 1761 1768	allowed
+#329	AnnotatorNotes T331	lemma = 'allow'
+T332	DET 1769 1772	the
+#330	AnnotatorNotes T332	lemma = 'the'
+T333	PROPN 1773 1779	French
+#331	AnnotatorNotes T333	lemma = 'French'
+T334	NOUN 1780 1788	language
+#332	AnnotatorNotes T334	lemma = 'language'
+T335	PART 1789 1791	to
+#333	AnnotatorNotes T335	lemma = 'to'
+T336	VERB 1792 1797	avoid
+#334	AnnotatorNotes T336	lemma = 'avoid'
+T337	DET 1798 1799	a
+#335	AnnotatorNotes T337	lemma = 'a'
+T338	NOUN 1800 1804	fate
+#336	AnnotatorNotes T338	lemma = 'fate'
+T339	ADP 1805 1807	of
+#337	AnnotatorNotes T339	lemma = 'of'
+T340	DET 1808 1811	the
+#338	AnnotatorNotes T340	lemma = 'the'
+T341	ADJ 1812 1818	German
+#339	AnnotatorNotes T341	lemma = 'German'
+T342	NOUN 1819 1827	language
+#340	AnnotatorNotes T342	lemma = 'language'
+T343	PUNCT 1827 1828	,
+#341	AnnotatorNotes T343	lemma = ','
+T344	PRON 1829 1834	which
+#342	AnnotatorNotes T344	lemma = 'which'
+T345	VERB 1835 1843	includes
+#343	AnnotatorNotes T345	lemma = 'include'
+T346	ADV 1844 1847	now
+#344	AnnotatorNotes T346	lemma = 'now'
+T347	ADJ 1848 1852	many
+#345	AnnotatorNotes T347	lemma = 'many'
+T348	ADJ 1853 1860	English
+#346	AnnotatorNotes T348	lemma = 'English'
+T349	NOUN 1861 1866	words
+#347	AnnotatorNotes T349	lemma = 'word'
+T350	PUNCT 1866 1867	.
+#348	AnnotatorNotes T350	lemma = '.'
+T351	ADV 1868 1873	There
+#349	AnnotatorNotes T351	lemma = 'there'
+T352	VERB 1874 1877	are
+#350	AnnotatorNotes T352	lemma = 'be'
+T353	DET 1878 1880	no
+#351	AnnotatorNotes T353	lemma = 'no'
+T354	ADJ 1881 1889	negative
+#352	AnnotatorNotes T354	lemma = 'negative'
+T355	ADJ 1890 1898	cultural
+#353	AnnotatorNotes T355	lemma = 'cultural'
+T356	CCONJ 1899 1902	and
+#354	AnnotatorNotes T356	lemma = 'and'
+T357	ADJ 1903 1911	economic
+#355	AnnotatorNotes T357	lemma = 'economic'
+T358	NOUN 1912 1924	consequences
+#356	AnnotatorNotes T358	lemma = 'consequence'
+T359	ADP 1925 1927	in
+#357	AnnotatorNotes T359	lemma = 'in'
+T360	DET 1928 1932	this
+#358	AnnotatorNotes T360	lemma = 'this'
+T361	NOUN 1933 1937	case
+#359	AnnotatorNotes T361	lemma = 'case'
+T362	PUNCT 1937 1938	,
+#360	AnnotatorNotes T362	lemma = ','
+T363	CCONJ 1939 1942	and
+#361	AnnotatorNotes T363	lemma = 'and'
+T364	DET 1943 1946	the
+#362	AnnotatorNotes T364	lemma = 'the'
+T365	NOUN 1947 1956	influence
+#363	AnnotatorNotes T365	lemma = 'influence'
+T366	ADP 1957 1959	of
+#364	AnnotatorNotes T366	lemma = 'of'
+T367	DET 1960 1964	this
+#365	AnnotatorNotes T367	lemma = 'this'
+T368	NOUN 1965 1968	law
+#366	AnnotatorNotes T368	lemma = 'law'
+T369	AUX 1969 1971	is
+#367	AnnotatorNotes T369	lemma = 'be'
+T370	ADV 1972 1976	only
+#368	AnnotatorNotes T370	lemma = 'only'
+T371	ADJ 1977 1985	positive
+#369	AnnotatorNotes T371	lemma = 'positive'
+T372	PUNCT 1985 1986	.
+#370	AnnotatorNotes T372	lemma = '.'
+T373	ADP 1987 1989	To
+#371	AnnotatorNotes T373	lemma = 'to'
+T374	VERB 1990 1993	sum
+#372	AnnotatorNotes T374	lemma = 'sum'
+T375	ADV 1994 1996	up
+#373	AnnotatorNotes T375	lemma = 'up'
+T376	PUNCT 1996 1997	,
+#374	AnnotatorNotes T376	lemma = ','
+T377	PRON 1998 1999	I
+#375	AnnotatorNotes T377	lemma = 'I'
+T378	AUX 2000 2003	can
+#376	AnnotatorNotes T378	lemma = 'can'
+T379	VERB 2004 2012	conclude
+#377	AnnotatorNotes T379	lemma = 'conclude'
+T380	SCONJ 2013 2017	that
+#378	AnnotatorNotes T380	lemma = 'that'
+T381	ADP 2018 2020	in
+#379	AnnotatorNotes T381	lemma = 'in'
+T382	DET 2021 2024	the
+#380	AnnotatorNotes T382	lemma = 'the'
+T383	NOUN 2025 2033	majority
+#381	AnnotatorNotes T383	lemma = 'majority'
+T384	ADP 2034 2036	of
+#382	AnnotatorNotes T384	lemma = 'of'
+T385	NOUN 2037 2042	cases
+#383	AnnotatorNotes T385	lemma = 'case'
+T386	NOUN 2043 2053	government
+#384	AnnotatorNotes T386	lemma = 'government'
+T387	NOUN 2054 2066	restrictions
+#385	AnnotatorNotes T387	lemma = 'restriction'
+T388	ADP 2067 2069	on
+#386	AnnotatorNotes T388	lemma = 'on'
+T389	ADJ 2070 2078	creative
+#387	AnnotatorNotes T389	lemma = 'creative'
+T390	NOUN 2079 2086	artists
+#388	AnnotatorNotes T390	lemma = 'artist'
+T391	VERB 2087 2091	have
+#389	AnnotatorNotes T391	lemma = 'have'
+T392	DET 2092 2093	a
+#390	AnnotatorNotes T392	lemma = 'a'
+T393	ADJ 2094 2102	negative
+#391	AnnotatorNotes T393	lemma = 'negative'
+T394	NOUN 2103 2109	effect
+#392	AnnotatorNotes T394	lemma = 'effect'
+T395	PUNCT 2109 2110	,
+#393	AnnotatorNotes T395	lemma = ','
+T396	CCONJ 2111 2114	and
+#394	AnnotatorNotes T396	lemma = 'and'
+T397	PRON 2115 2119	they
+#395	AnnotatorNotes T397	lemma = 'they'
+T398	AUX 2120 2123	are
+#396	AnnotatorNotes T398	lemma = 'be'
+T399	PART 2124 2127	not
+#397	AnnotatorNotes T399	lemma = 'not'
+T400	ADJ 2128 2137	necessary
+#398	AnnotatorNotes T400	lemma = 'necessary'
+T401	PUNCT 2137 2138	.
+#399	AnnotatorNotes T401	lemma = '.'
+T402	CCONJ 2139 2142	But
+#400	AnnotatorNotes T402	lemma = 'but'
+T403	ADP 2143 2145	in
+#401	AnnotatorNotes T403	lemma = 'in'
+T404	DET 2146 2150	some
+#402	AnnotatorNotes T404	lemma = 'some'
+T405	NOUN 2151 2164	circumstances
+#403	AnnotatorNotes T405	lemma = 'circumstance'
+T406	PRON 2165 2167	we
+#404	AnnotatorNotes T406	lemma = 'we'
+T407	AUX 2168 2171	can
+#405	AnnotatorNotes T407	lemma = 'can'
+T408	VERB 2172 2175	see
+#406	AnnotatorNotes T408	lemma = 'see'
+T409	ADJ 2176 2184	positive
+#407	AnnotatorNotes T409	lemma = 'positive'
+T410	NOUN 2185 2191	effect
+#408	AnnotatorNotes T410	lemma = 'effect'
+T411	ADV 2192 2195	too
+#409	AnnotatorNotes T411	lemma = 'too'
+T412	PUNCT 2195 2196	.
+#410	AnnotatorNotes T412	lemma = '.'
+T413	PRON 2197 2199	It
+#411	AnnotatorNotes T413	lemma = 'it'
+T414	VERB 2200 2207	depends
+#412	AnnotatorNotes T414	lemma = 'depend'
+T415	ADP 2208 2210	on
+#413	AnnotatorNotes T415	lemma = 'on'
+T416	NOUN 2211 2218	context
+#414	AnnotatorNotes T416	lemma = 'context'
+T417	CCONJ 2219 2222	and
+#415	AnnotatorNotes T417	lemma = 'and'
+T418	NOUN 2223 2232	situation
+#416	AnnotatorNotes T418	lemma = 'situation'
+T419	PUNCT 2232 2233	.
+#417	AnnotatorNotes T419	lemma = '.'

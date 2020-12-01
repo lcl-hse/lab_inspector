@@ -1,0 +1,420 @@
+T1	Spelling 288 294	metats
+#1	AnnotatorNotes T1	metals
+T2	Noun_number 35 39	good
+#2	AnnotatorNotes T2	goods
+T3	Tense_choice 31 34	are
+#3	AnnotatorNotes T3	were
+T4	Agreement_errors 149 156	consist
+#4	AnnotatorNotes T4	consists
+T5	Agreement_errors 125 139	transportation
+R1	Dependent_change Arg1:T4 Arg2:T5
+T6	Absence_explanation 175 177	30
+#5	AnnotatorNotes T6	30%
+T7	note 251 255	pies
+#6	AnnotatorNotes T7	?
+T8	Noun_number 369 379	percentage
+#7	AnnotatorNotes T8	percentages
+T9	Redundant_comp 551 554	any
+A1	Delete T9
+T10	Articles 573 576	the
+A2	Delete T10
+T11	Prepositions 632 637	where
+#8	AnnotatorNotes T11	among
+T12	Noun_number 638 642	good
+#9	AnnotatorNotes T12	goods
+T13	Voice 680 692	is consisted
+#10	AnnotatorNotes T13	consists
+T14	Prepositions 693 701	about 2%
+#11	AnnotatorNotes T14	of about 2%
+T15	Spelling 807 818	machinerary
+#12	AnnotatorNotes T15	machinery
+T16	Spelling 915 922	Eestern
+#13	AnnotatorNotes T16	Eastern
+T17	Spelling 75 83	Eeastern
+#14	AnnotatorNotes T17	Eastern
+T18	note 937 938	.
+#15	AnnotatorNotes T18	Zavyalov
+T19	AT0 0 3	The
+#16	AnnotatorNotes T19	lemma = 'the'
+T20	NN1 4 7	pie
+#17	AnnotatorNotes T20	lemma = 'pie'
+T21	NN2 8 14	charts
+#18	AnnotatorNotes T21	lemma = 'chart'
+T22	VVB 15 19	show
+#19	AnnotatorNotes T22	lemma = 'show'
+T23	CJT 20 24	that
+#20	AnnotatorNotes T23	lemma = 'that'
+T24	EX0 25 30	there
+#21	AnnotatorNotes T24	lemma = 'there'
+T25	VBB 31 34	are
+#22	AnnotatorNotes T25	lemma = 'be'
+T26	AV0 35 39	good
+#23	AnnotatorNotes T26	lemma = 'good'
+T27	VVN 40 51	transported
+#24	AnnotatorNotes T27	lemma = 'transport'
+T28	PRP 52 54	by
+#25	AnnotatorNotes T28	lemma = 'by'
+T29	NN1 55 59	rail
+#26	AnnotatorNotes T29	lemma = 'rail'
+T30	CJC 60 63	and
+#27	AnnotatorNotes T30	lemma = 'and'
+T31	PRP 64 66	by
+#28	AnnotatorNotes T31	lemma = 'by'
+T32	NN1 67 71	road
+#29	AnnotatorNotes T32	lemma = 'road'
+T33	PRP 72 74	in
+#30	AnnotatorNotes T33	lemma = 'in'
+T34	NP0 75 83	Eeastern
+#31	AnnotatorNotes T34	lemma = 'Eeastern'
+T35	NP0 84 90	Europe
+#32	AnnotatorNotes T35	lemma = 'europe'
+T36	PRP 91 93	in
+#33	AnnotatorNotes T36	lemma = 'in'
+T37	CRD 94 98	2008
+#34	AnnotatorNotes T37	lemma = '2008'
+T38	SENT 98 99	.
+#35	AnnotatorNotes T38	lemma = '.'
+T39	AV0 100 108	Globally
+#36	AnnotatorNotes T39	lemma = 'globally'
+T40	PUN 108 109	,
+#37	AnnotatorNotes T40	lemma = ','
+T41	PRP 110 112	in
+#38	AnnotatorNotes T41	lemma = 'in'
+T42	DT0 113 117	both
+#39	AnnotatorNotes T42	lemma = 'both'
+T43	NN2 118 124	charts
+#40	AnnotatorNotes T43	lemma = 'chart'
+T44	NN1 125 139	transportation
+#41	AnnotatorNotes T44	lemma = 'transportation'
+T45	PRF 140 142	of
+#42	AnnotatorNotes T45	lemma = 'of'
+T46	NN2 143 148	goods
+#43	AnnotatorNotes T46	lemma = 'goods'
+T47	VVB 149 156	consist
+#44	AnnotatorNotes T47	lemma = 'consist'
+T48	PRF 157 159	of
+#45	AnnotatorNotes T48	lemma = 'of'
+T49	CRD 160 162	35
+#46	AnnotatorNotes T49	lemma = '35'
+T50	NN0 162 163	%
+#47	AnnotatorNotes T50	lemma = '%'
+T51	NN2 164 170	metals
+#48	AnnotatorNotes T51	lemma = 'metal'
+T52	CJC 171 174	and
+#49	AnnotatorNotes T52	lemma = 'and'
+T53	CRD 175 177	30
+#50	AnnotatorNotes T53	lemma = '30'
+T54	PRF 178 180	of
+#51	AnnotatorNotes T54	lemma = 'of'
+T55	NN1 181 185	food
+#52	AnnotatorNotes T55	lemma = 'food'
+T56	NN2 186 194	products
+#53	AnnotatorNotes T56	lemma = 'product'
+T57	AV0 195 207	respectively
+#54	AnnotatorNotes T57	lemma = 'respectively'
+T58	SENT 207 208	.
+#55	AnnotatorNotes T58	lemma = '.'
+T59	PRP 210 212	In
+#56	AnnotatorNotes T59	lemma = 'in'
+T60	DT0 213 217	both
+#57	AnnotatorNotes T60	lemma = 'both'
+T61	NN2 218 224	charts
+#58	AnnotatorNotes T61	lemma = 'chart'
+T62	NN1 225 239	transportation
+#59	AnnotatorNotes T62	lemma = 'transportation'
+T63	VVZ 240 248	contains
+#60	AnnotatorNotes T63	lemma = 'contain'
+T64	CRD 249 250	6
+#61	AnnotatorNotes T64	lemma = '6'
+T65	NN2 251 255	pies
+#62	AnnotatorNotes T65	lemma = 'pie'
+T66	SENT 255 256	.
+#63	AnnotatorNotes T66	lemma = '.'
+T67	PRP 257 259	In
+#64	AnnotatorNotes T67	lemma = 'in'
+T68	AT0 260 263	the
+#65	AnnotatorNotes T68	lemma = 'the'
+T69	ORD 264 269	first
+#66	AnnotatorNotes T69	lemma = 'first'
+T70	NN1 270 274	case
+#67	AnnotatorNotes T70	lemma = 'case'
+T71	AT0 275 278	the
+#68	AnnotatorNotes T71	lemma = 'the'
+T72	NN2 279 284	parts
+#69	AnnotatorNotes T72	lemma = 'part'
+T73	PRF 285 287	of
+#70	AnnotatorNotes T73	lemma = 'of'
+T74	NN2 288 294	metats
+#71	AnnotatorNotes T74	lemma = 'metats'
+T75	PUL 295 296	(
+#72	AnnotatorNotes T75	lemma = '('
+T76	CRD 296 298	35
+#73	AnnotatorNotes T76	lemma = '35'
+T77	NN0 298 299	%
+#74	AnnotatorNotes T77	lemma = '%'
+T78	PUR 299 300	)
+#75	AnnotatorNotes T78	lemma = ')'
+T79	PUN 300 301	,
+#76	AnnotatorNotes T79	lemma = ','
+T80	AJ0 302 314	manufactured
+#77	AnnotatorNotes T80	lemma = 'manufactured|manufacture'
+T81	NN2 315 320	goods
+#78	AnnotatorNotes T81	lemma = 'goods'
+T82	PUL 321 322	(
+#79	AnnotatorNotes T82	lemma = '('
+T83	CRD 322 324	25
+#80	AnnotatorNotes T83	lemma = '25'
+T84	NN0 324 325	%
+#81	AnnotatorNotes T84	lemma = '%'
+T85	PUR 325 326	)
+#82	AnnotatorNotes T85	lemma = ')'
+T86	PUN 326 327	,
+#83	AnnotatorNotes T86	lemma = ','
+T87	NN1 328 337	machinery
+#84	AnnotatorNotes T87	lemma = 'machinery'
+T88	PUL 338 339	(
+#85	AnnotatorNotes T88	lemma = '('
+T89	CRD 339 341	12
+#86	AnnotatorNotes T89	lemma = '12'
+T90	NN0 341 342	%
+#87	AnnotatorNotes T90	lemma = '%'
+T91	PUR 342 343	)
+#88	AnnotatorNotes T91	lemma = ')'
+T92	VHB 344 348	have
+#89	AnnotatorNotes T92	lemma = 'have'
+T93	AT0 349 352	the
+#90	AnnotatorNotes T93	lemma = 'the'
+T94	AJS 353 360	highest
+#91	AnnotatorNotes T94	lemma = 'high'
+T95	AJ0 361 368	overall
+#92	AnnotatorNotes T95	lemma = 'overall'
+T96	NN1 369 379	percentage
+#93	AnnotatorNotes T96	lemma = 'percentage'
+T97	SENT 379 380	.
+#94	AnnotatorNotes T97	lemma = '.'
+T98	PRP 381 383	In
+#95	AnnotatorNotes T98	lemma = 'in'
+T99	AT0 384 387	the
+#96	AnnotatorNotes T99	lemma = 'the'
+T100	ORD 388 394	second
+#97	AnnotatorNotes T100	lemma = 'second'
+T101	NN1 395 399	case
+#98	AnnotatorNotes T101	lemma = 'case'
+T102	NN1 400 404	food
+#99	AnnotatorNotes T102	lemma = 'food'
+T103	NN2 405 413	products
+#100	AnnotatorNotes T103	lemma = 'product'
+T104	PUL 414 415	(
+#101	AnnotatorNotes T104	lemma = '('
+T105	CRD 415 417	30
+#102	AnnotatorNotes T105	lemma = '30'
+T106	NN0 417 418	%
+#103	AnnotatorNotes T106	lemma = '%'
+T107	PUR 418 419	)
+#104	AnnotatorNotes T107	lemma = ')'
+T108	PUN 419 420	,
+#105	AnnotatorNotes T108	lemma = ','
+T109	AJ0 421 433	manufactured
+#106	AnnotatorNotes T109	lemma = 'manufactured|manufacture'
+T110	NN2 434 439	goods
+#107	AnnotatorNotes T110	lemma = 'goods'
+T111	PUL 440 441	(
+#108	AnnotatorNotes T111	lemma = '('
+T112	CRD 441 443	28
+#109	AnnotatorNotes T112	lemma = '28'
+T113	NN0 443 444	%
+#110	AnnotatorNotes T113	lemma = '%'
+T114	PUR 444 445	)
+#111	AnnotatorNotes T114	lemma = ')'
+T115	PUN 445 446	,
+#112	AnnotatorNotes T115	lemma = ','
+T116	NN2 447 456	chemicals
+#113	AnnotatorNotes T116	lemma = 'chemical'
+T117	PUL 457 458	(
+#114	AnnotatorNotes T117	lemma = '('
+T118	CRD 458 460	16
+#115	AnnotatorNotes T118	lemma = '16'
+T119	NN0 460 461	%
+#116	AnnotatorNotes T119	lemma = '%'
+T120	PUR 461 462	)
+#117	AnnotatorNotes T120	lemma = ')'
+T121	VHB 463 467	have
+#118	AnnotatorNotes T121	lemma = 'have'
+T122	AT0 468 471	the
+#119	AnnotatorNotes T122	lemma = 'the'
+T123	AJS 472 479	biggest
+#120	AnnotatorNotes T123	lemma = 'big'
+T124	NN2 480 490	indicators
+#121	AnnotatorNotes T124	lemma = 'indicator'
+T125	AV0 491 494	too
+#122	AnnotatorNotes T125	lemma = 'too'
+T126	SENT 494 495	.
+#123	AnnotatorNotes T126	lemma = '.'
+T127	CJS 496 498	As
+#124	AnnotatorNotes T127	lemma = 'as'
+T128	PNP 499 501	it
+#125	AnnotatorNotes T128	lemma = 'it'
+T129	VM0 502 505	can
+#126	AnnotatorNotes T129	lemma = 'can'
+T130	VBI 506 508	be
+#127	AnnotatorNotes T130	lemma = 'be'
+T131	VVN 509 513	seen
+#128	AnnotatorNotes T131	lemma = 'see'
+T132	PRP 514 518	from
+#129	AnnotatorNotes T132	lemma = 'from'
+T133	AT0 519 522	the
+#130	AnnotatorNotes T133	lemma = 'the'
+T134	ORD 523 528	first
+#131	AnnotatorNotes T134	lemma = 'first'
+T135	NN1 529 532	pie
+#132	AnnotatorNotes T135	lemma = 'pie'
+T136	NN1 533 538	chart
+#133	AnnotatorNotes T136	lemma = 'chart'
+T137	EX0 539 544	there
+#134	AnnotatorNotes T137	lemma = 'there'
+T138	VBZ 545 547	is
+#135	AnnotatorNotes T138	lemma = 'be'
+T139	AT0 548 550	no
+#136	AnnotatorNotes T139	lemma = 'no'
+T140	DT0 551 554	any
+#137	AnnotatorNotes T140	lemma = 'any'
+T141	NN1 555 566	information
+#138	AnnotatorNotes T141	lemma = 'information'
+T142	PRP 567 572	about
+#139	AnnotatorNotes T142	lemma = 'about'
+T143	AT0 573 576	the
+#140	AnnotatorNotes T143	lemma = 'the'
+T144	AJ0 577 589	non-metallic
+#141	AnnotatorNotes T144	lemma = 'non-metallic'
+T145	NN2 590 598	minerals
+#142	AnnotatorNotes T145	lemma = 'mineral'
+T146	SENT 598 599	.
+#143	AnnotatorNotes T146	lemma = '.'
+T147	AV0 600 607	However
+#144	AnnotatorNotes T147	lemma = 'however'
+T148	PUN 607 608	,
+#145	AnnotatorNotes T148	lemma = ','
+T149	AT0 609 612	the
+#146	AnnotatorNotes T149	lemma = 'the'
+T150	AJS 613 621	smallest
+#147	AnnotatorNotes T150	lemma = 'small'
+T151	NN1 622 631	indicator
+#148	AnnotatorNotes T151	lemma = 'indicator'
+T152	CJS 632 637	where
+#149	AnnotatorNotes T152	lemma = 'where'
+T153	AV0 638 642	good
+#150	AnnotatorNotes T153	lemma = 'good'
+T154	VVN 643 654	transported
+#151	AnnotatorNotes T154	lemma = 'transport'
+T155	PRP 655 657	by
+#152	AnnotatorNotes T155	lemma = 'by'
+T156	NN1 658 662	road
+#153	AnnotatorNotes T156	lemma = 'road'
+T157	VBZ 663 665	is
+#154	AnnotatorNotes T157	lemma = 'be'
+T158	NN1 666 675	machinery
+#155	AnnotatorNotes T158	lemma = 'machinery'
+T159	SENT 675 676	.
+#156	AnnotatorNotes T159	lemma = '.'
+T160	PNP 677 679	It
+#157	AnnotatorNotes T160	lemma = 'it'
+T161	VBZ 680 682	is
+#158	AnnotatorNotes T161	lemma = 'be'
+T162	VVN 683 692	consisted
+#159	AnnotatorNotes T162	lemma = 'consist'
+T163	PRP 693 698	about
+#160	AnnotatorNotes T163	lemma = 'about'
+T164	CRD 699 700	2
+#161	AnnotatorNotes T164	lemma = '2'
+T165	NN0 700 701	%
+#162	AnnotatorNotes T165	lemma = '%'
+T166	PUN 701 702	,
+#163	AnnotatorNotes T166	lemma = ','
+T167	CJS 703 710	whereas
+#164	AnnotatorNotes T167	lemma = 'whereas'
+T168	NN2 711 716	goods
+#165	AnnotatorNotes T168	lemma = 'goods'
+T169	VVN 717 728	transported
+#166	AnnotatorNotes T169	lemma = 'transport'
+T170	PRP 729 731	by
+#167	AnnotatorNotes T170	lemma = 'by'
+T171	NN1 732 736	rail
+#168	AnnotatorNotes T171	lemma = 'rail'
+T172	VBZ 737 739	is
+#169	AnnotatorNotes T172	lemma = 'be'
+T173	AV0 740 745	about
+#170	AnnotatorNotes T173	lemma = 'about'
+T174	CRD 746 748	12
+#171	AnnotatorNotes T174	lemma = '12'
+T175	NN0 748 749	%
+#172	AnnotatorNotes T175	lemma = '%'
+T176	SENT 749 750	.
+#173	AnnotatorNotes T176	lemma = '.'
+T177	AV0 752 759	Overall
+#174	AnnotatorNotes T177	lemma = 'overall'
+T178	PUN 759 760	,
+#175	AnnotatorNotes T178	lemma = ','
+T179	PNP 761 763	it
+#176	AnnotatorNotes T179	lemma = 'it'
+T180	VBZ 764 766	is
+#177	AnnotatorNotes T180	lemma = 'be'
+T181	AJ0 767 772	clear
+#178	AnnotatorNotes T181	lemma = 'clear'
+T182	CJT 773 777	that
+#179	AnnotatorNotes T182	lemma = 'that'
+T183	NN1 778 787	influence
+#180	AnnotatorNotes T183	lemma = 'influence'
+T184	PRF 788 790	of
+#181	AnnotatorNotes T184	lemma = 'of'
+T185	DT0 791 795	such
+#182	AnnotatorNotes T185	lemma = 'such'
+T186	NN2 796 803	factors
+#183	AnnotatorNotes T186	lemma = 'factor'
+T187	CJS 804 806	as
+#184	AnnotatorNotes T187	lemma = 'as'
+T188	AJ0 807 818	machinerary
+#185	AnnotatorNotes T188	lemma = 'machinerary'
+T189	PUN 818 819	,
+#186	AnnotatorNotes T189	lemma = ','
+T190	NN1 820 824	food
+#187	AnnotatorNotes T190	lemma = 'food'
+T191	NN2 825 833	products
+#188	AnnotatorNotes T191	lemma = 'product'
+T192	PUN 833 834	,
+#189	AnnotatorNotes T192	lemma = ','
+T193	NN2 835 844	chemicals
+#190	AnnotatorNotes T193	lemma = 'chemical'
+T194	AVQ 845 850	where
+#191	AnnotatorNotes T194	lemma = 'where'
+T195	NN2 851 856	goods
+#192	AnnotatorNotes T195	lemma = 'goods'
+T196	VVN 857 868	transported
+#193	AnnotatorNotes T196	lemma = 'transport'
+T197	PRP 869 871	by
+#194	AnnotatorNotes T197	lemma = 'by'
+T198	NN1 872 876	rail
+#195	AnnotatorNotes T198	lemma = 'rail'
+T199	VBZ 877 879	is
+#196	AnnotatorNotes T199	lemma = 'be'
+T200	XX0 880 883	not
+#197	AnnotatorNotes T200	lemma = 'not'
+T201	AV0 884 886	so
+#198	AnnotatorNotes T201	lemma = 'so'
+T202	AJ0 887 898	significant
+#199	AnnotatorNotes T202	lemma = 'significant'
+T203	PRP 899 901	in
+#200	AnnotatorNotes T203	lemma = 'in'
+T204	NN2 902 911	countries
+#201	AnnotatorNotes T204	lemma = 'country'
+T205	PRF 912 914	of
+#202	AnnotatorNotes T205	lemma = 'of'
+T206	NP0 915 922	Eestern
+#203	AnnotatorNotes T206	lemma = 'Eestern'
+T207	NP0 923 929	Europe
+#204	AnnotatorNotes T207	lemma = 'europe'
+T208	PRP 930 932	in
+#205	AnnotatorNotes T208	lemma = 'in'
+T209	CRD 933 937	2008
+#206	AnnotatorNotes T209	lemma = '2008'
+T210	SENT 937 938	.
+#207	AnnotatorNotes T210	lemma = ''

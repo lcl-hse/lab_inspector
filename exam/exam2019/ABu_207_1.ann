@@ -1,0 +1,483 @@
+T1	Spelling 28 38	percantage
+#1	AnnotatorNotes T1	percentages
+T2	Noun_number 58 61	sex
+#2	AnnotatorNotes T2	sexes
+T3	Absence_explanation 69 113	different sectors of Australia and Indonesia
+#3	AnnotatorNotes T3	different sectors of employment in Australia and Indonesia
+T4	Noun_number 28 38	percantage
+#4	AnnotatorNotes T4	percentages
+T5	Capitalisation 154 159	Women
+#5	AnnotatorNotes T5	women
+T6	Noun_number 294 297	man
+#6	AnnotatorNotes T6	men
+T7	Punctuation 294 297	man
+#7	AnnotatorNotes T7	men,
+T8	suggestion 381 387	sphere
+A1	Delete T8
+T9	suggestion 427 432	women
+#8	AnnotatorNotes T9	among women
+A2	Addition T9
+T10	Spelling 460 470	percantage
+#9	AnnotatorNotes T10	percentage
+T11	Prepositions 488 490	at
+#10	AnnotatorNotes T11	in
+T12	Punctuation 491 499	services
+#11	AnnotatorNotes T12	services,
+T13	Noun_number 530 533	man
+#12	AnnotatorNotes T13	men
+T14	Noun_number 538 543	woman
+#13	AnnotatorNotes T14	women
+T15	Noun_number 555 558	man
+#14	AnnotatorNotes T15	men
+T16	suggestion 550 554	were
+A3	Delete T16
+T17	suggestion 568 572	were
+A4	Delete T17
+T18	suggestion 546 558	56% were man
+#15	AnnotatorNotes T18	56% of men
+A5	Addition T18
+T19	suggestion 563 578	49 % were women
+#16	AnnotatorNotes T19	49 % of women
+A6	Addition T19
+T20	Prepositions 609 616	between
+#17	AnnotatorNotes T20	among
+T21	Pronouns 700 704	that
+#18	AnnotatorNotes T21	this
+T22	Word_order 683 711	working women in that sphere
+#19	AnnotatorNotes T22	women working in this sphere
+T23	Agreement_errors 668 671	was
+#20	AnnotatorNotes T23	were
+T24	Absence_comp_sent 638 641	43%
+#21	AnnotatorNotes T24	43% of them worked in this sphere
+T25	Punctuation 806 815	Australia
+#22	AnnotatorNotes T25	Australia,
+T26	suggestion 777 780	15%
+#23	AnnotatorNotes T26	their percentages amounted to
+A7	Addition T26
+T27	suggestion 880 893	were involved
+#24	AnnotatorNotes T27	were involved in this sphere
+A8	Addition T27
+T28	suggestion 962 967	equal
+A9	Delete T28
+T29	suggestion 953 961	the same
+#25	AnnotatorNotes T29	the same as
+A10	Addition T29
+T30	suggestion 1025 1028	men
+#26	AnnotatorNotes T30	that of men
+A11	Addition T30
+T31	PRP 0 2	In
+#27	AnnotatorNotes T31	lemma = 'in'
+T32	AT0 3 6	the
+#28	AnnotatorNotes T32	lemma = 'the'
+T33	AJ0 7 16	presented
+#29	AnnotatorNotes T33	lemma = 'present|presented'
+T34	NN2 17 23	tables
+#30	AnnotatorNotes T34	lemma = 'table'
+T35	AT0 24 27	the
+#31	AnnotatorNotes T35	lemma = 'the'
+T36	NN1 28 38	percantage
+#32	AnnotatorNotes T36	lemma = 'percantage'
+T37	PRF 39 41	of
+#33	AnnotatorNotes T37	lemma = 'of'
+T38	NN2 42 49	workers
+#34	AnnotatorNotes T38	lemma = 'worker'
+T39	PRF 50 52	of
+#35	AnnotatorNotes T39	lemma = 'of'
+T40	DT0 53 57	both
+#36	AnnotatorNotes T40	lemma = 'both'
+T41	NN1 58 61	sex
+#37	AnnotatorNotes T41	lemma = 'sex'
+T42	PRP 62 64	in
+#38	AnnotatorNotes T42	lemma = 'in'
+T43	AT0 65 68	the
+#39	AnnotatorNotes T43	lemma = 'the'
+T44	AJ0 69 78	different
+#40	AnnotatorNotes T44	lemma = 'different'
+T45	NN2 79 86	sectors
+#41	AnnotatorNotes T45	lemma = 'sector'
+T46	PRF 87 89	of
+#42	AnnotatorNotes T46	lemma = 'of'
+T47	NP0 90 99	Australia
+#43	AnnotatorNotes T47	lemma = 'australia'
+T48	CJC 100 103	and
+#44	AnnotatorNotes T48	lemma = 'and'
+T49	NP0 104 113	Indonesia
+#45	AnnotatorNotes T49	lemma = 'indonesia'
+T50	PRP 114 116	in
+#46	AnnotatorNotes T50	lemma = 'in'
+T51	CRD 117 121	2010
+#47	AnnotatorNotes T51	lemma = '2010'
+T52	VBB 122 125	are
+#48	AnnotatorNotes T52	lemma = 'be'
+T53	VVN 126 135	presented
+#49	AnnotatorNotes T53	lemma = 'present|presented'
+T54	SENT 135 136	.
+#50	AnnotatorNotes T54	lemma = '.'
+T55	PNP 137 139	It
+#51	AnnotatorNotes T55	lemma = 'it'
+T56	VBZ 140 142	is
+#52	AnnotatorNotes T56	lemma = 'be'
+T57	VVN 143 148	shown
+#53	AnnotatorNotes T57	lemma = 'show'
+T58	CJT 149 153	that
+#54	AnnotatorNotes T58	lemma = 'that'
+T59	NN2 154 159	Women
+#55	AnnotatorNotes T59	lemma = 'woman'
+T60	PRF 160 162	of
+#56	AnnotatorNotes T60	lemma = 'of'
+T61	DT0 163 167	both
+#57	AnnotatorNotes T61	lemma = 'both'
+T62	NN2 168 175	nations
+#58	AnnotatorNotes T62	lemma = 'nation'
+T63	AV0 176 182	mostly
+#59	AnnotatorNotes T63	lemma = 'mostly'
+T64	VVN 183 189	worked
+#60	AnnotatorNotes T64	lemma = 'work'
+T65	PRP 190 192	in
+#61	AnnotatorNotes T65	lemma = 'in'
+T66	AT0 193 196	the
+#62	AnnotatorNotes T66	lemma = 'the'
+T67	NN1 197 203	sphere
+#63	AnnotatorNotes T67	lemma = 'sphere'
+T68	PRF 204 206	of
+#64	AnnotatorNotes T68	lemma = 'of'
+T69	NN2 207 215	services
+#65	AnnotatorNotes T69	lemma = 'service'
+T70	PRP 216 218	as
+#66	AnnotatorNotes T70	lemma = 'as'
+T71	NN1 219 222	man
+#67	AnnotatorNotes T71	lemma = 'man'
+T72	AV0 223 227	also
+#68	AnnotatorNotes T72	lemma = 'also'
+T73	VDD 228 231	did
+#69	AnnotatorNotes T73	lemma = 'do'
+T74	SENT 231 232	.
+#70	AnnotatorNotes T74	lemma = '.'
+T75	NN1 233 244	Agriculture
+#71	AnnotatorNotes T75	lemma = 'agriculture'
+T76	VBD 245 248	was
+#72	AnnotatorNotes T76	lemma = 'be'
+T77	XX0 249 252	not
+#73	AnnotatorNotes T77	lemma = 'not'
+T78	DT0 253 257	such
+#74	AnnotatorNotes T78	lemma = 'such'
+T79	AT0 258 259	a
+#75	AnnotatorNotes T79	lemma = 'a'
+T80	AJ0 260 267	popular
+#76	AnnotatorNotes T80	lemma = 'popular'
+T81	NN1 268 274	sphere
+#77	AnnotatorNotes T81	lemma = 'sphere'
+T82	PRP 275 277	in
+#78	AnnotatorNotes T82	lemma = 'in'
+T83	NP0 278 287	Australia
+#79	AnnotatorNotes T83	lemma = 'australia'
+T84	PRP 288 293	among
+#80	AnnotatorNotes T84	lemma = 'among'
+T85	NN1 294 297	man
+#81	AnnotatorNotes T85	lemma = 'man'
+T86	CJS 298 303	while
+#82	AnnotatorNotes T86	lemma = 'while'
+T87	PRP 304 306	in
+#83	AnnotatorNotes T87	lemma = 'in'
+T88	NP0 307 316	Indonesia
+#84	AnnotatorNotes T88	lemma = 'indonesia'
+T89	PNP 317 319	it
+#85	AnnotatorNotes T89	lemma = 'it'
+T90	VVD 320 324	took
+#86	AnnotatorNotes T90	lemma = 'take'
+T91	AT0 325 328	the
+#87	AnnotatorNotes T91	lemma = 'the'
+T92	ORD 329 334	first
+#88	AnnotatorNotes T92	lemma = 'first'
+T93	NN1 335 340	place
+#89	AnnotatorNotes T93	lemma = 'place'
+T94	PRP 341 343	by
+#90	AnnotatorNotes T94	lemma = 'by'
+T95	AT0 344 347	the
+#91	AnnotatorNotes T95	lemma = 'the'
+T96	NN1 348 354	number
+#92	AnnotatorNotes T96	lemma = 'number'
+T97	PRF 355 357	of
+#93	AnnotatorNotes T97	lemma = 'of'
+T98	AJ0 358 362	male
+#94	AnnotatorNotes T98	lemma = 'male'
+T99	NN2 363 370	workers
+#95	AnnotatorNotes T99	lemma = 'worker'
+T100	SENT 370 371	.
+#96	AnnotatorNotes T100	lemma = '.'
+T101	NN1 372 380	Industry
+#97	AnnotatorNotes T101	lemma = 'industry'
+T102	NN1 381 387	sphere
+#98	AnnotatorNotes T102	lemma = 'sphere'
+T103	VBD 388 391	was
+#99	AnnotatorNotes T103	lemma = 'be'
+T104	AV0 392 396	more
+#100	AnnotatorNotes T104	lemma = 'more'
+T105	AJ0 397 404	popular
+#101	AnnotatorNotes T105	lemma = 'popular'
+T106	PRP 405 410	among
+#102	AnnotatorNotes T106	lemma = 'among'
+T107	NN2 411 414	men
+#103	AnnotatorNotes T107	lemma = 'man'
+T108	AV0 415 421	rather
+#104	AnnotatorNotes T108	lemma = 'rather'
+T109	CJS 422 426	than
+#105	AnnotatorNotes T109	lemma = 'than'
+T110	NN2 427 432	women
+#106	AnnotatorNotes T110	lemma = 'woman'
+T111	SENT 432 433	.
+#107	AnnotatorNotes T111	lemma = '.'
+T112	PRP 435 437	In
+#108	AnnotatorNotes T112	lemma = 'in'
+T113	NP0 438 447	Indonesia
+#109	AnnotatorNotes T113	lemma = 'indonesia'
+T114	AT0 448 451	the
+#110	AnnotatorNotes T114	lemma = 'the'
+T115	AJS 452 459	biggest
+#111	AnnotatorNotes T115	lemma = 'big'
+T116	NN1 460 470	percantage
+#112	AnnotatorNotes T116	lemma = 'percantage'
+T117	PRF 471 473	of
+#113	AnnotatorNotes T117	lemma = 'of'
+T118	NN0 474 480	people
+#114	AnnotatorNotes T118	lemma = 'people'
+T119	VVN 481 487	worked
+#115	AnnotatorNotes T119	lemma = 'work'
+T120	PRP 488 490	at
+#116	AnnotatorNotes T120	lemma = 'at'
+T121	NN2 491 499	services
+#117	AnnotatorNotes T121	lemma = 'service'
+T122	CJC 500 503	and
+#118	AnnotatorNotes T122	lemma = 'and'
+T123	PNP 504 506	it
+#119	AnnotatorNotes T123	lemma = 'it'
+T124	VBD 507 510	was
+#120	AnnotatorNotes T124	lemma = 'be'
+T125	AV0 511 517	almost
+#121	AnnotatorNotes T125	lemma = 'almost'
+T126	AJ0 518 523	equal
+#122	AnnotatorNotes T126	lemma = 'equal'
+T127	PRP 524 529	among
+#123	AnnotatorNotes T127	lemma = 'among'
+T128	NN1 530 533	man
+#124	AnnotatorNotes T128	lemma = 'man'
+T129	CJC 534 537	and
+#125	AnnotatorNotes T129	lemma = 'and'
+T130	NN1 538 543	woman
+#126	AnnotatorNotes T130	lemma = 'woman'
+T131	PUN 544 545	-
+#127	AnnotatorNotes T131	lemma = '-'
+T132	CRD 546 548	56
+#128	AnnotatorNotes T132	lemma = '56'
+T133	NN0 548 549	%
+#129	AnnotatorNotes T133	lemma = '%'
+T134	VBD 550 554	were
+#130	AnnotatorNotes T134	lemma = 'be'
+T135	NN1 555 558	man
+#131	AnnotatorNotes T135	lemma = 'man'
+T136	CJC 559 562	and
+#132	AnnotatorNotes T136	lemma = 'and'
+T137	CRD 563 565	49
+#133	AnnotatorNotes T137	lemma = '49'
+T138	NN0 566 567	%
+#134	AnnotatorNotes T138	lemma = '%'
+T139	VBD 568 572	were
+#135	AnnotatorNotes T139	lemma = 'be'
+T140	NN2 573 578	women
+#136	AnnotatorNotes T140	lemma = 'woman'
+T141	SENT 578 579	.
+#137	AnnotatorNotes T141	lemma = '.'
+T142	NN1 580 591	Agriculture
+#138	AnnotatorNotes T142	lemma = 'agriculture'
+T143	VBD 592 595	was
+#139	AnnotatorNotes T143	lemma = 'be'
+T144	AV0 596 600	more
+#140	AnnotatorNotes T144	lemma = 'more'
+T145	AJ0 601 608	popular
+#141	AnnotatorNotes T145	lemma = 'popular'
+T146	PRP 609 616	between
+#142	AnnotatorNotes T146	lemma = 'between'
+T147	NN2 617 622	women
+#143	AnnotatorNotes T147	lemma = 'woman'
+T148	PRP 623 625	in
+#144	AnnotatorNotes T148	lemma = 'in'
+T149	NP0 626 635	Indonesia
+#145	AnnotatorNotes T149	lemma = 'indonesia'
+T150	PUN 636 637	-
+#146	AnnotatorNotes T150	lemma = '-'
+T151	CRD 638 640	43
+#147	AnnotatorNotes T151	lemma = '43'
+T152	NN0 640 641	%
+#148	AnnotatorNotes T152	lemma = '%'
+T153	PUN 641 642	,
+#149	AnnotatorNotes T153	lemma = ','
+T154	CJS 643 648	while
+#150	AnnotatorNotes T154	lemma = 'while'
+T155	PRP 649 651	in
+#151	AnnotatorNotes T155	lemma = 'in'
+T156	NP0 652 661	Australia
+#152	AnnotatorNotes T156	lemma = 'australia'
+T157	EX0 662 667	there
+#153	AnnotatorNotes T157	lemma = 'there'
+T158	VBD 668 671	was
+#154	AnnotatorNotes T158	lemma = 'be'
+T159	AV0 672 676	only
+#155	AnnotatorNotes T159	lemma = 'only'
+T160	CRD 677 678	1
+#156	AnnotatorNotes T160	lemma = '1'
+T161	NN0 678 679	%
+#157	AnnotatorNotes T161	lemma = '%'
+T162	PRF 680 682	of
+#158	AnnotatorNotes T162	lemma = 'of'
+T163	VVG 683 690	working
+#159	AnnotatorNotes T163	lemma = 'work|working'
+T164	NN2 691 696	women
+#160	AnnotatorNotes T164	lemma = 'woman'
+T165	PRP 697 699	in
+#161	AnnotatorNotes T165	lemma = 'in'
+T166	DT0 700 704	that
+#162	AnnotatorNotes T166	lemma = 'that'
+T167	NN1 705 711	sphere
+#163	AnnotatorNotes T167	lemma = 'sphere'
+T168	SENT 711 712	.
+#164	AnnotatorNotes T168	lemma = '.'
+T169	PRP 713 715	In
+#165	AnnotatorNotes T169	lemma = 'in'
+T170	DT0 716 720	both
+#166	AnnotatorNotes T170	lemma = 'both'
+T171	NN2 721 730	countries
+#167	AnnotatorNotes T171	lemma = 'country'
+T172	AT0 731 734	the
+#168	AnnotatorNotes T172	lemma = 'the'
+T173	NN1 735 741	sphere
+#169	AnnotatorNotes T173	lemma = 'sphere'
+T174	PRF 742 744	of
+#170	AnnotatorNotes T174	lemma = 'of'
+T175	NN1 745 753	industry
+#171	AnnotatorNotes T175	lemma = 'industry'
+T176	AV0 754 760	mostly
+#172	AnnotatorNotes T176	lemma = 'mostly'
+T177	VVN 761 767	suited
+#173	AnnotatorNotes T177	lemma = 'suit|suited'
+T178	PRP 768 771	for
+#174	AnnotatorNotes T178	lemma = 'for'
+T179	NN2 772 775	men
+#175	AnnotatorNotes T179	lemma = 'man'
+T180	PUN 775 776	:
+#176	AnnotatorNotes T180	lemma = ':'
+T181	CRD 777 779	15
+#177	AnnotatorNotes T181	lemma = '15'
+T182	NN0 779 780	%
+#178	AnnotatorNotes T182	lemma = '%'
+T183	PRP 781 783	in
+#179	AnnotatorNotes T183	lemma = 'in'
+T184	NP0 784 793	Indonesia
+#180	AnnotatorNotes T184	lemma = 'indonesia'
+T185	CJC 794 797	and
+#181	AnnotatorNotes T185	lemma = 'and'
+T186	CRD 798 800	32
+#182	AnnotatorNotes T186	lemma = '32'
+T187	NN0 801 802	%
+#183	AnnotatorNotes T187	lemma = '%'
+T188	PRP 803 805	in
+#184	AnnotatorNotes T188	lemma = 'in'
+T189	NP0 806 815	Australia
+#185	AnnotatorNotes T189	lemma = 'australia'
+T190	CJS 816 821	while
+#186	AnnotatorNotes T190	lemma = 'while'
+T191	AV0 822 826	only
+#187	AnnotatorNotes T191	lemma = 'only'
+T192	CRD 827 828	8
+#188	AnnotatorNotes T192	lemma = '8'
+T193	NN0 829 830	%
+#189	AnnotatorNotes T193	lemma = '%'
+T194	PRF 831 833	of
+#190	AnnotatorNotes T194	lemma = 'of'
+T195	AJ0 834 844	Indonesian
+#191	AnnotatorNotes T195	lemma = 'indonesian'
+T196	NN2 845 850	women
+#192	AnnotatorNotes T196	lemma = 'woman'
+T197	CJC 851 854	and
+#193	AnnotatorNotes T197	lemma = 'and'
+T198	CRD 855 857	11
+#194	AnnotatorNotes T198	lemma = '11'
+T199	NN0 858 859	%
+#195	AnnotatorNotes T199	lemma = '%'
+T200	PRF 860 862	of
+#196	AnnotatorNotes T200	lemma = 'of'
+T201	AJ0 863 873	Australian
+#197	AnnotatorNotes T201	lemma = 'australian'
+T202	NN2 874 879	women
+#198	AnnotatorNotes T202	lemma = 'woman'
+T203	VBD 880 884	were
+#199	AnnotatorNotes T203	lemma = 'be'
+T204	VVN 885 893	involved
+#200	AnnotatorNotes T204	lemma = 'involve|involved'
+T205	SENT 893 894	.
+#201	AnnotatorNotes T205	lemma = '.'
+T206	AT0 895 898	The
+#202	AnnotatorNotes T206	lemma = 'the'
+T207	NN1 899 909	percentage
+#203	AnnotatorNotes T207	lemma = 'percentage'
+T208	PRF 910 912	of
+#204	AnnotatorNotes T208	lemma = 'of'
+T209	NN2 913 920	workers
+#205	AnnotatorNotes T209	lemma = 'worker'
+T210	PRP 921 923	in
+#206	AnnotatorNotes T210	lemma = 'in'
+T211	NN2 924 932	services
+#207	AnnotatorNotes T211	lemma = 'service'
+T212	PRP 933 935	in
+#208	AnnotatorNotes T212	lemma = 'in'
+T213	NP0 936 945	Australia
+#209	AnnotatorNotes T213	lemma = 'australia'
+T214	VBZ 946 948	is
+#210	AnnotatorNotes T214	lemma = 'be'
+T215	XX0 949 952	not
+#211	AnnotatorNotes T215	lemma = 'not'
+T216	AT0 953 956	the
+#212	AnnotatorNotes T216	lemma = 'the'
+T217	DT0 957 961	same
+#213	AnnotatorNotes T217	lemma = 'same'
+T218	AJ0 962 967	equal
+#214	AnnotatorNotes T218	lemma = 'equal'
+T219	PRP 968 970	in
+#215	AnnotatorNotes T219	lemma = 'in'
+T220	AT0 971 974	the
+#216	AnnotatorNotes T220	lemma = 'the'
+T221	AJ0 975 980	other
+#217	AnnotatorNotes T221	lemma = 'other'
+T222	NN1 981 988	country
+#218	AnnotatorNotes T222	lemma = 'country'
+T223	PUN 988 989	,
+#219	AnnotatorNotes T223	lemma = ','
+T224	AT0 990 993	the
+#220	AnnotatorNotes T224	lemma = 'the'
+T225	NN1 994 1000	number
+#221	AnnotatorNotes T225	lemma = 'number'
+T226	PRF 1001 1003	of
+#222	AnnotatorNotes T226	lemma = 'of'
+T227	NN2 1004 1009	women
+#223	AnnotatorNotes T227	lemma = 'woman'
+T228	VBZ 1010 1012	is
+#224	AnnotatorNotes T228	lemma = 'be'
+T229	AJC 1013 1019	higher
+#225	AnnotatorNotes T229	lemma = 'high'
+T230	CJS 1020 1024	than
+#226	AnnotatorNotes T230	lemma = 'than'
+T231	NN2 1025 1028	men
+#227	AnnotatorNotes T231	lemma = 'man'
+T232	PUN 1028 1029	:
+#228	AnnotatorNotes T232	lemma = ':'
+T233	CRD 1030 1032	65
+#229	AnnotatorNotes T233	lemma = '65'
+T234	NN0 1033 1034	%
+#230	AnnotatorNotes T234	lemma = '%'
+T235	CJC 1035 1038	and
+#231	AnnotatorNotes T235	lemma = 'and'
+T236	CRD 1039 1041	88
+#232	AnnotatorNotes T236	lemma = '88'
+T237	NN0 1042 1043	%
+#233	AnnotatorNotes T237	lemma = '%'
+T238	SENT 1043 1044	.
+#234	AnnotatorNotes T238	lemma = '.'

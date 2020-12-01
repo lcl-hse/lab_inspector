@@ -1,0 +1,799 @@
+T1	Spelling 865 876	inobedience
+#1	AnnotatorNotes T1	disobedience
+T2	Spelling 117 124	coudn't
+#2	AnnotatorNotes T2	could not
+T3	Redundant_comp 21 29	more and
+A1	Delete T3
+T4	Inappropriate_register 117 124	coudn't
+#3	AnnotatorNotes T4	could not
+T5	lex_part_choice 125 144	have been unnoticed
+#4	AnnotatorNotes T5	have gone unnoticed
+T6	Punctuation 328 329	.
+#5	AnnotatorNotes T6	?
+T7	Spelling 439 448	vulnerble
+#6	AnnotatorNotes T7	vulnerable
+T8	Often_confused 476 481	there
+#7	AnnotatorNotes T8	their
+T9	Punctuation 547 548	,
+A2	Delete T9
+T10	Inappropriate_register 554 558	it's
+#8	AnnotatorNotes T10	it is
+T11	Spelling 830 841	romantisize
+#9	AnnotatorNotes T11	romanticize
+T12	Prefix 865 876	inobedience
+#10	AnnotatorNotes T12	disobedience
+T13	Spelling 1596 1597	s
+#11	AnnotatorNotes T13	is
+T14	Absence_comp_sent 1841 1858	atmosphere warmth
+#12	AnnotatorNotes T14	atmosphere of warmth
+T15	Tense_choice 770 784	are advocating
+#13	AnnotatorNotes T15	advocate
+T16	Linking_device 815 824	sometimes
+#14	AnnotatorNotes T16	while sometimes
+T17	Inappropriate_register 1023 1033	By the way
+#15	AnnotatorNotes T17	Additionally
+T18	Conditionals 1212 1224	would behave
+#16	AnnotatorNotes T18	behave
+T19	Conditionals 1239 1247	would be
+#17	AnnotatorNotes T19	are
+R1	Parallel_construction Arg1:T18 Arg2:T19
+T20	Tense_choice 1296 1302	wasn't
+#18	AnnotatorNotes T20	is not
+T21	Articles 1385 1404	wrong understanding
+#19	AnnotatorNotes T21	the wrong understanding
+T22	Articles 330 333	The
+A3	Delete T22
+T23	PRP 0 2	In
+#20	AnnotatorNotes T23	lemma = 'in'
+T24	DT0 3 8	these
+#21	AnnotatorNotes T24	lemma = 'these'
+T25	DT0 9 15	latter
+#22	AnnotatorNotes T25	lemma = 'latter'
+T26	NN2 16 20	days
+#23	AnnotatorNotes T26	lemma = 'day'
+T27	AV0 21 25	more
+#24	AnnotatorNotes T27	lemma = 'more'
+T28	CJC 26 29	and
+#25	AnnotatorNotes T28	lemma = 'and'
+T29	DT0 30 34	more
+#26	AnnotatorNotes T29	lemma = 'more'
+T30	NN2 35 41	crimes
+#27	AnnotatorNotes T30	lemma = 'crime'
+T31	VBB 42 45	are
+#28	AnnotatorNotes T31	lemma = 'be'
+T32	VBG 46 51	being
+#29	AnnotatorNotes T32	lemma = 'be'
+T33	VVN 52 61	committed
+#30	AnnotatorNotes T33	lemma = 'commit|committed'
+T34	PRP 62 64	by
+#31	AnnotatorNotes T34	lemma = 'by'
+T35	AJC 65 72	younger
+#32	AnnotatorNotes T35	lemma = 'young'
+T36	NN1 73 83	population
+#33	AnnotatorNotes T36	lemma = 'population'
+T37	CJS 84 88	than
+#34	AnnotatorNotes T37	lemma = 'than'
+T38	AV0 89 93	ever
+#35	AnnotatorNotes T38	lemma = 'ever'
+T39	PRP 94 96	in
+#36	AnnotatorNotes T39	lemma = 'in'
+T40	NN1 97 104	history
+#37	AnnotatorNotes T40	lemma = 'history'
+T41	SENT 104 105	.
+#38	AnnotatorNotes T41	lemma = '.'
+T42	DT0 106 110	This
+#39	AnnotatorNotes T42	lemma = 'this'
+T43	NN1 111 116	shift
+#40	AnnotatorNotes T43	lemma = 'shift'
+T44	VVB 117 121	coud
+#41	AnnotatorNotes T44	lemma = 'coud'
+T45	XX0 121 124	n't
+#42	AnnotatorNotes T45	lemma = 'not'
+T46	VHI 125 129	have
+#43	AnnotatorNotes T46	lemma = 'have'
+T47	VBN 130 134	been
+#44	AnnotatorNotes T47	lemma = 'be'
+T48	AJ0 135 144	unnoticed
+#45	AnnotatorNotes T48	lemma = 'unnoticed'
+T49	CJC 145 148	and
+#46	AnnotatorNotes T49	lemma = 'and'
+T50	PNP 149 151	it
+#47	AnnotatorNotes T50	lemma = 'it'
+T51	VHZ 152 155	has
+#48	AnnotatorNotes T51	lemma = 'have'
+T52	TO0 156 158	to
+#49	AnnotatorNotes T52	lemma = 'to'
+T53	VBI 159 161	be
+#50	AnnotatorNotes T53	lemma = 'be'
+T54	VVN 162 172	considered
+#51	AnnotatorNotes T54	lemma = 'consider|considered'
+T55	AT0 173 174	a
+#52	AnnotatorNotes T55	lemma = 'a'
+T56	AJ0 175 182	serious
+#53	AnnotatorNotes T56	lemma = 'serious'
+T57	NN1 183 190	problem
+#54	AnnotatorNotes T57	lemma = 'problem'
+T58	CJS 191 197	before
+#55	AnnotatorNotes T58	lemma = 'before'
+T59	PNP 198 200	it
+#56	AnnotatorNotes T59	lemma = 'it'
+T60	VM0 201 206	might
+#57	AnnotatorNotes T60	lemma = 'might'
+T61	VBI 207 209	be
+#58	AnnotatorNotes T61	lemma = 'be'
+T62	AV0 210 213	too
+#59	AnnotatorNotes T62	lemma = 'too'
+T63	AJ0 214 218	late
+#60	AnnotatorNotes T63	lemma = 'late'
+T64	PUN 218 219	,
+#61	AnnotatorNotes T64	lemma = ','
+T65	CJS 220 227	because
+#62	AnnotatorNotes T65	lemma = 'because'
+T66	AJ0 228 233	young
+#63	AnnotatorNotes T66	lemma = 'young'
+T67	NN0 234 240	people
+#64	AnnotatorNotes T67	lemma = 'people'
+T68	VBB 241 244	are
+#65	AnnotatorNotes T68	lemma = 'be'
+T69	AT0 245 248	the
+#66	AnnotatorNotes T69	lemma = 'the'
+T70	NN1 249 259	reflection
+#67	AnnotatorNotes T70	lemma = 'reflection'
+T71	PRF 260 262	of
+#68	AnnotatorNotes T71	lemma = 'of'
+T72	AT0 263 266	the
+#69	AnnotatorNotes T72	lemma = 'the'
+T73	NN1 267 273	future
+#70	AnnotatorNotes T73	lemma = 'future'
+T74	SENT 273 274	.
+#71	AnnotatorNotes T74	lemma = '.'
+T75	DTQ 276 280	What
+#72	AnnotatorNotes T75	lemma = 'what'
+T76	VM0 281 284	can
+#73	AnnotatorNotes T76	lemma = 'can'
+T77	VVI 285 290	cause
+#74	AnnotatorNotes T77	lemma = 'cause'
+T78	DT0 291 295	such
+#75	AnnotatorNotes T78	lemma = 'such'
+T79	AT0 296 297	a
+#76	AnnotatorNotes T79	lemma = 'a'
+T80	NN1 298 304	change
+#77	AnnotatorNotes T80	lemma = 'change'
+T81	PRP 305 307	in
+#78	AnnotatorNotes T81	lemma = 'in'
+T82	AJ0 308 313	young
+#79	AnnotatorNotes T82	lemma = 'young'
+T83	AJ0 314 322	unstable
+#80	AnnotatorNotes T83	lemma = 'unstable'
+T84	NN2 323 328	minds
+#81	AnnotatorNotes T84	lemma = 'mind'
+T85	SENT 328 329	.
+#82	AnnotatorNotes T85	lemma = '.'
+T86	AT0 330 333	The
+#83	AnnotatorNotes T86	lemma = 'the'
+T87	NN1 334 338	part
+#84	AnnotatorNotes T87	lemma = 'part'
+T88	PRF 339 341	of
+#85	AnnotatorNotes T88	lemma = 'of'
+T89	AT0 342 345	the
+#86	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 346 352	answer
+#87	AnnotatorNotes T90	lemma = 'answer'
+T91	VBZ 353 355	is
+#88	AnnotatorNotes T91	lemma = 'be'
+T92	AV0 356 363	already
+#89	AnnotatorNotes T92	lemma = 'already'
+T93	PRP 364 366	in
+#90	AnnotatorNotes T93	lemma = 'in'
+T94	AT0 367 370	the
+#91	AnnotatorNotes T94	lemma = 'the'
+T95	NN1 371 379	question
+#92	AnnotatorNotes T95	lemma = 'question'
+T96	SENT 379 380	.
+#93	AnnotatorNotes T96	lemma = '.'
+T97	NN2 381 386	Teens
+#94	AnnotatorNotes T97	lemma = 'teen'
+T98	PUN 386 387	,
+#95	AnnotatorNotes T98	lemma = ','
+T99	AJ0 388 392	good
+#96	AnnotatorNotes T99	lemma = 'good'
+T100	NN2 393 408	representatives
+#97	AnnotatorNotes T100	lemma = 'representative'
+T101	PRF 409 411	of
+#98	AnnotatorNotes T101	lemma = 'of'
+T102	AJ0 412 417	young
+#99	AnnotatorNotes T102	lemma = 'young'
+T103	NN1 418 428	population
+#100	AnnotatorNotes T103	lemma = 'population'
+T104	PUN 428 429	,
+#101	AnnotatorNotes T104	lemma = ','
+T105	VBB 430 433	are
+#102	AnnotatorNotes T105	lemma = 'be'
+T106	AV0 434 438	very
+#103	AnnotatorNotes T106	lemma = 'very'
+T107	AJ0 439 448	vulnerble
+#104	AnnotatorNotes T107	lemma = 'vulnerble'
+T108	PRP 449 451	to
+#105	AnnotatorNotes T108	lemma = 'to'
+T109	NN1 452 463	information
+#106	AnnotatorNotes T109	lemma = 'information'
+T110	PNP 464 468	they
+#107	AnnotatorNotes T110	lemma = 'they'
+T111	VVB 469 472	get
+#108	AnnotatorNotes T111	lemma = 'get'
+T112	PRP 473 475	in
+#109	AnnotatorNotes T112	lemma = 'in'
+T113	AV0 476 481	there
+#110	AnnotatorNotes T113	lemma = 'there'
+T114	AJ0 482 490	everyday
+#111	AnnotatorNotes T114	lemma = 'everyday'
+T115	NN1 491 495	life
+#112	AnnotatorNotes T115	lemma = 'life'
+T116	SENT 495 496	.
+#113	AnnotatorNotes T116	lemma = '.'
+T117	AV0 497 505	Nowadays
+#114	AnnotatorNotes T117	lemma = 'nowadays'
+T118	EX0 506 511	there
+#115	AnnotatorNotes T118	lemma = 'there'
+T119	VBB 512 515	are
+#116	AnnotatorNotes T119	lemma = 'be'
+T120	AV0 516 518	so
+#117	AnnotatorNotes T120	lemma = 'so'
+T121	DT0 519 523	many
+#118	AnnotatorNotes T121	lemma = 'many'
+T122	NN2 524 532	channels
+#119	AnnotatorNotes T122	lemma = 'channel'
+T123	PRF 533 535	of
+#120	AnnotatorNotes T123	lemma = 'of'
+T124	NN1 536 547	information
+#121	AnnotatorNotes T124	lemma = 'information'
+T125	PUN 547 548	,
+#122	AnnotatorNotes T125	lemma = ','
+T126	CJT 549 553	that
+#123	AnnotatorNotes T126	lemma = 'that'
+T127	PNP 554 556	it
+#124	AnnotatorNotes T127	lemma = 'it'
+T128	VBZ 556 558	's
+#125	AnnotatorNotes T128	lemma = 'be'
+T129	AV0 559 564	often
+#126	AnnotatorNotes T129	lemma = 'often'
+T130	AJ0 565 569	hard
+#127	AnnotatorNotes T130	lemma = 'hard'
+T131	TO0 570 572	to
+#128	AnnotatorNotes T131	lemma = 'to'
+T132	VVI 573 583	understand
+#129	AnnotatorNotes T132	lemma = 'understand'
+T133	PUQ 584 585	"
+#130	AnnotatorNotes T133	lemma = '"'
+T134	DTQ 585 589	what
+#131	AnnotatorNotes T134	lemma = 'what'
+T135	VBZ 590 592	is
+#132	AnnotatorNotes T135	lemma = 'be'
+T136	AJ0 593 598	right
+#133	AnnotatorNotes T136	lemma = 'right'
+T137	CJC 599 602	and
+#134	AnnotatorNotes T137	lemma = 'and'
+T138	DTQ 603 607	what
+#135	AnnotatorNotes T138	lemma = 'what'
+T139	VBZ 608 610	is
+#136	AnnotatorNotes T139	lemma = 'be'
+T140	AJ0 611 616	wrong
+#137	AnnotatorNotes T140	lemma = 'wrong'
+T141	PUQ 616 617	"
+#138	AnnotatorNotes T141	lemma = '"'
+T142	SENT 617 618	.
+#139	AnnotatorNotes T142	lemma = '.'
+T143	NN1 619 627	Internet
+#140	AnnotatorNotes T143	lemma = 'internet'
+T144	PUN 627 628	,
+#141	AnnotatorNotes T144	lemma = ','
+T145	NN1 629 639	television
+#142	AnnotatorNotes T145	lemma = 'television'
+T146	CJC 640 643	and
+#143	AnnotatorNotes T146	lemma = 'and'
+T147	AJ0 644 649	other
+#144	AnnotatorNotes T147	lemma = 'other'
+T148	NN0 650 655	means
+#145	AnnotatorNotes T148	lemma = 'means'
+T149	PRF 656 658	of
+#146	AnnotatorNotes T149	lemma = 'of'
+T150	NN1 659 670	information
+#147	AnnotatorNotes T150	lemma = 'information'
+T151	VHB 671 675	have
+#148	AnnotatorNotes T151	lemma = 'have'
+T152	VBN 676 680	been
+#149	AnnotatorNotes T152	lemma = 'be'
+T153	VVG 681 692	influencing
+#150	AnnotatorNotes T153	lemma = 'influence'
+T154	AJ0 693 698	young
+#151	AnnotatorNotes T154	lemma = 'young'
+T155	NN0 699 705	people
+#152	AnnotatorNotes T155	lemma = 'people'
+T156	POS 705 707	's
+#153	AnnotatorNotes T156	lemma = 's'
+T157	NN2 708 713	minds
+#154	AnnotatorNotes T157	lemma = 'mind'
+T158	AV0 714 726	dramatically
+#155	AnnotatorNotes T158	lemma = 'dramatically'
+T159	AV0 727 735	recently
+#156	AnnotatorNotes T159	lemma = 'recently'
+T160	SENT 735 736	.
+#157	AnnotatorNotes T160	lemma = '.'
+T161	CJC 737 740	And
+#158	AnnotatorNotes T161	lemma = 'and'
+T162	DT0 741 746	these
+#159	AnnotatorNotes T162	lemma = 'these'
+T163	AJ0 747 753	social
+#160	AnnotatorNotes T163	lemma = 'social'
+T164	NN0 754 759	media
+#161	AnnotatorNotes T164	lemma = 'media'
+T165	AV0 760 769	sometimes
+#162	AnnotatorNotes T165	lemma = 'sometimes'
+T166	VBB 770 773	are
+#163	AnnotatorNotes T166	lemma = 'be'
+T167	VVG 774 784	advocating
+#164	AnnotatorNotes T167	lemma = 'advocate'
+T168	AJ0 785 795	individual
+#165	AnnotatorNotes T168	lemma = 'individual'
+T169	NN1 796 803	freedom
+#166	AnnotatorNotes T169	lemma = 'freedom'
+T170	CJC 804 807	and
+#167	AnnotatorNotes T170	lemma = 'and'
+T171	NN1 808 813	power
+#168	AnnotatorNotes T171	lemma = 'power'
+T172	PUN 813 814	,
+#169	AnnotatorNotes T172	lemma = ','
+T173	AV0 815 824	sometimes
+#170	AnnotatorNotes T173	lemma = 'sometimes'
+T174	PNP 825 829	they
+#171	AnnotatorNotes T174	lemma = 'they'
+T175	VVB 830 841	romantisize
+#172	AnnotatorNotes T175	lemma = 'romantisize'
+T176	AJ0 842 850	criminal
+#173	AnnotatorNotes T176	lemma = 'criminal'
+T177	NN1 851 860	lifestyle
+#174	AnnotatorNotes T177	lemma = 'lifestyle'
+T178	CJC 861 864	and
+#175	AnnotatorNotes T178	lemma = 'and'
+T179	NN1 865 876	inobedience
+#176	AnnotatorNotes T179	lemma = 'inobedience'
+T180	PRP 877 879	to
+#177	AnnotatorNotes T180	lemma = 'to'
+T181	AT0 880 883	the
+#178	AnnotatorNotes T181	lemma = 'the'
+T182	NN2 884 895	authorities
+#179	AnnotatorNotes T182	lemma = 'authority'
+T183	SENT 895 896	.
+#180	AnnotatorNotes T183	lemma = '.'
+T184	DT0 897 901	Such
+#181	AnnotatorNotes T184	lemma = 'such'
+T185	AJ0 902 915	informational
+#182	AnnotatorNotes T185	lemma = 'informational'
+T186	NN2 916 924	messages
+#183	AnnotatorNotes T186	lemma = 'message'
+T187	PUN 924 925	,
+#184	AnnotatorNotes T187	lemma = ','
+T188	AV0 926 936	especially
+#185	AnnotatorNotes T188	lemma = 'especially'
+T189	VVN 937 946	presented
+#186	AnnotatorNotes T189	lemma = 'present|presented'
+T190	PRP 947 949	to
+#187	AnnotatorNotes T190	lemma = 'to'
+T191	NN2 950 955	teens
+#188	AnnotatorNotes T191	lemma = 'teen'
+T192	PRP 956 958	in
+#189	AnnotatorNotes T192	lemma = 'in'
+T193	AT0 959 960	a
+#190	AnnotatorNotes T193	lemma = 'a'
+T194	AJ0 961 966	right
+#191	AnnotatorNotes T194	lemma = 'right'
+T195	PUN 966 967	,
+#192	AnnotatorNotes T195	lemma = ','
+T196	AJ0 968 977	effective
+#193	AnnotatorNotes T196	lemma = 'effective'
+T197	NN1 978 981	way
+#194	AnnotatorNotes T197	lemma = 'way'
+T198	VM0 982 985	can
+#195	AnnotatorNotes T198	lemma = 'can'
+T199	VVI 986 995	influence
+#196	AnnotatorNotes T199	lemma = 'influence'
+T200	DPS 996 1001	their
+#197	AnnotatorNotes T200	lemma = 'they'
+T201	NN2 1002 1007	minds
+#198	AnnotatorNotes T201	lemma = 'mind'
+T202	AV0 1008 1021	significantly
+#199	AnnotatorNotes T202	lemma = 'significantly'
+T203	SENT 1021 1022	.
+#200	AnnotatorNotes T203	lemma = '.'
+T204	PRP 1023 1025	By
+#201	AnnotatorNotes T204	lemma = 'by'
+T205	AT0 1026 1029	the
+#202	AnnotatorNotes T205	lemma = 'the'
+T206	NN1 1030 1033	way
+#203	AnnotatorNotes T206	lemma = 'way'
+T207	PUN 1033 1034	,
+#204	AnnotatorNotes T207	lemma = ','
+T208	AT0 1035 1036	a
+#205	AnnotatorNotes T208	lemma = 'a'
+T209	AJ0 1037 1047	noticeable
+#206	AnnotatorNotes T209	lemma = 'noticeable'
+T210	AJ0 1048 1057	worldwide
+#207	AnnotatorNotes T210	lemma = 'worldwide'
+T211	NN1 1058 1063	shift
+#208	AnnotatorNotes T211	lemma = 'shift'
+T212	PRP 1064 1066	to
+#209	AnnotatorNotes T212	lemma = 'to'
+T213	AJ0 1067 1074	liberal
+#210	AnnotatorNotes T213	lemma = 'liberal'
+T214	NN2 1075 1081	values
+#211	AnnotatorNotes T214	lemma = 'value'
+T215	CJC 1082 1085	and
+#212	AnnotatorNotes T215	lemma = 'and'
+T216	NN1 1086 1093	defence
+#213	AnnotatorNotes T216	lemma = 'defence'
+T217	PRF 1094 1096	of
+#214	AnnotatorNotes T217	lemma = 'of'
+T218	AJ0 1097 1102	human
+#215	AnnotatorNotes T218	lemma = 'human'
+T219	NN2 1103 1109	rights
+#216	AnnotatorNotes T219	lemma = 'right'
+T220	VVB 1110 1114	make
+#217	AnnotatorNotes T220	lemma = 'make'
+T221	AT0 1115 1118	the
+#218	AnnotatorNotes T221	lemma = 'the'
+T222	AJ0 1119 1125	social
+#219	AnnotatorNotes T222	lemma = 'social'
+T223	NN1 1126 1136	atmosphere
+#220	AnnotatorNotes T223	lemma = 'atmosphere'
+T224	AV0 1137 1141	less
+#221	AnnotatorNotes T224	lemma = 'less'
+T225	AJ0 1142 1148	stable
+#222	AnnotatorNotes T225	lemma = 'stable'
+T226	SENT 1148 1149	.
+#223	AnnotatorNotes T226	lemma = '.'
+T227	NN2 1150 1158	Children
+#224	AnnotatorNotes T227	lemma = 'child'
+T228	VVB 1159 1163	grow
+#225	AnnotatorNotes T228	lemma = 'grow'
+T229	PRP 1164 1171	without
+#226	AnnotatorNotes T229	lemma = 'without'
+T230	AJ0 1172 1181	sovereign
+#227	AnnotatorNotes T230	lemma = 'sovereign'
+T231	NN2 1182 1193	authorities
+#228	AnnotatorNotes T231	lemma = 'authority'
+T232	PUN 1193 1194	:
+#229	AnnotatorNotes T232	lemma = ':'
+T233	CJS 1195 1197	if
+#230	AnnotatorNotes T233	lemma = 'if'
+T234	DPS 1198 1203	their
+#231	AnnotatorNotes T234	lemma = 'they'
+T235	NN2 1204 1211	parents
+#232	AnnotatorNotes T235	lemma = 'parent'
+T236	VM0 1212 1217	would
+#233	AnnotatorNotes T236	lemma = 'would'
+T237	VVI 1218 1224	behave
+#234	AnnotatorNotes T237	lemma = 'behave'
+T238	PUQ 1225 1226	"
+#235	AnnotatorNotes T238	lemma = '"'
+T239	AV0 1226 1231	badly
+#236	AnnotatorNotes T239	lemma = 'badly'
+T240	PUQ 1231 1232	"
+#237	AnnotatorNotes T240	lemma = '"'
+T241	PUN 1232 1233	,
+#238	AnnotatorNotes T241	lemma = ','
+T242	PNP 1234 1238	they
+#239	AnnotatorNotes T242	lemma = 'they'
+T243	VM0 1239 1244	would
+#240	AnnotatorNotes T243	lemma = 'would'
+T244	VBI 1245 1247	be
+#241	AnnotatorNotes T244	lemma = 'be'
+T245	VVN 1248 1257	protected
+#242	AnnotatorNotes T245	lemma = 'protect|protected'
+T246	PRP 1258 1260	by
+#243	AnnotatorNotes T246	lemma = 'by'
+T247	AT0 1261 1264	the
+#244	AnnotatorNotes T247	lemma = 'the'
+T248	NN1 1265 1275	government
+#245	AnnotatorNotes T248	lemma = 'government'
+T249	SENT 1275 1276	.
+#246	AnnotatorNotes T249	lemma = '.'
+T250	CJS 1277 1279	If
+#247	AnnotatorNotes T250	lemma = 'if'
+T251	AT0 1280 1283	the
+#248	AnnotatorNotes T251	lemma = 'the'
+T252	NN1 1284 1294	government
+#249	AnnotatorNotes T252	lemma = 'government'
+T253	PUQ 1295 1296	"
+#250	AnnotatorNotes T253	lemma = '"'
+T254	VBD 1296 1299	was
+#251	AnnotatorNotes T254	lemma = 'be'
+T255	XX0 1299 1302	n't
+#252	AnnotatorNotes T255	lemma = 'not'
+T256	AJ0 1303 1308	right
+#253	AnnotatorNotes T256	lemma = 'right'
+T257	PUQ 1308 1309	"
+#254	AnnotatorNotes T257	lemma = '"'
+T258	PUN 1309 1310	,
+#255	AnnotatorNotes T258	lemma = ','
+T259	PNP 1311 1315	they
+#256	AnnotatorNotes T259	lemma = 'they'
+T260	AV0 1316 1322	always
+#257	AnnotatorNotes T260	lemma = 'always'
+T261	VM0 1323 1326	can
+#258	AnnotatorNotes T261	lemma = 'can'
+T262	VVI 1327 1331	turn
+#259	AnnotatorNotes T262	lemma = 'turn'
+T263	PRP 1332 1334	to
+#260	AnnotatorNotes T263	lemma = 'to'
+T264	AJ0 1335 1343	European
+#261	AnnotatorNotes T264	lemma = 'european'
+T265	NN1 1344 1349	court
+#262	AnnotatorNotes T265	lemma = 'court'
+T266	SENT 1349 1350	.
+#263	AnnotatorNotes T266	lemma = '.'
+T267	DT0 1351 1355	This
+#264	AnnotatorNotes T267	lemma = 'this'
+T268	NN1 1356 1360	lack
+#265	AnnotatorNotes T268	lemma = 'lack'
+T269	PRF 1361 1363	of
+#266	AnnotatorNotes T269	lemma = 'of'
+T270	NN1 1364 1373	authority
+#267	AnnotatorNotes T270	lemma = 'authority'
+T271	NN2 1374 1381	results
+#268	AnnotatorNotes T271	lemma = 'result'
+T272	PRP 1382 1384	in
+#269	AnnotatorNotes T272	lemma = 'in'
+T273	AJ0 1385 1390	wrong
+#270	AnnotatorNotes T273	lemma = 'wrong'
+T274	NN1 1391 1404	understanding
+#271	AnnotatorNotes T274	lemma = 'understanding|understand'
+T275	PRF 1405 1407	of
+#272	AnnotatorNotes T275	lemma = 'of'
+T276	NN1 1408 1415	freedom
+#273	AnnotatorNotes T276	lemma = 'freedom'
+T277	PUN 1415 1416	,
+#274	AnnotatorNotes T277	lemma = ','
+T278	DTQ 1417 1422	which
+#275	AnnotatorNotes T278	lemma = 'which'
+T279	VM0 1423 1428	could
+#276	AnnotatorNotes T279	lemma = 'could'
+T280	VBI 1429 1431	be
+#277	AnnotatorNotes T280	lemma = 'be'
+T281	AJ0 1432 1441	dangerous
+#278	AnnotatorNotes T281	lemma = 'dangerous'
+T282	PRP 1442 1445	for
+#279	AnnotatorNotes T282	lemma = 'for'
+T283	NN1 1446 1453	society
+#280	AnnotatorNotes T283	lemma = 'society'
+T284	SENT 1453 1454	.
+#281	AnnotatorNotes T284	lemma = '.'
+T285	AV0 1455 1463	Moreover
+#282	AnnotatorNotes T285	lemma = 'moreover'
+T286	PUN 1463 1464	,
+#283	AnnotatorNotes T286	lemma = ','
+T287	AV0 1465 1469	more
+#284	AnnotatorNotes T287	lemma = 'more'
+T288	CJC 1470 1473	and
+#285	AnnotatorNotes T288	lemma = 'and'
+T289	AV0 1474 1478	more
+#286	AnnotatorNotes T289	lemma = 'more'
+T290	AV0 1479 1484	often
+#287	AnnotatorNotes T290	lemma = 'often'
+T291	NN2 1485 1490	teens
+#288	AnnotatorNotes T291	lemma = 'teen'
+T292	VHB 1491 1495	have
+#289	AnnotatorNotes T292	lemma = 'have'
+T293	NN2 1496 1504	troubles
+#290	AnnotatorNotes T293	lemma = 'trouble'
+T294	PRP 1505 1511	inside
+#291	AnnotatorNotes T294	lemma = 'inside'
+T295	DPS 1512 1517	their
+#292	AnnotatorNotes T295	lemma = 'they'
+T296	NN1 1518 1524	family
+#293	AnnotatorNotes T296	lemma = 'family'
+T297	SENT 1524 1525	.
+#294	AnnotatorNotes T297	lemma = '.'
+T298	AT0 1526 1529	The
+#295	AnnotatorNotes T298	lemma = 'the'
+T299	AJ0 1530 1535	great
+#296	AnnotatorNotes T299	lemma = 'great'
+T300	AJ0 1536 1549	unprecedented
+#297	AnnotatorNotes T300	lemma = 'unprecedented'
+T301	NN1 1550 1560	difference
+#298	AnnotatorNotes T301	lemma = 'difference'
+T302	PRP 1561 1566	among
+#299	AnnotatorNotes T302	lemma = 'among'
+T303	AJC 1567 1574	younger
+#300	AnnotatorNotes T303	lemma = 'young'
+T304	CJC 1575 1578	and
+#301	AnnotatorNotes T304	lemma = 'and'
+T305	AJC 1579 1584	older
+#302	AnnotatorNotes T305	lemma = 'old'
+T306	NN1 1585 1595	population
+#303	AnnotatorNotes T306	lemma = 'population'
+T307	VBZ 1596 1597	s
+#304	AnnotatorNotes T307	lemma = 's'
+T308	AT0 1598 1599	a
+#305	AnnotatorNotes T308	lemma = 'a'
+T309	AJ0 1600 1610	well-known
+#306	AnnotatorNotes T309	lemma = 'well-known'
+T310	NN1 1611 1615	fact
+#307	AnnotatorNotes T310	lemma = 'fact'
+T311	SENT 1615 1616	.
+#308	AnnotatorNotes T311	lemma = '.'
+T312	CJC 1617 1620	And
+#309	AnnotatorNotes T312	lemma = 'and'
+T313	CJS 1621 1625	when
+#310	AnnotatorNotes T313	lemma = 'when'
+T314	NN2 1626 1634	children
+#311	AnnotatorNotes T314	lemma = 'child'
+T315	VHB 1635 1639	have
+#312	AnnotatorNotes T315	lemma = 'have'
+T316	NN2 1640 1648	problems
+#313	AnnotatorNotes T316	lemma = 'problem'
+T317	PRP 1649 1651	in
+#314	AnnotatorNotes T317	lemma = 'in'
+T318	DPS 1652 1657	their
+#315	AnnotatorNotes T318	lemma = 'they'
+T319	NN1 1658 1664	family
+#316	AnnotatorNotes T319	lemma = 'family'
+T320	PUN 1664 1665	,
+#317	AnnotatorNotes T320	lemma = ','
+T321	PNP 1666 1670	they
+#318	AnnotatorNotes T321	lemma = 'they'
+T322	VVB 1671 1675	grow
+#319	AnnotatorNotes T322	lemma = 'grow'
+T323	AVP 1676 1678	up
+#320	AnnotatorNotes T323	lemma = 'up'
+T324	AJ0 1679 1683	rude
+#321	AnnotatorNotes T324	lemma = 'rude'
+T325	CJC 1684 1687	and
+#322	AnnotatorNotes T325	lemma = 'and'
+T326	AJ0 1688 1698	aggressive
+#323	AnnotatorNotes T326	lemma = 'aggressive'
+T327	PUN 1698 1699	,
+#324	AnnotatorNotes T327	lemma = ','
+T328	DTQ 1700 1705	which
+#325	AnnotatorNotes T328	lemma = 'which'
+T329	VM0 1706 1709	can
+#326	AnnotatorNotes T329	lemma = 'can'
+T330	VVI 1710 1716	result
+#327	AnnotatorNotes T330	lemma = 'result'
+T331	PRP 1717 1719	in
+#328	AnnotatorNotes T331	lemma = 'in'
+T332	DT0 1720 1724	more
+#329	AnnotatorNotes T332	lemma = 'more'
+T333	NN2 1725 1731	crimes
+#330	AnnotatorNotes T333	lemma = 'crime'
+T334	SENT 1731 1732	.
+#331	AnnotatorNotes T334	lemma = '.'
+T335	AT0 1734 1737	The
+#332	AnnotatorNotes T335	lemma = 'the'
+T336	ORD 1738 1743	first
+#333	AnnotatorNotes T336	lemma = 'first'
+T337	CJC 1744 1747	and
+#334	AnnotatorNotes T337	lemma = 'and'
+T338	AJS 1748 1756	foremost
+#335	AnnotatorNotes T338	lemma = 'foremost'
+T339	AJ0 1757 1765	possible
+#336	AnnotatorNotes T339	lemma = 'possible'
+T340	NN1 1766 1774	solution
+#337	AnnotatorNotes T340	lemma = 'solution'
+T341	PRP 1775 1778	for
+#338	AnnotatorNotes T341	lemma = 'for'
+T342	NN2 1779 1786	parents
+#339	AnnotatorNotes T342	lemma = 'parent'
+T343	VBZ 1787 1789	is
+#340	AnnotatorNotes T343	lemma = 'be'
+T344	TO0 1790 1792	to
+#341	AnnotatorNotes T344	lemma = 'to'
+T345	VVI 1793 1799	devote
+#342	AnnotatorNotes T345	lemma = 'devote'
+T346	DT0 1800 1804	more
+#343	AnnotatorNotes T346	lemma = 'more'
+T347	NN1 1805 1809	time
+#344	AnnotatorNotes T347	lemma = 'time'
+T348	PRP 1810 1812	to
+#345	AnnotatorNotes T348	lemma = 'to'
+T349	DPS 1813 1818	their
+#346	AnnotatorNotes T349	lemma = 'they'
+T350	NN2 1819 1823	kids
+#347	AnnotatorNotes T350	lemma = 'kid'
+T351	SENT 1823 1824	.
+#348	AnnotatorNotes T351	lemma = '.'
+T352	PNI 1825 1832	Nothing
+#349	AnnotatorNotes T352	lemma = 'nothing'
+T353	CJC 1833 1836	but
+#350	AnnotatorNotes T353	lemma = 'but'
+T354	AT0 1837 1840	the
+#351	AnnotatorNotes T354	lemma = 'the'
+T355	NN1 1841 1851	atmosphere
+#352	AnnotatorNotes T355	lemma = 'atmosphere'
+T356	NN1 1852 1858	warmth
+#353	AnnotatorNotes T356	lemma = 'warmth'
+T357	CJC 1859 1862	and
+#354	AnnotatorNotes T357	lemma = 'and'
+T358	NN1 1863 1876	understanding
+#355	AnnotatorNotes T358	lemma = 'understanding|understand'
+T359	VM0 1877 1880	can
+#356	AnnotatorNotes T359	lemma = 'can'
+T360	VVI 1881 1885	help
+#357	AnnotatorNotes T360	lemma = 'help'
+T361	TO0 1886 1888	to
+#358	AnnotatorNotes T361	lemma = 'to'
+T362	VVI 1889 1896	improve
+#359	AnnotatorNotes T362	lemma = 'improve'
+T363	AT0 1897 1900	the
+#360	AnnotatorNotes T363	lemma = 'the'
+T364	NN1 1901 1910	situation
+#361	AnnotatorNotes T364	lemma = 'situation'
+T365	SENT 1910 1911	.
+#362	AnnotatorNotes T365	lemma = '.'
+T366	CJS 1912 1914	As
+#363	AnnotatorNotes T366	lemma = 'as'
+T367	XX0 1915 1918	not
+#364	AnnotatorNotes T367	lemma = 'not'
+T368	DT0 1919 1922	all
+#365	AnnotatorNotes T368	lemma = 'all'
+T369	NN2 1923 1930	parents
+#366	AnnotatorNotes T369	lemma = 'parent'
+T370	VBB 1931 1934	are
+#367	AnnotatorNotes T370	lemma = 'be'
+T371	AJ0 1935 1940	ready
+#368	AnnotatorNotes T371	lemma = 'ready'
+T372	PRP 1941 1944	for
+#369	AnnotatorNotes T372	lemma = 'for'
+T373	DT0 1945 1949	such
+#370	AnnotatorNotes T373	lemma = 'such'
+T374	PUQ 1950 1951	"
+#371	AnnotatorNotes T374	lemma = '"'
+T375	NN2 1951 1960	devotions
+#372	AnnotatorNotes T375	lemma = 'devotion'
+T376	PUQ 1960 1961	"
+#373	AnnotatorNotes T376	lemma = '"'
+T377	PUN 1961 1962	,
+#374	AnnotatorNotes T377	lemma = ','
+T378	NN2 1963 1971	teachers
+#375	AnnotatorNotes T378	lemma = 'teacher'
+T379	VM0 1972 1978	should
+#376	AnnotatorNotes T379	lemma = 'should'
+T380	VVI 1979 1984	treat
+#377	AnnotatorNotes T380	lemma = 'treat'
+T381	NN2 1985 1993	children
+#378	AnnotatorNotes T381	lemma = 'child'
+T382	AV0 1994 2000	warmly
+#379	AnnotatorNotes T382	lemma = 'warmly'
+T383	CJS 2001 2003	as
+#380	AnnotatorNotes T383	lemma = 'as'
+T384	AV0 2004 2008	well
+#381	AnnotatorNotes T384	lemma = 'well'
+T385	SENT 2008 2009	.
+#382	AnnotatorNotes T385	lemma = '.'
+T386	NN1 2010 2014	Love
+#383	AnnotatorNotes T386	lemma = 'love'
+T387	CJC 2015 2018	and
+#384	AnnotatorNotes T387	lemma = 'and'
+T388	NN1 2019 2026	respect
+#385	AnnotatorNotes T388	lemma = 'respect'
+T389	VM0 2027 2030	can
+#386	AnnotatorNotes T389	lemma = 'can'
+T390	AV0 2031 2035	only
+#387	AnnotatorNotes T390	lemma = 'only'
+T391	VVI 2036 2042	appear
+#388	AnnotatorNotes T391	lemma = 'appear'
+T392	PRP 2043 2045	in
+#389	AnnotatorNotes T392	lemma = 'in'
+T393	AT0 2046 2049	the
+#390	AnnotatorNotes T393	lemma = 'the'
+T394	NN1 2050 2060	atmosphere
+#391	AnnotatorNotes T394	lemma = 'atmosphere'
+T395	PRF 2061 2063	of
+#392	AnnotatorNotes T395	lemma = 'of'
+T396	NN1 2064 2068	love
+#393	AnnotatorNotes T396	lemma = 'love'
+T397	CJC 2069 2072	and
+#394	AnnotatorNotes T397	lemma = 'and'
+T398	NN1 2073 2080	respect
+#395	AnnotatorNotes T398	lemma = 'respect'
+T399	SENT 2080 2081	.
+#396	AnnotatorNotes T399	lemma = ''

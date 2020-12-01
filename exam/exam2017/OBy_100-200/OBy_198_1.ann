@@ -1,0 +1,295 @@
+T1	Articles 307 312	third
+#1	AnnotatorNotes T1	a third
+T2	Noun_number 345 350	metal
+#2	AnnotatorNotes T2	metals
+T3	Agreement_errors 342 344	is
+#3	AnnotatorNotes T3	are
+R1	Dependent_change Arg1:T3 Arg2:T2
+T4	lex_item_choice 404 406	is
+#4	AnnotatorNotes T4	have
+T5	Articles 492 499	quarter
+#5	AnnotatorNotes T5	a quarter
+T6	Agreement_errors 557 560	has
+#6	AnnotatorNotes T6	have
+T7	Punctuation 654 663	around 2%
+#7	AnnotatorNotes T7	(around 2%)
+T8	Noun_number 696 700	time
+#8	AnnotatorNotes T8	times
+T9	lex_item_choice 701 707	many n
+#9	AnnotatorNotes T9	bigger
+T10	Articles 723 745	railway transportation
+#10	AnnotatorNotes T10	the railway transportation
+T11	AT0 0 3	The
+#11	AnnotatorNotes T11	lemma = 'the'
+T12	NN1 4 7	pie
+#12	AnnotatorNotes T12	lemma = 'pie'
+T13	NN2 8 14	charts
+#13	AnnotatorNotes T13	lemma = 'chart'
+T14	VVB 15 25	illustrate
+#14	AnnotatorNotes T14	lemma = 'illustrate'
+T15	AT0 26 29	the
+#15	AnnotatorNotes T15	lemma = 'the'
+T16	NN1 30 41	information
+#16	AnnotatorNotes T16	lemma = 'information'
+T17	PRP 42 47	about
+#17	AnnotatorNotes T17	lemma = 'about'
+T18	NN2 48 53	goods
+#18	AnnotatorNotes T18	lemma = 'goods'
+T19	VVN 54 65	transported
+#19	AnnotatorNotes T19	lemma = 'transport'
+T20	PRP 66 68	by
+#20	AnnotatorNotes T20	lemma = 'by'
+T21	NN1 69 73	rail
+#21	AnnotatorNotes T21	lemma = 'rail'
+T22	CJC 74 77	and
+#22	AnnotatorNotes T22	lemma = 'and'
+T23	PRP 78 80	by
+#23	AnnotatorNotes T23	lemma = 'by'
+T24	NN1 81 85	road
+#24	AnnotatorNotes T24	lemma = 'road'
+T25	PRP 86 88	in
+#25	AnnotatorNotes T25	lemma = 'in'
+T26	AJ0 89 96	Eastern
+#26	AnnotatorNotes T26	lemma = 'eastern'
+T27	NP0 97 103	Europe
+#27	AnnotatorNotes T27	lemma = 'europe'
+T28	PRP 104 106	in
+#28	AnnotatorNotes T28	lemma = 'in'
+T29	CRD 107 111	2008
+#29	AnnotatorNotes T29	lemma = '2008'
+T30	SENT 111 112	.
+#30	AnnotatorNotes T30	lemma = '.'
+T31	AV0 113 120	Overall
+#31	AnnotatorNotes T31	lemma = 'overall'
+T32	PUN 120 121	,
+#32	AnnotatorNotes T32	lemma = ','
+T33	PNP 122 124	it
+#33	AnnotatorNotes T33	lemma = 'it'
+T34	VM0 125 128	can
+#34	AnnotatorNotes T34	lemma = 'can'
+T35	VBI 129 131	be
+#35	AnnotatorNotes T35	lemma = 'be'
+T36	VVN 132 136	seen
+#36	AnnotatorNotes T36	lemma = 'see'
+T37	CJT 137 141	that
+#37	AnnotatorNotes T37	lemma = 'that'
+T38	AT0 142 145	the
+#38	AnnotatorNotes T38	lemma = 'the'
+T39	DT0 146 150	same
+#39	AnnotatorNotes T39	lemma = 'same'
+T40	NN2 151 156	goods
+#40	AnnotatorNotes T40	lemma = 'goods'
+T41	VVN 157 168	transported
+#41	AnnotatorNotes T41	lemma = 'transport'
+T42	PRP 169 171	in
+#42	AnnotatorNotes T42	lemma = 'in'
+T43	AJ0 172 181	different
+#43	AnnotatorNotes T43	lemma = 'different'
+T44	NN2 182 189	amounts
+#44	AnnotatorNotes T44	lemma = 'amount'
+T45	PRP 190 192	by
+#45	AnnotatorNotes T45	lemma = 'by'
+T46	NN2 193 199	trains
+#46	AnnotatorNotes T46	lemma = 'train'
+T47	CJC 200 203	and
+#47	AnnotatorNotes T47	lemma = 'and'
+T48	NN2 204 215	automobiles
+#48	AnnotatorNotes T48	lemma = 'automobile'
+T49	SENT 215 216	.
+#49	AnnotatorNotes T49	lemma = '.'
+T50	TO0 218 220	To
+#50	AnnotatorNotes T50	lemma = 'to'
+T51	VVI 221 226	begin
+#51	AnnotatorNotes T51	lemma = 'begin'
+T52	PRP 227 231	with
+#52	AnnotatorNotes T52	lemma = 'with'
+T53	PUN 231 232	,
+#53	AnnotatorNotes T53	lemma = ','
+T54	PNP 233 235	it
+#54	AnnotatorNotes T54	lemma = 'it'
+T55	VBZ 236 238	is
+#55	AnnotatorNotes T55	lemma = 'be'
+T56	AV0 239 243	more
+#56	AnnotatorNotes T56	lemma = 'more'
+T57	AJ0 244 250	common
+#57	AnnotatorNotes T57	lemma = 'common'
+T58	TO0 251 253	to
+#58	AnnotatorNotes T58	lemma = 'to'
+T59	VVI 254 263	transport
+#59	AnnotatorNotes T59	lemma = 'transport'
+T60	NN2 264 270	metals
+#60	AnnotatorNotes T60	lemma = 'metal'
+T61	PRP 271 273	by
+#61	AnnotatorNotes T61	lemma = 'by'
+T62	NN1 274 278	rail
+#62	AnnotatorNotes T62	lemma = 'rail'
+T63	CJS 279 283	than
+#63	AnnotatorNotes T63	lemma = 'than'
+T64	PRP 284 286	by
+#64	AnnotatorNotes T64	lemma = 'by'
+T65	NN1 287 291	road
+#65	AnnotatorNotes T65	lemma = 'road'
+T66	SENT 291 292	.
+#66	AnnotatorNotes T66	lemma = '.'
+T67	AV0 293 306	Approximately
+#67	AnnotatorNotes T67	lemma = 'approximately'
+T68	ORD 307 312	third
+#68	AnnotatorNotes T68	lemma = 'third'
+T69	PRF 313 315	of
+#69	AnnotatorNotes T69	lemma = 'of'
+T70	AJ0 316 327	transported
+#70	AnnotatorNotes T70	lemma = 'transported|transport'
+T71	NN2 328 333	goods
+#71	AnnotatorNotes T71	lemma = 'goods'
+T72	PRP 334 336	by
+#72	AnnotatorNotes T72	lemma = 'by'
+T73	NN1 337 341	rail
+#73	AnnotatorNotes T73	lemma = 'rail'
+T74	VBZ 342 344	is
+#74	AnnotatorNotes T74	lemma = 'be'
+T75	NN1 345 350	metal
+#75	AnnotatorNotes T75	lemma = 'metal'
+T76	PUN 350 351	,
+#76	AnnotatorNotes T76	lemma = ','
+T77	CJS 352 359	whereas
+#77	AnnotatorNotes T77	lemma = 'whereas'
+T78	PRP 360 363	for
+#78	AnnotatorNotes T78	lemma = 'for'
+T79	NN2 364 369	goods
+#79	AnnotatorNotes T79	lemma = 'goods'
+T80	VVN 370 381	transported
+#80	AnnotatorNotes T80	lemma = 'transport'
+T81	PRP 382 384	by
+#81	AnnotatorNotes T81	lemma = 'by'
+T82	NN2 385 396	automobiles
+#82	AnnotatorNotes T82	lemma = 'automobile'
+T83	NN2 397 403	metals
+#83	AnnotatorNotes T83	lemma = 'metal'
+T84	VBZ 404 406	is
+#84	AnnotatorNotes T84	lemma = 'be'
+T85	AV0 407 411	only
+#85	AnnotatorNotes T85	lemma = 'only'
+T86	CRD 412 414	11
+#86	AnnotatorNotes T86	lemma = '11'
+T87	NN0 414 415	%
+#87	AnnotatorNotes T87	lemma = '%'
+T88	SENT 415 416	.
+#88	AnnotatorNotes T88	lemma = '.'
+T89	AT0 417 420	The
+#89	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 421 427	amount
+#90	AnnotatorNotes T90	lemma = 'amount'
+T91	PRF 428 430	of
+#91	AnnotatorNotes T91	lemma = 'of'
+T92	AJ0 431 443	manufactured
+#92	AnnotatorNotes T92	lemma = 'manufactured|manufacture'
+T93	NN2 444 449	goods
+#93	AnnotatorNotes T93	lemma = 'goods'
+T94	PRP 450 453	for
+#94	AnnotatorNotes T94	lemma = 'for'
+T95	DT0 454 458	both
+#95	AnnotatorNotes T95	lemma = 'both'
+T96	NN2 459 463	ways
+#96	AnnotatorNotes T96	lemma = 'way'
+T97	PRF 464 466	of
+#97	AnnotatorNotes T97	lemma = 'of'
+T98	NN1 467 481	transportation
+#98	AnnotatorNotes T98	lemma = 'transportation'
+T99	VBZ 482 484	is
+#99	AnnotatorNotes T99	lemma = 'be'
+T100	PRP 485 491	around
+#100	AnnotatorNotes T100	lemma = 'around'
+T101	NN1 492 499	quarter
+#101	AnnotatorNotes T101	lemma = 'quarter'
+T102	PRF 500 502	of
+#102	AnnotatorNotes T102	lemma = 'of'
+T103	DT0 503 506	all
+#103	AnnotatorNotes T103	lemma = 'all'
+T104	SENT 506 507	.
+#104	AnnotatorNotes T104	lemma = '.'
+T105	AT0 509 510	A
+#105	AnnotatorNotes T105	lemma = 'a'
+T106	AV0 511 515	more
+#106	AnnotatorNotes T106	lemma = 'more'
+T107	AJ0 516 524	detailed
+#107	AnnotatorNotes T107	lemma = 'detailed|detail'
+T108	NN1 525 529	look
+#108	AnnotatorNotes T108	lemma = 'look'
+T109	VVZ 530 537	reveals
+#109	AnnotatorNotes T109	lemma = 'reveal'
+T110	CJT 538 542	that
+#110	AnnotatorNotes T110	lemma = 'that'
+T111	NN1 543 547	food
+#111	AnnotatorNotes T111	lemma = 'food'
+T112	NN2 548 556	products
+#112	AnnotatorNotes T112	lemma = 'product'
+T113	VHZ 557 560	has
+#113	AnnotatorNotes T113	lemma = 'have'
+T114	CRD 561 563	11
+#114	AnnotatorNotes T114	lemma = '11'
+T115	NN0 563 564	%
+#115	AnnotatorNotes T115	lemma = '%'
+T116	PRF 565 567	of
+#116	AnnotatorNotes T116	lemma = 'of'
+T117	NN2 568 573	goods
+#117	AnnotatorNotes T117	lemma = 'goods'
+T118	VVN 574 585	transported
+#118	AnnotatorNotes T118	lemma = 'transport'
+T119	PRP 586 588	by
+#119	AnnotatorNotes T119	lemma = 'by'
+T120	NN1 589 593	road
+#120	AnnotatorNotes T120	lemma = 'road'
+T121	SENT 593 594	.
+#121	AnnotatorNotes T121	lemma = '.'
+T122	AT0 595 598	The
+#122	AnnotatorNotes T122	lemma = 'the'
+T123	AJS 599 605	lowest
+#123	AnnotatorNotes T123	lemma = 'low'
+T124	NN1 606 612	amount
+#124	AnnotatorNotes T124	lemma = 'amount'
+T125	VHZ 613 616	has
+#125	AnnotatorNotes T125	lemma = 'have'
+T126	NN1 617 626	machinery
+#126	AnnotatorNotes T126	lemma = 'machinery'
+T127	VVN 627 638	transported
+#127	AnnotatorNotes T127	lemma = 'transport'
+T128	PRP 639 641	by
+#128	AnnotatorNotes T128	lemma = 'by'
+T129	NN2 642 653	automobiles
+#129	AnnotatorNotes T129	lemma = 'automobile'
+T130	PRP 654 660	around
+#130	AnnotatorNotes T130	lemma = 'around'
+T131	CRD 661 662	2
+#131	AnnotatorNotes T131	lemma = '2'
+T132	NN0 662 663	%
+#132	AnnotatorNotes T132	lemma = '%'
+T133	SENT 663 664	.
+#133	AnnotatorNotes T133	lemma = '.'
+T134	PRP 665 667	In
+#134	AnnotatorNotes T134	lemma = 'in'
+T135	NN1 668 676	contrast
+#135	AnnotatorNotes T135	lemma = 'contrast'
+T136	PUN 676 677	,
+#136	AnnotatorNotes T136	lemma = ','
+T137	NN1 678 687	machinery
+#137	AnnotatorNotes T137	lemma = 'machinery'
+T138	VHZ 688 691	has
+#138	AnnotatorNotes T138	lemma = 'have'
+T139	CRD 692 695	six
+#139	AnnotatorNotes T139	lemma = 'six'
+T140	NN1 696 700	time
+#140	AnnotatorNotes T140	lemma = 'time'
+T141	DT0 701 705	many
+#141	AnnotatorNotes T141	lemma = 'many'
+T142	ZZ0 706 707	n
+#142	AnnotatorNotes T142	lemma = 'n'
+T143	NN1 708 718	percentage
+#143	AnnotatorNotes T143	lemma = 'percentage'
+T144	PRP 719 722	for
+#144	AnnotatorNotes T144	lemma = 'for'
+T145	NN1 723 730	railway
+#145	AnnotatorNotes T145	lemma = 'railway'
+T146	NN1 731 745	transportation
+#146	AnnotatorNotes T146	lemma = 'transportation'
+T147	SENT 745 746	.
+#147	AnnotatorNotes T147	lemma = ''

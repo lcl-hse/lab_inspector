@@ -1,0 +1,591 @@
+T1	Spelling 1037 1041	thet
+#1	AnnotatorNotes T1	that
+T2	Spelling 821 829	abscence
+#2	AnnotatorNotes T2	absence
+T3	Spelling 102 112	developped
+#3	AnnotatorNotes T3	developed
+A1	Cause T3
+T4	Noun_number 38 48	Englishmen
+#4	AnnotatorNotes T4	Englishman
+T5	Articles 26 29	the
+#5	AnnotatorNotes T5	an
+A2	Cause T5
+A3	Cause T4
+T6	Spelling 242 245	yhe
+#6	AnnotatorNotes T6	the
+A4	Cause T6
+T7	Articles 279 294	the electricity
+#7	AnnotatorNotes T7	electricity
+A5	Cause T7
+T8	Ref_device 71 75	from
+#8	AnnotatorNotes T8	from that of
+T9	Articles 76 88	the citizens
+#9	AnnotatorNotes T9	citizens
+T10	lex_item_choice 313 317	less
+#10	AnnotatorNotes T10	lower
+T11	Articles 326 336	the winter
+#11	AnnotatorNotes T11	winter
+T12	Redundant_comp 180 184	more
+A6	Delete T12
+T13	suggestion 185 197	precise data
+T14	Spelling 441 442	i
+#12	AnnotatorNotes T14	in
+T15	Prepositions 461 474	rocketing for
+#13	AnnotatorNotes T15	rocketing to
+T16	Determiners 523 529	a peak
+#14	AnnotatorNotes T16	its peak
+T17	Determiners 644 650	a peek
+#15	AnnotatorNotes T17	its peak
+T18	Spelling 644 650	a peek
+#16	AnnotatorNotes T18	a peak
+T19	Articles 735 747	lowest point
+#17	AnnotatorNotes T19	the lowest point
+T20	Capitalisation 750 757	talking
+#18	AnnotatorNotes T20	Talking
+T21	Capitalisation 961 970	comparing
+#19	AnnotatorNotes T21	Comparing
+T22	Prepositions 997 1011	off the winter
+#20	AnnotatorNotes T22	in winter
+T23	Articles 1001 1011	the winter
+#21	AnnotatorNotes T23	winter
+T24	Redundant_comp 1195 1210	feel themselves
+#22	AnnotatorNotes T24	feel
+A7	Cause T24
+T25	Redundant_comp 1225 1248	To draw up a conclusion
+#23	AnnotatorNotes T25	to draw a conclusion
+T26	Spelling 1252 1260	wouldsay
+#24	AnnotatorNotes T26	would say
+T27	Spelling 1334 1338	hace
+#25	AnnotatorNotes T27	have
+T28	AT0 0 3	The
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	NN1 4 10	energy
+#27	AnnotatorNotes T29	lemma = 'energy'
+T30	NN1 11 22	consumption
+#28	AnnotatorNotes T30	lemma = 'consumption'
+T31	PRF 23 25	of
+#29	AnnotatorNotes T31	lemma = 'of'
+T32	AT0 26 29	the
+#30	AnnotatorNotes T32	lemma = 'the'
+T33	AJ0 30 37	average
+#31	AnnotatorNotes T33	lemma = 'average'
+T34	NN2 38 48	Englishmen
+#32	AnnotatorNotes T34	lemma = 'englishman'
+T35	VBZ 49 51	is
+#33	AnnotatorNotes T35	lemma = 'be'
+T36	XX0 52 55	not
+#34	AnnotatorNotes T36	lemma = 'not'
+T37	AV0 56 60	much
+#35	AnnotatorNotes T37	lemma = 'much'
+T38	AJ0 61 70	different
+#36	AnnotatorNotes T38	lemma = 'different'
+T39	PRP 71 75	from
+#37	AnnotatorNotes T39	lemma = 'from'
+T40	AT0 76 79	the
+#38	AnnotatorNotes T40	lemma = 'the'
+T41	NN2 80 88	citizens
+#39	AnnotatorNotes T41	lemma = 'citizen'
+T42	PRF 89 91	of
+#40	AnnotatorNotes T42	lemma = 'of'
+T43	DT0 92 95	any
+#41	AnnotatorNotes T43	lemma = 'any'
+T44	AJ0 96 101	other
+#42	AnnotatorNotes T44	lemma = 'other'
+T45	AJ0 102 112	developped
+#43	AnnotatorNotes T45	lemma = 'developped'
+T46	NN1 113 120	country
+#44	AnnotatorNotes T46	lemma = 'country'
+T47	SENT 120 121	.
+#45	AnnotatorNotes T47	lemma = '.'
+T48	VVB 122 125	Let
+#46	AnnotatorNotes T48	lemma = 'let'
+T49	PNP 126 128	us
+#47	AnnotatorNotes T49	lemma = 'we'
+T50	VVB 129 133	look
+#48	AnnotatorNotes T50	lemma = 'look'
+T51	AV0 134 141	closely
+#49	AnnotatorNotes T51	lemma = 'closely'
+T52	PRP 142 144	at
+#50	AnnotatorNotes T52	lemma = 'at'
+T53	AT0 145 148	the
+#51	AnnotatorNotes T53	lemma = 'the'
+T54	NN1 149 154	chart
+#52	AnnotatorNotes T54	lemma = 'chart'
+T55	CJC 155 158	and
+#53	AnnotatorNotes T55	lemma = 'and'
+T56	NN2 159 165	graphs
+#54	AnnotatorNotes T56	lemma = 'graph'
+T57	VVG 166 179	demonstrating
+#55	AnnotatorNotes T57	lemma = 'demonstrate'
+T58	DT0 180 184	more
+#56	AnnotatorNotes T58	lemma = 'more'
+T59	AJ0 185 192	precise
+#57	AnnotatorNotes T59	lemma = 'precise'
+T60	NN0 193 197	data
+#58	AnnotatorNotes T60	lemma = 'data'
+T61	SENT 197 198	.
+#59	AnnotatorNotes T61	lemma = '.'
+T62	AT0 200 203	The
+#60	AnnotatorNotes T62	lemma = 'the'
+T63	ORD 204 209	first
+#61	AnnotatorNotes T63	lemma = 'first'
+T64	CJC 210 213	and
+#62	AnnotatorNotes T64	lemma = 'and'
+T65	AV0 214 218	most
+#63	AnnotatorNotes T65	lemma = 'most'
+T66	AJ0 219 226	obvious
+#64	AnnotatorNotes T66	lemma = 'obvious'
+T67	NN1 227 232	trend
+#65	AnnotatorNotes T67	lemma = 'trend'
+T68	VVN 233 238	shown
+#66	AnnotatorNotes T68	lemma = 'show'
+T69	PRP 239 241	at
+#67	AnnotatorNotes T69	lemma = 'at'
+T70	NN1 242 245	yhe
+#68	AnnotatorNotes T70	lemma = 'yhe'
+T71	NN1 246 251	graph
+#69	AnnotatorNotes T71	lemma = 'graph'
+T72	VBZ 252 254	is
+#70	AnnotatorNotes T72	lemma = 'be'
+T73	CJT 255 259	that
+#71	AnnotatorNotes T73	lemma = 'that'
+T74	AT0 260 263	the
+#72	AnnotatorNotes T74	lemma = 'the'
+T75	NN1 264 275	consumption
+#73	AnnotatorNotes T75	lemma = 'consumption'
+T76	PRF 276 278	of
+#74	AnnotatorNotes T76	lemma = 'of'
+T77	AT0 279 282	the
+#75	AnnotatorNotes T77	lemma = 'the'
+T78	NN1 283 294	electricity
+#76	AnnotatorNotes T78	lemma = 'electricity'
+T79	PRP 295 297	in
+#77	AnnotatorNotes T79	lemma = 'in'
+T80	NN1 298 304	summer
+#78	AnnotatorNotes T80	lemma = 'summer'
+T81	VBZ 305 307	is
+#79	AnnotatorNotes T81	lemma = 'be'
+T82	AV0 308 312	much
+#80	AnnotatorNotes T82	lemma = 'much'
+T83	AV0 313 317	less
+#81	AnnotatorNotes T83	lemma = 'less'
+T84	CJS 318 322	than
+#82	AnnotatorNotes T84	lemma = 'than'
+T85	PRP 323 325	in
+#83	AnnotatorNotes T85	lemma = 'in'
+T86	AT0 326 329	the
+#84	AnnotatorNotes T86	lemma = 'the'
+T87	NN1 330 336	winter
+#85	AnnotatorNotes T87	lemma = 'winter'
+T88	SENT 336 337	.
+#86	AnnotatorNotes T88	lemma = '.'
+T89	EX0 338 343	There
+#87	AnnotatorNotes T89	lemma = 'there'
+T90	VM0 344 347	can
+#88	AnnotatorNotes T90	lemma = 'can'
+T91	VBI 348 350	be
+#89	AnnotatorNotes T91	lemma = 'be'
+T92	VVN 351 355	seen
+#90	AnnotatorNotes T92	lemma = 'see'
+T93	AJ0 356 363	similar
+#91	AnnotatorNotes T93	lemma = 'similar'
+T94	NN2 364 370	trends
+#92	AnnotatorNotes T94	lemma = 'trend'
+T95	PRP 371 373	in
+#93	AnnotatorNotes T95	lemma = 'in'
+T96	DT0 374 378	both
+#94	AnnotatorNotes T96	lemma = 'both'
+T97	NN2 379 386	seasons
+#95	AnnotatorNotes T97	lemma = 'season'
+T98	PUN 387 388	-
+#96	AnnotatorNotes T98	lemma = '-'
+T99	AT0 389 390	a
+#97	AnnotatorNotes T99	lemma = 'a'
+T100	AJ0 391 397	smooth
+#98	AnnotatorNotes T100	lemma = 'smooth'
+T101	NN1 398 402	fall
+#99	AnnotatorNotes T101	lemma = 'fall'
+T102	PRP 403 407	from
+#100	AnnotatorNotes T102	lemma = 'from'
+T103	AV0 408 421	approximately
+#101	AnnotatorNotes T103	lemma = 'approximately'
+T104	CRD 422 423	3
+#102	AnnotatorNotes T104	lemma = '3'
+T105	NN2 424 429	hours
+#103	AnnotatorNotes T105	lemma = 'hour'
+T106	PRP 430 432	to
+#104	AnnotatorNotes T106	lemma = 'to'
+T107	CRD 433 434	9
+#105	AnnotatorNotes T107	lemma = '9'
+T108	NN2 435 440	hours
+#106	AnnotatorNotes T108	lemma = 'hour'
+T109	CRD 441 442	i
+#107	AnnotatorNotes T109	lemma = 'i'
+T110	AT0 443 446	the
+#108	AnnotatorNotes T110	lemma = 'the'
+T111	NN1 447 454	morning
+#109	AnnotatorNotes T111	lemma = 'morning'
+T112	PUN 454 455	,
+#110	AnnotatorNotes T112	lemma = ','
+T113	AV0 456 460	then
+#111	AnnotatorNotes T113	lemma = 'then'
+T114	VVG 461 470	rocketing
+#112	AnnotatorNotes T114	lemma = 'rocketing|rockete'
+T115	PRP 471 474	for
+#113	AnnotatorNotes T115	lemma = 'for'
+T116	AV0 475 479	more
+#114	AnnotatorNotes T116	lemma = 'more'
+T117	CJS 480 484	than
+#115	AnnotatorNotes T117	lemma = 'than'
+T118	CRD 485 490	10000
+#116	AnnotatorNotes T118	lemma = '10000'
+T119	NN2 491 496	units
+#117	AnnotatorNotes T119	lemma = 'unit'
+T120	SENT 496 497	.
+#118	AnnotatorNotes T120	lemma = '.'
+T121	AT0 498 501	The
+#119	AnnotatorNotes T121	lemma = 'the'
+T122	NN1 502 508	summer
+#120	AnnotatorNotes T122	lemma = 'summer'
+T123	NN1 509 514	graph
+#121	AnnotatorNotes T123	lemma = 'graph'
+T124	VVZ 515 522	reaches
+#122	AnnotatorNotes T124	lemma = 'reach'
+T125	AT0 523 524	a
+#123	AnnotatorNotes T125	lemma = 'a'
+T126	NN1 525 529	peak
+#124	AnnotatorNotes T126	lemma = 'peak'
+T127	PRP 530 532	at
+#125	AnnotatorNotes T127	lemma = 'at'
+T128	CRD 533 535	14
+#126	AnnotatorNotes T128	lemma = '14'
+T129	NN2 536 541	hours
+#127	AnnotatorNotes T129	lemma = 'hour'
+T130	CJC 542 545	and
+#128	AnnotatorNotes T130	lemma = 'and'
+T131	AV0 546 550	then
+#129	AnnotatorNotes T131	lemma = 'then'
+T132	AV0 551 559	smoothly
+#130	AnnotatorNotes T132	lemma = 'smoothly'
+T133	VVZ 560 570	fluctuates
+#131	AnnotatorNotes T133	lemma = 'fluctuate'
+T134	CJC 571 574	and
+#132	AnnotatorNotes T134	lemma = 'and'
+T135	VVZ 575 579	goes
+#133	AnnotatorNotes T135	lemma = 'go'
+T136	PRP 580 582	at
+#134	AnnotatorNotes T136	lemma = 'at'
+T137	AT0 583 586	the
+#135	AnnotatorNotes T137	lemma = 'the'
+T138	NN1 587 593	bottom
+#136	AnnotatorNotes T138	lemma = 'bottom'
+T139	PRF 594 596	of
+#137	AnnotatorNotes T139	lemma = 'of'
+T140	CRD 597 602	15000
+#138	AnnotatorNotes T140	lemma = '15000'
+T141	NN2 603 608	units
+#139	AnnotatorNotes T141	lemma = 'unit'
+T142	PRP 609 611	at
+#140	AnnotatorNotes T142	lemma = 'at'
+T143	CRD 612 614	24
+#141	AnnotatorNotes T143	lemma = '24'
+T144	NN2 615 620	hours
+#142	AnnotatorNotes T144	lemma = 'hour'
+T145	SENT 620 621	.
+#143	AnnotatorNotes T145	lemma = '.'
+T146	AT0 622 625	the
+#144	AnnotatorNotes T146	lemma = 'the'
+T147	NN1 626 632	winter
+#145	AnnotatorNotes T147	lemma = 'winter'
+T148	NN1 633 638	graph
+#146	AnnotatorNotes T148	lemma = 'graph'
+T149	VVZ 639 643	hits
+#147	AnnotatorNotes T149	lemma = 'hit'
+T150	AT0 644 645	a
+#148	AnnotatorNotes T150	lemma = 'a'
+T151	NN1 646 650	peek
+#149	AnnotatorNotes T151	lemma = 'peek'
+T152	PRP 651 653	at
+#150	AnnotatorNotes T152	lemma = 'at'
+T153	CRD 654 659	48000
+#151	AnnotatorNotes T153	lemma = '48000'
+T154	NN2 660 665	units
+#152	AnnotatorNotes T154	lemma = 'unit'
+T155	PRP 666 668	at
+#153	AnnotatorNotes T155	lemma = 'at'
+T156	CRD 669 671	22
+#154	AnnotatorNotes T156	lemma = '22'
+T157	NN2 672 677	hours
+#155	AnnotatorNotes T157	lemma = 'hour'
+T158	CJC 678 681	and
+#156	AnnotatorNotes T158	lemma = 'and'
+T159	AV0 682 686	then
+#157	AnnotatorNotes T159	lemma = 'then'
+T160	VVZ 687 695	plummets
+#158	AnnotatorNotes T160	lemma = 'plummet'
+T161	AVP 696 700	down
+#159	AnnotatorNotes T161	lemma = 'down'
+T162	PRP 701 703	to
+#160	AnnotatorNotes T162	lemma = 'to'
+T163	CRD 704 708	3200
+#161	AnnotatorNotes T163	lemma = '3200'
+T164	NN2 709 714	units
+#162	AnnotatorNotes T164	lemma = 'unit'
+T165	PRP 715 717	at
+#163	AnnotatorNotes T165	lemma = 'at'
+T166	CRD 718 720	24
+#164	AnnotatorNotes T166	lemma = '24'
+T167	NN2 721 726	hours
+#165	AnnotatorNotes T167	lemma = 'hour'
+T168	PUN 726 727	,
+#166	AnnotatorNotes T168	lemma = ','
+T169	AV0 728 734	almost
+#167	AnnotatorNotes T169	lemma = 'almost'
+T170	AJS 735 741	lowest
+#168	AnnotatorNotes T170	lemma = 'low'
+T171	NN1 742 747	point
+#169	AnnotatorNotes T171	lemma = 'point'
+T172	SENT 747 748	.
+#170	AnnotatorNotes T172	lemma = '.'
+T173	VVG 750 757	talking
+#171	AnnotatorNotes T173	lemma = 'talk|talking'
+T174	PRP 758 763	about
+#172	AnnotatorNotes T174	lemma = 'about'
+T175	NN2 764 775	differences
+#173	AnnotatorNotes T175	lemma = 'difference'
+T176	AV0 776 780	more
+#174	AnnotatorNotes T176	lemma = 'more'
+T177	AV0 781 788	closely
+#175	AnnotatorNotes T177	lemma = 'closely'
+T178	PUN 788 789	,
+#176	AnnotatorNotes T178	lemma = ','
+T179	PNP 790 792	we
+#177	AnnotatorNotes T179	lemma = 'we'
+T180	VM0 793 796	can
+#178	AnnotatorNotes T180	lemma = 'can'
+T181	VVI 797 800	see
+#179	AnnotatorNotes T181	lemma = 'see'
+T182	CJT 801 805	that
+#180	AnnotatorNotes T182	lemma = 'that'
+T183	CJS 806 813	because
+#181	AnnotatorNotes T183	lemma = 'because'
+T184	PRF 814 816	of
+#182	AnnotatorNotes T184	lemma = 'of'
+T185	AT0 817 820	the
+#183	AnnotatorNotes T185	lemma = 'the'
+T186	NN1 821 829	abscence
+#184	AnnotatorNotes T186	lemma = 'abscence'
+T187	PRF 830 832	of
+#185	AnnotatorNotes T187	lemma = 'of'
+T188	AT0 833 836	the
+#186	AnnotatorNotes T188	lemma = 'the'
+T189	AJ0 837 841	main
+#187	AnnotatorNotes T189	lemma = 'main'
+T190	AJ0 842 858	energy-demanding
+#188	AnnotatorNotes T190	lemma = 'energy-demanding'
+T191	NN1 859 863	need
+#189	AnnotatorNotes T191	lemma = 'need'
+T192	PUN 863 864	,
+#190	AnnotatorNotes T192	lemma = ','
+T193	AJ0 865 872	central
+#191	AnnotatorNotes T193	lemma = 'central'
+T194	NN1 873 880	heating
+#192	AnnotatorNotes T194	lemma = 'heating|heat'
+T195	PUN 880 881	,
+#193	AnnotatorNotes T195	lemma = ','
+T196	AT0 882 885	the
+#194	AnnotatorNotes T196	lemma = 'the'
+T197	NN1 886 892	summer
+#195	AnnotatorNotes T197	lemma = 'summer'
+T198	NN1 893 898	trend
+#196	AnnotatorNotes T198	lemma = 'trend'
+T199	VDZ 899 903	does
+#197	AnnotatorNotes T199	lemma = 'do'
+T200	XX0 904 907	not
+#198	AnnotatorNotes T200	lemma = 'not'
+T201	VVI 908 912	rise
+#199	AnnotatorNotes T201	lemma = 'rise'
+T202	PRP 913 918	above
+#200	AnnotatorNotes T202	lemma = 'above'
+T203	AT0 919 922	the
+#201	AnnotatorNotes T203	lemma = 'the'
+T204	NN1 923 929	figure
+#202	AnnotatorNotes T204	lemma = 'figure'
+T205	PRF 930 932	of
+#203	AnnotatorNotes T205	lemma = 'of'
+T206	CRD 933 938	20000
+#204	AnnotatorNotes T206	lemma = '20000'
+T207	NN2 939 944	units
+#205	AnnotatorNotes T207	lemma = 'unit'
+T208	PRF 945 947	of
+#206	AnnotatorNotes T208	lemma = 'of'
+T209	NN1 948 959	electricity
+#207	AnnotatorNotes T209	lemma = 'electricity'
+T210	SENT 959 960	.
+#208	AnnotatorNotes T210	lemma = '.'
+T211	VVG 961 970	comparing
+#209	AnnotatorNotes T211	lemma = 'compare'
+T212	PNP 971 973	it
+#210	AnnotatorNotes T212	lemma = 'it'
+T213	PRP 974 978	with
+#211	AnnotatorNotes T213	lemma = 'with'
+T214	AT0 979 982	the
+#212	AnnotatorNotes T214	lemma = 'the'
+T215	NN1 983 989	energy
+#213	AnnotatorNotes T215	lemma = 'energy'
+T216	NN1 990 996	demand
+#214	AnnotatorNotes T216	lemma = 'demand'
+T217	PRP 997 1000	off
+#215	AnnotatorNotes T217	lemma = 'off'
+T218	AT0 1001 1004	the
+#216	AnnotatorNotes T218	lemma = 'the'
+T219	NN1 1005 1011	winter
+#217	AnnotatorNotes T219	lemma = 'winter'
+T220	PUN 1011 1012	,
+#218	AnnotatorNotes T220	lemma = ','
+T221	PNP 1013 1015	we
+#219	AnnotatorNotes T221	lemma = 'we'
+T222	VM0 1016 1019	can
+#220	AnnotatorNotes T222	lemma = 'can'
+T223	AV0 1020 1026	simply
+#221	AnnotatorNotes T223	lemma = 'simply'
+T224	VVI 1027 1036	calculate
+#222	AnnotatorNotes T224	lemma = 'calculate'
+T225	NN1 1037 1041	thet
+#223	AnnotatorNotes T225	lemma = 'thet'
+T226	NN1 1042 1049	heating
+#224	AnnotatorNotes T226	lemma = 'heating|heat'
+T227	VVZ 1050 1055	takes
+#225	AnnotatorNotes T227	lemma = 'take'
+T228	AV0 1056 1069	approximately
+#226	AnnotatorNotes T228	lemma = 'approximately'
+T229	CRD 1070 1075	20000
+#227	AnnotatorNotes T229	lemma = '20000'
+T230	NN2 1076 1081	units
+#228	AnnotatorNotes T230	lemma = 'unit'
+T231	PRF 1082 1084	of
+#229	AnnotatorNotes T231	lemma = 'of'
+T232	NN1 1085 1096	electricity
+#230	AnnotatorNotes T232	lemma = 'electricity'
+T233	SENT 1096 1097	.
+#231	AnnotatorNotes T233	lemma = '.'
+T234	DT0 1098 1102	Some
+#232	AnnotatorNotes T234	lemma = 'some'
+T235	AJ0 1103 1108	other
+#233	AnnotatorNotes T235	lemma = 'other'
+T236	NN2 1109 1116	risings
+#234	AnnotatorNotes T236	lemma = 'rising'
+T237	CJC 1117 1120	and
+#235	AnnotatorNotes T237	lemma = 'and'
+T238	AJ0 1121 1127	little
+#236	AnnotatorNotes T238	lemma = 'little'
+T239	NN2 1128 1139	differences
+#237	AnnotatorNotes T239	lemma = 'difference'
+T240	VBB 1140 1143	are
+#238	AnnotatorNotes T240	lemma = 'be'
+T241	AT0 1144 1147	the
+#239	AnnotatorNotes T241	lemma = 'the'
+T242	NN2 1148 1156	expences
+#240	AnnotatorNotes T242	lemma = 'expence'
+T243	PRF 1157 1159	of
+#241	AnnotatorNotes T243	lemma = 'of'
+T244	AT0 1160 1163	the
+#242	AnnotatorNotes T244	lemma = 'the'
+T245	NN1 1164 1168	cold
+#243	AnnotatorNotes T245	lemma = 'cold'
+T246	PUN 1168 1169	,
+#244	AnnotatorNotes T246	lemma = ','
+T247	NN0 1170 1176	people
+#245	AnnotatorNotes T247	lemma = 'people'
+T248	VVB 1177 1181	need
+#246	AnnotatorNotes T248	lemma = 'need'
+T249	DT0 1182 1186	more
+#247	AnnotatorNotes T249	lemma = 'more'
+T250	NN1 1187 1191	heat
+#248	AnnotatorNotes T250	lemma = 'heat'
+T251	TO0 1192 1194	to
+#249	AnnotatorNotes T251	lemma = 'to'
+T252	VVI 1195 1199	feel
+#250	AnnotatorNotes T252	lemma = 'feel'
+T253	PNX 1200 1210	themselves
+#251	AnnotatorNotes T253	lemma = 'themselves'
+T254	AJ0 1211 1222	comfortable
+#252	AnnotatorNotes T254	lemma = 'comfortable'
+T255	SENT 1222 1223	.
+#253	AnnotatorNotes T255	lemma = '.'
+T256	TO0 1225 1227	To
+#254	AnnotatorNotes T256	lemma = 'to'
+T257	VVI 1228 1232	draw
+#255	AnnotatorNotes T257	lemma = 'draw'
+T258	AVP 1233 1235	up
+#256	AnnotatorNotes T258	lemma = 'up'
+T259	AT0 1236 1237	a
+#257	AnnotatorNotes T259	lemma = 'a'
+T260	NN1 1238 1248	conclusion
+#258	AnnotatorNotes T260	lemma = 'conclusion'
+T261	PUN 1248 1249	,
+#259	AnnotatorNotes T261	lemma = ','
+T262	PNP 1250 1251	I
+#260	AnnotatorNotes T262	lemma = 'i'
+T263	VVB 1252 1260	wouldsay
+#261	AnnotatorNotes T263	lemma = 'wouldsay'
+T264	CJT 1261 1265	that
+#262	AnnotatorNotes T264	lemma = 'that'
+T265	CJS 1266 1273	because
+#263	AnnotatorNotes T265	lemma = 'because'
+T266	PRF 1274 1276	of
+#264	AnnotatorNotes T266	lemma = 'of'
+T267	AT0 1277 1280	the
+#265	AnnotatorNotes T267	lemma = 'the'
+T268	AJ0 1281 1284	low
+#266	AnnotatorNotes T268	lemma = 'low'
+T269	NN2 1285 1297	temperatures
+#267	AnnotatorNotes T269	lemma = 'temperature'
+T270	CJC 1298 1301	and
+#268	AnnotatorNotes T270	lemma = 'and'
+T271	DT0 1302 1306	less
+#269	AnnotatorNotes T271	lemma = 'less'
+T272	NN2 1307 1315	vitamins
+#270	AnnotatorNotes T272	lemma = 'vitamin'
+T273	PRP 1316 1318	in
+#271	AnnotatorNotes T273	lemma = 'in'
+T274	NN1 1319 1325	winter
+#272	AnnotatorNotes T274	lemma = 'winter'
+T275	SENT 1325 1326	.
+#273	AnnotatorNotes T275	lemma = '.'
+T276	NN0 1327 1333	People
+#274	AnnotatorNotes T276	lemma = 'people'
+T277	NN1 1334 1338	hace
+#275	AnnotatorNotes T277	lemma = 'hace'
+T278	TO0 1339 1341	to
+#276	AnnotatorNotes T278	lemma = 'to'
+T279	VVI 1342 1346	heat
+#277	AnnotatorNotes T279	lemma = 'heat'
+T280	DPS 1347 1352	their
+#278	AnnotatorNotes T280	lemma = 'they'
+T281	NN2 1353 1358	flats
+#279	AnnotatorNotes T281	lemma = 'flat'
+T282	PUN 1358 1359	,
+#280	AnnotatorNotes T282	lemma = ','
+T283	VVB 1360 1363	eat
+#281	AnnotatorNotes T283	lemma = 'eat'
+T284	AV0 1364 1368	more
+#282	AnnotatorNotes T284	lemma = 'more'
+T285	CJC 1369 1372	and
+#283	AnnotatorNotes T285	lemma = 'and'
+T286	VHB 1373 1377	have
+#284	AnnotatorNotes T286	lemma = 'have'
+T287	DT0 1378 1382	more
+#285	AnnotatorNotes T287	lemma = 'more'
+T288	AJ0 1383 1386	hot
+#286	AnnotatorNotes T288	lemma = 'hot'
+T289	NN2 1387 1393	drinks
+#287	AnnotatorNotes T289	lemma = 'drink'
+T290	CJS 1394 1398	than
+#288	AnnotatorNotes T290	lemma = 'than'
+T291	PRP 1399 1401	in
+#289	AnnotatorNotes T291	lemma = 'in'
+T292	NN1 1402 1408	summer
+#290	AnnotatorNotes T292	lemma = 'summer'
+T293	SENT 1408 1409	.
+#291	AnnotatorNotes T293	lemma = ''

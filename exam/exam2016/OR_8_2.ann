@@ -1,0 +1,148 @@
+T1	Spelling 124 133	flightcin
+#1	AnnotatorNotes T1	flights in
+T2	Prepositions 287 294	through
+#2	AnnotatorNotes T2	by
+T3	lex_item_choice 208 228	the business persons
+#3	AnnotatorNotes T3	businessmen
+T4	Prepositions 205 207	of
+A1	Delete T4
+T5	Spelling 235 240	chose
+#4	AnnotatorNotes T5	choose
+T6	lex_item_choice 92 100	upcoming
+#5	AnnotatorNotes T6	taking off
+T7	lex_item_choice 105 113	departed
+#6	AnnotatorNotes T7	landing
+T8	lex_item_choice 124 133	flightcin
+#7	AnnotatorNotes T8	airplanes
+T9	Redundant_comp 134 149	a busy aviation
+A2	Delete T9
+T10	lex_item_choice 235 240	chose
+#8	AnnotatorNotes T10	prioritize
+T11	Redundant 252 257	prior
+A3	Delete T11
+T12	NN1 0 3	Air
+#9	AnnotatorNotes T12	lemma = 'air'
+T13	NN1 4 10	travel
+#10	AnnotatorNotes T13	lemma = 'travel'
+T14	VHZ 11 14	has
+#11	AnnotatorNotes T14	lemma = 'have'
+T15	VVN 15 21	become
+#12	AnnotatorNotes T15	lemma = 'become'
+T16	AV0 22 28	highly
+#13	AnnotatorNotes T16	lemma = 'highly'
+T17	AJ0 29 36	popular
+#14	AnnotatorNotes T17	lemma = 'popular'
+T18	CJC 37 40	and
+#15	AnnotatorNotes T18	lemma = 'and'
+T19	PNP 41 43	it
+#16	AnnotatorNotes T19	lemma = 'it'
+T20	VM0 44 47	can
+#17	AnnotatorNotes T20	lemma = 'can'
+T21	AV0 48 54	easily
+#18	AnnotatorNotes T21	lemma = 'easily'
+T22	VBI 55 57	be
+#19	AnnotatorNotes T22	lemma = 'be'
+T23	VVN 58 68	understood
+#20	AnnotatorNotes T23	lemma = 'understand|understood'
+T24	CJS 69 71	if
+#21	AnnotatorNotes T24	lemma = 'if'
+T25	PNP 72 74	we
+#22	AnnotatorNotes T25	lemma = 'we'
+T26	AV0 75 79	only
+#23	AnnotatorNotes T26	lemma = 'only'
+T27	VVB 80 84	look
+#24	AnnotatorNotes T27	lemma = 'look'
+T28	PRP 85 87	at
+#25	AnnotatorNotes T28	lemma = 'at'
+T29	AT0 88 91	the
+#26	AnnotatorNotes T29	lemma = 'the'
+T30	AJ0 92 100	upcoming
+#27	AnnotatorNotes T30	lemma = 'upcoming'
+T31	CJC 101 104	and
+#28	AnnotatorNotes T31	lemma = 'and'
+T32	AJ0 105 113	departed
+#29	AnnotatorNotes T32	lemma = 'departed|depart'
+T33	NN1 114 120	number
+#30	AnnotatorNotes T33	lemma = 'number'
+T34	PRF 121 123	of
+#31	AnnotatorNotes T34	lemma = 'of'
+T35	NN1 124 133	flightcin
+#32	AnnotatorNotes T35	lemma = 'flightcin'
+T36	AT0 134 135	a
+#33	AnnotatorNotes T36	lemma = 'a'
+T37	AJ0 136 140	busy
+#34	AnnotatorNotes T37	lemma = 'busy'
+T38	NN1 141 149	aviation
+#35	AnnotatorNotes T38	lemma = 'aviation'
+T39	SENT 149 150	.
+#36	AnnotatorNotes T39	lemma = '.'
+T40	CJS 151 156	Since
+#37	AnnotatorNotes T40	lemma = 'since'
+T41	AT0 157 160	the
+#38	AnnotatorNotes T41	lemma = 'the'
+T42	NN1 161 164	air
+#39	AnnotatorNotes T42	lemma = 'air'
+T43	NN1 165 171	travel
+#40	AnnotatorNotes T43	lemma = 'travel'
+T44	VVZ 172 177	saves
+#41	AnnotatorNotes T44	lemma = 'save'
+T45	AT0 178 179	a
+#42	AnnotatorNotes T45	lemma = 'a'
+T46	AJ0 180 185	great
+#43	AnnotatorNotes T46	lemma = 'great'
+T47	NN1 186 190	deal
+#44	AnnotatorNotes T47	lemma = 'deal'
+T48	PRF 191 193	of
+#45	AnnotatorNotes T48	lemma = 'of'
+T49	NN1 194 198	time
+#46	AnnotatorNotes T49	lemma = 'time'
+T50	PUN 198 199	,
+#47	AnnotatorNotes T50	lemma = ','
+T51	DT0 200 204	most
+#48	AnnotatorNotes T51	lemma = 'most'
+T52	PRF 205 207	of
+#49	AnnotatorNotes T52	lemma = 'of'
+T53	AT0 208 211	the
+#50	AnnotatorNotes T53	lemma = 'the'
+T54	NN1 212 220	business
+#51	AnnotatorNotes T54	lemma = 'business'
+T55	NN2 221 228	persons
+#52	AnnotatorNotes T55	lemma = 'person'
+T56	AV0 229 234	today
+#53	AnnotatorNotes T56	lemma = 'today'
+T57	VVD 235 240	chose
+#54	AnnotatorNotes T57	lemma = 'choose'
+T58	NN1 241 244	air
+#55	AnnotatorNotes T58	lemma = 'air'
+T59	NN1 245 251	travel
+#56	AnnotatorNotes T59	lemma = 'travel'
+T60	AJ0 252 257	prior
+#57	AnnotatorNotes T60	lemma = 'prior'
+T61	PRP 258 260	to
+#58	AnnotatorNotes T61	lemma = 'to'
+T62	DT0 261 264	any
+#59	AnnotatorNotes T62	lemma = 'any'
+T63	AJ0 265 270	other
+#60	AnnotatorNotes T63	lemma = 'other'
+T64	NN1 271 275	root
+#61	AnnotatorNotes T64	lemma = 'root'
+T65	SENT 275 276	.
+#62	AnnotatorNotes T65	lemma = '.'
+T66	VVG 277 286	Traveling
+#63	AnnotatorNotes T66	lemma = 'travel'
+T67	PRP 287 294	through
+#64	AnnotatorNotes T67	lemma = 'through'
+T68	NN1 295 298	air
+#65	AnnotatorNotes T68	lemma = 'air'
+T69	VHZ 299 302	has
+#66	AnnotatorNotes T69	lemma = 'have'
+T70	DT0 303 307	many
+#67	AnnotatorNotes T70	lemma = 'many'
+T71	NN2 308 318	advantages
+#68	AnnotatorNotes T71	lemma = 'advantage'
+T72	CJC 319 322	and
+#69	AnnotatorNotes T72	lemma = 'and'
+T73	NN2 323 336	disadvantages
+#70	AnnotatorNotes T73	lemma = 'disadvantage'
+T74	SENT 336 337	.
+#71	AnnotatorNotes T74	lemma = ''

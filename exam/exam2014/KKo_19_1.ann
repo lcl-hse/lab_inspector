@@ -1,0 +1,346 @@
+T1	Redundant_comp 110 115	years
+A1	Delete T1
+T2	Agreement_errors 145 147	is
+#1	AnnotatorNotes T2	are
+T3	Redundant_comp 207 211	year
+A2	Delete T3
+T4	Articles 61 63	UK
+#2	AnnotatorNotes T4	the UK
+T5	Articles 255 257	UK
+#3	AnnotatorNotes T5	the UK
+T6	Spelling 266 279	approximettly
+#4	AnnotatorNotes T6	approximately
+T7	Absence_explanation 262 265	was
+#5	AnnotatorNotes T7	its duration was
+T8	Determiners 287 295	billions
+#6	AnnotatorNotes T8	billion
+T9	Word_choice 336 342	number
+#7	AnnotatorNotes T9	duration
+T10	lex_item_choice 388 394	number
+#8	AnnotatorNotes T10	value
+T11	Redundant_comp 403 407	year
+A3	Delete T11
+T12	Word_choice 433 439	number
+#9	AnnotatorNotes T12	duration
+T13	Tense_choice 476 479	was
+#10	AnnotatorNotes T13	had
+T14	Superlative_adj 582 586	less
+#11	AnnotatorNotes T14	least
+T15	Redundant_comp 643 647	year
+A4	Delete T15
+T16	Prepositions 620 637	for the moment of
+#12	AnnotatorNotes T16	by
+T17	Absence_explanation 649 656	numbers
+#13	AnnotatorNotes T17	numbers of minutes
+T18	Articles 682 684	UK
+#14	AnnotatorNotes T18	the UK
+T19	DT0 0 4	This
+#15	AnnotatorNotes T19	lemma = 'this'
+T20	NN1 5 8	bar
+#16	AnnotatorNotes T20	lemma = 'bar'
+T21	NN1 9 14	chart
+#17	AnnotatorNotes T21	lemma = 'chart'
+T22	VVZ 15 20	gives
+#18	AnnotatorNotes T22	lemma = 'give'
+T23	PNP 21 23	us
+#19	AnnotatorNotes T23	lemma = 'we'
+T24	NN1 24 35	information
+#20	AnnotatorNotes T24	lemma = 'information'
+T25	PRP 36 41	about
+#21	AnnotatorNotes T25	lemma = 'about'
+T26	NN1 42 51	telephone
+#22	AnnotatorNotes T26	lemma = 'telephone'
+T27	NN2 52 57	calls
+#23	AnnotatorNotes T27	lemma = 'call'
+T28	PRP 58 60	in
+#24	AnnotatorNotes T28	lemma = 'in'
+T29	NP0 61 63	UK
+#25	AnnotatorNotes T29	lemma = 'uk'
+T30	PUN 63 64	,
+#26	AnnotatorNotes T30	lemma = ','
+T31	VVN 65 69	made
+#27	AnnotatorNotes T31	lemma = 'make'
+T32	PRP 70 76	during
+#28	AnnotatorNotes T32	lemma = 'during'
+T33	AT0 77 80	the
+#29	AnnotatorNotes T33	lemma = 'the'
+T34	NN1 81 87	period
+#30	AnnotatorNotes T34	lemma = 'period'
+T35	PRP 88 95	between
+#31	AnnotatorNotes T35	lemma = 'between'
+T36	CRD 96 100	1995
+#32	AnnotatorNotes T36	lemma = '1995'
+T37	CJC 101 104	and
+#33	AnnotatorNotes T37	lemma = 'and'
+T38	CRD 105 109	2002
+#34	AnnotatorNotes T38	lemma = '2002'
+T39	NN2 110 115	years
+#35	AnnotatorNotes T39	lemma = 'year'
+T40	SENT 115 116	.
+#36	AnnotatorNotes T40	lemma = '.'
+T41	CJS 118 120	As
+#37	AnnotatorNotes T41	lemma = 'as'
+T42	PNP 121 123	we
+#38	AnnotatorNotes T42	lemma = 'we'
+T43	VM0 124 127	can
+#39	AnnotatorNotes T43	lemma = 'can'
+T44	VVI 128 131	see
+#40	AnnotatorNotes T44	lemma = 'see'
+T45	PUN 131 132	,
+#41	AnnotatorNotes T45	lemma = ','
+T46	AJ0 133 138	local
+#42	AnnotatorNotes T46	lemma = 'local'
+T47	NN2 139 144	calls
+#43	AnnotatorNotes T47	lemma = 'call'
+T48	VBZ 145 147	is
+#44	AnnotatorNotes T48	lemma = 'be'
+T49	AT0 148 149	a
+#45	AnnotatorNotes T49	lemma = 'a'
+T50	AJ0 150 160	dominating
+#46	AnnotatorNotes T50	lemma = 'dominating|dominate'
+T51	NN1 161 165	type
+#47	AnnotatorNotes T51	lemma = 'type'
+T52	PRF 166 168	of
+#48	AnnotatorNotes T52	lemma = 'of'
+T53	NN2 169 174	calls
+#49	AnnotatorNotes T53	lemma = 'call'
+T54	PRP 175 177	on
+#50	AnnotatorNotes T54	lemma = 'on'
+T55	AT0 178 181	the
+#51	AnnotatorNotes T55	lemma = 'the'
+T56	NN1 182 187	graph
+#52	AnnotatorNotes T56	lemma = 'graph'
+T57	SENT 187 188	.
+#53	AnnotatorNotes T57	lemma = '.'
+T58	PRP 189 193	From
+#54	AnnotatorNotes T58	lemma = 'from'
+T59	CRD 194 198	1995
+#55	AnnotatorNotes T59	lemma = '1995'
+T60	PRP 199 201	to
+#56	AnnotatorNotes T60	lemma = 'to'
+T61	CRD 202 206	1999
+#57	AnnotatorNotes T61	lemma = '1999'
+T62	NN1 207 211	year
+#58	AnnotatorNotes T62	lemma = 'year'
+T63	DT0 212 216	this
+#59	AnnotatorNotes T63	lemma = 'this'
+T64	NN1 217 221	type
+#60	AnnotatorNotes T64	lemma = 'type'
+T65	PRF 222 224	of
+#61	AnnotatorNotes T65	lemma = 'of'
+T66	NN2 225 230	calls
+#62	AnnotatorNotes T66	lemma = 'call'
+T67	VBD 231 234	was
+#63	AnnotatorNotes T67	lemma = 'be'
+T68	AT0 235 238	the
+#64	AnnotatorNotes T68	lemma = 'the'
+T69	AV0 239 243	most
+#65	AnnotatorNotes T69	lemma = 'most'
+T70	AJ0 244 251	popular
+#66	AnnotatorNotes T70	lemma = 'popular'
+T71	PRP 252 254	in
+#67	AnnotatorNotes T71	lemma = 'in'
+T72	NP0 255 257	UK
+#68	AnnotatorNotes T72	lemma = 'uk'
+T73	CJC 258 261	and
+#69	AnnotatorNotes T73	lemma = 'and'
+T74	VBD 262 265	was
+#70	AnnotatorNotes T74	lemma = 'be'
+T75	AV0 266 279	approximettly
+#71	AnnotatorNotes T75	lemma = 'approximettly'
+T76	CRD 280 286	ninety
+#72	AnnotatorNotes T76	lemma = 'ninety'
+T77	CRD 287 295	billions
+#73	AnnotatorNotes T77	lemma = 'billions'
+T78	PRF 296 298	of
+#74	AnnotatorNotes T78	lemma = 'of'
+T79	NN2 299 306	minutes
+#75	AnnotatorNotes T79	lemma = 'minute'
+T80	PRP 307 310	per
+#76	AnnotatorNotes T80	lemma = 'per'
+T81	NN1 311 315	year
+#77	AnnotatorNotes T81	lemma = 'year'
+T82	SENT 315 316	.
+#78	AnnotatorNotes T82	lemma = '.'
+T83	CJC 317 320	But
+#79	AnnotatorNotes T83	lemma = 'but'
+T84	PRP 321 326	since
+#80	AnnotatorNotes T84	lemma = 'since'
+T85	CRD 327 331	1999
+#81	AnnotatorNotes T85	lemma = '1999'
+T86	AT0 332 335	the
+#82	AnnotatorNotes T86	lemma = 'the'
+T87	NN1 336 342	number
+#83	AnnotatorNotes T87	lemma = 'number'
+T88	PRF 343 345	of
+#84	AnnotatorNotes T88	lemma = 'of'
+T89	AJ0 346 351	local
+#85	AnnotatorNotes T89	lemma = 'local'
+T90	NN2 352 357	calls
+#86	AnnotatorNotes T90	lemma = 'call'
+T91	VHZ 358 361	has
+#87	AnnotatorNotes T91	lemma = 'have'
+T92	AV0 362 370	slightly
+#88	AnnotatorNotes T92	lemma = 'slightly'
+T93	VVN 371 380	decreased
+#89	AnnotatorNotes T93	lemma = 'decrease'
+T94	PRP 381 383	to
+#90	AnnotatorNotes T94	lemma = 'to'
+T95	AT0 384 387	the
+#91	AnnotatorNotes T95	lemma = 'the'
+T96	NN1 388 394	number
+#92	AnnotatorNotes T96	lemma = 'number'
+T97	PRF 395 397	of
+#93	AnnotatorNotes T97	lemma = 'of'
+T98	CRD 398 402	1995
+#94	AnnotatorNotes T98	lemma = '1995'
+T99	NN1 403 407	year
+#95	AnnotatorNotes T99	lemma = 'year'
+T100	SENT 407 408	.
+#96	AnnotatorNotes T100	lemma = '.'
+T101	PRP 410 412	On
+#97	AnnotatorNotes T101	lemma = 'on'
+T102	AT0 413 416	the
+#98	AnnotatorNotes T102	lemma = 'the'
+T103	AJ0 417 422	other
+#99	AnnotatorNotes T103	lemma = 'other'
+T104	NN1 423 427	hand
+#100	AnnotatorNotes T104	lemma = 'hand'
+T105	PUN 427 428	,
+#101	AnnotatorNotes T105	lemma = ','
+T106	AT0 429 432	the
+#102	AnnotatorNotes T106	lemma = 'the'
+T107	NN1 433 439	number
+#103	AnnotatorNotes T107	lemma = 'number'
+T108	PRF 440 442	of
+#104	AnnotatorNotes T108	lemma = 'of'
+T109	AJ0 443 451	national
+#105	AnnotatorNotes T109	lemma = 'national'
+T110	CJC 452 455	and
+#106	AnnotatorNotes T110	lemma = 'and'
+T111	AJ0 456 469	international
+#107	AnnotatorNotes T111	lemma = 'international'
+T112	NN2 470 475	calls
+#108	AnnotatorNotes T112	lemma = 'call'
+T113	VBD 476 479	was
+#109	AnnotatorNotes T113	lemma = 'be'
+T114	AV0 480 486	slowly
+#110	AnnotatorNotes T114	lemma = 'slowly'
+T115	VVN 487 496	increased
+#111	AnnotatorNotes T115	lemma = 'increase|increased'
+T116	PRP 497 503	during
+#112	AnnotatorNotes T116	lemma = 'during'
+T117	DT0 504 507	all
+#113	AnnotatorNotes T117	lemma = 'all'
+T118	NN1 508 514	period
+#114	AnnotatorNotes T118	lemma = 'period'
+T119	PRF 515 517	of
+#115	AnnotatorNotes T119	lemma = 'of'
+T120	NN1 518 522	time
+#116	AnnotatorNotes T120	lemma = 'time'
+T121	PRP 523 525	on
+#117	AnnotatorNotes T121	lemma = 'on'
+T122	AT0 526 529	the
+#118	AnnotatorNotes T122	lemma = 'the'
+T123	NN1 530 535	graph
+#119	AnnotatorNotes T123	lemma = 'graph'
+T124	SENT 535 536	.
+#120	AnnotatorNotes T124	lemma = '.'
+T125	CJC 538 541	And
+#121	AnnotatorNotes T125	lemma = 'and'
+T126	PNP 542 544	it
+#122	AnnotatorNotes T126	lemma = 'it'
+T127	VBZ 544 546	's
+#123	AnnotatorNotes T127	lemma = 'be'
+T128	AJ0 547 554	obvious
+#124	AnnotatorNotes T128	lemma = 'obvious'
+T129	PUN 554 555	,
+#125	AnnotatorNotes T129	lemma = ','
+T130	DT0 556 560	that
+#126	AnnotatorNotes T130	lemma = 'that'
+T131	AJ0 561 567	mobile
+#127	AnnotatorNotes T131	lemma = 'mobile'
+T132	NN2 568 573	calls
+#128	AnnotatorNotes T132	lemma = 'call'
+T133	VBD 574 577	was
+#129	AnnotatorNotes T133	lemma = 'be'
+T134	AT0 578 581	the
+#130	AnnotatorNotes T134	lemma = 'the'
+T135	AV0 582 586	less
+#131	AnnotatorNotes T135	lemma = 'less'
+T136	AJ0 587 594	popular
+#132	AnnotatorNotes T136	lemma = 'popular'
+T137	NN1 595 599	type
+#133	AnnotatorNotes T137	lemma = 'type'
+T138	PRF 600 602	of
+#134	AnnotatorNotes T138	lemma = 'of'
+T139	NN2 603 608	calls
+#135	AnnotatorNotes T139	lemma = 'call'
+T140	SENT 608 609	.
+#136	AnnotatorNotes T140	lemma = '.'
+T141	AV0 611 618	Overall
+#137	AnnotatorNotes T141	lemma = 'overall'
+T142	PUN 618 619	,
+#138	AnnotatorNotes T142	lemma = ','
+T143	PRP 620 623	for
+#139	AnnotatorNotes T143	lemma = 'for'
+T144	AT0 624 627	the
+#140	AnnotatorNotes T144	lemma = 'the'
+T145	NN1 628 634	moment
+#141	AnnotatorNotes T145	lemma = 'moment'
+T146	PRF 635 637	of
+#142	AnnotatorNotes T146	lemma = 'of'
+T147	CRD 638 642	2002
+#143	AnnotatorNotes T147	lemma = '2002'
+T148	NN1 643 647	year
+#144	AnnotatorNotes T148	lemma = 'year'
+T149	PUN 647 648	,
+#145	AnnotatorNotes T149	lemma = ','
+T150	NN2 649 656	numbers
+#146	AnnotatorNotes T150	lemma = 'number'
+T151	PRF 657 659	of
+#147	AnnotatorNotes T151	lemma = 'of'
+T152	DT0 660 663	all
+#148	AnnotatorNotes T152	lemma = 'all'
+T153	NN2 664 669	types
+#149	AnnotatorNotes T153	lemma = 'type'
+T154	PRF 670 672	of
+#150	AnnotatorNotes T154	lemma = 'of'
+T155	NN2 673 678	calls
+#151	AnnotatorNotes T155	lemma = 'call'
+T156	PRP 679 681	in
+#152	AnnotatorNotes T156	lemma = 'in'
+T157	NP0 682 684	UK
+#153	AnnotatorNotes T157	lemma = 'uk'
+T158	VBB 685 688	are
+#154	AnnotatorNotes T158	lemma = 'be'
+T159	AV0 689 695	pretty
+#155	AnnotatorNotes T159	lemma = 'pretty'
+T160	AJ0 696 701	close
+#156	AnnotatorNotes T160	lemma = 'close'
+T161	PRP 702 704	to
+#157	AnnotatorNotes T161	lemma = 'to'
+T162	DT0 705 709	each
+#158	AnnotatorNotes T162	lemma = 'each'
+T163	NN1 710 715	other
+#159	AnnotatorNotes T163	lemma = 'other'
+T164	SENT 715 716	.
+#160	AnnotatorNotes T164	lemma = '.'
+T165	NN1 717 727	Difference
+#161	AnnotatorNotes T165	lemma = 'difference'
+T166	PRP 728 735	between
+#162	AnnotatorNotes T166	lemma = 'between'
+T167	PNP 736 740	them
+#163	AnnotatorNotes T167	lemma = 'they'
+T168	VBZ 741 743	is
+#164	AnnotatorNotes T168	lemma = 'be'
+T169	AV0 744 749	about
+#165	AnnotatorNotes T169	lemma = 'about'
+T170	CRD 750 753	ten
+#166	AnnotatorNotes T170	lemma = 'ten'
+T171	CRD 754 761	billion
+#167	AnnotatorNotes T171	lemma = 'billion'
+T172	NN2 762 769	minutes
+#168	AnnotatorNotes T172	lemma = 'minute'
+T173	SENT 769 770	.
+#169	AnnotatorNotes T173	lemma = ''

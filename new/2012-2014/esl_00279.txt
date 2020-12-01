@@ -1,0 +1,66 @@
+Componential analysis
+<Componential AJ0><analysis NN1>@
+The chapter 'Componential analysis' by John Lyons is about an influential theory in the 1950's and 60's.
+<The AT0><chapter NN1><' POS><Componential AJ0><analysis NN1><' PUQ><by PRP><John NP0><Lyons NP0><is VBZ><about PRP><an AT0><influential AJ0><theory NN1><in PRP><the AT0><1950 CRD><'s POS><and CJC><60 CRD><'s VBZ><. SENT>@
+This theory involves decomposing lexemes into basic sense components.
+<This DT0><theory NN1><involves VVZ><decomposing AJ0><lexemes NN2><into PRP><basic AJ0><sense NN1><components NN2><. SENT>@
+Despite the simplicity and seeming definiteness of componential analysis, its convenience is still a rather disputable issue.
+<Despite PRP><the AT0><simplicity NN1><and CJC><seeming AJ0><definiteness NN1><of PRF><componential AJ0><analysis NN1><, PUN><its DPS><convenience NN1><is VBZ><still AV0><a AT0><rather AV0><disputable AJ0><issue NN1><. SENT>@
+This critique aims to comment on the weaker sides of this theory, namely : (1) definitions of the names of species; (2) the border between concrete nouns and abstract nouns; (3) indirect meaning and metaphors.
+<This DT0><critique NN1><aims VVZ><to TO0><comment VVI><on PRP><the AT0><weaker AJC><sides NN2><of PRF><this DT0><theory NN1><, PUN><namely AV0><: PUN><( PUL><1 CRD><) PUR><definitions NN2><of PRF><the AT0><names NN2><of PRF><species NN0><; PUN><( PUL><2 CRD><) PUR><the AT0><border NN1><between PRP><concrete AJ0><nouns NN2><and CJC><abstract AJ0><nouns NN2><; PUN><( PUL><3 CRD><) PUR><indirect AJ0><meaning NN1><and CJC><metaphors NN2><. SENT>@
+Lyons thinks that the fundamental idea of componential analysis consists in the descriptive words by sets of basic sense components.
+<Lyons NP0><thinks VVZ><that CJT><the AT0><fundamental AJ0><idea NN1><of PRF><componential AJ0><analysis NN1><consists VVZ><in PRP><the AT0><descriptive AJ0><words NN2><by PRP><sets NN2><of PRF><basic AJ0><sense NN1><components NN2><. SENT>@
+For example, the lexeme 'girl' consists of [+human], [-masculine] and [-adult] and the lexeme 'lion' consists of [+felidae], [+/-masculine] and [+adult].
+<For PRP><example NN1><, PUN><the AT0><lexeme NN1><' POS><girl NN1><' POS><consists VVZ><of PRF><[ PUL><+human NP0><] PUR><, PUN><[ PUL><-masculine NN1><] PUR><and CJC><[ PUL><-adult NN1><] PUR><and CJC><the AT0><lexeme NN1><' POS><lion NN1><' POS><consists VVZ><of PRF><[ PUL><+felidae NP0><] PUR><, PUN><[ PUL><+ NP0></ PUN><-masculine NN1><] PUR><and CJC><[ PUL><+adult NN1><] PUR><. SENT>@
+This set is used for certain aims such as machine translation (e.
+<This DT0><set NN1><is VBZ><used VVN><for PRP><certain AJ0><aims NN2><such DT0><as PRP><machine NN1><translation NN1><( PUL><e ZZ0><. SENT>@
+g., coinciding sets of sense components in different languages) and semantic annotation of corpora.
+<g ZZ0><. SENT><, PUN><coinciding VVG><sets NN2><of PRF><sense NN1><components NN2><in PRP><different AJ0><languages NN2><) PUR><and CJC><semantic AJ0><annotation NN1><of PRF><corpora NN2><. SENT>@
+However, the analysis deals with the limited range of parts of speech as some verbs and concrete nouns because people are unable to describe in a few words what abstract nouns (e.
+<However AV0><, PUN><the AT0><analysis NN1><deals VVZ><with PRP><the AT0><limited AJ0><range NN1><of PRF><parts NN2><of PRF><speech NN1><as PRP><some DT0><verbs NN2><and CJC><concrete AJ0><nouns NN2><because CJS><people NN0><are VBB><unable AJ0><to TO0><describe VVI><in PRP><a AT0><few DT0><words NN2><what DTQ><abstract AJ0><nouns NN2><( PUL><e ZZ0><. SENT>@
+g., love, friendship) mean and there would be many interpretations of these notions.
+<g ZZ0><. SENT><, PUN><love NN1><, PUN><friendship NN1><) PUR><mean VVB><and CJC><there EX0><would VM0><be VBI><many DT0><interpretations NN2><of PRF><these DT0><notions NN2><. SENT>@
+The main advantage of this theory is simplicity which could be lost in several cases as some concrete nouns could hardly be defined through sets of basic components.
+<The AT0><main AJ0><advantage NN1><of PRF><this DT0><theory NN1><is VBZ><simplicity NN1><which DTQ><could VM0><be VBI><lost VVN><in PRP><several DT0><cases NN2><as CJS><some DT0><concrete AJ0><nouns NN2><could VM0><hardly AV0><be VBI><defined VVN><through PRP><sets NN2><of PRF><basic AJ0><components NN2><. SENT>@
+At first sight, the definitions of the words above are quite appropriate.
+<At PRP><first ORD><sight NN1><, PUN><the AT0><definitions NN2><of PRF><the AT0><words NN2><above AV0><are VBB><quite AV0><appropriate AJ0><. SENT>@
+Nevertheless, the lexeme 'tomcat' has the same set of sense components as that of 'lion'.
+<Nevertheless AV0><, PUN><the AT0><lexeme NN1><' POS><tomcat NN1><' PUQ><has VHZ><the AT0><same DT0><set NN1><of PRF><sense NN1><components NN2><as PRP><that DT0><of PRF><' PUQ><lion NN1><' PUQ><. SENT>@
+Therefore we have to specify the features or add a new one as different lexemes should be distinguished.
+<Therefore AV0><we PNP><have VHB><to TO0><specify VVI><the AT0><features NN2><or CJC><add VVB><a AT0><new AJ0><one PNI><as PRP><different AJ0><lexemes NN2><should VM0><be VBI><distinguished VVN><. SENT>@
+If we describe the appearance or the area of the distribution of lions, the number of components will expand considerably and the item will not be simple and basic anymore.
+<If CJS><we PNP><describe VVB><the AT0><appearance NN1><or CJC><the AT0><area NN1><of PRF><the AT0><distribution NN1><of PRF><lions NN2><, PUN><the AT0><number NN1><of PRF><components NN2><will VM0><expand VVI><considerably AV0><and CJC><the AT0><item NN1><will VM0><not XX0><be VBI><simple AJ0><and CJC><basic AJ0><anymore AV0><. SENT>@
+Thus, in spite of being concrete concepts, definitions of the names of species need further specification to make these sets of components suitable.
+<Thus AV0><, PUN><in PRP><spite NN1><of PRF><being VBG><concrete AJ0><concepts NN2><, PUN><definitions NN2><of PRF><the AT0><names NN2><of PRF><species NN0><need VVB><further AJC><specification NN1><to TO0><make VVI><these DT0><sets NN2><of PRF><components NN2><suitable AJ0><. SENT>@
+In this critique it is proposed to create a special scale of determinability for nouns with 'abstract' and 'concrete' along the edges.
+<In PRP><this DT0><critique NN1><it PNP><is VBZ><proposed AJ0><to TO0><create VVI><a AT0><special AJ0><scale NN1><of PRF><determinability NN1><for PRP><nouns NN2><with PRP><' PUQ><abstract AJ0><' PUQ><and CJC><' PUQ><concrete AJ0><' PUQ><along PRP><the AT0><edges NN2><. SENT>@
+It is suggested that the border between concrete nouns and abstract nouns is not clear.
+<It PNP><is VBZ><suggested VVN><that CJT><the AT0><border NN1><between PRP><concrete AJ0><nouns NN2><and CJC><abstract AJ0><nouns NN2><is VBZ><not XX0><clear AJ0><. SENT>@
+For instance, the lexeme 'teenager' consists of [+ human] and [+/- male] but how could his or her age be defined through the 'plus-minus' system?
+<For PRP><instance NN1><, PUN><the AT0><lexeme NN1><' POS><teenager NN1><' POS><consists VVZ><of PRF><[ PUL><+ NP0><human AJ0><] PUR><and CJC><[ PUL><+ NN1></ PUN><- PUN><male AJ0><] PUR><but CJC><how AVQ><could VM0><his DPS><or CJC><her DPS><age NN1><be VBI><defined VVN><through PRP><the AT0><' PUQ><plus-minus NN1><' POS><system NN1><? SENT>@
+This person is not a child yet but he/she is still not an adult.
+<This DT0><person NN1><is VBZ><not XX0><a AT0><child NN1><yet AV0><but CJC><he PNP></ PUN><she PNP><is VBZ><still AV0><not XX0><an AT0><adult NN1><. SENT>@
+Then there are two more components [-adult] and [+child] which exclude each other.
+<Then AV0><there EX0><are VBB><two CRD><more DT0><components NN2><[ PUL><-adult NN1><] PUR><and CJC><[ PUL><+child NN1><] PUR><which DTQ><exclude VVB><each DT0><other NN1><. SENT>@
+The extra symbol of mildness would simplify the description and prove inconvenience of the basic idea of componential analyses.
+<The AT0><extra AJ0><symbol NN1><of PRF><mildness NN1><would VM0><simplify VVI><the AT0><description NN1><and CJC><prove VVB><inconvenience NN1><of PRF><the AT0><basic AJ0><idea NN1><of PRF><componential AJ0><analyses NN2><. SENT>@
+Moreover, there would be some variants of the age a person who could be called a 'teenager'.
+<Moreover AV0><, PUN><there EX0><would VM0><be VBI><some DT0><variants NN2><of PRF><the AT0><age NN1><a AT0><person NN1><who PNQ><could VM0><be VBI><called VVN><a AT0><' PUQ><teenager NN1><' PUQ><. SENT>@
+That is why such lexemes could not be attached to one definite group but they would be treated as a borderline class.
+<That DT0><is VBZ><why AVQ><such DT0><lexemes NN2><could VM0><not XX0><be VBI><attached VVN><to PRP><one CRD><definite AJ0><group NN1><but CJC><they PNP><would VM0><be VBI><treated VVN><as PRP><a AT0><borderline NN1><class NN1><. SENT>@
+Another problem is that cases such as indirect meaning and metaphors could not be considered.
+<Another DT0><problem NN1><is VBZ><that CJT><cases NN2><such DT0><as PRP><indirect AJ0><meaning NN1><and CJC><metaphors NN2><could VM0><not XX0><be VBI><considered VVN><. SENT>@
+In the example 'You are not my sister anymore' the word 'sister' consists of [+human], [-male], [+blood kin], [+same mother or father] and something else which means that some of the duties of a real sister are not performed.
+<In PRP><the AT0><example NN1><' POS><You PNP><are VBB><not XX0><my DPS><sister NN1><anymore AV0><' PUQ><the AT0><word NN1><' POS><sister NN1><' POS><consists VVZ><of PRF><[ PUL><+human NP0><] PUR><, PUN><[ PUL><-male AJ0><] PUR><, PUN><[ PUL><+blood AJ0><kin NN0><] PUR><, PUN><[ PUL><+same NN1><mother NN1><or CJC><father NN1><] PUR><and CJC><something PNI><else AV0><which DTQ><means VVZ><that CJT><some DT0><of PRF><the AT0><duties NN2><of PRF><a AT0><real AJ0><sister NN1><are VBB><not XX0><performed VVN><. SENT>@
+It is impossible to attach this abstract meaning to one of the components.
+<It PNP><is VBZ><impossible AJ0><to TO0><attach VVI><this DT0><abstract AJ0><meaning NN1><to PRP><one CRD><of PRF><the AT0><components NN2><. SENT>@
+If we do so, the set of components would be not universal anymore and the situation 'Martha, this is my sister,Lora' could not be described.
+<If CJS><we PNP><do VDB><so AV0><, PUN><the AT0><set NN1><of PRF><components NN2><would VM0><be VBI><not XX0><universal AJ0><anymore AV0><and CJC><the AT0><situation NN1><' POS><Martha NP0><, PUN><this DT0><is VBZ><my DPS><sister NN1><, PUN><Lora NP0><' POS><could VM0><not XX0><be VBI><described VVN><. SENT>@
+Therefore componential analysis could not explain semantic interaction in that context.
+<Therefore AV0><componential AJ0><analysis NN1><could VM0><not XX0><explain VVI><semantic AJ0><interaction NN1><in PRP><that DT0><context NN1><. SENT>@
+To sum up, componential analysis is a useful tool for certain aims such as semantic annotation of corpora and machine translation but it has many theoretical flaws which prevent this method from being widely adopted.
+<To TO0><sum VVI><up AVP><, PUN><componential AJ0><analysis NN1><is VBZ><a AT0><useful AJ0><tool NN1><for PRP><certain AJ0><aims NN2><such DT0><as PRP><semantic AJ0><annotation NN1><of PRF><corpora NN2><and CJC><machine NN1><translation NN1><but CJC><it PNP><has VHZ><many DT0><theoretical AJ0><flaws NN2><which DTQ><prevent VVB><this DT0><method NN1><from PRP><being VBG><widely AV0><adopted VVN><. SENT>@
+John Lyons (1981), Componential analysis, Linguistic Semantics : an Introduction, pp.
+<John NP0><Lyons NP0><( PUL><1981 CRD><) PUR><, PUN><Componential AJ0><analysis NN1><, PUN><Linguistic AJ0><Semantics NN1><: PUN><an AT0><Introduction NN1><, PUN><pp. NN2>@
+107 114
+<107 CRD><114 CRD>@

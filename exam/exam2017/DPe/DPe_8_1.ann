@@ -1,0 +1,519 @@
+T1	Spelling 591 599	составил
+#1	AnnotatorNotes T1	comprised
+T2	Spelling 4 12	diagramm
+#2	AnnotatorNotes T2	diagram
+T3	Agreement_errors 13 20	compare
+#3	AnnotatorNotes T3	compares
+T4	Agreement_errors 110 117	present
+#4	AnnotatorNotes T4	presents
+T5	Articles 156 167	Middle East
+#5	AnnotatorNotes T5	the Middle East
+T6	Redundant_comp 219 224	data.
+T7	Superlative_adj 245 252	highest
+#6	AnnotatorNotes T7	the highest
+T8	Spelling 253 264	unmployment
+#7	AnnotatorNotes T8	unemployment
+T9	Tense_choice 304 306	is
+#8	AnnotatorNotes T9	was
+T10	Articles 299 303	rate
+#9	AnnotatorNotes T10	the rate
+T11	Articles 343 354	Middle East
+#10	AnnotatorNotes T11	the Middle East
+T12	Tense_choice 360 364	have
+#11	AnnotatorNotes T12	had
+T13	Prepositions 397 401	till
+#12	AnnotatorNotes T13	to
+T14	Tense_choice 381 388	plummet
+#13	AnnotatorNotes T14	plummeted
+T15	Articles 417 436	different situation
+#14	AnnotatorNotes T15	a different situation
+T16	Punctuation 447 449	it
+#15	AnnotatorNotes T16	: it
+T17	Tense_choice 478 480	is
+#16	AnnotatorNotes T17	was
+T18	Punctuation 489 493	just
+#17	AnnotatorNotes T18	, just
+T19	Standard 500 562	The lowest unemployment rate has South Africa in 2014 and 2015
+#18	AnnotatorNotes T19	South Africa had the lowest unemployment rate in 2014 ad 2015:
+T20	Tense_choice 529 532	has
+#19	AnnotatorNotes T20	had
+T21	Punctuation 563 605	the rate did not change and составил 3,9%.
+#20	AnnotatorNotes T21	, the rate did not change and constituted 3,9%.
+T22	Vocabulary 591 599	составил
+#21	AnnotatorNotes T22	constituted
+T23	Spelling 644 654	world wide
+#22	AnnotatorNotes T23	worldwide
+T24	Prepositions 627 629	on
+#23	AnnotatorNotes T24	from
+T25	Prepositions 640 659	the world wide rate
+#24	AnnotatorNotes T25	of the worldwide rate
+T26	lex_item_choice 671 677	middle
+#25	AnnotatorNotes T26	average
+T27	Conjunctions 748 750	as
+#26	AnnotatorNotes T27	and
+T28	Confusion_of_structures 737 739	as
+#27	AnnotatorNotes T28	both
+R1	Dependent_change Arg1:T27 Arg2:T28
+T29	Punctuation 761 770	To sum up
+#28	AnnotatorNotes T29	To sum up,
+T30	Noun_number 823 830	problem
+#29	AnnotatorNotes T30	problems
+T31	Tense_choice 898 900	is
+#30	AnnotatorNotes T31	was
+T32	Tense_choice 729 731	is
+#31	AnnotatorNotes T32	was
+T33	Quantifiers 973 976	few
+#32	AnnotatorNotes T33	a few
+T34	Absence_comp_sent 245 264	highest unmployment
+#33	AnnotatorNotes T34	the highest unemployment was
+T35	Punctuation 307 321	the same 12,5%
+#34	AnnotatorNotes T35	the same - 12,5%
+T36	Redundant_comp 334 339	place
+A1	Delete T36
+T37	Tense_choice 340 342	is
+#35	AnnotatorNotes T37	was
+T38	Non_defining 355 359	that
+#36	AnnotatorNotes T38	, which
+T39	Tense_choice 414 416	is
+#37	AnnotatorNotes T39	was
+T40	Tense_choice 664 666	is
+#38	AnnotatorNotes T40	was
+T41	Absence_comp_sent 661 666	it is
+#39	AnnotatorNotes T41	that it was
+T42	Punctuation 659 660	,
+A2	Delete T42
+T43	lex_item_choice 910 917	plummet
+#40	AnnotatorNotes T43	eliminate
+T44	Punctuation 907 933	To plummet this difference
+#41	AnnotatorNotes T44	To eliminate this difference,
+A3	Delete T6
+T45	Pronouns 355 359	that
+#42	AnnotatorNotes T45	which
+T46	AT0 0 3	The
+#43	AnnotatorNotes T46	lemma = 'the'
+T47	NN2 4 12	diagramm
+#44	AnnotatorNotes T47	lemma = 'diagramm'
+T48	VVB 13 20	compare
+#45	AnnotatorNotes T48	lemma = 'compare'
+T49	NN2 21 28	changes
+#46	AnnotatorNotes T49	lemma = 'change'
+T50	PRP 29 31	in
+#47	AnnotatorNotes T50	lemma = 'in'
+T51	AT0 32 35	the
+#48	AnnotatorNotes T51	lemma = 'the'
+T52	NN1 36 48	unemployment
+#49	AnnotatorNotes T52	lemma = 'unemployment'
+T53	NN1 49 53	rate
+#50	AnnotatorNotes T53	lemma = 'rate'
+T54	PRP 54 56	in
+#51	AnnotatorNotes T54	lemma = 'in'
+T55	AJ0 57 66	different
+#52	AnnotatorNotes T55	lemma = 'different'
+T56	NN1 67 72	world
+#53	AnnotatorNotes T56	lemma = 'world'
+T57	NN2 73 80	regions
+#54	AnnotatorNotes T57	lemma = 'region'
+T58	PRP 81 83	in
+#55	AnnotatorNotes T58	lemma = 'in'
+T59	CRD 84 88	2014
+#56	AnnotatorNotes T59	lemma = '2014'
+T60	CJC 89 92	and
+#57	AnnotatorNotes T60	lemma = 'and'
+T61	CRD 93 97	2015
+#58	AnnotatorNotes T61	lemma = '2015'
+T62	SENT 97 98	.
+#59	AnnotatorNotes T62	lemma = '.'
+T63	AT0 100 103	The
+#60	AnnotatorNotes T63	lemma = 'the'
+T64	NN1 104 109	chart
+#61	AnnotatorNotes T64	lemma = 'chart'
+T65	NN1 110 117	present
+#62	AnnotatorNotes T65	lemma = 'present'
+T66	CRD 118 122	five
+#63	AnnotatorNotes T66	lemma = 'five'
+T67	AJ0 123 132	different
+#64	AnnotatorNotes T67	lemma = 'different'
+T68	NN2 133 140	regions
+#65	AnnotatorNotes T68	lemma = 'region'
+T69	PUN 140 141	:
+#66	AnnotatorNotes T69	lemma = ':'
+T70	NP0 142 147	North
+#67	AnnotatorNotes T70	lemma = 'north'
+T71	NP0 148 154	Africa
+#68	AnnotatorNotes T71	lemma = 'africa'
+T72	PUN 154 155	,
+#69	AnnotatorNotes T72	lemma = ','
+T73	NP0 156 162	Middle
+#70	AnnotatorNotes T73	lemma = 'middle'
+T74	NP0 163 167	East
+#71	AnnotatorNotes T74	lemma = 'east'
+T75	PUN 167 168	,
+#72	AnnotatorNotes T75	lemma = ','
+T76	NP0 169 175	Europe
+#73	AnnotatorNotes T76	lemma = 'europe'
+T77	PUN 175 176	,
+#74	AnnotatorNotes T77	lemma = ','
+T78	AJ0 177 182	Latin
+#75	AnnotatorNotes T78	lemma = 'latin'
+T79	NP0 183 190	America
+#76	AnnotatorNotes T79	lemma = 'america'
+T80	PUN 190 191	,
+#77	AnnotatorNotes T80	lemma = ','
+T81	NP0 192 197	South
+#78	AnnotatorNotes T81	lemma = 'south'
+T82	NP0 198 204	Africa
+#79	AnnotatorNotes T82	lemma = 'africa'
+T83	CJC 205 208	and
+#80	AnnotatorNotes T83	lemma = 'and'
+T84	AJ0 209 218	worldwide
+#81	AnnotatorNotes T84	lemma = 'worldwide'
+T85	NN0 219 223	data
+#82	AnnotatorNotes T85	lemma = 'data'
+T86	SENT 223 224	.
+#83	AnnotatorNotes T86	lemma = '.'
+T87	PNP 225 227	It
+#84	AnnotatorNotes T87	lemma = 'it'
+T88	VM0 228 231	can
+#85	AnnotatorNotes T88	lemma = 'can'
+T89	VBI 232 234	be
+#86	AnnotatorNotes T89	lemma = 'be'
+T90	VVN 235 239	seen
+#87	AnnotatorNotes T90	lemma = 'see'
+T91	CJT 240 244	that
+#88	AnnotatorNotes T91	lemma = 'that'
+T92	AJS 245 252	highest
+#89	AnnotatorNotes T92	lemma = 'high'
+T93	NN1 253 264	unmployment
+#90	AnnotatorNotes T93	lemma = 'unmployment'
+T94	PRP 265 267	in
+#91	AnnotatorNotes T94	lemma = 'in'
+T95	NP0 268 273	North
+#92	AnnotatorNotes T95	lemma = 'north'
+T96	NP0 274 280	Africa
+#93	AnnotatorNotes T96	lemma = 'africa'
+T97	SENT 280 281	.
+#94	AnnotatorNotes T97	lemma = '.'
+T98	PRP 282 284	In
+#95	AnnotatorNotes T98	lemma = 'in'
+T99	CRD 285 289	2014
+#96	AnnotatorNotes T99	lemma = '2014'
+T100	CJC 290 293	and
+#97	AnnotatorNotes T100	lemma = 'and'
+T101	CRD 294 298	2015
+#98	AnnotatorNotes T101	lemma = '2015'
+T102	NN1 299 303	rate
+#99	AnnotatorNotes T102	lemma = 'rate'
+T103	VBZ 304 306	is
+#100	AnnotatorNotes T103	lemma = 'be'
+T104	AT0 307 310	the
+#101	AnnotatorNotes T104	lemma = 'the'
+T105	DT0 311 315	same
+#102	AnnotatorNotes T105	lemma = 'same'
+T106	CRD 316 320	12,5
+#103	AnnotatorNotes T106	lemma = '12,5'
+T107	NN0 320 321	%
+#104	AnnotatorNotes T107	lemma = '%'
+T108	SENT 321 322	.
+#105	AnnotatorNotes T108	lemma = '.'
+T109	AT0 323 326	The
+#106	AnnotatorNotes T109	lemma = 'the'
+T110	ORD 327 333	second
+#107	AnnotatorNotes T110	lemma = 'second'
+T111	NN1 334 339	place
+#108	AnnotatorNotes T111	lemma = 'place'
+T112	VBZ 340 342	is
+#109	AnnotatorNotes T112	lemma = 'be'
+T113	AJ0 343 349	Middle
+#110	AnnotatorNotes T113	lemma = 'middle'
+T114	NN1 350 354	East
+#111	AnnotatorNotes T114	lemma = 'east'
+T115	CJT 355 359	that
+#112	AnnotatorNotes T115	lemma = 'that'
+T116	VHB 360 364	have
+#113	AnnotatorNotes T116	lemma = 'have'
+T117	CRD 365 367	11
+#114	AnnotatorNotes T117	lemma = '11'
+T118	NN0 367 368	%
+#115	AnnotatorNotes T118	lemma = '%'
+T119	PRP 369 371	in
+#116	AnnotatorNotes T119	lemma = 'in'
+T120	CRD 372 376	2014
+#117	AnnotatorNotes T120	lemma = '2014'
+T121	CJC 377 380	and
+#118	AnnotatorNotes T121	lemma = 'and'
+T122	VVB 381 388	plummet
+#119	AnnotatorNotes T122	lemma = 'plummet'
+T123	PRP 389 391	in
+#120	AnnotatorNotes T123	lemma = 'in'
+T124	CRD 392 396	2015
+#121	AnnotatorNotes T124	lemma = '2015'
+T125	PRP 397 401	till
+#122	AnnotatorNotes T125	lemma = 'till'
+T126	CRD 402 405	9,6
+#123	AnnotatorNotes T126	lemma = '9,6'
+T127	NN0 405 406	%
+#124	AnnotatorNotes T127	lemma = '%'
+T128	SENT 406 407	.
+#125	AnnotatorNotes T128	lemma = '.'
+T129	EX0 408 413	There
+#126	AnnotatorNotes T129	lemma = 'there'
+T130	VBZ 414 416	is
+#127	AnnotatorNotes T130	lemma = 'be'
+T131	AJ0 417 426	different
+#128	AnnotatorNotes T131	lemma = 'different'
+T132	NN1 427 436	situation
+#129	AnnotatorNotes T132	lemma = 'situation'
+T133	PRP 437 439	in
+#130	AnnotatorNotes T133	lemma = 'in'
+T134	NP0 440 446	Europe
+#131	AnnotatorNotes T134	lemma = 'europe'
+T135	PNP 447 449	it
+#132	AnnotatorNotes T135	lemma = 'it'
+T136	VVD 450 454	went
+#133	AnnotatorNotes T136	lemma = 'go'
+T137	AVP 455 457	up
+#134	AnnotatorNotes T137	lemma = 'up'
+T138	PRP 458 460	in
+#135	AnnotatorNotes T138	lemma = 'in'
+T139	CRD 461 465	2015
+#136	AnnotatorNotes T139	lemma = '2015'
+T140	CJC 466 469	but
+#137	AnnotatorNotes T140	lemma = 'but'
+T141	AT0 470 473	the
+#138	AnnotatorNotes T141	lemma = 'the'
+T142	NN1 474 477	gap
+#139	AnnotatorNotes T142	lemma = 'gap'
+T143	VBZ 478 480	is
+#140	AnnotatorNotes T143	lemma = 'be'
+T144	XX0 481 484	not
+#141	AnnotatorNotes T144	lemma = 'not'
+T145	AJ0 485 488	big
+#142	AnnotatorNotes T145	lemma = 'big'
+T146	AV0 489 493	just
+#143	AnnotatorNotes T146	lemma = 'just'
+T147	CRD 494 497	0,4
+#144	AnnotatorNotes T147	lemma = '0,4'
+T148	NN0 497 498	%
+#145	AnnotatorNotes T148	lemma = '%'
+T149	SENT 498 499	.
+#146	AnnotatorNotes T149	lemma = '.'
+T150	AT0 500 503	The
+#147	AnnotatorNotes T150	lemma = 'the'
+T151	AJS 504 510	lowest
+#148	AnnotatorNotes T151	lemma = 'low'
+T152	NN1 511 523	unemployment
+#149	AnnotatorNotes T152	lemma = 'unemployment'
+T153	NN1 524 528	rate
+#150	AnnotatorNotes T153	lemma = 'rate'
+T154	VHZ 529 532	has
+#151	AnnotatorNotes T154	lemma = 'have'
+T155	NP0 533 538	South
+#152	AnnotatorNotes T155	lemma = 'south'
+T156	NP0 539 545	Africa
+#153	AnnotatorNotes T156	lemma = 'africa'
+T157	PRP 546 548	in
+#154	AnnotatorNotes T157	lemma = 'in'
+T158	CRD 549 553	2014
+#155	AnnotatorNotes T158	lemma = '2014'
+T159	CJC 554 557	and
+#156	AnnotatorNotes T159	lemma = 'and'
+T160	CRD 558 562	2015
+#157	AnnotatorNotes T160	lemma = '2015'
+T161	AT0 563 566	the
+#158	AnnotatorNotes T161	lemma = 'the'
+T162	NN1 567 571	rate
+#159	AnnotatorNotes T162	lemma = 'rate'
+T163	VDD 572 575	did
+#160	AnnotatorNotes T163	lemma = 'do'
+T164	XX0 576 579	not
+#161	AnnotatorNotes T164	lemma = 'not'
+T165	VVI 580 586	change
+#162	AnnotatorNotes T165	lemma = 'change'
+T166	CJC 587 590	and
+#163	AnnotatorNotes T166	lemma = 'and'
+T167	NP0 591 599	составил
+#164	AnnotatorNotes T167	lemma = 'составил'
+T168	CRD 600 603	3,9
+#165	AnnotatorNotes T168	lemma = '3,9'
+T169	NN0 603 604	%
+#166	AnnotatorNotes T169	lemma = '%'
+T170	SENT 604 605	.
+#167	AnnotatorNotes T170	lemma = '.'
+T171	AV0 606 610	Also
+#168	AnnotatorNotes T171	lemma = 'also'
+T172	PUN 610 611	,
+#169	AnnotatorNotes T172	lemma = ','
+T173	PNP 612 614	it
+#170	AnnotatorNotes T173	lemma = 'it'
+T174	VM0 615 618	can
+#171	AnnotatorNotes T174	lemma = 'can'
+T175	VBI 619 621	be
+#172	AnnotatorNotes T175	lemma = 'be'
+T176	VVN 622 626	seen
+#173	AnnotatorNotes T176	lemma = 'see'
+T177	PRP 627 629	on
+#174	AnnotatorNotes T177	lemma = 'on'
+T178	AT0 630 633	the
+#175	AnnotatorNotes T178	lemma = 'the'
+T179	NN1 634 639	chart
+#176	AnnotatorNotes T179	lemma = 'chart'
+T180	AT0 640 643	the
+#177	AnnotatorNotes T180	lemma = 'the'
+T181	NN1 644 649	world
+#178	AnnotatorNotes T181	lemma = 'world'
+T182	AJ0 650 654	wide
+#179	AnnotatorNotes T182	lemma = 'wide'
+T183	NN1 655 659	rate
+#180	AnnotatorNotes T183	lemma = 'rate'
+T184	PUN 659 660	,
+#181	AnnotatorNotes T184	lemma = ','
+T185	PNP 661 663	it
+#182	AnnotatorNotes T185	lemma = 'it'
+T186	VBZ 664 666	is
+#183	AnnotatorNotes T186	lemma = 'be'
+T187	AT0 667 670	the
+#184	AnnotatorNotes T187	lemma = 'the'
+T188	AJ0 671 677	middle
+#185	AnnotatorNotes T188	lemma = 'middle'
+T189	NN1 678 682	rate
+#186	AnnotatorNotes T189	lemma = 'rate'
+T190	DT0 683 686	all
+#187	AnnotatorNotes T190	lemma = 'all'
+T191	PRP 687 693	around
+#188	AnnotatorNotes T191	lemma = 'around'
+T192	AT0 694 697	the
+#189	AnnotatorNotes T192	lemma = 'the'
+T193	NN1 698 703	world
+#190	AnnotatorNotes T193	lemma = 'world'
+T194	SENT 703 704	.
+#191	AnnotatorNotes T194	lemma = '.'
+T195	AV0 705 707	So
+#192	AnnotatorNotes T195	lemma = 'so'
+T196	PUN 707 708	,
+#193	AnnotatorNotes T196	lemma = ','
+T197	AT0 709 712	the
+#194	AnnotatorNotes T197	lemma = 'the'
+T198	NN0 713 720	percent
+#195	AnnotatorNotes T198	lemma = 'percent'
+T199	PRF 721 723	of
+#196	AnnotatorNotes T199	lemma = 'of'
+T200	DT0 724 728	this
+#197	AnnotatorNotes T200	lemma = 'this'
+T201	VBZ 729 731	is
+#198	AnnotatorNotes T201	lemma = 'be'
+T202	CRD 732 735	5,9
+#199	AnnotatorNotes T202	lemma = '5,9'
+T203	NN0 735 736	%
+#200	AnnotatorNotes T203	lemma = '%'
+T204	CJS 737 739	as
+#201	AnnotatorNotes T204	lemma = 'as'
+T205	PRP 740 742	in
+#202	AnnotatorNotes T205	lemma = 'in'
+T206	CRD 743 747	2014
+#203	AnnotatorNotes T206	lemma = '2014'
+T207	CJS 748 750	as
+#204	AnnotatorNotes T207	lemma = 'as'
+T208	PRP 751 753	in
+#205	AnnotatorNotes T208	lemma = 'in'
+T209	CRD 754 758	2015
+#206	AnnotatorNotes T209	lemma = '2015'
+T210	SENT 758 759	.
+#207	AnnotatorNotes T210	lemma = '.'
+T211	TO0 761 763	To
+#208	AnnotatorNotes T211	lemma = 'to'
+T212	VVI 764 767	sum
+#209	AnnotatorNotes T212	lemma = 'sum'
+T213	AVP 768 770	up
+#210	AnnotatorNotes T213	lemma = 'up'
+T214	PNP 771 773	it
+#211	AnnotatorNotes T214	lemma = 'it'
+T215	VM0 774 777	can
+#212	AnnotatorNotes T215	lemma = 'can'
+T216	VBI 778 780	be
+#213	AnnotatorNotes T216	lemma = 'be'
+T217	VVN 781 785	said
+#214	AnnotatorNotes T217	lemma = 'say'
+T218	CJT 786 790	that
+#215	AnnotatorNotes T218	lemma = 'that'
+T219	NN1 791 803	unemployment
+#216	AnnotatorNotes T219	lemma = 'unemployment'
+T220	VBZ 804 806	is
+#217	AnnotatorNotes T220	lemma = 'be'
+T221	CRD 807 810	one
+#218	AnnotatorNotes T221	lemma = 'one'
+T222	PRF 811 813	of
+#219	AnnotatorNotes T222	lemma = 'of'
+T223	AT0 814 817	the
+#220	AnnotatorNotes T223	lemma = 'the'
+T224	AJ0 818 822	main
+#221	AnnotatorNotes T224	lemma = 'main'
+T225	NN1 823 830	problem
+#222	AnnotatorNotes T225	lemma = 'problem'
+T226	PRP 831 833	in
+#223	AnnotatorNotes T226	lemma = 'in'
+T227	DPS 834 837	our
+#224	AnnotatorNotes T227	lemma = 'we'
+T228	NN1 838 843	world
+#225	AnnotatorNotes T228	lemma = 'world'
+T229	SENT 843 844	.
+#226	AnnotatorNotes T229	lemma = '.'
+T230	AT0 845 848	The
+#227	AnnotatorNotes T230	lemma = 'the'
+T231	NN1 849 852	gap
+#228	AnnotatorNotes T231	lemma = 'gap'
+T232	PRP 853 860	between
+#229	AnnotatorNotes T232	lemma = 'between'
+T233	AT0 861 864	the
+#230	AnnotatorNotes T233	lemma = 'the'
+T234	AJS 865 872	highest
+#231	AnnotatorNotes T234	lemma = 'high'
+T235	NN1 873 877	rate
+#232	AnnotatorNotes T235	lemma = 'rate'
+T236	CJC 878 881	and
+#233	AnnotatorNotes T236	lemma = 'and'
+T237	AT0 882 885	the
+#234	AnnotatorNotes T237	lemma = 'the'
+T238	AJS 886 892	lowest
+#235	AnnotatorNotes T238	lemma = 'low'
+T239	NN1 893 897	rate
+#236	AnnotatorNotes T239	lemma = 'rate'
+T240	VBZ 898 900	is
+#237	AnnotatorNotes T240	lemma = 'be'
+T241	CRD 901 904	8,6
+#238	AnnotatorNotes T241	lemma = '8,6'
+T242	NN0 904 905	%
+#239	AnnotatorNotes T242	lemma = '%'
+T243	SENT 905 906	.
+#240	AnnotatorNotes T243	lemma = '.'
+T244	TO0 907 909	To
+#241	AnnotatorNotes T244	lemma = 'to'
+T245	VVI 910 917	plummet
+#242	AnnotatorNotes T245	lemma = 'plummet'
+T246	DT0 918 922	this
+#243	AnnotatorNotes T246	lemma = 'this'
+T247	NN1 923 933	difference
+#244	AnnotatorNotes T247	lemma = 'difference'
+T248	AT0 934 937	the
+#245	AnnotatorNotes T248	lemma = 'the'
+T249	NN1 938 943	birth
+#246	AnnotatorNotes T249	lemma = 'birth'
+T250	NN1 944 948	rate
+#247	AnnotatorNotes T250	lemma = 'rate'
+T251	VHZ 949 952	has
+#248	AnnotatorNotes T251	lemma = 'have'
+T252	TO0 953 955	to
+#249	AnnotatorNotes T252	lemma = 'to'
+T253	VVI 956 958	go
+#250	AnnotatorNotes T253	lemma = 'go'
+T254	AVP 959 963	down
+#251	AnnotatorNotes T254	lemma = 'down'
+T255	AV0 964 968	just
+#252	AnnotatorNotes T255	lemma = 'just'
+T256	PRP 969 972	for
+#253	AnnotatorNotes T256	lemma = 'for'
+T257	DT0 973 976	few
+#254	AnnotatorNotes T257	lemma = 'few'
+T258	NN2 977 983	points
+#255	AnnotatorNotes T258	lemma = 'point'
+T259	SENT 983 984	.
+#256	AnnotatorNotes T259	lemma = ''

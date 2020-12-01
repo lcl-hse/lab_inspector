@@ -1,0 +1,389 @@
+T1	Capitalisation 114 117	The
+#1	AnnotatorNotes T1	the
+T2	Absence_explanation 46 52	energy
+#2	AnnotatorNotes T2	percentage of energy gained
+T3	Prepositions 179 184	China
+#3	AnnotatorNotes T3	in China
+T4	Tense_choice 228 238	had become
+#4	AnnotatorNotes T4	became
+T5	Absence_comp_sent 185 195	was rising
+#5	AnnotatorNotes T5	the level was rising
+T6	Punctuation 213 216	and
+#6	AnnotatorNotes T6	, and
+T7	Absence_comp_sent 228 238	had become
+#7	AnnotatorNotes T7	China became
+T8	Word_choice 248 263	of these values
+#8	AnnotatorNotes T8	in fossil fuels consumption
+T9	Category_confusion 311 326	sharp decreased
+#9	AnnotatorNotes T9	experienced a sharp decrease 
+T10	Punctuation 349 352	and
+#10	AnnotatorNotes T10	, and
+T11	Punctuation 516 524	moreover
+#11	AnnotatorNotes T11	moreover,
+T12	lex_item_choice 386 390	spot
+#12	AnnotatorNotes T12	rise
+T13	Punctuation 626 633	however
+#13	AnnotatorNotes T13	however,
+T14	Articles 663 676	average level
+#14	AnnotatorNotes T14	the average level
+T15	lex_item_choice 643 647	save
+#15	AnnotatorNotes T15	keep up
+T16	Spelling 752 763	percantages
+#16	AnnotatorNotes T16	percentages
+T17	Punctuation 727 728	,
+#17	AnnotatorNotes T17	:
+T18	Punctuation 823 824	,
+A1	Delete T18
+T19	Absence_explanation 849 854	third
+#18	AnnotatorNotes T19	third in consumption of fossil fuels
+T20	Redundant_comp 86 97	in percents
+A2	Delete T20
+R1	Dependent_change Arg1:T2 Arg2:T20
+T21	DT0 0 4	This
+#19	AnnotatorNotes T21	lemma = 'this'
+T22	NN1 5 10	graph
+#20	AnnotatorNotes T22	lemma = 'graph'
+T23	VVZ 11 16	shows
+#21	AnnotatorNotes T23	lemma = 'show'
+T24	PNP 17 19	us
+#22	AnnotatorNotes T24	lemma = 'we'
+T25	AT0 20 23	the
+#23	AnnotatorNotes T25	lemma = 'the'
+T26	NN1 24 35	information
+#24	AnnotatorNotes T26	lemma = 'information'
+T27	PRP 36 41	about
+#25	AnnotatorNotes T27	lemma = 'about'
+T28	AT0 42 45	the
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	NN1 46 52	energy
+#27	AnnotatorNotes T29	lemma = 'energy'
+T30	PRP 53 57	from
+#28	AnnotatorNotes T30	lemma = 'from'
+T31	NN1 58 64	fossil
+#29	AnnotatorNotes T31	lemma = 'fossil'
+T32	NN2 65 70	fuels
+#30	AnnotatorNotes T32	lemma = 'fuel'
+T33	PRP 71 73	in
+#31	AnnotatorNotes T33	lemma = 'in'
+T34	CRD 74 75	5
+#32	AnnotatorNotes T34	lemma = '5'
+T35	NN2 76 85	countries
+#33	AnnotatorNotes T35	lemma = 'country'
+T36	PRP 86 88	in
+#34	AnnotatorNotes T36	lemma = 'in'
+T37	NN2 89 97	percents
+#35	AnnotatorNotes T37	lemma = 'percents'
+T38	SENT 97 98	.
+#36	AnnotatorNotes T38	lemma = '.'
+T39	AVQ 99 102	How
+#37	AnnotatorNotes T39	lemma = 'how'
+T40	PNP 103 105	we
+#38	AnnotatorNotes T40	lemma = 'we'
+T41	VM0 106 109	can
+#39	AnnotatorNotes T41	lemma = 'can'
+T42	VVI 110 113	see
+#40	AnnotatorNotes T42	lemma = 'see'
+T43	AT0 114 117	The
+#41	AnnotatorNotes T43	lemma = 'the'
+T44	NP0 118 124	United
+#42	AnnotatorNotes T44	lemma = 'united'
+T45	NP0 125 131	States
+#43	AnnotatorNotes T45	lemma = 'states'
+T46	VHD 132 135	had
+#44	AnnotatorNotes T46	lemma = 'have'
+T47	AT0 136 139	the
+#45	AnnotatorNotes T47	lemma = 'the'
+T48	AJS 140 147	biggest
+#46	AnnotatorNotes T48	lemma = 'big'
+T49	NN2 148 155	numbers
+#47	AnnotatorNotes T49	lemma = 'number'
+T50	PRP 156 160	from
+#48	AnnotatorNotes T50	lemma = 'from'
+T51	CRD 161 165	1970
+#49	AnnotatorNotes T51	lemma = '1970'
+T52	PRP 166 168	to
+#50	AnnotatorNotes T52	lemma = 'to'
+T53	CRD 169 173	2005
+#51	AnnotatorNotes T53	lemma = '2005'
+T54	PUN 173 174	,
+#52	AnnotatorNotes T54	lemma = ','
+T55	CJC 175 178	but
+#53	AnnotatorNotes T55	lemma = 'but'
+T56	NP0 179 184	China
+#54	AnnotatorNotes T56	lemma = 'china'
+T57	VBD 185 188	was
+#55	AnnotatorNotes T57	lemma = 'be'
+T58	VVG 189 195	rising
+#56	AnnotatorNotes T58	lemma = 'rise|rising'
+T59	PRP 196 202	during
+#57	AnnotatorNotes T59	lemma = 'during'
+T60	DT0 203 206	all
+#58	AnnotatorNotes T60	lemma = 'all'
+T61	NN2 207 212	years
+#59	AnnotatorNotes T61	lemma = 'year'
+T62	CJC 213 216	and
+#60	AnnotatorNotes T62	lemma = 'and'
+T63	PRP 217 219	in
+#61	AnnotatorNotes T63	lemma = 'in'
+T64	AT0 220 223	the
+#62	AnnotatorNotes T64	lemma = 'the'
+T65	NN1 224 227	end
+#63	AnnotatorNotes T65	lemma = 'end'
+T66	VHD 228 231	had
+#64	AnnotatorNotes T66	lemma = 'have'
+T67	VVN 232 238	become
+#65	AnnotatorNotes T67	lemma = 'become'
+T68	AT0 239 240	a
+#66	AnnotatorNotes T68	lemma = 'a'
+T69	NN1 241 247	leader
+#67	AnnotatorNotes T69	lemma = 'leader'
+T70	PRF 248 250	of
+#68	AnnotatorNotes T70	lemma = 'of'
+T71	DT0 251 256	these
+#69	AnnotatorNotes T71	lemma = 'these'
+T72	NN2 257 263	values
+#70	AnnotatorNotes T72	lemma = 'value'
+T73	SENT 263 264	.
+#71	AnnotatorNotes T73	lemma = '.'
+T74	AV0 265 269	Also
+#72	AnnotatorNotes T74	lemma = 'also'
+T75	PUN 269 270	,
+#73	AnnotatorNotes T75	lemma = ','
+T76	AT0 271 274	the
+#74	AnnotatorNotes T76	lemma = 'the'
+T77	NN1 275 279	line
+#75	AnnotatorNotes T77	lemma = 'line'
+T78	NN1 280 285	chart
+#76	AnnotatorNotes T78	lemma = 'chart'
+T79	VVZ 286 298	demonstrates
+#77	AnnotatorNotes T79	lemma = 'demonstrate'
+T80	CJT 299 303	that
+#78	AnnotatorNotes T80	lemma = 'that'
+T81	NP0 304 310	Sweden
+#79	AnnotatorNotes T81	lemma = 'sweden'
+T82	AV0 311 316	sharp
+#80	AnnotatorNotes T82	lemma = 'sharp'
+T83	VVN 317 326	decreased
+#81	AnnotatorNotes T83	lemma = 'decrease'
+T84	AV0 327 340	approximately
+#82	AnnotatorNotes T84	lemma = 'approximately'
+T85	PRP 341 343	in
+#83	AnnotatorNotes T85	lemma = 'in'
+T86	CRD 344 348	1980
+#84	AnnotatorNotes T86	lemma = '1980'
+T87	CJC 349 352	and
+#85	AnnotatorNotes T87	lemma = 'and'
+T88	PRP 353 358	after
+#86	AnnotatorNotes T88	lemma = 'after'
+T89	DT0 359 363	that
+#87	AnnotatorNotes T89	lemma = 'that'
+T90	DT0 364 368	this
+#88	AnnotatorNotes T90	lemma = 'this'
+T91	NN1 369 376	country
+#89	AnnotatorNotes T91	lemma = 'country'
+T92	VM0 377 382	could
+#90	AnnotatorNotes T92	lemma = 'could'
+T93	XX0 382 385	n't
+#91	AnnotatorNotes T93	lemma = 'not'
+T94	VVI 386 390	spot
+#92	AnnotatorNotes T94	lemma = 'spot'
+T95	AV0 391 396	again
+#93	AnnotatorNotes T95	lemma = 'again'
+T96	SENT 396 397	.
+#94	AnnotatorNotes T96	lemma = '.'
+T97	AV0 398 402	Also
+#95	AnnotatorNotes T97	lemma = 'also'
+T98	PNP 403 405	we
+#96	AnnotatorNotes T98	lemma = 'we'
+T99	VM0 406 409	can
+#97	AnnotatorNotes T99	lemma = 'can'
+T100	VVI 410 416	notice
+#98	AnnotatorNotes T100	lemma = 'notice'
+T101	CJT 417 421	that
+#99	AnnotatorNotes T101	lemma = 'that'
+T102	NP0 422 428	Sweden
+#100	AnnotatorNotes T102	lemma = 'sweden'
+T103	VVD 429 434	tried
+#101	AnnotatorNotes T103	lemma = 'try|tried'
+T104	TO0 435 437	to
+#102	AnnotatorNotes T104	lemma = 'to'
+T105	VVI 438 441	fix
+#103	AnnotatorNotes T105	lemma = 'fix'
+T106	AT0 442 445	the
+#104	AnnotatorNotes T106	lemma = 'the'
+T107	NN1 446 455	situation
+#105	AnnotatorNotes T107	lemma = 'situation'
+T108	PRP 456 463	between
+#106	AnnotatorNotes T108	lemma = 'between'
+T109	CRD 464 468	2000
+#107	AnnotatorNotes T109	lemma = '2000'
+T110	CJC 469 472	and
+#108	AnnotatorNotes T110	lemma = 'and'
+T111	CRD 473 477	2005
+#109	AnnotatorNotes T111	lemma = '2005'
+T112	CJC 478 481	and
+#110	AnnotatorNotes T112	lemma = 'and'
+T113	PRP 482 484	in
+#111	AnnotatorNotes T113	lemma = 'in'
+T114	CRD 485 489	2010
+#112	AnnotatorNotes T114	lemma = '2010'
+T115	CJC 490 493	but
+#113	AnnotatorNotes T115	lemma = 'but'
+T116	PNP 494 496	it
+#114	AnnotatorNotes T116	lemma = 'it'
+T117	VBD 497 500	was
+#115	AnnotatorNotes T117	lemma = 'be'
+T118	XX0 500 503	n't
+#116	AnnotatorNotes T118	lemma = 'not'
+T119	AJ0 504 514	successful
+#117	AnnotatorNotes T119	lemma = 'successful'
+T120	PUN 514 515	,
+#118	AnnotatorNotes T120	lemma = ','
+T121	AV0 516 524	moreover
+#119	AnnotatorNotes T121	lemma = 'moreover'
+T122	AT0 525 528	the
+#120	AnnotatorNotes T122	lemma = 'the'
+T123	NN2 529 534	rates
+#121	AnnotatorNotes T123	lemma = 'rate'
+T124	PRF 535 537	of
+#122	AnnotatorNotes T124	lemma = 'of'
+T125	DT0 538 542	this
+#123	AnnotatorNotes T125	lemma = 'this'
+T126	NN1 543 550	country
+#124	AnnotatorNotes T126	lemma = 'country'
+T127	VVD 551 557	became
+#125	AnnotatorNotes T127	lemma = 'become'
+T128	AJC 558 563	worse
+#126	AnnotatorNotes T128	lemma = 'bad'
+T129	CJS 564 568	than
+#127	AnnotatorNotes T129	lemma = 'than'
+T130	PNP 569 573	they
+#128	AnnotatorNotes T130	lemma = 'they'
+T131	VBD 574 578	were
+#129	AnnotatorNotes T131	lemma = 'be'
+T132	SENT 578 579	.
+#130	AnnotatorNotes T132	lemma = '.'
+T133	NP0 581 587	France
+#131	AnnotatorNotes T133	lemma = 'france'
+T134	CJS 588 590	as
+#132	AnnotatorNotes T134	lemma = 'as'
+T135	AV0 591 595	like
+#133	AnnotatorNotes T135	lemma = 'like'
+T136	CJS 596 598	as
+#134	AnnotatorNotes T136	lemma = 'as'
+T137	NP0 599 605	Sweden
+#135	AnnotatorNotes T137	lemma = 'sweden'
+T138	VHD 606 609	had
+#136	AnnotatorNotes T138	lemma = 'have'
+T139	AT0 610 611	a
+#137	AnnotatorNotes T139	lemma = 'a'
+T140	AJ0 612 615	big
+#138	AnnotatorNotes T140	lemma = 'big'
+T141	NN1 616 624	downfall
+#139	AnnotatorNotes T141	lemma = 'downfall'
+T142	PUN 624 625	,
+#140	AnnotatorNotes T142	lemma = ','
+T143	AV0 626 633	however
+#141	AnnotatorNotes T143	lemma = 'however'
+T144	PNP 634 636	it
+#142	AnnotatorNotes T144	lemma = 'it'
+T145	VM0 637 642	could
+#143	AnnotatorNotes T145	lemma = 'could'
+T146	VVI 643 647	save
+#144	AnnotatorNotes T146	lemma = 'save'
+T147	AT0 648 651	the
+#145	AnnotatorNotes T147	lemma = 'the'
+T148	NN2 652 659	numbers
+#146	AnnotatorNotes T148	lemma = 'number'
+T149	PRP 660 662	at
+#147	AnnotatorNotes T149	lemma = 'at'
+T150	AJ0 663 670	average
+#148	AnnotatorNotes T150	lemma = 'average'
+T151	NN1 671 676	level
+#149	AnnotatorNotes T151	lemma = 'level'
+T152	SENT 676 677	.
+#150	AnnotatorNotes T152	lemma = '.'
+T153	AV0 678 686	Moreover
+#151	AnnotatorNotes T153	lemma = 'moreover'
+T154	PUN 686 687	,
+#152	AnnotatorNotes T154	lemma = ','
+T155	AT0 688 691	the
+#153	AnnotatorNotes T155	lemma = 'the'
+T156	NN1 692 697	chart
+#154	AnnotatorNotes T156	lemma = 'chart'
+T157	VVZ 698 703	gives
+#155	AnnotatorNotes T157	lemma = 'give'
+T158	PNP 704 706	us
+#156	AnnotatorNotes T158	lemma = 'we'
+T159	AT0 707 710	the
+#157	AnnotatorNotes T159	lemma = 'the'
+T160	NN0 711 715	data
+#158	AnnotatorNotes T160	lemma = 'data'
+T161	PRP 716 721	about
+#159	AnnotatorNotes T161	lemma = 'about'
+T162	NP0 722 727	India
+#160	AnnotatorNotes T162	lemma = 'india'
+T163	PUN 727 728	,
+#161	AnnotatorNotes T163	lemma = ','
+T164	DT0 729 733	this
+#162	AnnotatorNotes T164	lemma = 'this'
+T165	NN1 734 738	area
+#163	AnnotatorNotes T165	lemma = 'area'
+T166	VHD 739 742	had
+#164	AnnotatorNotes T166	lemma = 'have'
+T167	AT0 743 744	a
+#165	AnnotatorNotes T167	lemma = 'a'
+T168	AJS 745 751	lowest
+#166	AnnotatorNotes T168	lemma = 'low'
+T169	NN2 752 763	percantages
+#167	AnnotatorNotes T169	lemma = 'percantages'
+T170	PRF 764 766	of
+#168	AnnotatorNotes T170	lemma = 'of'
+T171	NN1 767 773	energy
+#169	AnnotatorNotes T171	lemma = 'energy'
+T172	PUN 773 774	,
+#170	AnnotatorNotes T172	lemma = ','
+T173	CJC 775 778	but
+#171	AnnotatorNotes T173	lemma = 'but'
+T174	DPS 779 782	its
+#172	AnnotatorNotes T174	lemma = 'it'
+T175	NN1 783 791	quantity
+#173	AnnotatorNotes T175	lemma = 'quantity'
+T176	VBD 792 795	was
+#174	AnnotatorNotes T176	lemma = 'be'
+T177	AJ0 796 806	increasing
+#175	AnnotatorNotes T177	lemma = 'increasing|increase'
+T178	CJC 807 810	and
+#176	AnnotatorNotes T178	lemma = 'and'
+T179	CRD 811 813	30
+#177	AnnotatorNotes T179	lemma = '30'
+T180	NN2 814 819	years
+#178	AnnotatorNotes T180	lemma = 'year'
+T181	AV0 820 823	ago
+#179	AnnotatorNotes T181	lemma = 'ago'
+T182	PUN 823 824	,
+#180	AnnotatorNotes T182	lemma = ','
+T183	DT0 825 829	this
+#181	AnnotatorNotes T183	lemma = 'this'
+T184	NN1 830 837	country
+#182	AnnotatorNotes T184	lemma = 'country'
+T185	VVD 838 844	became
+#183	AnnotatorNotes T185	lemma = 'become'
+T186	AT0 845 848	the
+#184	AnnotatorNotes T186	lemma = 'the'
+T187	ORD 849 854	third
+#185	AnnotatorNotes T187	lemma = 'third'
+T188	PUN 854 855	,
+#186	AnnotatorNotes T188	lemma = ','
+T189	PRP 856 858	in
+#187	AnnotatorNotes T189	lemma = 'in'
+T190	DT0 859 863	this
+#188	AnnotatorNotes T190	lemma = 'this'
+T191	NN1 864 870	rating
+#189	AnnotatorNotes T191	lemma = 'rating|rate'
+T192	PRP 871 873	at
+#190	AnnotatorNotes T192	lemma = 'at'
+T193	AV0 874 879	least
+#191	AnnotatorNotes T193	lemma = 'least'
+T194	SENT 879 880	.
+#192	AnnotatorNotes T194	lemma = '.'
