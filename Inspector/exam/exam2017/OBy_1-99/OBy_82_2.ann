@@ -1,0 +1,692 @@
+T1	Spelling 1109 1113	sigt
+#1	AnnotatorNotes T1	sight
+T2	Spelling 522 526	wich
+#2	AnnotatorNotes T2	which
+T3	Absence_explanation 36 46	widespread
+#3	AnnotatorNotes T3	the widespread use
+T4	Tense_choice 61 71	is causing
+#4	AnnotatorNotes T4	causes
+T5	Noun_number 159 173	the technology
+#5	AnnotatorNotes T5	technologies
+T6	Agreement_errors 174 184	has spread
+#6	AnnotatorNotes T6	have spread
+T7	Tense_form 174 184	has spread
+#7	AnnotatorNotes T7	have spread
+T8	Inappropriate_register 197 202	can't
+#8	AnnotatorNotes T8	can not
+R1	Dependent_change Arg1:T6 Arg2:T5
+T9	Ref_device 221 223	it
+#9	AnnotatorNotes T9	them
+R2	Dependent_change Arg1:T9 Arg2:T5
+T10	Tense_choice 228 246	are always staring
+#10	AnnotatorNotes T10	always stare
+T11	Prepositions 247 266	on the tiny screens
+#11	AnnotatorNotes T11	at tiny screens
+T12	Articles 250 266	the tiny screens
+#12	AnnotatorNotes T12	tiny screens
+T13	Prepositions 285 295	on screens
+#13	AnnotatorNotes T13	at screens
+T14	Spelling 314 326	Thisconstant
+#14	AnnotatorNotes T14	This constant
+T15	lex_item_choice 335 338	has
+#15	AnnotatorNotes T15	makes
+T16	Spelling 422 428	imagin
+#16	AnnotatorNotes T16	imagine
+T17	Spelling 662 671	computers
+#17	AnnotatorNotes T17	computer
+T18	Prepositions 841 851	Worst case
+#18	AnnotatorNotes T18	In the worst case
+T19	Articles 841 851	Worst case
+#19	AnnotatorNotes T19	In the worst case
+T20	Tense_choice 865 868	got
+#20	AnnotatorNotes T20	get
+T21	lex_item_choice 1038 1045	perform
+#21	AnnotatorNotes T21	do
+T22	lex_item_choice 1061 1074	ever so often
+#22	AnnotatorNotes T22	regularly
+T23	lex_item_choice 1109 1113	sigt
+#23	AnnotatorNotes T23	eyes
+T24	Articles 1238 1254	a little workout
+#24	AnnotatorNotes T24	small workouts
+T25	Noun_number 1238 1254	a little workout
+#25	AnnotatorNotes T25	small workouts
+T26	lex_item_choice 1240 1246	little
+#26	AnnotatorNotes T26	small
+T27	Spelling 1377 1379	of
+#27	AnnotatorNotes T27	if
+T28	Conditionals 1389 1409	just started running
+#28	AnnotatorNotes T28	would have just started running
+T29	Articles 1506 1512	health
+#29	AnnotatorNotes T29	the health
+T30	AV0 0 4	More
+#30	AnnotatorNotes T30	lemma = 'more'
+T31	CJC 5 8	and
+#31	AnnotatorNotes T31	lemma = 'and'
+T32	DT0 9 13	more
+#32	AnnotatorNotes T32	lemma = 'more'
+T33	NN0 14 20	people
+#33	AnnotatorNotes T33	lemma = 'people'
+T34	AV0 21 26	today
+#34	AnnotatorNotes T34	lemma = 'today'
+T35	VVB 27 30	say
+#35	AnnotatorNotes T35	lemma = 'say'
+T36	CJT 31 35	that
+#36	AnnotatorNotes T36	lemma = 'that'
+T37	AJ0 36 46	widespread
+#37	AnnotatorNotes T37	lemma = 'widespread'
+T38	PRF 47 49	of
+#38	AnnotatorNotes T38	lemma = 'of'
+T39	NN1 50 60	technology
+#39	AnnotatorNotes T39	lemma = 'technology'
+T40	VBZ 61 63	is
+#40	AnnotatorNotes T40	lemma = 'be'
+T41	VVG 64 71	causing
+#41	AnnotatorNotes T41	lemma = 'cause'
+T42	AT0 72 74	an
+#42	AnnotatorNotes T42	lemma = 'an'
+T43	AJ0 75 85	increasing
+#43	AnnotatorNotes T43	lemma = 'increasing|increase'
+T44	NN1 86 92	number
+#44	AnnotatorNotes T44	lemma = 'number'
+T45	PRF 93 95	of
+#45	AnnotatorNotes T45	lemma = 'of'
+T46	NN1 96 102	health
+#46	AnnotatorNotes T46	lemma = 'health'
+T47	NN2 103 111	problems
+#47	AnnotatorNotes T47	lemma = 'problem'
+T48	SENT 111 112	.
+#48	AnnotatorNotes T48	lemma = '.'
+T49	PNP 113 114	I
+#49	AnnotatorNotes T49	lemma = 'i'
+T50	PUN 114 115	,
+#50	AnnotatorNotes T50	lemma = ','
+T51	PRP 116 119	for
+#51	AnnotatorNotes T51	lemma = 'for'
+T52	CRD 120 123	one
+#52	AnnotatorNotes T52	lemma = 'one'
+T53	PUN 123 124	,
+#53	AnnotatorNotes T53	lemma = ','
+T54	VVB 125 130	agree
+#54	AnnotatorNotes T54	lemma = 'agree'
+T55	PRP 131 135	with
+#55	AnnotatorNotes T55	lemma = 'with'
+T56	DT0 136 140	this
+#56	AnnotatorNotes T56	lemma = 'this'
+T57	NN1 141 150	statement
+#57	AnnotatorNotes T57	lemma = 'statement'
+T58	SENT 150 151	.
+#58	AnnotatorNotes T58	lemma = '.'
+T59	AV0 153 158	Today
+#59	AnnotatorNotes T59	lemma = 'today'
+T60	AT0 159 162	the
+#60	AnnotatorNotes T60	lemma = 'the'
+T61	NN1 163 173	technology
+#61	AnnotatorNotes T61	lemma = 'technology'
+T62	VHZ 174 177	has
+#62	AnnotatorNotes T62	lemma = 'have'
+T63	VVN 178 184	spread
+#63	AnnotatorNotes T63	lemma = 'spread'
+T64	AV0 185 187	so
+#64	AnnotatorNotes T64	lemma = 'so'
+T65	AJ0 188 192	wide
+#65	AnnotatorNotes T65	lemma = 'wide'
+T66	PUN 192 193	,
+#66	AnnotatorNotes T66	lemma = ','
+T67	PNP 194 196	we
+#67	AnnotatorNotes T67	lemma = 'we'
+T68	VM0 197 199	ca
+#68	AnnotatorNotes T68	lemma = 'can'
+T69	XX0 199 202	n't
+#69	AnnotatorNotes T69	lemma = 'not'
+T70	AV0 203 207	even
+#70	AnnotatorNotes T70	lemma = 'even'
+T71	VVI 208 212	live
+#71	AnnotatorNotes T71	lemma = 'live'
+T72	PRP 213 220	without
+#72	AnnotatorNotes T72	lemma = 'without'
+T73	PNP 221 223	it
+#73	AnnotatorNotes T73	lemma = 'it'
+T74	SENT 223 224	.
+#74	AnnotatorNotes T74	lemma = '.'
+T75	PNP 225 227	We
+#75	AnnotatorNotes T75	lemma = 'we'
+T76	VBB 228 231	are
+#76	AnnotatorNotes T76	lemma = 'be'
+T77	AV0 232 238	always
+#77	AnnotatorNotes T77	lemma = 'always'
+T78	VVG 239 246	staring
+#78	AnnotatorNotes T78	lemma = 'stare'
+T79	PRP 247 249	on
+#79	AnnotatorNotes T79	lemma = 'on'
+T80	AT0 250 253	the
+#80	AnnotatorNotes T80	lemma = 'the'
+T81	AJ0 254 258	tiny
+#81	AnnotatorNotes T81	lemma = 'tiny'
+T82	NN2 259 266	screens
+#82	AnnotatorNotes T82	lemma = 'screen'
+T83	PRF 267 269	of
+#83	AnnotatorNotes T83	lemma = 'of'
+T84	DPS 270 273	our
+#84	AnnotatorNotes T84	lemma = 'we'
+T85	NN2 274 280	phones
+#85	AnnotatorNotes T85	lemma = 'phone'
+T86	PUN 280 281	,
+#86	AnnotatorNotes T86	lemma = ','
+T87	CJC 282 284	or
+#87	AnnotatorNotes T87	lemma = 'or'
+T88	PRP 285 287	on
+#88	AnnotatorNotes T88	lemma = 'on'
+T89	NN2 288 295	screens
+#89	AnnotatorNotes T89	lemma = 'screen'
+T90	PRF 296 298	of
+#90	AnnotatorNotes T90	lemma = 'of'
+T91	DPS 299 302	our
+#91	AnnotatorNotes T91	lemma = 'we'
+T92	NN2 303 312	computers
+#92	AnnotatorNotes T92	lemma = 'computer'
+T93	SENT 312 313	.
+#93	AnnotatorNotes T93	lemma = '.'
+T94	NN1 314 326	Thisconstant
+#94	AnnotatorNotes T94	lemma = 'Thisconstant'
+T95	NN1 327 334	staring
+#95	AnnotatorNotes T95	lemma = 'stare|staring'
+T96	VHZ 335 338	has
+#96	AnnotatorNotes T96	lemma = 'have'
+T97	DPS 339 342	our
+#97	AnnotatorNotes T97	lemma = 'we'
+T98	NN2 343 347	eyes
+#98	AnnotatorNotes T98	lemma = 'eye'
+T99	VBG 348 353	being
+#99	AnnotatorNotes T99	lemma = 'be'
+T100	VVN 354 361	focused
+#100	AnnotatorNotes T100	lemma = 'focus|focused'
+T101	DT0 362 365	all
+#101	AnnotatorNotes T101	lemma = 'all'
+T102	AT0 366 369	the
+#102	AnnotatorNotes T102	lemma = 'the'
+T103	NN1 370 374	time
+#103	AnnotatorNotes T103	lemma = 'time'
+T104	CJC 375 378	and
+#104	AnnotatorNotes T104	lemma = 'and'
+T105	AV0 379 383	thus
+#105	AnnotatorNotes T105	lemma = 'thus'
+T106	VVZ 384 392	provokes
+#106	AnnotatorNotes T106	lemma = 'provoke'
+T107	DT0 393 396	all
+#107	AnnotatorNotes T107	lemma = 'all'
+T108	AT0 397 400	the
+#108	AnnotatorNotes T108	lemma = 'the'
+T109	NN1 401 404	eye
+#109	AnnotatorNotes T109	lemma = 'eye'
+T110	NN2 405 413	problems
+#110	AnnotatorNotes T110	lemma = 'problem'
+T111	PNI 414 417	one
+#111	AnnotatorNotes T111	lemma = 'one'
+T112	VM0 418 421	can
+#112	AnnotatorNotes T112	lemma = 'can'
+T113	NN1 422 428	imagin
+#113	AnnotatorNotes T113	lemma = 'imagin'
+T114	SENT 428 429	.
+#114	AnnotatorNotes T114	lemma = '.'
+T115	AT0 430 433	The
+#115	AnnotatorNotes T115	lemma = 'the'
+T116	NN1 434 441	quality
+#116	AnnotatorNotes T116	lemma = 'quality'
+T117	PRF 442 444	of
+#117	AnnotatorNotes T117	lemma = 'of'
+T118	DPS 445 448	our
+#118	AnnotatorNotes T118	lemma = 'we'
+T119	NN1 449 457	eyesight
+#119	AnnotatorNotes T119	lemma = 'eyesight'
+T120	VVZ 458 463	falls
+#120	AnnotatorNotes T120	lemma = 'fall'
+T121	PRP 464 468	with
+#121	AnnotatorNotes T121	lemma = 'with'
+T122	AT0 469 474	every
+#122	AnnotatorNotes T122	lemma = 'every'
+T123	NN1 475 478	day
+#123	AnnotatorNotes T123	lemma = 'day'
+T124	PUN 478 479	,
+#124	AnnotatorNotes T124	lemma = ','
+T125	VVG 480 486	making
+#125	AnnotatorNotes T125	lemma = 'make|making'
+T126	PNP 487 489	us
+#126	AnnotatorNotes T126	lemma = 'we'
+T127	VVI 490 494	wear
+#127	AnnotatorNotes T127	lemma = 'wear'
+T128	NN2 495 502	glasses
+#128	AnnotatorNotes T128	lemma = 'glass'
+T129	SENT 502 503	.
+#129	AnnotatorNotes T129	lemma = '.'
+T130	AT0 504 507	The
+#130	AnnotatorNotes T130	lemma = 'the'
+T131	AJ0 508 513	other
+#131	AnnotatorNotes T131	lemma = 'other'
+T132	NN1 514 521	problem
+#132	AnnotatorNotes T132	lemma = 'problem'
+T133	NN1 522 526	wich
+#133	AnnotatorNotes T133	lemma = 'wich'
+T134	VVZ 527 532	comes
+#134	AnnotatorNotes T134	lemma = 'come'
+T135	PRP 533 537	with
+#135	AnnotatorNotes T135	lemma = 'with'
+T136	AT0 538 541	the
+#136	AnnotatorNotes T136	lemma = 'the'
+T137	AJ0 542 548	modern
+#137	AnnotatorNotes T137	lemma = 'modern'
+T138	NN1 549 559	technology
+#138	AnnotatorNotes T138	lemma = 'technology'
+T139	VBZ 560 562	is
+#139	AnnotatorNotes T139	lemma = 'be'
+T140	VVN 563 569	caused
+#140	AnnotatorNotes T140	lemma = 'cause'
+T141	PRP 570 572	by
+#141	AnnotatorNotes T141	lemma = 'by'
+T142	DPS 573 576	our
+#142	AnnotatorNotes T142	lemma = 'we'
+T143	AJ0 577 585	personal
+#143	AnnotatorNotes T143	lemma = 'personal'
+T144	NN2 586 595	computers
+#144	AnnotatorNotes T144	lemma = 'computer'
+T145	SENT 595 596	.
+#145	AnnotatorNotes T145	lemma = '.'
+T146	PRP 597 600	For
+#146	AnnotatorNotes T146	lemma = 'for'
+T147	NN1 601 608	example
+#147	AnnotatorNotes T147	lemma = 'example'
+T148	PUN 608 609	,
+#148	AnnotatorNotes T148	lemma = ','
+T149	PNP 610 611	I
+#149	AnnotatorNotes T149	lemma = 'i'
+T150	VVB 612 617	spend
+#150	AnnotatorNotes T150	lemma = 'spend'
+T151	AT0 618 619	a
+#151	AnnotatorNotes T151	lemma = 'a'
+T152	NN1 620 623	lot
+#152	AnnotatorNotes T152	lemma = 'lot'
+T153	PRF 624 626	of
+#153	AnnotatorNotes T153	lemma = 'of'
+T154	NN1 627 631	time
+#154	AnnotatorNotes T154	lemma = 'time'
+T155	VVG 632 639	sitting
+#155	AnnotatorNotes T155	lemma = 'sit|sitting'
+T156	PRP 640 642	in
+#156	AnnotatorNotes T156	lemma = 'in'
+T157	DPS 643 645	my
+#157	AnnotatorNotes T157	lemma = 'i'
+T158	NN1 646 651	chair
+#158	AnnotatorNotes T158	lemma = 'chair'
+T159	PRP 652 658	before
+#159	AnnotatorNotes T159	lemma = 'before'
+T160	DPS 659 661	my
+#160	AnnotatorNotes T160	lemma = 'i'
+T161	NN2 662 671	computers
+#161	AnnotatorNotes T161	lemma = 'computer'
+T162	VVB 672 678	screen
+#162	AnnotatorNotes T162	lemma = 'screen'
+T163	VVG 679 686	playing
+#163	AnnotatorNotes T163	lemma = 'play|playing'
+T164	NN2 687 692	games
+#164	AnnotatorNotes T164	lemma = 'game'
+T165	CJC 693 695	or
+#165	AnnotatorNotes T165	lemma = 'or'
+T166	VDG 696 701	doing
+#166	AnnotatorNotes T166	lemma = 'do'
+T167	DPS 702 704	my
+#167	AnnotatorNotes T167	lemma = 'i'
+T168	NN1 705 709	work
+#168	AnnotatorNotes T168	lemma = 'work'
+T169	SENT 709 710	.
+#169	AnnotatorNotes T169	lemma = '.'
+T170	DTQ 711 715	What
+#170	AnnotatorNotes T170	lemma = 'what'
+T171	VBZ 716 718	is
+#171	AnnotatorNotes T171	lemma = 'be'
+T172	AT0 719 722	the
+#172	AnnotatorNotes T172	lemma = 'the'
+T173	NN1 723 730	problem
+#173	AnnotatorNotes T173	lemma = 'problem'
+T174	AV0 731 735	here
+#174	AnnotatorNotes T174	lemma = 'here'
+T175	SENT 735 736	?
+#175	AnnotatorNotes T175	lemma = '?'
+T176	AV0 737 741	Well
+#176	AnnotatorNotes T176	lemma = 'well'
+T177	PUN 741 742	,
+#177	AnnotatorNotes T177	lemma = ','
+T178	PRP 743 747	from
+#178	AnnotatorNotes T178	lemma = 'from'
+T179	VVG 748 755	sitting
+#179	AnnotatorNotes T179	lemma = 'sit|sitting'
+T180	PRP 756 758	in
+#180	AnnotatorNotes T180	lemma = 'in'
+T181	CRD 759 762	one
+#181	AnnotatorNotes T181	lemma = 'one'
+T182	NN1 763 767	pose
+#182	AnnotatorNotes T182	lemma = 'pose'
+T183	PRP 768 771	for
+#183	AnnotatorNotes T183	lemma = 'for'
+T184	DT0 772 776	such
+#184	AnnotatorNotes T184	lemma = 'such'
+T185	AT0 777 778	a
+#185	AnnotatorNotes T185	lemma = 'a'
+T186	AJ0 779 783	long
+#186	AnnotatorNotes T186	lemma = 'long'
+T187	NN1 784 788	time
+#187	AnnotatorNotes T187	lemma = 'time'
+T188	PNP 789 790	I
+#188	AnnotatorNotes T188	lemma = 'i'
+T189	VM0 791 794	can
+#189	AnnotatorNotes T189	lemma = 'can'
+T190	VVI 795 798	get
+#190	AnnotatorNotes T190	lemma = 'get'
+T191	AVP 799 803	back
+#191	AnnotatorNotes T191	lemma = 'back'
+T192	NN1 804 808	pain
+#192	AnnotatorNotes T192	lemma = 'pain'
+T193	PUN 808 809	,
+#193	AnnotatorNotes T193	lemma = ','
+T194	CJC 810 812	or
+#194	AnnotatorNotes T194	lemma = 'or'
+T195	AV0 813 817	even
+#195	AnnotatorNotes T195	lemma = 'even'
+T196	VVB 818 821	get
+#196	AnnotatorNotes T196	lemma = 'get'
+T197	AT0 822 823	a
+#197	AnnotatorNotes T197	lemma = 'a'
+T198	NN1 824 831	posture
+#198	AnnotatorNotes T198	lemma = 'posture'
+T199	NN1 832 839	problem
+#199	AnnotatorNotes T199	lemma = 'problem'
+T200	SENT 839 840	.
+#200	AnnotatorNotes T200	lemma = '.'
+T201	AJS 841 846	Worst
+#201	AnnotatorNotes T201	lemma = 'bad'
+T202	NN1 847 851	case
+#202	AnnotatorNotes T202	lemma = 'case'
+T203	PNP 852 853	I
+#203	AnnotatorNotes T203	lemma = 'i'
+T204	VM0 854 859	might
+#204	AnnotatorNotes T204	lemma = 'might'
+T205	AV0 860 864	even
+#205	AnnotatorNotes T205	lemma = 'even'
+T206	VVN 865 868	got
+#206	AnnotatorNotes T206	lemma = 'get'
+T207	AJ0 869 881	long-lasting
+#207	AnnotatorNotes T207	lemma = 'long-lasting|long-last'
+T208	NN2 882 890	problems
+#208	AnnotatorNotes T208	lemma = 'problem'
+T209	PRP 891 895	with
+#209	AnnotatorNotes T209	lemma = 'with'
+T210	DPS 896 898	my
+#210	AnnotatorNotes T210	lemma = 'i'
+T211	NN1 899 904	spine
+#211	AnnotatorNotes T211	lemma = 'spine'
+T212	SENT 904 905	.
+#212	AnnotatorNotes T212	lemma = '.'
+T213	CJC 907 910	But
+#213	AnnotatorNotes T213	lemma = 'but'
+T214	AVQ 911 914	how
+#214	AnnotatorNotes T214	lemma = 'how'
+T215	VM0 915 918	can
+#215	AnnotatorNotes T215	lemma = 'can'
+T216	PNP 919 921	we
+#216	AnnotatorNotes T216	lemma = 'we'
+T217	VVI 922 927	solve
+#217	AnnotatorNotes T217	lemma = 'solve'
+T218	DT0 928 933	these
+#218	AnnotatorNotes T218	lemma = 'these'
+T219	NN2 934 942	problems
+#219	AnnotatorNotes T219	lemma = 'problem'
+T220	SENT 942 943	?
+#220	AnnotatorNotes T220	lemma = '?'
+T221	ORD 944 949	First
+#221	AnnotatorNotes T221	lemma = 'first'
+T222	PRF 950 952	of
+#222	AnnotatorNotes T222	lemma = 'of'
+T223	DT0 953 956	all
+#223	AnnotatorNotes T223	lemma = 'all'
+T224	PUN 956 957	,
+#224	AnnotatorNotes T224	lemma = ','
+T225	PNI 958 966	everyone
+#225	AnnotatorNotes T225	lemma = 'everyone'
+T226	VVG 967 974	working
+#226	AnnotatorNotes T226	lemma = 'work|working'
+T227	PRP 975 979	with
+#227	AnnotatorNotes T227	lemma = 'with'
+T228	AT0 980 981	a
+#228	AnnotatorNotes T228	lemma = 'a'
+T229	NN1 982 990	computer
+#229	AnnotatorNotes T229	lemma = 'computer'
+T230	PUN 990 991	,
+#230	AnnotatorNotes T230	lemma = ','
+T231	VVG 992 1000	watching
+#231	AnnotatorNotes T231	lemma = 'watch'
+T232	DPS 1001 1006	their
+#232	AnnotatorNotes T232	lemma = 'they'
+T233	NN1 1007 1009	TV
+#233	AnnotatorNotes T233	lemma = 'tv'
+T234	CJC 1010 1012	or
+#234	AnnotatorNotes T234	lemma = 'or'
+T235	VVG 1013 1018	using
+#235	AnnotatorNotes T235	lemma = 'use'
+T236	DPS 1019 1024	their
+#236	AnnotatorNotes T236	lemma = 'they'
+T237	NN1 1025 1030	phone
+#237	AnnotatorNotes T237	lemma = 'phone'
+T238	VM0 1031 1037	should
+#238	AnnotatorNotes T238	lemma = 'should'
+T239	VVI 1038 1045	perform
+#239	AnnotatorNotes T239	lemma = 'perform'
+T240	NN1 1046 1049	eye
+#240	AnnotatorNotes T240	lemma = 'eye'
+T241	NN1 1050 1060	gymnastics
+#241	AnnotatorNotes T241	lemma = 'gymnastics'
+T242	AV0 1061 1065	ever
+#242	AnnotatorNotes T242	lemma = 'ever'
+T243	AV0 1066 1068	so
+#243	AnnotatorNotes T243	lemma = 'so'
+T244	AV0 1069 1074	often
+#244	AnnotatorNotes T244	lemma = 'often'
+T245	SENT 1074 1075	.
+#245	AnnotatorNotes T245	lemma = '.'
+T246	AV0 1076 1085	Basically
+#246	AnnotatorNotes T246	lemma = 'basically'
+T247	PUN 1085 1086	,
+#247	AnnotatorNotes T247	lemma = ','
+T248	PNP 1087 1090	you
+#248	AnnotatorNotes T248	lemma = 'you'
+T249	VM0 1091 1097	should
+#249	AnnotatorNotes T249	lemma = 'should'
+T250	VVI 1098 1103	focus
+#250	AnnotatorNotes T250	lemma = 'focus'
+T251	DPS 1104 1108	your
+#251	AnnotatorNotes T251	lemma = 'you'
+T252	NN1 1109 1113	sigt
+#252	AnnotatorNotes T252	lemma = 'sigt'
+T253	PRP 1114 1116	on
+#253	AnnotatorNotes T253	lemma = 'on'
+T254	PNI 1117 1126	something
+#254	AnnotatorNotes T254	lemma = 'something'
+T255	AV0 1127 1130	far
+#255	AnnotatorNotes T255	lemma = 'far'
+T256	CJC 1131 1134	and
+#256	AnnotatorNotes T256	lemma = 'and'
+T257	AV0 1135 1139	then
+#257	AnnotatorNotes T257	lemma = 'then'
+T258	VVB 1140 1144	spin
+#258	AnnotatorNotes T258	lemma = 'spin'
+T259	DPS 1145 1149	your
+#259	AnnotatorNotes T259	lemma = 'you'
+T260	NN2 1150 1154	eyes
+#260	AnnotatorNotes T260	lemma = 'eye'
+T261	PRP 1155 1158	for
+#261	AnnotatorNotes T261	lemma = 'for'
+T262	AT0 1159 1160	a
+#262	AnnotatorNotes T262	lemma = 'a'
+T263	NN1 1161 1164	bit
+#263	AnnotatorNotes T263	lemma = 'bit'
+T264	SENT 1164 1165	.
+#264	AnnotatorNotes T264	lemma = '.'
+T265	AV0 1166 1174	Secondly
+#265	AnnotatorNotes T265	lemma = 'secondly'
+T266	PUN 1174 1175	,
+#266	AnnotatorNotes T266	lemma = ','
+T267	CJS 1176 1178	if
+#267	AnnotatorNotes T267	lemma = 'if'
+T268	PNP 1179 1182	you
+#268	AnnotatorNotes T268	lemma = 'you'
+T269	VBB 1183 1186	are
+#269	AnnotatorNotes T269	lemma = 'be'
+T270	VVG 1187 1194	sitting
+#270	AnnotatorNotes T270	lemma = 'sit|sitting'
+T271	PRP 1195 1198	for
+#271	AnnotatorNotes T271	lemma = 'for'
+T272	AT0 1199 1200	a
+#272	AnnotatorNotes T272	lemma = 'a'
+T273	AJ0 1201 1205	long
+#273	AnnotatorNotes T273	lemma = 'long'
+T274	NN1 1206 1210	time
+#274	AnnotatorNotes T274	lemma = 'time'
+T275	PNP 1211 1214	you
+#275	AnnotatorNotes T275	lemma = 'you'
+T276	VM0 1215 1221	should
+#276	AnnotatorNotes T276	lemma = 'should'
+T277	VVI 1222 1227	stand
+#277	AnnotatorNotes T277	lemma = 'stand'
+T278	AVP 1228 1230	up
+#278	AnnotatorNotes T278	lemma = 'up'
+T279	CJC 1231 1234	and
+#279	AnnotatorNotes T279	lemma = 'and'
+T280	VDI 1235 1237	do
+#280	AnnotatorNotes T280	lemma = 'do'
+T281	AT0 1238 1239	a
+#281	AnnotatorNotes T281	lemma = 'a'
+T282	AJ0 1240 1246	little
+#282	AnnotatorNotes T282	lemma = 'little'
+T283	NN1 1247 1254	workout
+#283	AnnotatorNotes T283	lemma = 'workout'
+T284	PRP 1255 1259	from
+#284	AnnotatorNotes T284	lemma = 'from'
+T285	NN1 1260 1264	time
+#285	AnnotatorNotes T285	lemma = 'time'
+T286	PRP 1265 1267	to
+#286	AnnotatorNotes T286	lemma = 'to'
+T287	NN1 1268 1272	time
+#287	AnnotatorNotes T287	lemma = 'time'
+T288	SENT 1272 1273	.
+#288	AnnotatorNotes T288	lemma = '.'
+T289	DT0 1274 1278	This
+#289	AnnotatorNotes T289	lemma = 'this'
+T290	VVZ 1279 1287	includes
+#290	AnnotatorNotes T290	lemma = 'include'
+T291	AT0 1288 1289	a
+#291	AnnotatorNotes T291	lemma = 'a'
+T292	NN1 1290 1293	bit
+#292	AnnotatorNotes T292	lemma = 'bit'
+T293	PRF 1294 1296	of
+#293	AnnotatorNotes T293	lemma = 'of'
+T294	NN2 1297 1306	stretches
+#294	AnnotatorNotes T294	lemma = 'stretch'
+T295	PUN 1306 1307	,
+#295	AnnotatorNotes T295	lemma = ','
+T296	NN2 1308 1313	jumps
+#296	AnnotatorNotes T296	lemma = 'jump'
+T297	CJC 1314 1317	and
+#297	AnnotatorNotes T297	lemma = 'and'
+T298	NN2 1318 1324	squats
+#298	AnnotatorNotes T298	lemma = 'squat'
+T299	SENT 1325 1326	.
+#299	AnnotatorNotes T299	lemma = '.'
+T300	PRP 1327 1329	On
+#300	AnnotatorNotes T300	lemma = 'on'
+T301	AT0 1330 1333	the
+#301	AnnotatorNotes T301	lemma = 'the'
+T302	AJC 1334 1341	greater
+#302	AnnotatorNotes T302	lemma = 'great'
+T303	NN1 1342 1347	scale
+#303	AnnotatorNotes T303	lemma = 'scale'
+T304	PRF 1348 1350	of
+#304	AnnotatorNotes T304	lemma = 'of'
+T305	NN2 1351 1357	things
+#305	AnnotatorNotes T305	lemma = 'thing'
+T306	PUN 1357 1358	,
+#306	AnnotatorNotes T306	lemma = ','
+T307	PNP 1359 1361	it
+#307	AnnotatorNotes T307	lemma = 'it'
+T308	VM0 1362 1367	would
+#308	AnnotatorNotes T308	lemma = 'would'
+T309	VBI 1368 1370	be
+#309	AnnotatorNotes T309	lemma = 'be'
+T310	AJ0 1371 1376	great
+#310	AnnotatorNotes T310	lemma = 'great'
+T311	PRF 1377 1379	of
+#311	AnnotatorNotes T311	lemma = 'of'
+T312	PNI 1380 1388	everyone
+#312	AnnotatorNotes T312	lemma = 'everyone'
+T313	AV0 1389 1393	just
+#313	AnnotatorNotes T313	lemma = 'just'
+T314	VVD 1394 1401	started
+#314	AnnotatorNotes T314	lemma = 'start'
+T315	VVG 1402 1409	running
+#315	AnnotatorNotes T315	lemma = 'run|running'
+T316	PRP 1410 1412	in
+#316	AnnotatorNotes T316	lemma = 'in'
+T317	AT0 1413 1416	the
+#317	AnnotatorNotes T317	lemma = 'the'
+T318	NN2 1417 1425	mornings
+#318	AnnotatorNotes T318	lemma = 'morning'
+T319	SENT 1425 1426	.
+#319	AnnotatorNotes T319	lemma = '.'
+T320	DT0 1427 1432	These
+#320	AnnotatorNotes T320	lemma = 'these'
+T321	NN2 1433 1437	runs
+#321	AnnotatorNotes T321	lemma = 'run'
+T322	VM0 1438 1443	would
+#322	AnnotatorNotes T322	lemma = 'would'
+T323	VVI 1444 1449	solve
+#323	AnnotatorNotes T323	lemma = 'solve'
+T324	AT0 1450 1451	a
+#324	AnnotatorNotes T324	lemma = 'a'
+T325	NN1 1452 1455	lot
+#325	AnnotatorNotes T325	lemma = 'lot'
+T326	PRF 1456 1458	of
+#326	AnnotatorNotes T326	lemma = 'of'
+T327	AJ0 1459 1467	physical
+#327	AnnotatorNotes T327	lemma = 'physical'
+T328	NN2 1468 1476	problems
+#328	AnnotatorNotes T328	lemma = 'problem'
+T329	PRP 1477 1480	for
+#329	AnnotatorNotes T329	lemma = 'for'
+T330	AT0 1481 1482	a
+#330	AnnotatorNotes T330	lemma = 'a'
+T331	NN1 1483 1486	lot
+#331	AnnotatorNotes T331	lemma = 'lot'
+T332	PRF 1487 1489	of
+#332	AnnotatorNotes T332	lemma = 'of'
+T333	NN0 1490 1496	people
+#333	AnnotatorNotes T333	lemma = 'people'
+T334	CJC 1497 1500	and
+#334	AnnotatorNotes T334	lemma = 'and'
+T335	VVB 1501 1505	make
+#335	AnnotatorNotes T335	lemma = 'make'
+T336	NN1 1506 1512	health
+#336	AnnotatorNotes T336	lemma = 'health'
+T337	PRF 1513 1515	of
+#337	AnnotatorNotes T337	lemma = 'of'
+T338	AT0 1516 1519	the
+#338	AnnotatorNotes T338	lemma = 'the'
+T339	NN1 1520 1526	nation
+#339	AnnotatorNotes T339	lemma = 'nation'
+T340	AV0 1527 1531	much
+#340	AnnotatorNotes T340	lemma = 'much'
+T341	AJC 1532 1538	better
+#341	AnnotatorNotes T341	lemma = 'good'
+T342	CJS 1539 1541	as
+#342	AnnotatorNotes T342	lemma = 'as'
+T343	AT0 1542 1543	a
+#343	AnnotatorNotes T343	lemma = 'a'
+T344	NN1 1544 1549	whole
+#344	AnnotatorNotes T344	lemma = 'whole'
+T345	SENT 1549 1550	.
+#345	AnnotatorNotes T345	lemma = ''

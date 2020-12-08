@@ -1,0 +1,80 @@
+T1	Spelling 41 58	high-technologies
+#1	AnnotatorNotes T1	high technologies
+T2	lex_item_choice 107 114	human’s
+#2	AnnotatorNotes T2	people's
+T4	Spelling 195 206	increaseing
+#4	AnnotatorNotes T4	increasing
+T5	Spelling 276 284	everyday
+#5	AnnotatorNotes T5	every day
+T6	Often_confused 276 284	everyday
+#6	AnnotatorNotes T6	every day
+T8	Determiners 312 313	a
+#8	AnnotatorNotes T8	their
+T9	Punctuation 296 299	and
+#9	AnnotatorNotes T9	, and
+T11	Defining 415 442	, which people should read,
+#11	AnnotatorNotes T11	which people should read
+T12	Articles 464 468	user
+#12	AnnotatorNotes T12	a user
+T13	lex_item_choice 485 490	scale
+#13	AnnotatorNotes T13	size
+T14	Defining 722 729	, which
+#14	AnnotatorNotes T14	which
+T15	Articles 856 862	gadget
+#15	AnnotatorNotes T15	a gadget
+T16	Articles 906 908	an
+#16	AnnotatorNotes T16	the
+T18	Articles 986 1001	the information
+T19	lex_item_choice 1060 1067	include
+#18	AnnotatorNotes T19	involve
+T20	Articles 1068 1072	user
+#19	AnnotatorNotes T20	the user
+T23	Tense_choice 1166 1170	made
+#22	AnnotatorNotes T23	have made
+T24	Articles 1222 1226	21st
+#23	AnnotatorNotes T24	the 21st
+T25	Articles 1238 1250	a depression
+T26	Spelling 1310 1318	overdoze
+#24	AnnotatorNotes T26	overdose
+T27	Category_confusion 1296 1309	informational
+#25	AnnotatorNotes T27	information
+T28	Standard 1272 1285	also could be
+#26	AnnotatorNotes T28	could also be
+T30	Articles 1504 1510	Person
+#28	AnnotatorNotes T30	A person
+T31	Prepositions 1522 1524	by
+#29	AnnotatorNotes T31	for
+T32	Standard 1554 1576	should he or she spend
+#30	AnnotatorNotes T32	he or she should spend
+T33	Absence_explanation 1545 1553	how much
+#31	AnnotatorNotes T33	how much time
+T34	Articles 1704 1714	a progress
+T35	Articles 1725 1733	a health
+T3	Negation 334 337	too
+#3	AnnotatorNotes T3	either
+T7	Defining 924 940	, where we live,
+#7	AnnotatorNotes T7	in which we live
+T10	Conjunctions 926 931	where
+#10	AnnotatorNotes T10	in which
+T17	lex_item_choice 941 952	consists of
+#17	AnnotatorNotes T17	includes
+#32	AnnotatorNotes T18	information
+T36	suggestion 1073 1077	into
+#33	AnnotatorNotes T36	in
+R1	Dependent_change Arg1:T19 Arg2:T36	
+T21	Agreement_errors 1115 1126	This dreams
+#20	AnnotatorNotes T21	These dreams
+#21	AnnotatorNotes T25	depression
+T22	Articles 1382 1386	body
+#34	AnnotatorNotes T22	the body
+T29	Redundant 1458 1473	way of solution
+#27	AnnotatorNotes T29	solution
+T37	Articles 1445 1473	The possible way of solution
+#35	AnnotatorNotes T37	A possible solution
+T38	Punctuation 1543 1553	, how much
+#36	AnnotatorNotes T38	how much
+#37	AnnotatorNotes T34	progress
+#38	AnnotatorNotes T35	health
+A1	Cause T38 L1_interference
+T39	Linking_device 846 847	,
+#39	AnnotatorNotes T39	and

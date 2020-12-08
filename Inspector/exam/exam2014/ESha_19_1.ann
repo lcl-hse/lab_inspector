@@ -1,0 +1,400 @@
+T1	Spelling 487 495	Bacheler
+#1	AnnotatorNotes T1	Bachelor
+T2	Spelling 105 111	womans
+#2	AnnotatorNotes T2	women
+T3	Spelling 693 699	womans
+#3	AnnotatorNotes T3	women
+T4	Agreement_errors 10 17	provide
+#4	AnnotatorNotes T4	provides
+A1	Cause T4
+T5	Agreement_errors 68 78	educations
+#5	AnnotatorNotes T5	education
+A2	Cause T5
+T6	Noun_number 96 100	mens
+#6	AnnotatorNotes T6	men
+T7	Noun_number 105 111	womans
+#7	AnnotatorNotes T7	women
+T8	Absence_comp_sent 122 136	As can be seen
+#8	AnnotatorNotes T8	As it can be seen
+T9	Spelling 160 170	vacational
+#9	AnnotatorNotes T9	vocational
+A3	Cause T9
+T10	Absence_comp_sent 203 208	males
+#10	AnnotatorNotes T10	in males
+T11	Redundant_comp 217 221	year
+A4	Delete T11
+T12	Spelling 286 294	manority
+#11	AnnotatorNotes T12	minority
+A5	Cause T12
+T13	Capitalisation 298 303	Males
+#12	AnnotatorNotes T13	males
+T14	Voice 354 358	take
+#13	AnnotatorNotes T14	is taken by
+T15	Absence_comp_sent 417 427	vocational
+#14	AnnotatorNotes T15	vocational diploma
+T16	Spelling 448 455	amounth
+#15	AnnotatorNotes T16	amount
+A6	Cause T16
+T17	Spelling 456 466	flactuated
+#16	AnnotatorNotes T17	fluctuated
+T18	Spelling 559 565	periog
+#17	AnnotatorNotes T18	period 
+T19	Spelling 594 604	vacational
+#18	AnnotatorNotes T19	vocational
+A7	Cause T19
+T20	Noun_number 693 699	womans
+#19	AnnotatorNotes T20	women
+T21	Absence_comp_sent 685 692	percent
+#20	AnnotatorNotes T21	percent of
+T22	lex_item_choice 700 703	was
+#21	AnnotatorNotes T22	have
+T23	Noun_number 758 762	mans
+#22	AnnotatorNotes T23	men
+T24	Spelling 780 790	flactuated
+#23	AnnotatorNotes T24	fluctuated
+T25	Spelling 913 924	incompilent
+#24	AnnotatorNotes T25	incompetent
+T26	AT0 0 3	The
+#25	AnnotatorNotes T26	lemma = 'the'
+T27	NN1 4 9	chart
+#26	AnnotatorNotes T27	lemma = 'chart'
+T28	VVI 10 17	provide
+#27	AnnotatorNotes T28	lemma = 'provide'
+T29	NN1 18 29	information
+#28	AnnotatorNotes T29	lemma = 'information'
+T30	PRP 30 35	about
+#29	AnnotatorNotes T30	lemma = 'about'
+T31	AJ0 36 45	different
+#30	AnnotatorNotes T31	lemma = 'different'
+T32	NN2 46 52	levels
+#31	AnnotatorNotes T32	lemma = 'level'
+T33	PRF 53 55	of
+#32	AnnotatorNotes T33	lemma = 'of'
+T34	AJ0 56 67	post-school
+#33	AnnotatorNotes T34	lemma = 'post-school'
+T35	NN2 68 78	educations
+#34	AnnotatorNotes T35	lemma = 'education'
+T36	PRP 79 84	among
+#35	AnnotatorNotes T36	lemma = 'among'
+T37	AJ0 85 95	australian
+#36	AnnotatorNotes T37	lemma = 'australian'
+T38	NN2 96 100	mens
+#37	AnnotatorNotes T38	lemma = 'men'
+T39	CJC 101 104	and
+#38	AnnotatorNotes T39	lemma = 'and'
+T40	NN2 105 111	womans
+#39	AnnotatorNotes T40	lemma = 'woman'
+T41	PRP 112 114	in
+#40	AnnotatorNotes T41	lemma = 'in'
+T42	CRD 115 119	1999
+#41	AnnotatorNotes T42	lemma = '1999'
+T43	SENT 119 120	.
+#42	AnnotatorNotes T43	lemma = '.'
+T44	CJS 122 124	As
+#43	AnnotatorNotes T44	lemma = 'as'
+T45	VM0 125 128	can
+#44	AnnotatorNotes T45	lemma = 'can'
+T46	VBI 129 131	be
+#45	AnnotatorNotes T46	lemma = 'be'
+T47	VVN 132 136	seen
+#46	AnnotatorNotes T47	lemma = 'see'
+T48	PRP 137 141	from
+#47	AnnotatorNotes T48	lemma = 'from'
+T49	AT0 142 145	the
+#48	AnnotatorNotes T49	lemma = 'the'
+T50	NN1 146 151	chart
+#49	AnnotatorNotes T50	lemma = 'chart'
+T51	AJ0 152 159	skilled
+#50	AnnotatorNotes T51	lemma = 'skilled'
+T52	AJ0 160 170	vacational
+#51	AnnotatorNotes T52	lemma = 'vacational'
+T53	NN1 171 178	diploma
+#52	AnnotatorNotes T53	lemma = 'diploma'
+T54	VHD 179 182	had
+#53	AnnotatorNotes T54	lemma = 'have'
+T55	AT0 183 186	the
+#54	AnnotatorNotes T55	lemma = 'the'
+T56	AJS 187 194	highest
+#55	AnnotatorNotes T56	lemma = 'high'
+T57	NN0 195 202	percent
+#56	AnnotatorNotes T57	lemma = 'percent'
+T58	NN2 203 208	males
+#57	AnnotatorNotes T58	lemma = 'male'
+T59	PRP 209 211	in
+#58	AnnotatorNotes T59	lemma = 'in'
+T60	CRD 212 216	1999
+#59	AnnotatorNotes T60	lemma = '1999'
+T61	NN1 217 221	year
+#60	AnnotatorNotes T61	lemma = 'year'
+T62	PUN 221 222	,
+#61	AnnotatorNotes T62	lemma = ','
+T63	PNP 223 225	it
+#62	AnnotatorNotes T63	lemma = 'it'
+T64	VBD 226 229	was
+#63	AnnotatorNotes T64	lemma = 'be'
+T65	CRD 230 232	90
+#64	AnnotatorNotes T65	lemma = '90'
+T66	NN0 233 240	percent
+#65	AnnotatorNotes T66	lemma = 'percent'
+T67	SENT 240 241	.
+#66	AnnotatorNotes T67	lemma = '.'
+T68	PRP 243 245	By
+#67	AnnotatorNotes T68	lemma = 'by'
+T69	NN1 246 254	contrast
+#68	AnnotatorNotes T69	lemma = 'contrast'
+T70	NN1 255 268	undergraduate
+#69	AnnotatorNotes T70	lemma = 'undergraduate'
+T71	NN1 269 276	diploma
+#70	AnnotatorNotes T71	lemma = 'diploma'
+T72	AJ0 277 285	selected
+#71	AnnotatorNotes T72	lemma = 'selected|select'
+T73	NN1 286 294	manority
+#72	AnnotatorNotes T73	lemma = 'manority'
+T74	PRF 295 297	of
+#73	AnnotatorNotes T74	lemma = 'of'
+T75	NN2 298 303	Males
+#74	AnnotatorNotes T75	lemma = 'male'
+T76	PUN 303 304	,
+#75	AnnotatorNotes T76	lemma = ','
+T77	PNP 305 307	it
+#76	AnnotatorNotes T77	lemma = 'it'
+T78	VBD 308 311	was
+#77	AnnotatorNotes T78	lemma = 'be'
+T79	CRD 312 314	35
+#78	AnnotatorNotes T79	lemma = '35'
+T80	NN0 315 322	percent
+#79	AnnotatorNotes T80	lemma = 'percent'
+T81	SENT 322 323	.
+#80	AnnotatorNotes T81	lemma = '.'
+T82	AT0 324 327	The
+#81	AnnotatorNotes T82	lemma = 'the'
+T83	ORD 328 334	second
+#82	AnnotatorNotes T83	lemma = 'second'
+T84	NN1 335 340	place
+#83	AnnotatorNotes T84	lemma = 'place'
+T85	PRP 341 343	on
+#84	AnnotatorNotes T85	lemma = 'on'
+T86	AT0 344 347	the
+#85	AnnotatorNotes T86	lemma = 'the'
+T87	NN1 348 353	chart
+#86	AnnotatorNotes T87	lemma = 'chart'
+T88	VVI 354 358	take
+#87	AnnotatorNotes T88	lemma = 'take'
+T89	NN1 359 371	postgraduate
+#88	AnnotatorNotes T89	lemma = 'postgraduate'
+T90	NN1 372 379	diploma
+#89	AnnotatorNotes T90	lemma = 'diploma'
+T91	PUN 379 380	,
+#90	AnnotatorNotes T91	lemma = ','
+T92	PNP 381 383	it
+#91	AnnotatorNotes T92	lemma = 'it'
+T93	VHZ 384 387	has
+#92	AnnotatorNotes T93	lemma = 'have'
+T94	CRD 388 390	30
+#93	AnnotatorNotes T94	lemma = '30'
+T95	NN0 391 398	percent
+#94	AnnotatorNotes T95	lemma = 'percent'
+T96	AV0 399 403	less
+#95	AnnotatorNotes T96	lemma = 'less'
+T97	CJS 404 408	than
+#96	AnnotatorNotes T97	lemma = 'than'
+T98	AJ0 409 416	skilled
+#97	AnnotatorNotes T98	lemma = 'skilled'
+T99	AJ0 417 427	vocational
+#98	AnnotatorNotes T99	lemma = 'vocational'
+T100	SENT 427 428	.
+#99	AnnotatorNotes T100	lemma = '.'
+T101	CJS 429 431	As
+#100	AnnotatorNotes T101	lemma = 'as'
+T102	PRP 432 435	for
+#101	AnnotatorNotes T102	lemma = 'for'
+T103	NN2 436 442	others
+#102	AnnotatorNotes T103	lemma = 'other'
+T104	PUN 442 443	,
+#103	AnnotatorNotes T104	lemma = ','
+T105	AT0 444 447	the
+#104	AnnotatorNotes T105	lemma = 'the'
+T106	NN1 448 455	amounth
+#105	AnnotatorNotes T106	lemma = 'amounth'
+T107	AJ0 456 466	flactuated
+#106	AnnotatorNotes T107	lemma = 'flactuated'
+T108	PUN 466 467	,
+#107	AnnotatorNotes T108	lemma = ','
+T109	PRP 468 472	from
+#108	AnnotatorNotes T109	lemma = 'from'
+T110	CRD 473 475	45
+#109	AnnotatorNotes T110	lemma = '45'
+T111	NN0 476 483	percent
+#110	AnnotatorNotes T111	lemma = 'percent'
+T112	PRP 484 486	in
+#111	AnnotatorNotes T112	lemma = 'in'
+T113	NP0 487 495	Bacheler
+#112	AnnotatorNotes T113	lemma = 'Bacheler'
+T114	POS 495 497	's
+#113	AnnotatorNotes T114	lemma = 's'
+T115	NN1 498 504	degree
+#114	AnnotatorNotes T115	lemma = 'degree'
+T116	PUN 504 505	,
+#115	AnnotatorNotes T116	lemma = ','
+T117	PRP 506 508	to
+#116	AnnotatorNotes T117	lemma = 'to'
+T118	CRD 509 511	60
+#117	AnnotatorNotes T118	lemma = '60'
+T119	NN0 512 519	percent
+#118	AnnotatorNotes T119	lemma = 'percent'
+T120	PRP 520 522	in
+#119	AnnotatorNotes T120	lemma = 'in'
+T121	NP0 523 529	Master
+#120	AnnotatorNotes T121	lemma = 'master'
+T122	POS 529 531	's
+#121	AnnotatorNotes T122	lemma = 's'
+T123	NN1 532 538	degree
+#122	AnnotatorNotes T123	lemma = 'degree'
+T124	SENT 538 539	.
+#123	AnnotatorNotes T124	lemma = '.'
+T125	PRP 541 545	From
+#124	AnnotatorNotes T125	lemma = 'from'
+T126	AT0 546 549	the
+#125	AnnotatorNotes T126	lemma = 'the'
+T127	CRD 550 553	one
+#126	AnnotatorNotes T127	lemma = 'one'
+T128	NN1 554 558	year
+#127	AnnotatorNotes T128	lemma = 'year'
+T129	NN1 559 565	periog
+#128	AnnotatorNotes T129	lemma = 'periog'
+T130	NN1 566 574	quantity
+#129	AnnotatorNotes T130	lemma = 'quantity'
+T131	NN2 575 582	females
+#130	AnnotatorNotes T131	lemma = 'female'
+T132	PRP 583 585	in
+#131	AnnotatorNotes T132	lemma = 'in'
+T133	AJ0 586 593	skilled
+#132	AnnotatorNotes T133	lemma = 'skilled'
+T134	AJ0 594 604	vacational
+#133	AnnotatorNotes T134	lemma = 'vacational'
+T135	VVN 605 614	accounted
+#134	AnnotatorNotes T135	lemma = 'account'
+T136	AT0 615 618	the
+#135	AnnotatorNotes T136	lemma = 'the'
+T137	AJS 619 625	lowest
+#136	AnnotatorNotes T137	lemma = 'low'
+T138	NN0 626 633	percent
+#137	AnnotatorNotes T138	lemma = 'percent'
+T139	PNP 634 636	it
+#138	AnnotatorNotes T139	lemma = 'it'
+T140	VBD 637 640	was
+#139	AnnotatorNotes T140	lemma = 'be'
+T141	AV0 641 654	approximately
+#140	AnnotatorNotes T141	lemma = 'approximately'
+T142	CRD 655 657	11
+#141	AnnotatorNotes T142	lemma = '11'
+T143	NN0 658 665	percent
+#142	AnnotatorNotes T143	lemma = 'percent'
+T144	AJ0 666 671	total
+#143	AnnotatorNotes T144	lemma = 'total'
+T145	SENT 671 672	.
+#144	AnnotatorNotes T145	lemma = '.'
+T146	AT0 673 676	The
+#145	AnnotatorNotes T146	lemma = 'the'
+T147	AJS 677 684	highest
+#146	AnnotatorNotes T147	lemma = 'high'
+T148	NN0 685 692	percent
+#147	AnnotatorNotes T148	lemma = 'percent'
+T149	NN2 693 699	womans
+#148	AnnotatorNotes T149	lemma = 'woman'
+T150	VBD 700 703	was
+#149	AnnotatorNotes T150	lemma = 'be'
+T151	NN1 704 717	undergraduate
+#150	AnnotatorNotes T151	lemma = 'undergraduate'
+T152	NN1 718 725	diploma
+#151	AnnotatorNotes T152	lemma = 'diploma'
+T153	PUN 725 726	,
+#152	AnnotatorNotes T153	lemma = ','
+T154	PNP 727 729	it
+#153	AnnotatorNotes T154	lemma = 'it'
+T155	VBZ 730 732	is
+#154	AnnotatorNotes T155	lemma = 'be'
+T156	PRP 733 735	on
+#155	AnnotatorNotes T156	lemma = 'on'
+T157	CRD 736 738	35
+#156	AnnotatorNotes T157	lemma = '35'
+T158	NN0 739 746	percent
+#157	AnnotatorNotes T158	lemma = 'percent'
+T159	AV0 747 751	more
+#158	AnnotatorNotes T159	lemma = 'more'
+T160	PUN 751 752	,
+#159	AnnotatorNotes T160	lemma = ','
+T161	CJS 753 757	than
+#160	AnnotatorNotes T161	lemma = 'than'
+T162	VVZ 758 762	mans
+#161	AnnotatorNotes T162	lemma = 'man'
+T163	SENT 762 763	.
+#162	AnnotatorNotes T163	lemma = '.'
+T164	AT0 765 768	The
+#163	AnnotatorNotes T164	lemma = 'the'
+T165	NN2 769 775	others
+#164	AnnotatorNotes T165	lemma = 'other'
+T166	VHD 776 779	had
+#165	AnnotatorNotes T166	lemma = 'have'
+T167	VVN 780 790	flactuated
+#166	AnnotatorNotes T167	lemma = 'flactuated'
+T168	PRP 791 793	at
+#167	AnnotatorNotes T168	lemma = 'at'
+T169	CRD 794 796	50
+#168	AnnotatorNotes T169	lemma = '50'
+T170	NN0 797 804	percent
+#169	AnnotatorNotes T170	lemma = 'percent'
+T171	PRP 805 807	to
+#170	AnnotatorNotes T171	lemma = 'to'
+T172	CRD 808 810	30
+#171	AnnotatorNotes T172	lemma = '30'
+T173	NN0 811 818	percent
+#172	AnnotatorNotes T173	lemma = 'percent'
+T174	PRP 819 821	in
+#173	AnnotatorNotes T174	lemma = 'in'
+T175	AT0 822 825	the
+#174	AnnotatorNotes T175	lemma = 'the'
+T176	CRD 826 830	1999
+#175	AnnotatorNotes T176	lemma = '1999'
+T177	SENT 830 831	.
+#176	AnnotatorNotes T177	lemma = '.'
+T178	CJS 833 835	As
+#177	AnnotatorNotes T178	lemma = 'as'
+T179	AT0 836 839	the
+#178	AnnotatorNotes T179	lemma = 'the'
+T180	NN1 840 846	result
+#179	AnnotatorNotes T180	lemma = 'result'
+T181	PNP 847 849	it
+#180	AnnotatorNotes T181	lemma = 'it'
+T182	VM0 850 853	can
+#181	AnnotatorNotes T182	lemma = 'can'
+T183	VBI 854 856	be
+#182	AnnotatorNotes T183	lemma = 'be'
+T184	VVN 857 861	seen
+#183	AnnotatorNotes T184	lemma = 'see'
+T185	CJT 862 866	that
+#184	AnnotatorNotes T185	lemma = 'that'
+T186	CJS 867 872	where
+#185	AnnotatorNotes T186	lemma = 'where'
+T187	AT0 873 876	the
+#186	AnnotatorNotes T187	lemma = 'the'
+T188	NN1 877 882	woman
+#187	AnnotatorNotes T188	lemma = 'woman'
+T189	VHB 883 887	have
+#188	AnnotatorNotes T189	lemma = 'have'
+T190	NN1 888 894	access
+#189	AnnotatorNotes T190	lemma = 'access'
+T191	PUN 894 895	,
+#190	AnnotatorNotes T191	lemma = ','
+T192	AT0 896 899	the
+#191	AnnotatorNotes T192	lemma = 'the'
+T193	NN2 900 904	mans
+#192	AnnotatorNotes T193	lemma = 'man'
+T194	VBZ 905 907	is
+#193	AnnotatorNotes T194	lemma = 'be'
+T195	AV0 908 912	more
+#194	AnnotatorNotes T195	lemma = 'more'
+T196	AJ0 913 924	incompilent
+#195	AnnotatorNotes T196	lemma = 'incompilent'
+T197	SENT 924 925	.
+#196	AnnotatorNotes T197	lemma = ''

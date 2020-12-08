@@ -1,0 +1,269 @@
+T1	lex_item_choice 6 11	right
+#1	AnnotatorNotes T1	true
+T2	Noun_number 25 32	country
+#2	AnnotatorNotes T2	countries
+T3	Articles 51 60	free year
+#3	AnnotatorNotes T3	a free year
+T4	Spelling 79 84	hight
+#4	AnnotatorNotes T4	high
+T5	Punctuation 126 139	From one hand
+#5	AnnotatorNotes T5	On the one hand,
+T6	Prepositions 126 130	From
+#6	AnnotatorNotes T6	on
+T7	Articles 146 155	good gift
+#7	AnnotatorNotes T7	a good gift
+T8	lex_item_choice 195 199	them
+#8	AnnotatorNotes T8	their
+T9	Agreement_errors 251 255	goes
+#9	AnnotatorNotes T9	go
+T10	Spelling 320 324	kake
+#10	AnnotatorNotes T10	cake
+T11	Articles 390 394	year
+#11	AnnotatorNotes T11	a year
+A1	Cause T6
+T12	lex_part_choice 327 346	From the other hand
+#12	AnnotatorNotes T12	On the other hand
+A2	Cause T12
+T13	Agreement_errors 365 369	have
+#13	AnnotatorNotes T13	has
+T14	Spelling 427 431	luse
+#14	AnnotatorNotes T14	lose
+T15	Articles 451 460	good idea
+#15	AnnotatorNotes T15	a good idea
+T16	Absence_comp_sent 448 460	it good idea
+#16	AnnotatorNotes T16	it is a good idea
+T17	Spelling 483 492	Govroment
+#17	AnnotatorNotes T17	Government
+T18	Articles 131 139	one hand
+#18	AnnotatorNotes T18	 the one hand
+T19	Agreement_errors 200 204	life
+#19	AnnotatorNotes T19	lives
+T20	Agreement_errors 206 212	career
+#20	AnnotatorNotes T20	careers
+R1	Parallel_construction Arg1:T19 Arg2:T20
+T21	note 370 381	inter exams
+#21	AnnotatorNotes T21	entrance exams
+T22	lex_item_choice 427 431	luse
+#22	AnnotatorNotes T22	fail
+T23	Spelling 290 295	sfier
+#23	AnnotatorNotes T23	sphere
+T24	lex_item_choice 307 311	them
+#24	AnnotatorNotes T24	their
+T25	Spelling 312 316	pies
+#25	AnnotatorNotes T25	piece
+T26	Punctuation 440 460	I think it good idea
+#26	AnnotatorNotes T26	I think it is a good idea,
+T27	Prepositions 386 389	for
+#27	AnnotatorNotes T27	in
+T28	PNP 0 2	It
+#28	AnnotatorNotes T28	lemma = 'it'
+T29	VBZ 3 5	is
+#29	AnnotatorNotes T29	lemma = 'be'
+T30	AJ0 6 11	right
+#30	AnnotatorNotes T30	lemma = 'right'
+T31	CJT 12 16	that
+#31	AnnotatorNotes T31	lemma = 'that'
+T32	PRP 17 19	in
+#32	AnnotatorNotes T32	lemma = 'in'
+T33	DT0 20 24	some
+#33	AnnotatorNotes T33	lemma = 'some'
+T34	NN1 25 32	country
+#34	AnnotatorNotes T34	lemma = 'country'
+T35	AJ0 33 38	young
+#35	AnnotatorNotes T35	lemma = 'young'
+T36	NN0 39 45	people
+#36	AnnotatorNotes T36	lemma = 'people'
+T37	VHB 46 50	have
+#37	AnnotatorNotes T37	lemma = 'have'
+T38	AJ0 51 55	free
+#38	AnnotatorNotes T38	lemma = 'free'
+T39	NN1 56 60	year
+#39	AnnotatorNotes T39	lemma = 'year'
+T40	PRP 61 68	between
+#40	AnnotatorNotes T40	lemma = 'between'
+T41	AJ0 69 78	finishing
+#41	AnnotatorNotes T41	lemma = 'finish|finishing'
+T42	NN1 79 84	hight
+#42	AnnotatorNotes T42	lemma = 'hight'
+T43	NN1 85 91	school
+#43	AnnotatorNotes T43	lemma = 'school'
+T44	CJC 92 95	and
+#44	AnnotatorNotes T44	lemma = 'and'
+T45	VVG 96 104	starting
+#45	AnnotatorNotes T45	lemma = 'start|starting'
+T46	NN1 105 115	university
+#46	AnnotatorNotes T46	lemma = 'university'
+T47	NN2 116 123	studies
+#47	AnnotatorNotes T47	lemma = 'study'
+T48	SENT 123 124	.
+#48	AnnotatorNotes T48	lemma = '.'
+T49	PRP 126 130	From
+#49	AnnotatorNotes T49	lemma = 'from'
+T50	CRD 131 134	one
+#50	AnnotatorNotes T50	lemma = 'one'
+T51	NN1 135 139	hand
+#51	AnnotatorNotes T51	lemma = 'hand'
+T52	PNP 140 142	it
+#52	AnnotatorNotes T52	lemma = 'it'
+T53	VBZ 143 145	is
+#53	AnnotatorNotes T53	lemma = 'be'
+T54	AJ0 146 150	good
+#54	AnnotatorNotes T54	lemma = 'good'
+T55	NN1 151 155	gift
+#55	AnnotatorNotes T55	lemma = 'gift'
+T56	PRP 156 159	for
+#56	AnnotatorNotes T56	lemma = 'for'
+T57	PNP 160 164	them
+#57	AnnotatorNotes T57	lemma = 'they'
+T58	PUN 164 165	,
+#58	AnnotatorNotes T58	lemma = ','
+T59	CJS 166 173	because
+#59	AnnotatorNotes T59	lemma = 'because'
+T60	PNP 174 178	they
+#60	AnnotatorNotes T60	lemma = 'they'
+T61	VM0 179 182	can
+#61	AnnotatorNotes T61	lemma = 'can'
+T62	VVI 183 188	think
+#62	AnnotatorNotes T62	lemma = 'think'
+T63	PRP 189 194	about
+#63	AnnotatorNotes T63	lemma = 'about'
+T64	PNP 195 199	them
+#64	AnnotatorNotes T64	lemma = 'they'
+T65	NN1 200 204	life
+#65	AnnotatorNotes T65	lemma = 'life'
+T66	PUN 204 205	,
+#66	AnnotatorNotes T66	lemma = ','
+T67	NN1 206 212	career
+#67	AnnotatorNotes T67	lemma = 'career'
+T68	CJC 213 216	and
+#68	AnnotatorNotes T68	lemma = 'and'
+T69	AJ0 217 222	other
+#69	AnnotatorNotes T69	lemma = 'other'
+T70	NN2 223 229	things
+#70	AnnotatorNotes T70	lemma = 'thing'
+T71	SENT 229 230	.
+#71	AnnotatorNotes T71	lemma = '.'
+T72	AV0 231 239	Secondly
+#72	AnnotatorNotes T72	lemma = 'secondly'
+T73	PUN 239 240	,
+#73	AnnotatorNotes T73	lemma = ','
+T74	CJS 241 243	if
+#74	AnnotatorNotes T74	lemma = 'if'
+T75	NN0 244 250	people
+#75	AnnotatorNotes T75	lemma = 'people'
+T76	VVZ 251 255	goes
+#76	AnnotatorNotes T76	lemma = 'go'
+T77	TO0 256 258	to
+#77	AnnotatorNotes T77	lemma = 'to'
+T78	VVI 259 263	work
+#78	AnnotatorNotes T78	lemma = 'work'
+T79	PUN 263 264	,
+#79	AnnotatorNotes T79	lemma = ','
+T80	PNP 265 269	they
+#80	AnnotatorNotes T80	lemma = 'they'
+T81	VM0 270 273	can
+#81	AnnotatorNotes T81	lemma = 'can'
+T82	VVI 274 284	understand
+#82	AnnotatorNotes T82	lemma = 'understand'
+T83	DTQ 285 289	what
+#83	AnnotatorNotes T83	lemma = 'what'
+T84	NN1 290 295	sfier
+#84	AnnotatorNotes T84	lemma = 'sfier'
+T85	PRF 296 298	of
+#85	AnnotatorNotes T85	lemma = 'of'
+T86	NN1 299 303	life
+#86	AnnotatorNotes T86	lemma = 'life'
+T87	VBZ 304 306	is
+#87	AnnotatorNotes T87	lemma = 'be'
+T88	PNP 307 311	them
+#88	AnnotatorNotes T88	lemma = 'they'
+T89	NN2 312 316	pies
+#89	AnnotatorNotes T89	lemma = 'pie'
+T90	PRF 317 319	of
+#90	AnnotatorNotes T90	lemma = 'of'
+T91	NN1 320 324	kake
+#91	AnnotatorNotes T91	lemma = 'kake'
+T92	SENT 324 325	.
+#92	AnnotatorNotes T92	lemma = '.'
+T93	PRP 327 331	From
+#93	AnnotatorNotes T93	lemma = 'from'
+T94	AT0 332 335	the
+#94	AnnotatorNotes T94	lemma = 'the'
+T95	AJ0 336 341	other
+#95	AnnotatorNotes T95	lemma = 'other'
+T96	NN1 342 346	hand
+#96	AnnotatorNotes T96	lemma = 'hand'
+T97	PUN 346 347	,
+#97	AnnotatorNotes T97	lemma = ','
+T98	AT0 348 353	every
+#98	AnnotatorNotes T98	lemma = 'every'
+T99	NN1 354 364	university
+#99	AnnotatorNotes T99	lemma = 'university'
+T100	VHB 365 369	have
+#100	AnnotatorNotes T100	lemma = 'have'
+T101	AJ0 370 375	inter
+#101	AnnotatorNotes T101	lemma = 'inter'
+T102	NN2 376 381	exams
+#102	AnnotatorNotes T102	lemma = 'exam'
+T103	CJC 382 385	and
+#103	AnnotatorNotes T103	lemma = 'and'
+T104	PRP 386 389	for
+#104	AnnotatorNotes T104	lemma = 'for'
+T105	NN1 390 394	year
+#105	AnnotatorNotes T105	lemma = 'year'
+T106	NN0 395 401	people
+#106	AnnotatorNotes T106	lemma = 'people'
+T107	VM0 402 405	can
+#107	AnnotatorNotes T107	lemma = 'can'
+T108	VVI 406 412	forget
+#108	AnnotatorNotes T108	lemma = 'forget'
+T109	PNI 413 422	something
+#109	AnnotatorNotes T109	lemma = 'something'
+T110	CJC 423 426	and
+#110	AnnotatorNotes T110	lemma = 'and'
+T111	AJ0 427 431	luse
+#111	AnnotatorNotes T111	lemma = 'luse'
+T112	NN2 432 437	exams
+#112	AnnotatorNotes T112	lemma = 'exam'
+T113	SENT 437 438	.
+#113	AnnotatorNotes T113	lemma = '.'
+T114	PNP 440 441	I
+#114	AnnotatorNotes T114	lemma = 'i'
+T115	VVB 442 447	think
+#115	AnnotatorNotes T115	lemma = 'think'
+T116	PNP 448 450	it
+#116	AnnotatorNotes T116	lemma = 'it'
+T117	AJ0 451 455	good
+#117	AnnotatorNotes T117	lemma = 'good'
+T118	NN1 456 460	idea
+#118	AnnotatorNotes T118	lemma = 'idea'
+T119	CJC 461 464	but
+#119	AnnotatorNotes T119	lemma = 'but'
+T120	XX0 465 468	not
+#120	AnnotatorNotes T120	lemma = 'not'
+T121	PRP 469 472	for
+#121	AnnotatorNotes T121	lemma = 'for'
+T122	PNI 473 481	everyone
+#122	AnnotatorNotes T122	lemma = 'everyone'
+T123	SENT 481 482	.
+#123	AnnotatorNotes T123	lemma = '.'
+T124	NN1 483 492	Govroment
+#124	AnnotatorNotes T124	lemma = 'Govroment'
+T125	VM0 493 496	can
+#125	AnnotatorNotes T125	lemma = 'can'
+T126	VVI 497 501	make
+#126	AnnotatorNotes T126	lemma = 'make'
+T127	VVG 502 508	taking
+#127	AnnotatorNotes T127	lemma = 'take|taking'
+T128	DT0 509 513	this
+#128	AnnotatorNotes T128	lemma = 'this'
+T129	PUQ 514 515	"
+#129	AnnotatorNotes T129	lemma = '"'
+T130	AJ0 515 519	free
+#130	AnnotatorNotes T130	lemma = 'free'
+T131	PUQ 519 520	"
+#131	AnnotatorNotes T131	lemma = '"'
+T132	NN1 521 525	year
+#132	AnnotatorNotes T132	lemma = 'year'
+T133	PRP 526 528	by
+#133	AnnotatorNotes T133	lemma = ''

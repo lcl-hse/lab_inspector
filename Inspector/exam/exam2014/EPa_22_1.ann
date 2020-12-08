@@ -1,0 +1,706 @@
+T1	Agreement_errors 10 17	suggest
+#1	AnnotatorNotes T1	suggests
+T2	lex_item_choice 10 17	suggest
+#2	AnnotatorNotes T2	shows // demonstrates
+T3	Articles 18 29	information
+#3	AnnotatorNotes T3	the information
+T4	Absence_comp_sent 36 53	age of population
+#4	AnnotatorNotes T4	people according to the age
+T5	Standard 57 71	countries such
+#5	AnnotatorNotes T5	such countries
+T6	Capitalisation 85 90	italy
+#6	AnnotatorNotes T6	Italy
+T7	Prepositions 91 95	from
+#7	AnnotatorNotes T7	in
+T8	Conjunctions 101 123	to a near future above
+#8	AnnotatorNotes T8	and
+T9	lex_part_choice 131 149	The part of people
+#9	AnnotatorNotes T9	The number of people
+T10	Spelling 164 168	them
+#10	AnnotatorNotes T10	than
+T11	Spelling 198 207	incresing
+#11	AnnotatorNotes T11	increasing
+T12	Absence_comp_sent 215 217	50
+#12	AnnotatorNotes T12	these 50
+T13	Spelling 284 287	oof
+#13	AnnotatorNotes T13	of
+T14	Noun_number 288 291	man
+#14	AnnotatorNotes T14	men
+T15	lex_part_choice 275 291	The part oof man
+#15	AnnotatorNotes T15	The number of men
+T16	Category_confusion 300 303	age
+#16	AnnotatorNotes T16	aged
+T17	Spelling 330 337	irising
+#17	AnnotatorNotes T17	rising
+T18	Spelling 361 369	Yemenbut
+#18	AnnotatorNotes T18	Yemen but
+T19	Noun_number 391 394	man
+#19	AnnotatorNotes T19	men
+T20	Redundant_comp 379 394	the part of man
+#20	AnnotatorNotes T20	the number of men
+T21	Absence_comp_sent 379 394	the part of man
+#21	AnnotatorNotes T21	the number of men in this age category
+T22	lex_item_choice 450 456	begins
+#22	AnnotatorNotes T22	beings
+T23	lex_item_choice 444 456	human begins
+#23	AnnotatorNotes T23	people
+T24	Absence_comp_sent 432 456	The part of human begins
+#24	AnnotatorNotes T24	The number of people
+T25	Redundant_comp 461 472	are born or
+A1	Delete T25
+T26	Determiners 535 538	the
+#25	AnnotatorNotes T26	this
+T27	Punctuation 564 566	in
+#26	AnnotatorNotes T27	, in
+T28	lex_item_choice 577 581	part
+#27	AnnotatorNotes T28	number
+T29	Punctuation 620 634	How we can see
+#28	AnnotatorNotes T29	How we can see,
+T30	Articles 647 657	population
+#29	AnnotatorNotes T30	the population
+T31	Comparative_constr 666 671	older
+#30	AnnotatorNotes T31	older than
+T32	Articles 726 736	population
+#31	AnnotatorNotes T32	the population
+T33	Spelling 745 751	yonger
+#32	AnnotatorNotes T33	younger
+T34	Comparative_constr 745 751	yonger
+#33	AnnotatorNotes T34	younger than
+T35	Prepositions 774 777	for
+#34	AnnotatorNotes T35	in
+T36	Noun_number 807 810	man
+#35	AnnotatorNotes T36	men
+T37	Comparative_constr 819 824	older
+#36	AnnotatorNotes T37	older than
+T38	Spelling 832 838	yonger
+#37	AnnotatorNotes T38	younger
+T39	Comparative_constr 832 838	yonger
+#38	AnnotatorNotes T39	younger than
+T40	Absence_comp_sent 683 693	increasing
+#39	AnnotatorNotes T40	increasing in number
+T41	Absence_comp_sent 763 773	decreasing
+#40	AnnotatorNotes T41	decreasing in number
+T42	Absence_comp_sent 897 899	50
+#41	AnnotatorNotes T42	these 50
+T43	lex_item_choice 799 803	part
+#42	AnnotatorNotes T43	number
+T44	lex_item_choice 915 919	part
+#43	AnnotatorNotes T44	number
+T45	Noun_number 923 926	man
+#44	AnnotatorNotes T45	men
+T46	Comparative_constr 935 940	older
+#45	AnnotatorNotes T46	older than
+T47	Spelling 948 954	yanger
+#46	AnnotatorNotes T47	younger
+T48	Comparative_constr 948 954	yanger
+#47	AnnotatorNotes T48	younger than
+T49	Spelling 966 975	deceasing
+#48	AnnotatorNotes T49	decreasing
+T50	Redundant_comp 1005 1020	during 50 years
+A2	Delete T50
+T51	Punctuation 1040 1048	in Yemen
+#49	AnnotatorNotes T51	In Yemen,
+T52	lex_item_choice 1066 1068	is
+#50	AnnotatorNotes T52	consists of
+T53	Noun_number 1069 1072	man
+#51	AnnotatorNotes T53	men
+T54	Comparative_constr 1081 1086	older
+#52	AnnotatorNotes T54	older than
+T55	lex_item_choice 1120 1122	is
+#53	AnnotatorNotes T55	consists
+T56	Noun_number 1123 1126	man
+#54	AnnotatorNotes T56	men
+T57	Punctuation 1162 1169	in 2050
+#55	AnnotatorNotes T57	In 2050,
+T58	Absence_comp_sent 1196 1198	is
+#56	AnnotatorNotes T58	is formed by
+T59	Noun_number 1199 1202	man
+#57	AnnotatorNotes T59	men
+T60	Articles 1199 1202	man
+#58	AnnotatorNotes T60	the men
+T61	Spelling 1278 1284	becaus
+#59	AnnotatorNotes T61	because
+T62	Spelling 1322 1329	equiled
+#60	AnnotatorNotes T62	equal
+T63	lex_item_choice 1315 1321	partly
+#61	AnnotatorNotes T63	almost
+T64	AT0 0 3	The
+#62	AnnotatorNotes T64	lemma = 'the'
+T65	NN1 4 9	chart
+#63	AnnotatorNotes T65	lemma = 'chart'
+T66	VVB 10 17	suggest
+#64	AnnotatorNotes T66	lemma = 'suggest'
+T67	NN1 18 29	information
+#65	AnnotatorNotes T67	lemma = 'information'
+T68	PRP 30 35	about
+#66	AnnotatorNotes T68	lemma = 'about'
+T69	NN1 36 39	age
+#67	AnnotatorNotes T69	lemma = 'age'
+T70	PRF 40 42	of
+#68	AnnotatorNotes T70	lemma = 'of'
+T71	NN1 43 53	population
+#69	AnnotatorNotes T71	lemma = 'population'
+T72	PRP 54 56	in
+#70	AnnotatorNotes T72	lemma = 'in'
+T73	NN2 57 66	countries
+#71	AnnotatorNotes T73	lemma = 'country'
+T74	DT0 67 71	such
+#72	AnnotatorNotes T74	lemma = 'such'
+T75	PRP 72 74	as
+#73	AnnotatorNotes T75	lemma = 'as'
+T76	NP0 75 80	Yemen
+#74	AnnotatorNotes T76	lemma = 'yemen'
+T77	CJC 81 84	and
+#75	AnnotatorNotes T77	lemma = 'and'
+T78	AV0 85 90	italy
+#76	AnnotatorNotes T78	lemma = 'italy'
+T79	PRP 91 95	from
+#77	AnnotatorNotes T79	lemma = 'from'
+T80	CRD 96 100	2000
+#78	AnnotatorNotes T80	lemma = '2000'
+T81	PRP 101 103	to
+#79	AnnotatorNotes T81	lemma = 'to'
+T82	AT0 104 105	a
+#80	AnnotatorNotes T82	lemma = 'a'
+T83	AJ0 106 110	near
+#81	AnnotatorNotes T83	lemma = 'near'
+T84	NN1 111 117	future
+#82	AnnotatorNotes T84	lemma = 'future'
+T85	PRP 118 123	above
+#83	AnnotatorNotes T85	lemma = 'above'
+T86	CRD 124 128	2050
+#84	AnnotatorNotes T86	lemma = '2050'
+T87	SENT 128 129	.
+#85	AnnotatorNotes T87	lemma = '.'
+T88	AT0 131 134	The
+#86	AnnotatorNotes T88	lemma = 'the'
+T89	NN1 135 139	part
+#87	AnnotatorNotes T89	lemma = 'part'
+T90	PRF 140 142	of
+#88	AnnotatorNotes T90	lemma = 'of'
+T91	NN0 143 149	people
+#89	AnnotatorNotes T91	lemma = 'people'
+T92	PNQ 150 153	who
+#90	AnnotatorNotes T92	lemma = 'who'
+T93	VBB 154 157	are
+#91	AnnotatorNotes T93	lemma = 'be'
+T94	AJC 158 163	older
+#92	AnnotatorNotes T94	lemma = 'old'
+T95	PNP 164 168	them
+#93	AnnotatorNotes T95	lemma = 'they'
+T96	CRD 169 171	60
+#94	AnnotatorNotes T96	lemma = '60'
+T97	PRP 172 174	in
+#95	AnnotatorNotes T97	lemma = 'in'
+T98	DT0 175 179	both
+#96	AnnotatorNotes T98	lemma = 'both'
+T99	NN2 180 189	countries
+#97	AnnotatorNotes T99	lemma = 'country'
+T100	VM0 190 194	will
+#98	AnnotatorNotes T100	lemma = 'will'
+T101	VBI 195 197	be
+#99	AnnotatorNotes T101	lemma = 'be'
+T102	AJ0 198 207	incresing
+#100	AnnotatorNotes T102	lemma = 'incresing'
+T103	PRP 208 214	during
+#101	AnnotatorNotes T103	lemma = 'during'
+T104	CRD 215 217	50
+#102	AnnotatorNotes T104	lemma = '50'
+T105	NN2 218 223	years
+#103	AnnotatorNotes T105	lemma = 'year'
+T106	CJC 224 227	and
+#104	AnnotatorNotes T106	lemma = 'and'
+T107	VM0 228 232	will
+#105	AnnotatorNotes T107	lemma = 'will'
+T108	VBI 233 235	be
+#106	AnnotatorNotes T108	lemma = 'be'
+T109	AV0 236 241	above
+#107	AnnotatorNotes T109	lemma = 'above'
+T110	CRD 242 244	57
+#108	AnnotatorNotes T110	lemma = '57'
+T111	NN0 244 245	%
+#109	AnnotatorNotes T111	lemma = '%'
+T112	PRP 246 248	in
+#110	AnnotatorNotes T112	lemma = 'in'
+T113	NP0 249 254	Yemen
+#111	AnnotatorNotes T113	lemma = 'yemen'
+T114	CJC 255 258	and
+#112	AnnotatorNotes T114	lemma = 'and'
+T115	CRD 259 263	42,3
+#113	AnnotatorNotes T115	lemma = '42,3'
+T116	NN0 263 264	%
+#114	AnnotatorNotes T116	lemma = '%'
+T117	PRP 265 267	in
+#115	AnnotatorNotes T117	lemma = 'in'
+T118	NP0 268 273	Italy
+#116	AnnotatorNotes T118	lemma = 'italy'
+T119	SENT 273 274	.
+#117	AnnotatorNotes T119	lemma = '.'
+T120	AT0 275 278	The
+#118	AnnotatorNotes T120	lemma = 'the'
+T121	NN1 279 283	part
+#119	AnnotatorNotes T121	lemma = 'part'
+T122	AJ0 284 287	oof
+#120	AnnotatorNotes T122	lemma = 'oof'
+T123	NN1 288 291	man
+#121	AnnotatorNotes T123	lemma = 'man'
+T124	PNQ 292 295	who
+#122	AnnotatorNotes T124	lemma = 'who'
+T125	VBB 296 299	are
+#123	AnnotatorNotes T125	lemma = 'be'
+T126	NN1 300 303	age
+#124	AnnotatorNotes T126	lemma = 'age'
+T127	PRP 304 311	between
+#125	AnnotatorNotes T127	lemma = 'between'
+T128	CRD 312 314	15
+#126	AnnotatorNotes T128	lemma = '15'
+T129	CJC 315 318	and
+#127	AnnotatorNotes T129	lemma = 'and'
+T130	CRD 319 321	59
+#128	AnnotatorNotes T130	lemma = '59'
+T131	VM0 322 326	will
+#129	AnnotatorNotes T131	lemma = 'will'
+T132	VBI 327 329	be
+#130	AnnotatorNotes T132	lemma = 'be'
+T133	AJ0 330 337	irising
+#131	AnnotatorNotes T133	lemma = 'irising'
+T134	PRP 338 342	from
+#132	AnnotatorNotes T134	lemma = 'from'
+T135	CRD 343 347	46,3
+#133	AnnotatorNotes T135	lemma = '46,3'
+T136	NN0 347 348	%
+#134	AnnotatorNotes T136	lemma = '%'
+T137	PRP 349 351	to
+#135	AnnotatorNotes T137	lemma = 'to'
+T138	CRD 352 356	57,3
+#136	AnnotatorNotes T138	lemma = '57,3'
+T139	NN0 356 357	%
+#137	AnnotatorNotes T139	lemma = '%'
+T140	PRP 358 360	in
+#138	AnnotatorNotes T140	lemma = 'in'
+T141	NP0 361 369	Yemenbut
+#139	AnnotatorNotes T141	lemma = 'Yemenbut'
+T142	PRP 370 372	in
+#140	AnnotatorNotes T142	lemma = 'in'
+T143	NP0 373 378	Italy
+#141	AnnotatorNotes T143	lemma = 'italy'
+T144	AT0 379 382	the
+#142	AnnotatorNotes T144	lemma = 'the'
+T145	NN1 383 387	part
+#143	AnnotatorNotes T145	lemma = 'part'
+T146	PRF 388 390	of
+#144	AnnotatorNotes T146	lemma = 'of'
+T147	NN1 391 394	man
+#145	AnnotatorNotes T147	lemma = 'man'
+T148	VM0 395 399	will
+#146	AnnotatorNotes T148	lemma = 'will'
+T149	VBI 400 402	be
+#147	AnnotatorNotes T149	lemma = 'be'
+T150	VVG 403 410	falling
+#148	AnnotatorNotes T150	lemma = 'fall|falling'
+T151	PRP 411 415	from
+#149	AnnotatorNotes T151	lemma = 'from'
+T152	CRD 416 420	61,6
+#150	AnnotatorNotes T152	lemma = '61,6'
+T153	NN0 420 421	%
+#151	AnnotatorNotes T153	lemma = '%'
+T154	PRP 422 424	to
+#152	AnnotatorNotes T154	lemma = 'to'
+T155	CRD 425 429	46,2
+#153	AnnotatorNotes T155	lemma = '46,2'
+T156	NN0 429 430	%
+#154	AnnotatorNotes T156	lemma = '%'
+T157	SENT 430 431	.
+#155	AnnotatorNotes T157	lemma = '.'
+T158	AT0 432 435	The
+#156	AnnotatorNotes T158	lemma = 'the'
+T159	NN1 436 440	part
+#157	AnnotatorNotes T159	lemma = 'part'
+T160	PRF 441 443	of
+#158	AnnotatorNotes T160	lemma = 'of'
+T161	AJ0 444 449	human
+#159	AnnotatorNotes T161	lemma = 'human'
+T162	VVZ 450 456	begins
+#160	AnnotatorNotes T162	lemma = 'begin'
+T163	PNQ 457 460	who
+#161	AnnotatorNotes T163	lemma = 'who'
+T164	VBB 461 464	are
+#162	AnnotatorNotes T164	lemma = 'be'
+T165	VVN 465 469	born
+#163	AnnotatorNotes T165	lemma = 'bear|born'
+T166	CJC 470 472	or
+#164	AnnotatorNotes T166	lemma = 'or'
+T167	AJC 473 480	younger
+#165	AnnotatorNotes T167	lemma = 'young'
+T168	CJS 481 485	than
+#166	AnnotatorNotes T168	lemma = 'than'
+T169	CRD 486 488	14
+#167	AnnotatorNotes T169	lemma = '14'
+T170	VM0 489 493	will
+#168	AnnotatorNotes T170	lemma = 'will'
+T171	VBI 494 496	be
+#169	AnnotatorNotes T171	lemma = 'be'
+T172	AJ0 497 506	declining
+#170	AnnotatorNotes T172	lemma = 'decline|declining'
+T173	PRP 507 509	in
+#171	AnnotatorNotes T173	lemma = 'in'
+T174	DT0 510 514	both
+#172	AnnotatorNotes T174	lemma = 'both'
+T175	NN2 515 524	countries
+#173	AnnotatorNotes T175	lemma = 'country'
+T176	PUN 524 525	,
+#174	AnnotatorNotes T176	lemma = ','
+T177	PRP 526 528	in
+#175	AnnotatorNotes T177	lemma = 'in'
+T178	NP0 529 534	Italy
+#176	AnnotatorNotes T178	lemma = 'italy'
+T179	AT0 535 538	the
+#177	AnnotatorNotes T179	lemma = 'the'
+T180	NN1 539 543	part
+#178	AnnotatorNotes T180	lemma = 'part'
+T181	VM0 544 548	will
+#179	AnnotatorNotes T181	lemma = 'will'
+T182	VBI 549 551	be
+#180	AnnotatorNotes T182	lemma = 'be'
+T183	PRP 552 557	above
+#181	AnnotatorNotes T183	lemma = 'above'
+T184	CRD 558 562	11,5
+#182	AnnotatorNotes T184	lemma = '11,5'
+T185	NN0 562 563	%
+#183	AnnotatorNotes T185	lemma = '%'
+T186	PRP 564 566	in
+#184	AnnotatorNotes T186	lemma = 'in'
+T187	NP0 567 572	Yemen
+#185	AnnotatorNotes T187	lemma = 'yemen'
+T188	AT0 573 576	the
+#186	AnnotatorNotes T188	lemma = 'the'
+T189	NN1 577 581	part
+#187	AnnotatorNotes T189	lemma = 'part'
+T190	PRF 582 584	of
+#188	AnnotatorNotes T190	lemma = 'of'
+T191	NN2 585 593	children
+#189	AnnotatorNotes T191	lemma = 'child'
+T192	VM0 594 598	will
+#190	AnnotatorNotes T192	lemma = 'will'
+T193	VBI 599 601	be
+#191	AnnotatorNotes T193	lemma = 'be'
+T194	VVG 602 609	falling
+#192	AnnotatorNotes T194	lemma = 'fall|falling'
+T195	PRP 610 612	to
+#193	AnnotatorNotes T195	lemma = 'to'
+T196	CRD 613 617	24,1
+#194	AnnotatorNotes T196	lemma = '24,1'
+T197	NN0 617 618	%
+#195	AnnotatorNotes T197	lemma = '%'
+T198	SENT 618 619	.
+#196	AnnotatorNotes T198	lemma = '.'
+T199	AVQ 620 623	How
+#197	AnnotatorNotes T199	lemma = 'how'
+T200	PNP 624 626	we
+#198	AnnotatorNotes T200	lemma = 'we'
+T201	VM0 627 630	can
+#199	AnnotatorNotes T201	lemma = 'can'
+T202	VVI 631 634	see
+#200	AnnotatorNotes T202	lemma = 'see'
+T203	AT0 635 638	the
+#201	AnnotatorNotes T203	lemma = 'the'
+T204	NN1 639 643	part
+#202	AnnotatorNotes T204	lemma = 'part'
+T205	PRF 644 646	of
+#203	AnnotatorNotes T205	lemma = 'of'
+T206	NN1 647 657	population
+#204	AnnotatorNotes T206	lemma = 'population'
+T207	PNQ 658 661	who
+#205	AnnotatorNotes T207	lemma = 'who'
+T208	VBB 662 665	are
+#206	AnnotatorNotes T208	lemma = 'be'
+T209	AJC 666 671	older
+#207	AnnotatorNotes T209	lemma = 'old'
+T210	CRD 672 674	60
+#208	AnnotatorNotes T210	lemma = '60'
+T211	VM0 675 679	will
+#209	AnnotatorNotes T211	lemma = 'will'
+T212	VBI 680 682	be
+#210	AnnotatorNotes T212	lemma = 'be'
+T213	AJ0 683 693	increasing
+#211	AnnotatorNotes T213	lemma = 'increasing|increase'
+T214	PRP 694 696	in
+#212	AnnotatorNotes T214	lemma = 'in'
+T215	NP0 697 702	Italy
+#213	AnnotatorNotes T215	lemma = 'italy'
+T216	CJC 703 706	and
+#214	AnnotatorNotes T216	lemma = 'and'
+T217	NP0 707 712	Yemen
+#215	AnnotatorNotes T217	lemma = 'yemen'
+T218	SENT 712 713	.
+#216	AnnotatorNotes T218	lemma = '.'
+T219	AT0 714 717	The
+#217	AnnotatorNotes T219	lemma = 'the'
+T220	NN1 718 722	part
+#218	AnnotatorNotes T220	lemma = 'part'
+T221	PRF 723 725	of
+#219	AnnotatorNotes T221	lemma = 'of'
+T222	NN1 726 736	population
+#220	AnnotatorNotes T222	lemma = 'population'
+T223	PNQ 737 740	who
+#221	AnnotatorNotes T223	lemma = 'who'
+T224	VBB 741 744	are
+#222	AnnotatorNotes T224	lemma = 'be'
+T225	NN1 745 751	yonger
+#223	AnnotatorNotes T225	lemma = 'yonger'
+T226	CRD 752 754	14
+#224	AnnotatorNotes T226	lemma = '14'
+T227	VM0 755 759	will
+#225	AnnotatorNotes T227	lemma = 'will'
+T228	VBI 760 762	be
+#226	AnnotatorNotes T228	lemma = 'be'
+T229	AJ0 763 773	decreasing
+#227	AnnotatorNotes T229	lemma = 'decreasing|decrease'
+T230	PRP 774 777	for
+#228	AnnotatorNotes T230	lemma = 'for'
+T231	DT0 778 782	both
+#229	AnnotatorNotes T231	lemma = 'both'
+T232	NN2 783 792	countries
+#230	AnnotatorNotes T232	lemma = 'country'
+T233	SENT 792 793	.
+#231	AnnotatorNotes T233	lemma = '.'
+T234	AT0 795 798	The
+#232	AnnotatorNotes T234	lemma = 'the'
+T235	NN1 799 803	part
+#233	AnnotatorNotes T235	lemma = 'part'
+T236	PRF 804 806	of
+#234	AnnotatorNotes T236	lemma = 'of'
+T237	NN1 807 810	man
+#235	AnnotatorNotes T237	lemma = 'man'
+T238	PNQ 811 814	who
+#236	AnnotatorNotes T238	lemma = 'who'
+T239	VBB 815 818	are
+#237	AnnotatorNotes T239	lemma = 'be'
+T240	AJC 819 824	older
+#238	AnnotatorNotes T240	lemma = 'old'
+T241	CRD 825 827	14
+#239	AnnotatorNotes T241	lemma = '14'
+T242	CJC 828 831	and
+#240	AnnotatorNotes T242	lemma = 'and'
+T243	NP0 832 838	yonger
+#241	AnnotatorNotes T243	lemma = 'yonger'
+T244	CRD 839 841	59
+#242	AnnotatorNotes T244	lemma = '59'
+T245	VM0 842 846	will
+#243	AnnotatorNotes T245	lemma = 'will'
+T246	VBI 847 849	be
+#244	AnnotatorNotes T246	lemma = 'be'
+T247	AJ0 850 860	increasing
+#245	AnnotatorNotes T247	lemma = 'increasing|increase'
+T248	PRP 861 863	in
+#246	AnnotatorNotes T248	lemma = 'in'
+T249	NP0 864 869	Yemen
+#247	AnnotatorNotes T249	lemma = 'yemen'
+T250	PRP 870 874	from
+#248	AnnotatorNotes T250	lemma = 'from'
+T251	CRD 875 879	46,3
+#249	AnnotatorNotes T251	lemma = '46,3'
+T252	NN0 879 880	%
+#250	AnnotatorNotes T252	lemma = '%'
+T253	PRP 881 883	to
+#251	AnnotatorNotes T253	lemma = 'to'
+T254	CRD 884 888	57,3
+#252	AnnotatorNotes T254	lemma = '57,3'
+T255	NN0 888 889	%
+#253	AnnotatorNotes T255	lemma = '%'
+T256	PRP 890 896	during
+#254	AnnotatorNotes T256	lemma = 'during'
+T257	CRD 897 899	50
+#255	AnnotatorNotes T257	lemma = '50'
+T258	NN2 900 905	years
+#256	AnnotatorNotes T258	lemma = 'year'
+T259	SENT 905 906	.
+#257	AnnotatorNotes T259	lemma = '.'
+T260	CJC 907 910	But
+#258	AnnotatorNotes T260	lemma = 'but'
+T261	AT0 911 914	the
+#259	AnnotatorNotes T261	lemma = 'the'
+T262	NN1 915 919	part
+#260	AnnotatorNotes T262	lemma = 'part'
+T263	PRF 920 922	of
+#261	AnnotatorNotes T263	lemma = 'of'
+T264	NN1 923 926	man
+#262	AnnotatorNotes T264	lemma = 'man'
+T265	PNQ 927 930	who
+#263	AnnotatorNotes T265	lemma = 'who'
+T266	VBB 931 934	are
+#264	AnnotatorNotes T266	lemma = 'be'
+T267	AJC 935 940	older
+#265	AnnotatorNotes T267	lemma = 'old'
+T268	CRD 941 943	14
+#266	AnnotatorNotes T268	lemma = '14'
+T269	CJC 944 947	and
+#267	AnnotatorNotes T269	lemma = 'and'
+T270	NP0 948 954	yanger
+#268	AnnotatorNotes T270	lemma = 'yanger'
+T271	CRD 955 957	59
+#269	AnnotatorNotes T271	lemma = '59'
+T272	VM0 958 962	will
+#270	AnnotatorNotes T272	lemma = 'will'
+T273	VBI 963 965	be
+#271	AnnotatorNotes T273	lemma = 'be'
+T274	AJ0 966 975	deceasing
+#272	AnnotatorNotes T274	lemma = 'deceasing'
+T275	PRP 976 978	in
+#273	AnnotatorNotes T275	lemma = 'in'
+T276	NP0 979 984	Italy
+#274	AnnotatorNotes T276	lemma = 'italy'
+T277	PRP 985 989	from
+#275	AnnotatorNotes T277	lemma = 'from'
+T278	CRD 990 994	61,6
+#276	AnnotatorNotes T278	lemma = '61,6'
+T279	NN0 994 995	%
+#277	AnnotatorNotes T279	lemma = '%'
+T280	PRP 996 998	to
+#278	AnnotatorNotes T280	lemma = 'to'
+T281	CRD 999 1003	46,2
+#279	AnnotatorNotes T281	lemma = '46,2'
+T282	NN0 1003 1004	%
+#280	AnnotatorNotes T282	lemma = '%'
+T283	PRP 1005 1011	during
+#281	AnnotatorNotes T283	lemma = 'during'
+T284	CRD 1012 1014	50
+#282	AnnotatorNotes T284	lemma = '50'
+T285	NN2 1015 1020	years
+#283	AnnotatorNotes T285	lemma = 'year'
+T286	PRP 1021 1025	from
+#284	AnnotatorNotes T286	lemma = 'from'
+T287	CRD 1026 1030	2000
+#285	AnnotatorNotes T287	lemma = '2000'
+T288	PRP 1031 1033	to
+#286	AnnotatorNotes T288	lemma = 'to'
+T289	CRD 1034 1038	2050
+#287	AnnotatorNotes T289	lemma = '2050'
+T290	SENT 1038 1039	.
+#288	AnnotatorNotes T290	lemma = '.'
+T291	PRP 1040 1042	in
+#289	AnnotatorNotes T291	lemma = 'in'
+T292	NP0 1043 1048	Yemen
+#290	AnnotatorNotes T292	lemma = 'yemen'
+T293	AT0 1049 1052	the
+#291	AnnotatorNotes T293	lemma = 'the'
+T294	AJS 1053 1060	biggest
+#292	AnnotatorNotes T294	lemma = 'big'
+T295	NN1 1061 1065	part
+#293	AnnotatorNotes T295	lemma = 'part'
+T296	VBZ 1066 1068	is
+#294	AnnotatorNotes T296	lemma = 'be'
+T297	NN1 1069 1072	man
+#295	AnnotatorNotes T297	lemma = 'man'
+T298	PNQ 1073 1076	who
+#296	AnnotatorNotes T298	lemma = 'who'
+T299	VBB 1077 1080	are
+#297	AnnotatorNotes T299	lemma = 'be'
+T300	AJC 1081 1086	older
+#298	AnnotatorNotes T300	lemma = 'old'
+T301	CRD 1087 1089	60
+#299	AnnotatorNotes T301	lemma = '60'
+T302	CJC 1090 1093	but
+#300	AnnotatorNotes T302	lemma = 'but'
+T303	PRP 1094 1096	in
+#301	AnnotatorNotes T303	lemma = 'in'
+T304	NP0 1097 1102	Italy
+#302	AnnotatorNotes T304	lemma = 'italy'
+T305	AT0 1103 1106	the
+#303	AnnotatorNotes T305	lemma = 'the'
+T306	AJS 1107 1114	biggest
+#304	AnnotatorNotes T306	lemma = 'big'
+T307	NN1 1115 1119	part
+#305	AnnotatorNotes T307	lemma = 'part'
+T308	VBZ 1120 1122	is
+#306	AnnotatorNotes T308	lemma = 'be'
+T309	NN1 1123 1126	man
+#307	AnnotatorNotes T309	lemma = 'man'
+T310	PNQ 1127 1130	who
+#308	AnnotatorNotes T310	lemma = 'who'
+T311	VBB 1131 1134	are
+#309	AnnotatorNotes T311	lemma = 'be'
+T312	PRP 1135 1142	between
+#310	AnnotatorNotes T312	lemma = 'between'
+T313	CRD 1143 1145	15
+#311	AnnotatorNotes T313	lemma = '15'
+T314	CJC 1146 1149	and
+#312	AnnotatorNotes T314	lemma = 'and'
+T315	CRD 1150 1152	59
+#313	AnnotatorNotes T315	lemma = '59'
+T316	PRP 1153 1155	in
+#314	AnnotatorNotes T316	lemma = 'in'
+T317	CRD 1156 1160	2000
+#315	AnnotatorNotes T317	lemma = '2000'
+T318	SENT 1160 1161	.
+#316	AnnotatorNotes T318	lemma = '.'
+T319	PRP 1162 1164	in
+#317	AnnotatorNotes T319	lemma = 'in'
+T320	CRD 1165 1169	2050
+#318	AnnotatorNotes T320	lemma = '2050'
+T321	PRP 1170 1172	in
+#319	AnnotatorNotes T321	lemma = 'in'
+T322	NP0 1173 1178	Yemen
+#320	AnnotatorNotes T322	lemma = 'yemen'
+T323	AT0 1179 1182	the
+#321	AnnotatorNotes T323	lemma = 'the'
+T324	AJS 1183 1190	biggest
+#322	AnnotatorNotes T324	lemma = 'big'
+T325	NN1 1191 1195	part
+#323	AnnotatorNotes T325	lemma = 'part'
+T326	VBZ 1196 1198	is
+#324	AnnotatorNotes T326	lemma = 'be'
+T327	NN1 1199 1202	man
+#325	AnnotatorNotes T327	lemma = 'man'
+T328	PNQ 1203 1206	who
+#326	AnnotatorNotes T328	lemma = 'who'
+T329	VBB 1207 1210	are
+#327	AnnotatorNotes T329	lemma = 'be'
+T330	PRP 1211 1218	between
+#328	AnnotatorNotes T330	lemma = 'between'
+T331	CRD 1219 1221	15
+#329	AnnotatorNotes T331	lemma = '15'
+T332	CJC 1222 1225	and
+#330	AnnotatorNotes T332	lemma = 'and'
+T333	CRD 1226 1228	59
+#331	AnnotatorNotes T333	lemma = '59'
+T334	PUN 1228 1229	,
+#332	AnnotatorNotes T334	lemma = ','
+T335	CJC 1230 1233	but
+#333	AnnotatorNotes T335	lemma = 'but'
+T336	PRP 1234 1236	in
+#334	AnnotatorNotes T336	lemma = 'in'
+T337	NP0 1237 1242	Italy
+#335	AnnotatorNotes T337	lemma = 'italy'
+T338	AT0 1243 1246	the
+#336	AnnotatorNotes T338	lemma = 'the'
+T339	AJS 1247 1254	biggest
+#337	AnnotatorNotes T339	lemma = 'big'
+T340	NN1 1255 1259	part
+#338	AnnotatorNotes T340	lemma = 'part'
+T341	VBZ 1260 1262	is
+#339	AnnotatorNotes T341	lemma = 'be'
+T342	XX0 1263 1266	not
+#340	AnnotatorNotes T342	lemma = 'not'
+T343	VVN 1267 1277	identified
+#341	AnnotatorNotes T343	lemma = 'identify|identified'
+T344	NP0 1278 1284	becaus
+#342	AnnotatorNotes T344	lemma = 'becaus'
+T345	EX0 1285 1290	there
+#343	AnnotatorNotes T345	lemma = 'there'
+T346	VBB 1291 1294	are
+#344	AnnotatorNotes T346	lemma = 'be'
+T347	CRD 1295 1298	two
+#345	AnnotatorNotes T347	lemma = 'two'
+T348	NN2 1299 1304	parts
+#346	AnnotatorNotes T348	lemma = 'part'
+T349	DTQ 1305 1310	which
+#347	AnnotatorNotes T349	lemma = 'which'
+T350	VBB 1311 1314	are
+#348	AnnotatorNotes T350	lemma = 'be'
+T351	AV0 1315 1321	partly
+#349	AnnotatorNotes T351	lemma = 'partly'
+T352	AJ0 1322 1329	equiled
+#350	AnnotatorNotes T352	lemma = 'equiled'
+T353	SENT 1329 1330	.
+#351	AnnotatorNotes T353	lemma = ''

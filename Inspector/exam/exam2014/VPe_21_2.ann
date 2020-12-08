@@ -1,0 +1,719 @@
+T1	Spelling 861 868	nussing
+#1	AnnotatorNotes T1	missing
+T2	Punctuation 0 8	Nowadays
+#2	AnnotatorNotes T2	Nowadays,
+T3	Punctuation 130 142	some of them
+#3	AnnotatorNotes T3	; some of them
+T4	Word_choice 239 247	study at
+#4	AnnotatorNotes T4	enter
+T5	Word_choice 103 114	studying at
+#5	AnnotatorNotes T5	entering
+T6	Articles 248 258	University
+#6	AnnotatorNotes T6	the univesity
+T7	Punctuation 512 513	,
+A1	Delete T7
+T8	Articles 609 621	suitable way
+#7	AnnotatorNotes T8	a suitable way
+T9	Tense_choice 636 650	did not decide
+#8	AnnotatorNotes T9	have not yet decided
+T10	lex_item_choice 657 659	he
+#9	AnnotatorNotes T10	they
+T11	Agreement_errors 660 668	is going
+#10	AnnotatorNotes T11	are going
+R1	Dependent_change Arg1:T10 Arg2:T11
+T12	Agreement_errors 704 710	do not
+#11	AnnotatorNotes T12	does not
+T13	lex_item_choice 729 732	his
+#12	AnnotatorNotes T13	their
+T14	lex_item_choice 757 759	he
+#13	AnnotatorNotes T14	they
+T15	lex_item_choice 803 805	he
+#14	AnnotatorNotes T15	they
+T16	Agreement_errors 806 811	wants
+#15	AnnotatorNotes T16	want
+R2	Dependent_change Arg1:T15 Arg2:T16
+T17	Word_choice 861 875	nussing a year
+#16	AnnotatorNotes T17	taking a gap year
+T18	Absence_comp_sent 898 918	finished high school
+#17	AnnotatorNotes T18	who have finished high school
+T19	Punctuation 1060 1061	,
+#18	AnnotatorNotes T19	.
+T20	Punctuation 1156 1157	,
+A2	Delete T20
+T21	lex_item_choice 1202 1204	he
+#19	AnnotatorNotes T21	they
+T22	Agreement_errors 1205 1219	is not able to
+#20	AnnotatorNotes T22	are not able to
+R3	Dependent_change Arg1:T21 Arg2:T22
+T23	Word_choice 1264 1266	he
+#21	AnnotatorNotes T23	they
+T24	Tense_choice 1267 1278	just forgot
+#22	AnnotatorNotes T24	have simply forgotten
+T25	Word_choice 1267 1271	just
+#23	AnnotatorNotes T25	simply
+T26	Word_choice 1286 1291	do it
+#24	AnnotatorNotes T26	study
+T27	Category_confusion 1163 1171	studying
+#25	AnnotatorNotes T27	study
+T28	Spelling 1495 1501	may be
+#26	AnnotatorNotes T28	maybe
+T29	Spelling 1525 1535	studyplace
+#27	AnnotatorNotes T29	study place
+T30	Standard 1399 1421	Possibly, it is better
+#28	AnnotatorNotes T30	It is probably better
+T31	Word_choice 1399 1407	Possibly
+#29	AnnotatorNotes T31	probably
+T32	Redundant_comp 428 434	do you
+#30	AnnotatorNotes T32	you
+T33	suggestion 428 434	do you
+T34	suggestion 1163 1171	studying
+T35	AV0 0 8	Nowadays
+#31	AnnotatorNotes T35	lemma = 'nowadays'
+T36	AV0 9 13	more
+#32	AnnotatorNotes T36	lemma = 'more'
+T37	CJC 14 17	and
+#33	AnnotatorNotes T37	lemma = 'and'
+T38	AV0 18 22	more
+#34	AnnotatorNotes T38	lemma = 'more'
+T39	AJ0 23 28	young
+#35	AnnotatorNotes T39	lemma = 'young'
+T40	NN0 29 35	people
+#36	AnnotatorNotes T40	lemma = 'people'
+T41	VBB 36 39	are
+#37	AnnotatorNotes T41	lemma = 'be'
+T42	VVG 40 48	becoming
+#38	AnnotatorNotes T42	lemma = 'become|becoming'
+T43	AJ0 49 59	interested
+#39	AnnotatorNotes T43	lemma = 'interested|interest'
+T44	PRP 60 62	in
+#40	AnnotatorNotes T44	lemma = 'in'
+T45	VVG 63 70	working
+#41	AnnotatorNotes T45	lemma = 'work|working'
+T46	CJC 71 73	or
+#42	AnnotatorNotes T46	lemma = 'or'
+T47	VVG 74 84	travelling
+#43	AnnotatorNotes T47	lemma = 'travel|travelling'
+T48	PRP 85 88	for
+#44	AnnotatorNotes T48	lemma = 'for'
+T49	AT0 89 90	a
+#45	AnnotatorNotes T49	lemma = 'a'
+T50	NN1 91 95	year
+#46	AnnotatorNotes T50	lemma = 'year'
+T51	PRP 96 102	before
+#47	AnnotatorNotes T51	lemma = 'before'
+T52	VVG 103 111	studying
+#48	AnnotatorNotes T52	lemma = 'study'
+T53	PRP 112 114	at
+#49	AnnotatorNotes T53	lemma = 'at'
+T54	AT0 115 118	the
+#50	AnnotatorNotes T54	lemma = 'the'
+T55	NN1 119 129	university
+#51	AnnotatorNotes T55	lemma = 'university'
+T56	DT0 130 134	some
+#52	AnnotatorNotes T56	lemma = 'some'
+T57	PRF 135 137	of
+#53	AnnotatorNotes T57	lemma = 'of'
+T58	PNP 138 142	them
+#54	AnnotatorNotes T58	lemma = 'they'
+T59	VVB 143 150	believe
+#55	AnnotatorNotes T59	lemma = 'believe'
+T60	CJT 151 155	that
+#56	AnnotatorNotes T60	lemma = 'that'
+T61	PNP 156 158	it
+#57	AnnotatorNotes T61	lemma = 'it'
+T62	VBZ 159 161	is
+#58	AnnotatorNotes T62	lemma = 'be'
+T63	AT0 162 164	an
+#59	AnnotatorNotes T63	lemma = 'an'
+T64	AJ0 165 175	unsuitable
+#60	AnnotatorNotes T64	lemma = 'unsuitable'
+T65	NN1 176 184	decision
+#61	AnnotatorNotes T65	lemma = 'decision'
+T66	PRP 185 188	for
+#62	AnnotatorNotes T66	lemma = 'for'
+T67	PNP 189 193	them
+#63	AnnotatorNotes T67	lemma = 'they'
+T68	SENT 193 194	.
+#64	AnnotatorNotes T68	lemma = '.'
+T69	AV0 195 197	So
+#65	AnnotatorNotes T69	lemma = 'so'
+T70	PUN 197 198	,
+#66	AnnotatorNotes T70	lemma = ','
+T71	DTQ 199 203	what
+#67	AnnotatorNotes T71	lemma = 'what'
+T72	VBZ 204 206	is
+#68	AnnotatorNotes T72	lemma = 'be'
+T73	AJC 207 213	better
+#69	AnnotatorNotes T73	lemma = 'good'
+T74	PUN 213 214	:
+#70	AnnotatorNotes T74	lemma = ':'
+T75	TO0 215 217	to
+#71	AnnotatorNotes T75	lemma = 'to'
+T76	VVI 218 222	work
+#72	AnnotatorNotes T76	lemma = 'work'
+T77	DT0 223 227	some
+#73	AnnotatorNotes T77	lemma = 'some'
+T78	NN1 228 232	time
+#74	AnnotatorNotes T78	lemma = 'time'
+T79	CJC 233 235	or
+#75	AnnotatorNotes T79	lemma = 'or'
+T80	TO0 236 238	to
+#76	AnnotatorNotes T80	lemma = 'to'
+T81	VVI 239 244	study
+#77	AnnotatorNotes T81	lemma = 'study'
+T82	PRP 245 247	at
+#78	AnnotatorNotes T82	lemma = 'at'
+T83	NN1 248 258	University
+#79	AnnotatorNotes T83	lemma = 'university'
+T84	AV0 259 271	straightaway
+#80	AnnotatorNotes T84	lemma = 'straightaway'
+T85	SENT 271 272	?
+#81	AnnotatorNotes T85	lemma = '?'
+T86	PRP 274 276	On
+#82	AnnotatorNotes T86	lemma = 'on'
+T87	AT0 277 280	the
+#83	AnnotatorNotes T87	lemma = 'the'
+T88	CRD 281 284	one
+#84	AnnotatorNotes T88	lemma = 'one'
+T89	NN1 285 289	hand
+#85	AnnotatorNotes T89	lemma = 'hand'
+T90	PUN 289 290	,
+#86	AnnotatorNotes T90	lemma = ','
+T91	AT0 291 294	the
+#87	AnnotatorNotes T91	lemma = 'the'
+T92	NN2 295 303	benefits
+#88	AnnotatorNotes T92	lemma = 'benefit'
+T93	PRF 304 306	of
+#89	AnnotatorNotes T93	lemma = 'of'
+T94	AT0 307 310	the
+#90	AnnotatorNotes T94	lemma = 'the'
+T95	ORD 311 316	first
+#91	AnnotatorNotes T95	lemma = 'first'
+T96	NN1 317 322	point
+#92	AnnotatorNotes T96	lemma = 'point'
+T97	PRF 323 325	of
+#93	AnnotatorNotes T97	lemma = 'of'
+T98	NN1 326 330	view
+#94	AnnotatorNotes T98	lemma = 'view'
+T99	VM0 331 334	can
+#95	AnnotatorNotes T99	lemma = 'can'
+T100	XX0 334 337	not
+#96	AnnotatorNotes T100	lemma = 'not'
+T101	VBI 338 340	be
+#97	AnnotatorNotes T101	lemma = 'be'
+T102	VVN 341 347	denied
+#98	AnnotatorNotes T102	lemma = 'deny|denied'
+T103	SENT 347 348	.
+#99	AnnotatorNotes T103	lemma = '.'
+T104	AV0 349 356	Firstly
+#100	AnnotatorNotes T104	lemma = 'firstly'
+T105	PUN 356 357	,
+#101	AnnotatorNotes T105	lemma = ','
+T106	PNP 358 360	it
+#102	AnnotatorNotes T106	lemma = 'it'
+T107	VBZ 361 363	is
+#103	AnnotatorNotes T107	lemma = 'be'
+T108	AT0 364 365	a
+#104	AnnotatorNotes T108	lemma = 'a'
+T109	AJ0 366 373	perfect
+#105	AnnotatorNotes T109	lemma = 'perfect'
+T110	NN1 374 385	opportunity
+#106	AnnotatorNotes T110	lemma = 'opportunity'
+T111	TO0 386 388	to
+#107	AnnotatorNotes T111	lemma = 'to'
+T112	VVI 389 393	work
+#108	AnnotatorNotes T112	lemma = 'work'
+T113	PRP 394 397	for
+#109	AnnotatorNotes T113	lemma = 'for'
+T114	AT0 398 399	a
+#110	AnnotatorNotes T114	lemma = 'a'
+T115	NN1 400 404	year
+#111	AnnotatorNotes T115	lemma = 'year'
+T116	PRP 405 407	in
+#112	AnnotatorNotes T116	lemma = 'in'
+T117	NN1 408 413	order
+#113	AnnotatorNotes T117	lemma = 'order'
+T118	TO0 414 416	to
+#114	AnnotatorNotes T118	lemma = 'to'
+T119	VVI 417 422	think
+#115	AnnotatorNotes T119	lemma = 'think'
+T120	DTQ 423 427	what
+#116	AnnotatorNotes T120	lemma = 'what'
+T121	VDB 428 430	do
+#117	AnnotatorNotes T121	lemma = 'do'
+T122	PNP 431 434	you
+#118	AnnotatorNotes T122	lemma = 'you'
+T123	VVI 435 439	want
+#119	AnnotatorNotes T123	lemma = 'want'
+T124	TO0 440 442	to
+#120	AnnotatorNotes T124	lemma = 'to'
+T125	VBI 443 445	be
+#121	AnnotatorNotes T125	lemma = 'be'
+T126	SENT 445 446	.
+#122	AnnotatorNotes T126	lemma = '.'
+T127	PRP 447 450	For
+#123	AnnotatorNotes T127	lemma = 'for'
+T128	NN1 451 458	example
+#124	AnnotatorNotes T128	lemma = 'example'
+T129	PUN 458 459	,
+#125	AnnotatorNotes T129	lemma = ','
+T130	PNP 460 463	you
+#126	AnnotatorNotes T130	lemma = 'you'
+T131	VM0 464 467	can
+#127	AnnotatorNotes T131	lemma = 'can'
+T132	VVI 468 471	try
+#128	AnnotatorNotes T132	lemma = 'try'
+T133	PNX 472 480	yourself
+#129	AnnotatorNotes T133	lemma = 'yourself'
+T134	PRP 481 483	in
+#130	AnnotatorNotes T134	lemma = 'in'
+T135	AJ0 484 493	different
+#131	AnnotatorNotes T135	lemma = 'different'
+T136	NN2 494 501	spheres
+#132	AnnotatorNotes T136	lemma = 'sphere'
+T137	CJC 502 505	and
+#133	AnnotatorNotes T137	lemma = 'and'
+T138	VVB 506 512	decide
+#134	AnnotatorNotes T138	lemma = 'decide'
+T139	PUN 512 513	,
+#135	AnnotatorNotes T139	lemma = ','
+T140	DTQ 514 518	what
+#136	AnnotatorNotes T140	lemma = 'what'
+T141	VBZ 519 521	is
+#137	AnnotatorNotes T141	lemma = 'be'
+T142	AV0 522 526	more
+#138	AnnotatorNotes T142	lemma = 'more'
+T143	AJ0 527 538	appropriate
+#139	AnnotatorNotes T143	lemma = 'appropriate'
+T144	PRP 539 542	for
+#140	AnnotatorNotes T144	lemma = 'for'
+T145	PNP 543 546	you
+#141	AnnotatorNotes T145	lemma = 'you'
+T146	SENT 546 547	.
+#142	AnnotatorNotes T146	lemma = '.'
+T147	AV0 548 556	Secondly
+#143	AnnotatorNotes T147	lemma = 'secondly'
+T148	PUN 556 557	,
+#144	AnnotatorNotes T148	lemma = ','
+T149	VVG 558 568	travelling
+#145	AnnotatorNotes T149	lemma = 'travel|travelling'
+T150	PRP 569 572	for
+#146	AnnotatorNotes T150	lemma = 'for'
+T151	AT0 573 574	a
+#147	AnnotatorNotes T151	lemma = 'a'
+T152	NN1 575 579	year
+#148	AnnotatorNotes T152	lemma = 'year'
+T153	PRP 580 586	before
+#149	AnnotatorNotes T153	lemma = 'before'
+T154	NN1 587 597	university
+#150	AnnotatorNotes T154	lemma = 'university'
+T155	NN2 598 605	studies
+#151	AnnotatorNotes T155	lemma = 'study'
+T156	VBZ 606 608	is
+#152	AnnotatorNotes T156	lemma = 'be'
+T157	AJ0 609 617	suitable
+#153	AnnotatorNotes T157	lemma = 'suitable'
+T158	NN1 618 621	way
+#154	AnnotatorNotes T158	lemma = 'way'
+T159	PRP 622 625	for
+#155	AnnotatorNotes T159	lemma = 'for'
+T160	DT0 626 631	those
+#156	AnnotatorNotes T160	lemma = 'those'
+T161	PNQ 632 635	who
+#157	AnnotatorNotes T161	lemma = 'who'
+T162	VDD 636 639	did
+#158	AnnotatorNotes T162	lemma = 'do'
+T163	XX0 640 643	not
+#159	AnnotatorNotes T163	lemma = 'not'
+T164	VVI 644 650	decide
+#160	AnnotatorNotes T164	lemma = 'decide'
+T165	AVQ 651 656	where
+#161	AnnotatorNotes T165	lemma = 'where'
+T166	PNP 657 659	he
+#162	AnnotatorNotes T166	lemma = 'he'
+T167	VBZ 660 662	is
+#163	AnnotatorNotes T167	lemma = 'be'
+T168	VVG 663 668	going
+#164	AnnotatorNotes T168	lemma = 'go|going'
+T169	TO0 669 671	to
+#165	AnnotatorNotes T169	lemma = 'to'
+T170	VVI 672 676	work
+#166	AnnotatorNotes T170	lemma = 'work'
+T171	SENT 676 677	.
+#167	AnnotatorNotes T171	lemma = '.'
+T172	PRP 678 681	For
+#168	AnnotatorNotes T172	lemma = 'for'
+T173	NN1 682 690	instance
+#169	AnnotatorNotes T173	lemma = 'instance'
+T174	PUN 690 691	,
+#170	AnnotatorNotes T174	lemma = ','
+T175	CJS 692 694	if
+#171	AnnotatorNotes T175	lemma = 'if'
+T176	AT0 695 696	a
+#172	AnnotatorNotes T176	lemma = 'a'
+T177	NN1 697 703	person
+#173	AnnotatorNotes T177	lemma = 'person'
+T178	VDB 704 706	do
+#174	AnnotatorNotes T178	lemma = 'do'
+T179	XX0 707 710	not
+#175	AnnotatorNotes T179	lemma = 'not'
+T180	VVI 711 717	desire
+#176	AnnotatorNotes T180	lemma = 'desire'
+T181	TO0 718 720	to
+#177	AnnotatorNotes T181	lemma = 'to'
+T182	VVI 721 725	work
+#178	AnnotatorNotes T182	lemma = 'work'
+T183	PRP 726 728	in
+#179	AnnotatorNotes T183	lemma = 'in'
+T184	DPS 729 732	his
+#180	AnnotatorNotes T184	lemma = 'he'
+T185	AJ0 733 739	native
+#181	AnnotatorNotes T185	lemma = 'native'
+T186	NN1 740 744	town
+#182	AnnotatorNotes T186	lemma = 'town'
+T187	CJC 745 747	or
+#183	AnnotatorNotes T187	lemma = 'or'
+T188	NN1 748 755	country
+#184	AnnotatorNotes T188	lemma = 'country'
+T189	PUN 755 756	,
+#185	AnnotatorNotes T189	lemma = ','
+T190	PNP 757 759	he
+#186	AnnotatorNotes T190	lemma = 'he'
+T191	VM0 760 763	can
+#187	AnnotatorNotes T191	lemma = 'can'
+T192	VVI 764 770	travel
+#188	AnnotatorNotes T192	lemma = 'travel'
+T193	AT0 771 772	a
+#189	AnnotatorNotes T193	lemma = 'a'
+T194	AJ0 773 779	little
+#190	AnnotatorNotes T194	lemma = 'little'
+T195	NN1 780 783	bit
+#191	AnnotatorNotes T195	lemma = 'bit'
+T196	CJC 784 787	and
+#192	AnnotatorNotes T196	lemma = 'and'
+T197	VVB 788 794	choose
+#193	AnnotatorNotes T197	lemma = 'choose'
+T198	AT0 795 796	a
+#194	AnnotatorNotes T198	lemma = 'a'
+T199	NN1 797 802	place
+#195	AnnotatorNotes T199	lemma = 'place'
+T200	PNP 803 805	he
+#196	AnnotatorNotes T200	lemma = 'he'
+T201	VVZ 806 811	wants
+#197	AnnotatorNotes T201	lemma = 'want'
+T202	SENT 811 812	.
+#198	AnnotatorNotes T202	lemma = '.'
+T203	PRP 814 816	On
+#199	AnnotatorNotes T203	lemma = 'on'
+T204	AT0 817 820	the
+#200	AnnotatorNotes T204	lemma = 'the'
+T205	AJ0 821 826	other
+#201	AnnotatorNotes T205	lemma = 'other'
+T206	NN1 827 831	hand
+#202	AnnotatorNotes T206	lemma = 'hand'
+T207	PUN 831 832	,
+#203	AnnotatorNotes T207	lemma = ','
+T208	EX0 833 838	there
+#204	AnnotatorNotes T208	lemma = 'there'
+T209	VBB 839 842	are
+#205	AnnotatorNotes T209	lemma = 'be'
+T210	DT0 843 847	some
+#206	AnnotatorNotes T210	lemma = 'some'
+T211	NN2 848 857	drawbacks
+#207	AnnotatorNotes T211	lemma = 'drawback'
+T212	PRF 858 860	of
+#208	AnnotatorNotes T212	lemma = 'of'
+T213	VVG 861 868	nussing
+#209	AnnotatorNotes T213	lemma = 'nussing'
+T214	AT0 869 870	a
+#210	AnnotatorNotes T214	lemma = 'a'
+T215	NN1 871 875	year
+#211	AnnotatorNotes T215	lemma = 'year'
+T216	SENT 875 876	.
+#212	AnnotatorNotes T216	lemma = '.'
+T217	ORD 877 882	First
+#213	AnnotatorNotes T217	lemma = 'first'
+T218	PRF 883 885	of
+#214	AnnotatorNotes T218	lemma = 'of'
+T219	DT0 886 889	all
+#215	AnnotatorNotes T219	lemma = 'all'
+T220	PUN 889 890	,
+#216	AnnotatorNotes T220	lemma = ','
+T221	NN0 891 897	people
+#217	AnnotatorNotes T221	lemma = 'people'
+T222	VVD 898 906	finished
+#218	AnnotatorNotes T222	lemma = 'finish|finished'
+T223	AJ0 907 911	high
+#219	AnnotatorNotes T223	lemma = 'high'
+T224	NN1 912 918	school
+#220	AnnotatorNotes T224	lemma = 'school'
+T225	VDB 919 921	do
+#221	AnnotatorNotes T225	lemma = 'do'
+T226	XX0 922 925	not
+#222	AnnotatorNotes T226	lemma = 'not'
+T227	VHI 926 930	have
+#223	AnnotatorNotes T227	lemma = 'have'
+T228	DT0 931 937	enough
+#224	AnnotatorNotes T228	lemma = 'enough'
+T229	NN2 938 944	skills
+#225	AnnotatorNotes T229	lemma = 'skill'
+T230	TO0 945 947	to
+#226	AnnotatorNotes T230	lemma = 'to'
+T231	VVI 948 952	work
+#227	AnnotatorNotes T231	lemma = 'work'
+T232	PRP 953 959	before
+#228	AnnotatorNotes T232	lemma = 'before'
+T233	AT0 960 963	the
+#229	AnnotatorNotes T233	lemma = 'the'
+T234	NN1 964 974	university
+#230	AnnotatorNotes T234	lemma = 'university'
+T235	SENT 974 975	.
+#231	AnnotatorNotes T235	lemma = '.'
+T236	AV0 976 978	So
+#232	AnnotatorNotes T236	lemma = 'so'
+T237	PUN 978 979	,
+#233	AnnotatorNotes T237	lemma = ','
+T238	DPS 980 985	their
+#234	AnnotatorNotes T238	lemma = 'they'
+T239	NN1 986 995	knowledge
+#235	AnnotatorNotes T239	lemma = 'knowledge'
+T240	VBZ 996 998	is
+#236	AnnotatorNotes T240	lemma = 'be'
+T241	AV0 999 1005	pretty
+#237	AnnotatorNotes T241	lemma = 'pretty'
+T242	AJ0 1006 1009	low
+#238	AnnotatorNotes T242	lemma = 'low'
+T243	CJC 1010 1013	and
+#239	AnnotatorNotes T243	lemma = 'and'
+T244	PNP 1014 1018	they
+#240	AnnotatorNotes T244	lemma = 'they'
+T245	VBB 1019 1022	are
+#241	AnnotatorNotes T245	lemma = 'be'
+T246	XX0 1023 1026	not
+#242	AnnotatorNotes T246	lemma = 'not'
+T247	AJ0 1027 1031	able
+#243	AnnotatorNotes T247	lemma = 'able'
+T248	TO0 1032 1034	to
+#244	AnnotatorNotes T248	lemma = 'to'
+T249	VVI 1035 1045	understand
+#245	AnnotatorNotes T249	lemma = 'understand'
+T250	DTQ 1046 1050	what
+#246	AnnotatorNotes T250	lemma = 'what'
+T251	PNP 1051 1055	they
+#247	AnnotatorNotes T251	lemma = 'they'
+T252	VVB 1056 1060	want
+#248	AnnotatorNotes T252	lemma = 'want'
+T253	PUN 1060 1061	,
+#249	AnnotatorNotes T253	lemma = ','
+T254	AV0 1062 1070	Secondly
+#250	AnnotatorNotes T254	lemma = 'secondly'
+T255	PUN 1070 1071	,
+#251	AnnotatorNotes T255	lemma = ','
+T256	CJS 1072 1076	when
+#252	AnnotatorNotes T256	lemma = 'when'
+T257	DT0 1077 1081	this
+#253	AnnotatorNotes T257	lemma = 'this'
+T258	NN1 1082 1086	year
+#254	AnnotatorNotes T258	lemma = 'year'
+T259	PRP 1087 1094	between
+#255	AnnotatorNotes T259	lemma = 'between'
+T260	AJ0 1095 1099	high
+#256	AnnotatorNotes T260	lemma = 'high'
+T261	NN1 1100 1106	school
+#257	AnnotatorNotes T261	lemma = 'school'
+T262	CJC 1107 1110	and
+#258	AnnotatorNotes T262	lemma = 'and'
+T263	NN1 1111 1121	university
+#259	AnnotatorNotes T263	lemma = 'university'
+T264	VBZ 1122 1124	is
+#260	AnnotatorNotes T264	lemma = 'be'
+T265	AVP 1125 1129	over
+#261	AnnotatorNotes T265	lemma = 'over'
+T266	PUN 1129 1130	,
+#262	AnnotatorNotes T266	lemma = ','
+T267	AT0 1131 1134	the
+#263	AnnotatorNotes T267	lemma = 'the'
+T268	NN1 1135 1141	person
+#264	AnnotatorNotes T268	lemma = 'person'
+T269	VM0 1142 1145	can
+#265	AnnotatorNotes T269	lemma = 'can'
+T270	VVI 1146 1156	understand
+#266	AnnotatorNotes T270	lemma = 'understand'
+T271	PUN 1156 1157	,
+#267	AnnotatorNotes T271	lemma = ','
+T272	DT0 1158 1162	that
+#268	AnnotatorNotes T272	lemma = 'that'
+T273	VVG 1163 1171	studying
+#269	AnnotatorNotes T273	lemma = 'study'
+T274	NN2 1172 1178	skills
+#270	AnnotatorNotes T274	lemma = 'skill'
+T275	VBB 1179 1182	are
+#271	AnnotatorNotes T275	lemma = 'be'
+T276	AV0 1183 1190	already
+#272	AnnotatorNotes T276	lemma = 'already'
+T277	VVN 1191 1195	lost
+#273	AnnotatorNotes T277	lemma = 'lose|lost'
+T278	PUN 1195 1196	,
+#274	AnnotatorNotes T278	lemma = ','
+T279	CJT 1197 1201	that
+#275	AnnotatorNotes T279	lemma = 'that'
+T280	PNP 1202 1204	he
+#276	AnnotatorNotes T280	lemma = 'he'
+T281	VBZ 1205 1207	is
+#277	AnnotatorNotes T281	lemma = 'be'
+T282	XX0 1208 1211	not
+#278	AnnotatorNotes T282	lemma = 'not'
+T283	AJ0 1212 1216	able
+#279	AnnotatorNotes T283	lemma = 'able'
+T284	TO0 1217 1219	to
+#280	AnnotatorNotes T284	lemma = 'to'
+T285	VVI 1220 1228	continue
+#281	AnnotatorNotes T285	lemma = 'continue'
+T286	NN1 1229 1238	education
+#282	AnnotatorNotes T286	lemma = 'education'
+T287	CJS 1239 1246	because
+#283	AnnotatorNotes T287	lemma = 'because'
+T288	PRF 1247 1249	of
+#284	AnnotatorNotes T288	lemma = 'of'
+T289	AT0 1250 1253	the
+#285	AnnotatorNotes T289	lemma = 'the'
+T290	NN1 1254 1258	fact
+#286	AnnotatorNotes T290	lemma = 'fact'
+T291	CJT 1259 1263	that
+#287	AnnotatorNotes T291	lemma = 'that'
+T292	PNP 1264 1266	he
+#288	AnnotatorNotes T292	lemma = 'he'
+T293	AV0 1267 1271	just
+#289	AnnotatorNotes T293	lemma = 'just'
+T294	VVD 1272 1278	forgot
+#290	AnnotatorNotes T294	lemma = 'forget'
+T295	AVQ 1279 1282	how
+#291	AnnotatorNotes T295	lemma = 'how'
+T296	TO0 1283 1285	to
+#292	AnnotatorNotes T296	lemma = 'to'
+T297	VDI 1286 1288	do
+#293	AnnotatorNotes T297	lemma = 'do'
+T298	PNP 1289 1291	it
+#294	AnnotatorNotes T298	lemma = 'it'
+T299	SENT 1291 1292	.
+#295	AnnotatorNotes T299	lemma = '.'
+T300	PRP 1294 1296	In
+#296	AnnotatorNotes T300	lemma = 'in'
+T301	NN1 1297 1307	conclusion
+#297	AnnotatorNotes T301	lemma = 'conclusion'
+T302	PUN 1307 1308	,
+#298	AnnotatorNotes T302	lemma = ','
+T303	PNP 1309 1310	I
+#299	AnnotatorNotes T303	lemma = 'i'
+T304	VVB 1311 1318	suppose
+#300	AnnotatorNotes T304	lemma = 'suppose'
+T305	CJT 1319 1323	that
+#301	AnnotatorNotes T305	lemma = 'that'
+T306	PNP 1324 1326	it
+#302	AnnotatorNotes T306	lemma = 'it'
+T307	VBZ 1327 1329	is
+#303	AnnotatorNotes T307	lemma = 'be'
+T308	AJC 1330 1336	better
+#304	AnnotatorNotes T308	lemma = 'good'
+T309	TO0 1337 1339	to
+#305	AnnotatorNotes T309	lemma = 'to'
+T310	VVI 1340 1348	continue
+#306	AnnotatorNotes T310	lemma = 'continue'
+T311	NN2 1349 1356	studies
+#307	AnnotatorNotes T311	lemma = 'study'
+T312	AV0 1357 1369	straightaway
+#308	AnnotatorNotes T312	lemma = 'straightaway'
+T313	PRP 1370 1375	after
+#309	AnnotatorNotes T313	lemma = 'after'
+T314	VVG 1376 1385	finishing
+#310	AnnotatorNotes T314	lemma = 'finish|finishing'
+T315	AJ0 1386 1390	high
+#311	AnnotatorNotes T315	lemma = 'high'
+T316	NN1 1391 1397	school
+#312	AnnotatorNotes T316	lemma = 'school'
+T317	SENT 1397 1398	.
+#313	AnnotatorNotes T317	lemma = '.'
+T318	AV0 1399 1407	Possibly
+#314	AnnotatorNotes T318	lemma = 'possibly'
+T319	PUN 1407 1408	,
+#315	AnnotatorNotes T319	lemma = ','
+T320	PNP 1409 1411	it
+#316	AnnotatorNotes T320	lemma = 'it'
+T321	VBZ 1412 1414	is
+#317	AnnotatorNotes T321	lemma = 'be'
+T322	AJC 1415 1421	better
+#318	AnnotatorNotes T322	lemma = 'good'
+T323	XX0 1422 1425	not
+#319	AnnotatorNotes T323	lemma = 'not'
+T324	TO0 1426 1428	to
+#320	AnnotatorNotes T324	lemma = 'to'
+T325	VVI 1429 1435	change
+#321	AnnotatorNotes T325	lemma = 'change'
+T326	DPS 1436 1440	your
+#322	AnnotatorNotes T326	lemma = 'you'
+T327	NN1 1441 1450	workplace
+#323	AnnotatorNotes T327	lemma = 'workplace'
+T328	AV0 1451 1455	only
+#324	AnnotatorNotes T328	lemma = 'only'
+T329	CJS 1456 1463	because
+#325	AnnotatorNotes T329	lemma = 'because'
+T330	PNP 1464 1467	you
+#326	AnnotatorNotes T330	lemma = 'you'
+T331	VDB 1468 1470	do
+#327	AnnotatorNotes T331	lemma = 'do'
+T332	XX0 1471 1474	not
+#328	AnnotatorNotes T332	lemma = 'not'
+T333	VHI 1475 1479	have
+#329	AnnotatorNotes T333	lemma = 'have'
+T334	DT0 1480 1486	enough
+#330	AnnotatorNotes T334	lemma = 'enough'
+T335	NN2 1487 1493	skills
+#331	AnnotatorNotes T335	lemma = 'skill'
+T336	PUN 1493 1494	,
+#332	AnnotatorNotes T336	lemma = ','
+T337	VM0 1495 1498	may
+#333	AnnotatorNotes T337	lemma = 'may'
+T338	VBI 1499 1501	be
+#334	AnnotatorNotes T338	lemma = 'be'
+T339	PNP 1502 1504	it
+#335	AnnotatorNotes T339	lemma = 'it'
+T340	VBZ 1505 1507	is
+#336	AnnotatorNotes T340	lemma = 'be'
+T341	AJC 1508 1514	better
+#337	AnnotatorNotes T341	lemma = 'good'
+T342	TO0 1515 1517	to
+#338	AnnotatorNotes T342	lemma = 'to'
+T343	VVI 1518 1524	change
+#339	AnnotatorNotes T343	lemma = 'change'
+T344	NN1 1525 1535	studyplace
+#340	AnnotatorNotes T344	lemma = 'studyplace'
+T345	CJC 1536 1539	and
+#341	AnnotatorNotes T345	lemma = 'and'
+T346	PRP 1540 1542	in
+#342	AnnotatorNotes T346	lemma = 'in'
+T347	AT0 1543 1546	the
+#343	AnnotatorNotes T347	lemma = 'the'
+T348	NN1 1547 1550	end
+#344	AnnotatorNotes T348	lemma = 'end'
+T349	TO0 1551 1553	to
+#345	AnnotatorNotes T349	lemma = 'to'
+T350	VVI 1554 1558	find
+#346	AnnotatorNotes T350	lemma = 'find'
+T351	AT0 1559 1560	a
+#347	AnnotatorNotes T351	lemma = 'a'
+T352	NN1 1561 1566	place
+#348	AnnotatorNotes T352	lemma = 'place'
+T353	DT0 1567 1571	that
+#349	AnnotatorNotes T353	lemma = 'that'
+T354	VBZ 1572 1574	is
+#350	AnnotatorNotes T354	lemma = 'be'
+T355	AV0 1575 1584	perfectly
+#351	AnnotatorNotes T355	lemma = 'perfectly'
+T356	AJ0 1585 1593	suitable
+#352	AnnotatorNotes T356	lemma = 'suitable'
+T357	PRP 1594 1597	for
+#353	AnnotatorNotes T357	lemma = 'for'
+T358	PNP 1598 1601	you
+#354	AnnotatorNotes T358	lemma = 'you'
+T359	SENT 1601 1602	.
+#355	AnnotatorNotes T359	lemma = ''

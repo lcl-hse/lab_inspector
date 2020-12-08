@@ -1,0 +1,400 @@
+T1	Spelling 532 540	stabilly
+#1	AnnotatorNotes T1	stably
+T2	Tense_form 48 55	spended
+#2	AnnotatorNotes T2	spent
+T3	Articles 69 71	UK
+#3	AnnotatorNotes T3	the UK
+T4	Word_choice 88 98	categories
+#4	AnnotatorNotes T4	types
+T5	Redundant_comp 118 125	in time
+A1	Delete T5
+T6	Redundant_comp 144 148	year
+A2	Cause T6
+A3	Delete T6
+T7	Tense_form 260 264	rise
+#5	AnnotatorNotes T7	risen
+T8	Adverbs 253 259	steady
+#6	AnnotatorNotes T8	steadily
+T9	Adjectives 277 280	his
+#7	AnnotatorNotes T9	its
+T10	Tense_choice 332 341	goes down
+#8	AnnotatorNotes T10	went down
+T11	Word_choice 319 328	In future
+#9	AnnotatorNotes T11	Later
+T12	Tense_choice 417 420	has
+#10	AnnotatorNotes T12	had
+T13	Tense_choice 207 213	starts
+#11	AnnotatorNotes T13	started
+T14	Word_choice 532 540	stabilly
+#12	AnnotatorNotes T14	steadily
+T15	Prepositions 595 602	through
+#13	AnnotatorNotes T15	by
+T16	Word_choice 655 661	raised
+#14	AnnotatorNotes T16	reaches
+T17	Redundant_comp 681 685	mark
+A4	Delete T17
+T18	Spelling 711 721	technicall
+#15	AnnotatorNotes T18	technical
+T19	Word_choice 722 730	upgrades
+#16	AnnotatorNotes T19	advance
+T20	Often_confused 755 760	rised
+#17	AnnotatorNotes T20	raised
+T21	Word_choice 761 767	number
+#18	AnnotatorNotes T21	the duration
+T22	Noun_number 771 775	call
+#19	AnnotatorNotes T22	calls
+T23	Prepositions 776 783	through
+#20	AnnotatorNotes T23	by
+T24	Absence_comp_sent 854 866	more popular
+#21	AnnotatorNotes T24	were more popular
+T25	Redundant_comp 899 903	year
+A5	Cause T25
+A6	Delete T25
+T26	suggestion 319 376	In future it goes down back to 70 billion minutes in 2002
+T27	suggestion 0 143	In this diagram we can see billions of minutes, spended by people in UK using different categories of telephone lines in time from 1995 to 2002
+T28	PRP 0 2	In
+#22	AnnotatorNotes T28	lemma = 'in'
+T29	DT0 3 7	this
+#23	AnnotatorNotes T29	lemma = 'this'
+T30	NN1 8 15	diagram
+#24	AnnotatorNotes T30	lemma = 'diagram'
+T31	PNP 16 18	we
+#25	AnnotatorNotes T31	lemma = 'we'
+T32	VM0 19 22	can
+#26	AnnotatorNotes T32	lemma = 'can'
+T33	VVI 23 26	see
+#27	AnnotatorNotes T33	lemma = 'see'
+T34	CRD 27 35	billions
+#28	AnnotatorNotes T34	lemma = 'billions'
+T35	PRF 36 38	of
+#29	AnnotatorNotes T35	lemma = 'of'
+T36	NN2 39 46	minutes
+#30	AnnotatorNotes T36	lemma = 'minute'
+T37	PUN 46 47	,
+#31	AnnotatorNotes T37	lemma = ','
+T38	VVN 48 55	spended
+#32	AnnotatorNotes T38	lemma = 'spended'
+T39	PRP 56 58	by
+#33	AnnotatorNotes T39	lemma = 'by'
+T40	NN0 59 65	people
+#34	AnnotatorNotes T40	lemma = 'people'
+T41	PRP 66 68	in
+#35	AnnotatorNotes T41	lemma = 'in'
+T42	NP0 69 71	UK
+#36	AnnotatorNotes T42	lemma = 'uk'
+T43	VVG 72 77	using
+#37	AnnotatorNotes T43	lemma = 'use'
+T44	AJ0 78 87	different
+#38	AnnotatorNotes T44	lemma = 'different'
+T45	NN2 88 98	categories
+#39	AnnotatorNotes T45	lemma = 'category'
+T46	PRF 99 101	of
+#40	AnnotatorNotes T46	lemma = 'of'
+T47	NN1 102 111	telephone
+#41	AnnotatorNotes T47	lemma = 'telephone'
+T48	NN2 112 117	lines
+#42	AnnotatorNotes T48	lemma = 'line'
+T49	PRP 118 120	in
+#43	AnnotatorNotes T49	lemma = 'in'
+T50	NN1 121 125	time
+#44	AnnotatorNotes T50	lemma = 'time'
+T51	PRP 126 130	from
+#45	AnnotatorNotes T51	lemma = 'from'
+T52	CRD 131 135	1995
+#46	AnnotatorNotes T52	lemma = '1995'
+T53	PRP 136 138	to
+#47	AnnotatorNotes T53	lemma = 'to'
+T54	CRD 139 143	2002
+#48	AnnotatorNotes T54	lemma = '2002'
+T55	NN1 144 148	year
+#49	AnnotatorNotes T55	lemma = 'year'
+T56	SENT 148 149	.
+#50	AnnotatorNotes T56	lemma = '.'
+T57	AJ0 151 156	Local
+#51	AnnotatorNotes T57	lemma = 'local'
+T58	AJ0 157 162	fixed
+#52	AnnotatorNotes T58	lemma = 'fixed|fix'
+T59	NN1 163 167	line
+#53	AnnotatorNotes T59	lemma = 'line'
+T60	VBD 168 171	was
+#54	AnnotatorNotes T60	lemma = 'be'
+T61	VVN 172 176	used
+#55	AnnotatorNotes T61	lemma = 'use|used'
+T62	PRP 177 179	by
+#56	AnnotatorNotes T62	lemma = 'by'
+T63	AT0 180 183	the
+#57	AnnotatorNotes T63	lemma = 'the'
+T64	NN1 184 192	majority
+#58	AnnotatorNotes T64	lemma = 'majority'
+T65	PRF 193 195	of
+#59	AnnotatorNotes T65	lemma = 'of'
+T66	NN0 196 202	people
+#60	AnnotatorNotes T66	lemma = 'people'
+T67	CJC 203 206	and
+#61	AnnotatorNotes T67	lemma = 'and'
+T68	VVZ 207 213	starts
+#62	AnnotatorNotes T68	lemma = 'start'
+T69	PRP 214 218	from
+#63	AnnotatorNotes T69	lemma = 'from'
+T70	AV0 219 225	around
+#64	AnnotatorNotes T70	lemma = 'around'
+T71	CRD 226 228	70
+#65	AnnotatorNotes T71	lemma = '70'
+T72	CRD 229 236	billion
+#66	AnnotatorNotes T72	lemma = 'billion'
+T73	NN2 237 244	minutes
+#67	AnnotatorNotes T73	lemma = 'minute'
+T74	SENT 244 245	.
+#68	AnnotatorNotes T74	lemma = '.'
+T75	PNP 246 248	It
+#69	AnnotatorNotes T75	lemma = 'it'
+T76	VHD 249 252	had
+#70	AnnotatorNotes T76	lemma = 'have'
+T77	AJ0 253 259	steady
+#71	AnnotatorNotes T77	lemma = 'steady'
+T78	NN1 260 264	rise
+#72	AnnotatorNotes T78	lemma = 'rise'
+T79	CJC 265 268	and
+#73	AnnotatorNotes T79	lemma = 'and'
+T80	VVD 269 276	reached
+#74	AnnotatorNotes T80	lemma = 'reach'
+T81	DPS 277 280	his
+#75	AnnotatorNotes T81	lemma = 'he'
+T82	NN1 281 285	peak
+#76	AnnotatorNotes T82	lemma = 'peak'
+T83	PRP 286 288	in
+#77	AnnotatorNotes T83	lemma = 'in'
+T84	CRD 289 293	1999
+#78	AnnotatorNotes T84	lemma = '1999'
+T85	PRP 294 298	with
+#79	AnnotatorNotes T85	lemma = 'with'
+T86	CRD 299 301	90
+#80	AnnotatorNotes T86	lemma = '90'
+T87	CRD 302 309	billion
+#81	AnnotatorNotes T87	lemma = 'billion'
+T88	NN2 310 317	minutes
+#82	AnnotatorNotes T88	lemma = 'minute'
+T89	SENT 317 318	.
+#83	AnnotatorNotes T89	lemma = '.'
+T90	PRP 319 321	In
+#84	AnnotatorNotes T90	lemma = 'in'
+T91	NN1 322 328	future
+#85	AnnotatorNotes T91	lemma = 'future'
+T92	PNP 329 331	it
+#86	AnnotatorNotes T92	lemma = 'it'
+T93	VVZ 332 336	goes
+#87	AnnotatorNotes T93	lemma = 'go'
+T94	AVP 337 341	down
+#88	AnnotatorNotes T94	lemma = 'down'
+T95	AVP 342 346	back
+#89	AnnotatorNotes T95	lemma = 'back'
+T96	PRP 347 349	to
+#90	AnnotatorNotes T96	lemma = 'to'
+T97	CRD 350 352	70
+#91	AnnotatorNotes T97	lemma = '70'
+T98	CRD 353 360	billion
+#92	AnnotatorNotes T98	lemma = 'billion'
+T99	NN2 361 368	minutes
+#93	AnnotatorNotes T99	lemma = 'minute'
+T100	PRP 369 371	in
+#94	AnnotatorNotes T100	lemma = 'in'
+T101	CRD 372 376	2002
+#95	AnnotatorNotes T101	lemma = '2002'
+T102	SENT 376 377	.
+#96	AnnotatorNotes T102	lemma = '.'
+T103	AJ0 379 387	National
+#97	AnnotatorNotes T103	lemma = 'national'
+T104	CJC 388 391	and
+#98	AnnotatorNotes T104	lemma = 'and'
+T105	AJ0 392 405	international
+#99	AnnotatorNotes T105	lemma = 'international'
+T106	AJ0 406 411	fixed
+#100	AnnotatorNotes T106	lemma = 'fixed|fix'
+T107	NN1 412 416	line
+#101	AnnotatorNotes T107	lemma = 'line'
+T108	VHZ 417 420	has
+#102	AnnotatorNotes T108	lemma = 'have'
+T109	AJ0 421 427	stable
+#103	AnnotatorNotes T109	lemma = 'stable'
+T110	NN1 428 434	growth
+#104	AnnotatorNotes T110	lemma = 'growth'
+T111	PRP 435 439	from
+#105	AnnotatorNotes T111	lemma = 'from'
+T112	AV0 440 446	almost
+#106	AnnotatorNotes T112	lemma = 'almost'
+T113	CRD 447 449	40
+#107	AnnotatorNotes T113	lemma = '40'
+T114	CRD 450 457	billion
+#108	AnnotatorNotes T114	lemma = 'billion'
+T115	NN2 458 465	minutes
+#109	AnnotatorNotes T115	lemma = 'minute'
+T116	PRP 466 468	in
+#110	AnnotatorNotes T116	lemma = 'in'
+T117	CRD 469 473	1995
+#111	AnnotatorNotes T117	lemma = '1995'
+T118	AVP 474 476	up
+#112	AnnotatorNotes T118	lemma = 'up'
+T119	PRP 477 479	to
+#113	AnnotatorNotes T119	lemma = 'to'
+T120	CRD 480 482	60
+#114	AnnotatorNotes T120	lemma = '60'
+T121	CRD 483 490	billion
+#115	AnnotatorNotes T121	lemma = 'billion'
+T122	NN2 491 498	minutes
+#116	AnnotatorNotes T122	lemma = 'minute'
+T123	PRP 499 501	in
+#117	AnnotatorNotes T123	lemma = 'in'
+T124	CRD 502 506	2002
+#118	AnnotatorNotes T124	lemma = '2002'
+T125	SENT 506 507	.
+#119	AnnotatorNotes T125	lemma = '.'
+T126	NN2 509 516	Mobiles
+#120	AnnotatorNotes T126	lemma = 'mobile'
+T127	AV0 517 521	also
+#121	AnnotatorNotes T127	lemma = 'also'
+T128	VVN 522 531	increased
+#122	AnnotatorNotes T128	lemma = 'increase|increased'
+T129	AV0 532 540	stabilly
+#123	AnnotatorNotes T129	lemma = 'stabilly'
+T130	AVP 541 543	up
+#124	AnnotatorNotes T130	lemma = 'up'
+T131	PRP 544 546	to
+#125	AnnotatorNotes T131	lemma = 'to'
+T132	CRD 547 549	15
+#126	AnnotatorNotes T132	lemma = '15'
+T133	CRD 550 557	billion
+#127	AnnotatorNotes T133	lemma = 'billion'
+T134	NN2 558 565	minutes
+#128	AnnotatorNotes T134	lemma = 'minute'
+T135	PRP 566 568	in
+#129	AnnotatorNotes T135	lemma = 'in'
+T136	CRD 569 573	1999
+#130	AnnotatorNotes T136	lemma = '1999'
+T137	PUN 573 574	,
+#131	AnnotatorNotes T137	lemma = ','
+T138	CJC 575 578	but
+#132	AnnotatorNotes T138	lemma = 'but'
+T139	NN1 579 585	number
+#133	AnnotatorNotes T139	lemma = 'number'
+T140	PRF 586 588	of
+#134	AnnotatorNotes T140	lemma = 'of'
+T141	NN2 589 594	calls
+#135	AnnotatorNotes T141	lemma = 'call'
+T142	PRP 595 602	through
+#136	AnnotatorNotes T142	lemma = 'through'
+T143	AJ0 603 609	mobile
+#137	AnnotatorNotes T143	lemma = 'mobile'
+T144	NN2 610 616	phones
+#138	AnnotatorNotes T144	lemma = 'phone'
+T145	VVN 617 626	increased
+#139	AnnotatorNotes T145	lemma = 'increase|increased'
+T146	AV0 627 634	rapidly
+#140	AnnotatorNotes T146	lemma = 'rapidly'
+T147	PRP 635 637	in
+#141	AnnotatorNotes T147	lemma = 'in'
+T148	AJ0 638 644	future
+#142	AnnotatorNotes T148	lemma = 'future'
+T149	NN2 645 650	years
+#143	AnnotatorNotes T149	lemma = 'year'
+T150	CJC 651 654	and
+#144	AnnotatorNotes T150	lemma = 'and'
+T151	VVD 655 661	raised
+#145	AnnotatorNotes T151	lemma = 'raise|raised'
+T152	CRD 662 664	45
+#146	AnnotatorNotes T152	lemma = '45'
+T153	CRD 665 672	billion
+#147	AnnotatorNotes T153	lemma = 'billion'
+T154	NN2 673 680	minutes
+#148	AnnotatorNotes T154	lemma = 'minute'
+T155	VVB 681 685	mark
+#149	AnnotatorNotes T155	lemma = 'mark'
+T156	PRP 686 688	in
+#150	AnnotatorNotes T156	lemma = 'in'
+T157	CRD 689 693	2002
+#151	AnnotatorNotes T157	lemma = '2002'
+T158	SENT 693 694	.
+#152	AnnotatorNotes T158	lemma = '.'
+T159	CJS 696 698	As
+#153	AnnotatorNotes T159	lemma = 'as'
+T160	PNP 699 701	we
+#154	AnnotatorNotes T160	lemma = 'we'
+T161	VM0 702 705	can
+#155	AnnotatorNotes T161	lemma = 'can'
+T162	VVI 706 709	see
+#156	AnnotatorNotes T162	lemma = 'see'
+T163	PUN 709 710	,
+#157	AnnotatorNotes T163	lemma = ','
+T164	NN1 711 721	technicall
+#158	AnnotatorNotes T164	lemma = 'technicall'
+T165	VVZ 722 730	upgrades
+#159	AnnotatorNotes T165	lemma = 'upgrade'
+T166	AVP 731 735	back
+#160	AnnotatorNotes T166	lemma = 'back'
+T167	PRP 736 738	in
+#161	AnnotatorNotes T167	lemma = 'in'
+T168	AT0 739 742	the
+#162	AnnotatorNotes T168	lemma = 'the'
+T169	NN1 743 746	end
+#163	AnnotatorNotes T169	lemma = 'end'
+T170	PRF 747 749	of
+#164	AnnotatorNotes T170	lemma = 'of'
+T171	CRD 750 752	90
+#165	AnnotatorNotes T171	lemma = '90'
+T172	POS 752 754	's
+#166	AnnotatorNotes T172	lemma = 's'
+T173	AJ0 755 760	rised
+#167	AnnotatorNotes T173	lemma = 'rised'
+T174	NN1 761 767	number
+#168	AnnotatorNotes T174	lemma = 'number'
+T175	PRF 768 770	of
+#169	AnnotatorNotes T175	lemma = 'of'
+T176	NN1 771 775	call
+#170	AnnotatorNotes T176	lemma = 'call'
+T177	PRP 776 783	through
+#171	AnnotatorNotes T177	lemma = 'through'
+T178	AJ0 784 790	mobile
+#172	AnnotatorNotes T178	lemma = 'mobile'
+T179	NN1 791 796	phone
+#173	AnnotatorNotes T179	lemma = 'phone'
+T180	PUN 796 797	,
+#174	AnnotatorNotes T180	lemma = ','
+T181	CJC 798 801	but
+#175	AnnotatorNotes T181	lemma = 'but'
+T182	AV0 802 807	still
+#176	AnnotatorNotes T182	lemma = 'still'
+T183	AJ0 808 813	local
+#177	AnnotatorNotes T183	lemma = 'local'
+T184	PUN 813 814	,
+#178	AnnotatorNotes T184	lemma = ','
+T185	AJ0 815 823	national
+#179	AnnotatorNotes T185	lemma = 'national'
+T186	CJC 824 827	and
+#180	AnnotatorNotes T186	lemma = 'and'
+T187	AJ0 828 841	international
+#181	AnnotatorNotes T187	lemma = 'international'
+T188	AJ0 842 847	fixed
+#182	AnnotatorNotes T188	lemma = 'fixed|fix'
+T189	NN2 848 853	lines
+#183	AnnotatorNotes T189	lemma = 'line'
+T190	AV0 854 858	more
+#184	AnnotatorNotes T190	lemma = 'more'
+T191	AJ0 859 866	popular
+#185	AnnotatorNotes T191	lemma = 'popular'
+T192	PRP 867 869	in
+#186	AnnotatorNotes T192	lemma = 'in'
+T193	AT0 870 873	the
+#187	AnnotatorNotes T193	lemma = 'the'
+T194	NN1 874 880	period
+#188	AnnotatorNotes T194	lemma = 'period'
+T195	PRP 881 885	from
+#189	AnnotatorNotes T195	lemma = 'from'
+T196	CRD 886 890	1995
+#190	AnnotatorNotes T196	lemma = '1995'
+T197	PRP 891 893	to
+#191	AnnotatorNotes T197	lemma = 'to'
+T198	CRD 894 898	2002
+#192	AnnotatorNotes T198	lemma = '2002'
+T199	NN1 899 903	year
+#193	AnnotatorNotes T199	lemma = 'year'
+T200	SENT 903 904	.
+#194	AnnotatorNotes T200	lemma = ''

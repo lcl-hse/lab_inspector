@@ -1,0 +1,377 @@
+T1	note 914 915	.
+#1	AnnotatorNotes T1	DBatov
+T2	Absence_explanation 82 92	The second
+#2	AnnotatorNotes T2	The secomd one
+T3	Spelling 133 137	U.S.
+#3	AnnotatorNotes T3	US
+T4	Redundant_comp 166 186	As we it can be seen
+#4	AnnotatorNotes T4	As it can be seen
+T5	Prepositions 393 394	a
+#5	AnnotatorNotes T5	per
+T6	lex_item_choice 420 428	contrast
+#6	AnnotatorNotes T6	opposite
+T7	suggestion 420 428	contrast
+T8	Articles 418 419	a
+#7	AnnotatorNotes T8	an
+R1	Parallel_construction Arg1:T6 Arg2:T8
+T9	Agreement_errors 520 524	its'
+#8	AnnotatorNotes T9	their
+T10	suggestion 520 524	its'
+T11	Prepositions 823 827	Both
+#9	AnnotatorNotes T11	Both of
+T12	suggestion 823 827	Both
+T13	Redundant_comp 587 591	that
+A1	Delete T13
+T14	suggestion 587 591	that
+T15	AT0 0 3	The
+#10	AnnotatorNotes T15	lemma = 'the'
+T16	ORD 4 9	first
+#11	AnnotatorNotes T16	lemma = 'first'
+T17	NN1 10 15	graph
+#12	AnnotatorNotes T17	lemma = 'graph'
+T18	VVZ 16 27	illustrates
+#13	AnnotatorNotes T18	lemma = 'illustrate'
+T19	AT0 28 31	the
+#14	AnnotatorNotes T19	lemma = 'the'
+T20	NN1 32 40	tendency
+#15	AnnotatorNotes T20	lemma = 'tendency'
+T21	PRF 41 43	of
+#16	AnnotatorNotes T21	lemma = 'of'
+T22	AT0 44 47	the
+#17	AnnotatorNotes T22	lemma = 'the'
+T23	NP0 48 51	USA
+#18	AnnotatorNotes T23	lemma = 'usa'
+T24	NN1 52 62	population
+#19	AnnotatorNotes T24	lemma = 'population'
+T25	PRP 63 67	from
+#20	AnnotatorNotes T25	lemma = 'from'
+T26	CRD 68 72	1750
+#21	AnnotatorNotes T26	lemma = '1750'
+T27	PRP 73 75	to
+#22	AnnotatorNotes T27	lemma = 'to'
+T28	CRD 76 80	2000
+#23	AnnotatorNotes T28	lemma = '2000'
+T29	SENT 80 81	.
+#24	AnnotatorNotes T29	lemma = '.'
+T30	AT0 82 85	The
+#25	AnnotatorNotes T30	lemma = 'the'
+T31	ORD 86 92	second
+#26	AnnotatorNotes T31	lemma = 'second'
+T32	VVZ 93 98	shows
+#27	AnnotatorNotes T32	lemma = 'show'
+T33	DT0 99 103	both
+#28	AnnotatorNotes T33	lemma = 'both'
+T34	NN1 104 109	birth
+#29	AnnotatorNotes T34	lemma = 'birth'
+T35	CJC 110 113	and
+#30	AnnotatorNotes T35	lemma = 'and'
+T36	NN1 114 119	death
+#31	AnnotatorNotes T36	lemma = 'death'
+T37	NN2 120 125	rates
+#32	AnnotatorNotes T37	lemma = 'rate'
+T38	PRP 126 128	in
+#33	AnnotatorNotes T38	lemma = 'in'
+T39	AT0 129 132	the
+#34	AnnotatorNotes T39	lemma = 'the'
+T40	NP0 133 137	U.S.
+#35	AnnotatorNotes T40	lemma = 'u.s.'
+T41	PRP 138 140	in
+#36	AnnotatorNotes T41	lemma = 'in'
+T42	AT0 141 144	the
+#37	AnnotatorNotes T42	lemma = 'the'
+T43	DT0 145 149	same
+#38	AnnotatorNotes T43	lemma = 'same'
+T44	NN1 150 156	period
+#39	AnnotatorNotes T44	lemma = 'period'
+T45	PRF 157 159	of
+#40	AnnotatorNotes T45	lemma = 'of'
+T46	NN1 160 164	time
+#41	AnnotatorNotes T46	lemma = 'time'
+T47	SENT 164 165	.
+#42	AnnotatorNotes T47	lemma = '.'
+T48	CJS 166 168	As
+#43	AnnotatorNotes T48	lemma = 'as'
+T49	PNP 169 171	we
+#44	AnnotatorNotes T49	lemma = 'we'
+T50	PNP 172 174	it
+#45	AnnotatorNotes T50	lemma = 'it'
+T51	VM0 175 178	can
+#46	AnnotatorNotes T51	lemma = 'can'
+T52	VBI 179 181	be
+#47	AnnotatorNotes T52	lemma = 'be'
+T53	VVN 182 186	seen
+#48	AnnotatorNotes T53	lemma = 'see'
+T54	PUN 186 187	,
+#49	AnnotatorNotes T54	lemma = ','
+T55	AT0 188 191	the
+#50	AnnotatorNotes T55	lemma = 'the'
+T56	NN1 192 198	number
+#51	AnnotatorNotes T56	lemma = 'number'
+T57	PRF 199 201	of
+#52	AnnotatorNotes T57	lemma = 'of'
+T58	AJ0 202 210	American
+#53	AnnotatorNotes T58	lemma = 'american'
+T59	NN1 211 221	population
+#54	AnnotatorNotes T59	lemma = 'population'
+T60	VBD 222 225	was
+#55	AnnotatorNotes T60	lemma = 'be'
+T61	VVG 226 233	growing
+#56	AnnotatorNotes T61	lemma = 'grow|growing'
+T62	AV0 234 239	quite
+#57	AnnotatorNotes T62	lemma = 'quite'
+T63	AV0 240 248	steadily
+#58	AnnotatorNotes T63	lemma = 'steadily'
+T64	PRP 249 253	from
+#59	AnnotatorNotes T64	lemma = 'from'
+T65	NN1 254 258	year
+#60	AnnotatorNotes T65	lemma = 'year'
+T66	PRP 259 261	to
+#61	AnnotatorNotes T66	lemma = 'to'
+T67	NN1 262 266	year
+#62	AnnotatorNotes T67	lemma = 'year'
+T68	PRP 267 274	without
+#63	AnnotatorNotes T68	lemma = 'without'
+T69	DT0 275 278	any
+#64	AnnotatorNotes T69	lemma = 'any'
+T70	AJ0 279 284	sharp
+#65	AnnotatorNotes T70	lemma = 'sharp'
+T71	NN2 285 290	loops
+#66	AnnotatorNotes T71	lemma = 'loop'
+T72	SENT 290 291	.
+#67	AnnotatorNotes T72	lemma = '.'
+T73	PRP 292 297	After
+#68	AnnotatorNotes T73	lemma = 'after'
+T74	VBG 298 303	being
+#69	AnnotatorNotes T74	lemma = 'be'
+T75	PRP 304 306	at
+#70	AnnotatorNotes T75	lemma = 'at'
+T76	DPS 307 310	its
+#71	AnnotatorNotes T76	lemma = 'it'
+T77	AJS 311 317	lowest
+#72	AnnotatorNotes T77	lemma = 'low'
+T78	NN1 318 323	point
+#73	AnnotatorNotes T78	lemma = 'point'
+T79	PUN 323 324	,
+#74	AnnotatorNotes T79	lemma = ','
+T80	AT0 325 328	the
+#75	AnnotatorNotes T80	lemma = 'the'
+T81	NN1 329 339	population
+#76	AnnotatorNotes T81	lemma = 'population'
+T82	VVD 340 347	started
+#77	AnnotatorNotes T82	lemma = 'start'
+T83	TO0 348 350	to
+#78	AnnotatorNotes T83	lemma = 'to'
+T84	VVI 351 359	increase
+#79	AnnotatorNotes T84	lemma = 'increase'
+T85	PRP 360 362	in
+#80	AnnotatorNotes T85	lemma = 'in'
+T86	CRD 363 367	1850
+#81	AnnotatorNotes T86	lemma = '1850'
+T87	VVG 368 374	adding
+#82	AnnotatorNotes T87	lemma = 'add'
+T88	PRP 375 380	about
+#83	AnnotatorNotes T88	lemma = 'about'
+T89	CRD 381 384	100
+#84	AnnotatorNotes T89	lemma = '100'
+T90	CRD 385 392	million
+#85	AnnotatorNotes T90	lemma = 'million'
+T91	AT0 393 394	a
+#86	AnnotatorNotes T91	lemma = 'a'
+T92	NN1 395 399	year
+#87	AnnotatorNotes T92	lemma = 'year'
+T93	SENT 399 400	.
+#88	AnnotatorNotes T93	lemma = '.'
+T94	PRP 401 403	At
+#89	AnnotatorNotes T94	lemma = 'at'
+T95	AT0 404 407	the
+#90	AnnotatorNotes T95	lemma = 'the'
+T96	DT0 408 412	same
+#91	AnnotatorNotes T96	lemma = 'same'
+T97	NN1 413 417	time
+#92	AnnotatorNotes T97	lemma = 'time'
+T98	AT0 418 419	a
+#93	AnnotatorNotes T98	lemma = 'a'
+T99	NN1 420 428	contrast
+#94	AnnotatorNotes T99	lemma = 'contrast'
+T100	NN1 429 437	tendency
+#95	AnnotatorNotes T100	lemma = 'tendency'
+T101	VM0 438 441	can
+#96	AnnotatorNotes T101	lemma = 'can'
+T102	VBI 442 444	be
+#97	AnnotatorNotes T102	lemma = 'be'
+T103	VVN 445 452	noticed
+#98	AnnotatorNotes T103	lemma = 'notice'
+T104	PRP 453 455	in
+#99	AnnotatorNotes T104	lemma = 'in'
+T105	NN1 456 461	birth
+#100	AnnotatorNotes T105	lemma = 'birth'
+T106	CJC 462 465	and
+#101	AnnotatorNotes T106	lemma = 'and'
+T107	NN1 466 471	death
+#102	AnnotatorNotes T107	lemma = 'death'
+T108	NN1 472 476	rate
+#103	AnnotatorNotes T108	lemma = 'rate'
+T109	SENT 476 477	.
+#104	AnnotatorNotes T109	lemma = '.'
+T110	AT0 478 481	The
+#105	AnnotatorNotes T110	lemma = 'the'
+T111	NN1 482 487	birth
+#106	AnnotatorNotes T111	lemma = 'birth'
+T112	CJC 488 491	and
+#107	AnnotatorNotes T112	lemma = 'and'
+T113	NN1 492 497	death
+#108	AnnotatorNotes T113	lemma = 'death'
+T114	AJ0 498 505	related
+#109	AnnotatorNotes T114	lemma = 'related|relate'
+T115	NN2 506 511	lines
+#110	AnnotatorNotes T115	lemma = 'line'
+T116	VVD 512 519	reached
+#111	AnnotatorNotes T116	lemma = 'reach'
+T117	DPS 520 523	its
+#112	AnnotatorNotes T117	lemma = 'it'
+T118	POS 523 524	'
+#113	AnnotatorNotes T118	lemma = ''
+T119	NN2 525 530	peaks
+#114	AnnotatorNotes T119	lemma = 'peak'
+T120	PRP 531 533	in
+#115	AnnotatorNotes T120	lemma = 'in'
+T121	CRD 534 538	1800
+#116	AnnotatorNotes T121	lemma = '1800'
+T122	PRP 539 545	before
+#117	AnnotatorNotes T122	lemma = 'before'
+T123	VVG 546 554	dropping
+#118	AnnotatorNotes T123	lemma = 'drop|dropping'
+T124	AV0 555 567	considerably
+#119	AnnotatorNotes T124	lemma = 'considerably'
+T125	AV0 568 574	enough
+#120	AnnotatorNotes T125	lemma = 'enough'
+T126	PRP 575 577	in
+#121	AnnotatorNotes T126	lemma = 'in'
+T127	CRD 578 582	1850
+#122	AnnotatorNotes T127	lemma = '1850'
+T128	SENT 582 583	.
+#123	AnnotatorNotes T128	lemma = '.'
+T129	AV0 584 586	So
+#124	AnnotatorNotes T129	lemma = 'so'
+T130	CJT 587 591	that
+#125	AnnotatorNotes T130	lemma = 'that'
+T131	CRD 592 596	1850
+#126	AnnotatorNotes T131	lemma = '1850'
+T132	VM0 597 600	may
+#127	AnnotatorNotes T132	lemma = 'may'
+T133	VBI 601 603	be
+#128	AnnotatorNotes T133	lemma = 'be'
+T134	VVN 604 611	counted
+#129	AnnotatorNotes T134	lemma = 'count'
+T135	PRP 612 614	as
+#130	AnnotatorNotes T135	lemma = 'as'
+T136	AT0 615 616	a
+#131	AnnotatorNotes T136	lemma = 'a'
+T137	AJ0 617 627	remarkable
+#132	AnnotatorNotes T137	lemma = 'remarkable'
+T138	NN1 628 633	point
+#133	AnnotatorNotes T138	lemma = 'point'
+T139	SENT 633 634	.
+#134	AnnotatorNotes T139	lemma = '.'
+T140	TO0 636 638	To
+#135	AnnotatorNotes T140	lemma = 'to'
+T141	VVI 639 642	sum
+#136	AnnotatorNotes T141	lemma = 'sum'
+T142	AVP 643 645	up
+#137	AnnotatorNotes T142	lemma = 'up'
+T143	PUN 645 646	,
+#138	AnnotatorNotes T143	lemma = ','
+T144	CJS 647 652	while
+#139	AnnotatorNotes T144	lemma = 'while'
+T145	AT0 653 656	the
+#140	AnnotatorNotes T145	lemma = 'the'
+T146	ORD 657 662	first
+#141	AnnotatorNotes T146	lemma = 'first'
+T147	NN1 663 668	graph
+#142	AnnotatorNotes T147	lemma = 'graph'
+T148	VVZ 669 681	demonstrates
+#143	AnnotatorNotes T148	lemma = 'demonstrate'
+T149	AT0 682 685	the
+#144	AnnotatorNotes T149	lemma = 'the'
+T150	NN2 686 693	changes
+#145	AnnotatorNotes T150	lemma = 'change'
+T151	PUN 693 694	,
+#146	AnnotatorNotes T151	lemma = ','
+T152	AT0 695 698	the
+#147	AnnotatorNotes T152	lemma = 'the'
+T153	NN1 699 705	growth
+#148	AnnotatorNotes T153	lemma = 'growth'
+T154	PRP 706 708	in
+#149	AnnotatorNotes T154	lemma = 'in'
+T155	AJ0 709 719	particular
+#150	AnnotatorNotes T155	lemma = 'particular'
+T156	PUN 719 720	,
+#151	AnnotatorNotes T156	lemma = ','
+T157	PRF 721 723	of
+#152	AnnotatorNotes T157	lemma = 'of'
+T158	NN1 724 734	population
+#153	AnnotatorNotes T158	lemma = 'population'
+T159	PUN 734 735	,
+#154	AnnotatorNotes T159	lemma = ','
+T160	AT0 736 739	the
+#155	AnnotatorNotes T160	lemma = 'the'
+T161	ORD 740 746	second
+#156	AnnotatorNotes T161	lemma = 'second'
+T162	PNI 747 750	one
+#157	AnnotatorNotes T162	lemma = 'one'
+T163	VVZ 751 761	represents
+#158	AnnotatorNotes T163	lemma = 'represent'
+T164	NN1 762 767	birth
+#159	AnnotatorNotes T164	lemma = 'birth'
+T165	NN1 768 772	rate
+#160	AnnotatorNotes T165	lemma = 'rate'
+T166	CJC 773 776	and
+#161	AnnotatorNotes T166	lemma = 'and'
+T167	NN1 777 782	death
+#162	AnnotatorNotes T167	lemma = 'death'
+T168	NN1 783 787	rate
+#163	AnnotatorNotes T168	lemma = 'rate'
+T169	PRP 788 790	in
+#164	AnnotatorNotes T169	lemma = 'in'
+T170	AT0 791 794	the
+#165	AnnotatorNotes T170	lemma = 'the'
+T171	NN1 795 801	period
+#166	AnnotatorNotes T171	lemma = 'period'
+T172	PRP 802 806	from
+#167	AnnotatorNotes T172	lemma = 'from'
+T173	CRD 807 811	1750
+#168	AnnotatorNotes T173	lemma = '1750'
+T174	PRP 812 816	till
+#169	AnnotatorNotes T174	lemma = 'till'
+T175	CRD 817 821	2000
+#170	AnnotatorNotes T175	lemma = '2000'
+T176	SENT 821 822	.
+#171	AnnotatorNotes T176	lemma = '.'
+T177	AV0 823 827	Both
+#172	AnnotatorNotes T177	lemma = 'both'
+T178	DT0 828 833	these
+#173	AnnotatorNotes T178	lemma = 'these'
+T179	NN2 834 840	graphs
+#174	AnnotatorNotes T179	lemma = 'graph'
+T180	VVB 841 851	illustrate
+#175	AnnotatorNotes T180	lemma = 'illustrate'
+T181	AT0 852 854	an
+#176	AnnotatorNotes T181	lemma = 'an'
+T182	AJ0 855 864	essential
+#177	AnnotatorNotes T182	lemma = 'essential'
+T183	CJC 865 868	and
+#178	AnnotatorNotes T183	lemma = 'and'
+T184	AJ0 869 876	obvious
+#179	AnnotatorNotes T184	lemma = 'obvious'
+T185	NN1 877 888	correlation
+#180	AnnotatorNotes T185	lemma = 'correlation'
+T186	PRP 889 896	between
+#181	AnnotatorNotes T186	lemma = 'between'
+T187	DT0 897 902	these
+#182	AnnotatorNotes T187	lemma = 'these'
+T188	CRD 903 906	two
+#183	AnnotatorNotes T188	lemma = 'two'
+T189	NN2 907 914	aspects
+#184	AnnotatorNotes T189	lemma = 'aspect'
+T190	SENT 914 915	.
+#185	AnnotatorNotes T190	lemma = ''

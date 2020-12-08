@@ -1,0 +1,642 @@
+T1	suggestion 224 228	this
+#1	AnnotatorNotes T1	these
+A1	Cause T1
+T2	Punctuation 249 257	obvious,
+#2	AnnotatorNotes T2	obvious 
+A2	Cause T2
+T3	Often_confused 316 320	than
+#3	AnnotatorNotes T3	then 
+A3	Cause T3
+T4	Tense_choice 324 328	take
+#4	AnnotatorNotes T4	took
+A4	Cause T4
+T5	Punctuation 329 334	more,
+#5	AnnotatorNotes T5	more 
+A5	Cause T5
+T6	Prepositions 396 398	On
+#6	AnnotatorNotes T6	In 
+A6	Cause T6
+T7	Superlative_adj 458 462	last
+#7	AnnotatorNotes T7	the last 
+A7	Cause T7
+T8	Agreement_errors 484 488	have
+#8	AnnotatorNotes T8	has
+A8	Cause T8
+T9	Standard 572 591	per year passengers
+#9	AnnotatorNotes T9	passengers per year 
+A9	Cause T9
+T10	Numerals 630 638	millions
+#10	AnnotatorNotes T10	million
+A10	Cause T10
+T11	Numerals 684 692	millions
+#11	AnnotatorNotes T11	million
+A11	Cause T11
+T12	Numerals 750 758	millions
+#12	AnnotatorNotes T12	million
+A12	Cause T12
+T13	Prepositions 770 771	a
+#13	AnnotatorNotes T13	per 
+A13	Cause T13
+T14	Punctuation 853 865	interesting,
+#14	AnnotatorNotes T14	interesting 
+A14	Cause T14
+T15	suggestion 906 910	have
+#15	AnnotatorNotes T15	has
+A15	Cause T15
+T16	Category_confusion 1018 1022	open
+#16	AnnotatorNotes T16	opened
+A16	Cause T16
+T17	Numerals 945 953	millions
+#17	AnnotatorNotes T17	million
+A17	Cause T17
+T18	Redundant_comp 911 914	for
+T19	Absence_comp_sent 992 997	is 28
+#18	AnnotatorNotes T19	is 28 km long
+T20	Determiners 1002 1006	it's
+#19	AnnotatorNotes T20	this 
+A18	Cause T20
+T21	Punctuation 1099 1103	see,
+#20	AnnotatorNotes T21	see 
+A19	Cause T21
+T22	suggestion 1130 1132	do
+#21	AnnotatorNotes T22	does
+A20	Cause T22
+T23	Absence_comp_colloc 1142 1149	nothing
+#22	AnnotatorNotes T23	anything to do
+T24	suggestion 1142 1149	nothing
+#23	AnnotatorNotes T24	anything to do
+T25	suggestion 177 203	, which give us statistics
+#24	AnnotatorNotes T25	which give us statistics
+T26	suggestion 263 268	first
+#25	AnnotatorNotes T26	the first
+T27	suggestion 290 297	capital
+#26	AnnotatorNotes T27	the capital
+T28	Spelling 316 320	than
+#27	AnnotatorNotes T28	then
+T29	suggestion 377 379	it
+#28	AnnotatorNotes T29	one
+T30	suggestion 421 424	put
+#29	AnnotatorNotes T30	placed
+T31	suggestion 430 435	first
+#30	AnnotatorNotes T31	the first
+T32	Absence_explanation 468 476	Besides,
+#31	AnnotatorNotes T32	The table shows that
+T33	Agreement_errors 592 595	are
+#32	AnnotatorNotes T33	is
+T34	lex_item_choice 562 568	amount
+#33	AnnotatorNotes T34	number
+T35	lex_item_choice 641 645	when
+#34	AnnotatorNotes T35	while
+T36	suggestion 704 730	, which is used the least,
+#35	AnnotatorNotes T36	which is used the least
+T37	suggestion 734 745	Kyoto's one
+#36	AnnotatorNotes T37	the one in Kyoto
+T38	Absence_comp_sent 848 864	Very interesting
+#37	AnnotatorNotes T38	It is very interesting
+T39	suggestion 888 892	like
+#38	AnnotatorNotes T39	as
+T40	suggestion 886 905	, like Los Angeles,
+#39	AnnotatorNotes T40	as Los Angeles
+A21	Delete T18
+T41	suggestion 915 931	equal number, as
+#40	AnnotatorNotes T41	a number equal to
+T42	Ref_device 932 940	in Kyoto
+#41	AnnotatorNotes T42	the one in Kyoto
+T43	suggestion 973 984	short route
+#42	AnnotatorNotes T43	a short route
+T44	suggestion 986 997	which is 28
+#43	AnnotatorNotes T44	which is 28, 
+T45	suggestion 1048 1054	should
+#44	AnnotatorNotes T45	will probably
+T46	suggestion 1230 1233	for
+#45	AnnotatorNotes T46	to
+T47	suggestion 468 693	Besides, London have the biggest amount of kilometres of route, which is 394, but the biggest amount of per year passengers are in Paris and Tokyo (1191 and 1927 millions), when capital of Great Britain has just 775 millions.
+T48	Punctuation 904 905	,
+T49	DT0 0 4	This
+#46	AnnotatorNotes T49	lemma = 'this'
+T50	NN1 5 10	table
+#47	AnnotatorNotes T50	lemma = 'table'
+T51	VVZ 11 16	gives
+#48	AnnotatorNotes T51	lemma = 'give'
+T52	PNP 17 19	us
+#49	AnnotatorNotes T52	lemma = 'we'
+T53	NN1 20 31	information
+#50	AnnotatorNotes T53	lemma = 'information'
+T54	PRP 32 37	about
+#51	AnnotatorNotes T54	lemma = 'about'
+T55	AJ0 38 49	underground
+#52	AnnotatorNotes T55	lemma = 'underground'
+T56	NN1 50 57	railway
+#53	AnnotatorNotes T56	lemma = 'railway'
+T57	NN2 58 65	systems
+#54	AnnotatorNotes T57	lemma = 'system'
+T58	PRP 66 68	in
+#55	AnnotatorNotes T58	lemma = 'in'
+T59	CRD 69 70	6
+#56	AnnotatorNotes T59	lemma = '6'
+T60	AJ0 71 74	big
+#57	AnnotatorNotes T60	lemma = 'big'
+T61	NN2 75 81	cities
+#58	AnnotatorNotes T61	lemma = 'city'
+T62	PUN 81 82	:
+#59	AnnotatorNotes T62	lemma = ':'
+T63	NP0 83 89	London
+#60	AnnotatorNotes T63	lemma = 'london'
+T64	PUN 89 90	,
+#61	AnnotatorNotes T64	lemma = ','
+T65	NP0 91 96	Paris
+#62	AnnotatorNotes T65	lemma = 'paris'
+T66	PUN 96 97	,
+#63	AnnotatorNotes T66	lemma = ','
+T67	NP0 98 103	Tokyo
+#64	AnnotatorNotes T67	lemma = 'tokyo'
+T68	PUN 103 104	,
+#65	AnnotatorNotes T68	lemma = ','
+T69	NP0 105 115	Washington
+#66	AnnotatorNotes T69	lemma = 'washington'
+T70	NP0 116 118	DC
+#67	AnnotatorNotes T70	lemma = 'dc'
+T71	PUN 118 119	,
+#68	AnnotatorNotes T71	lemma = ','
+T72	NP0 120 125	Kyoto
+#69	AnnotatorNotes T72	lemma = 'kyoto'
+T73	CJC 126 129	and
+#70	AnnotatorNotes T73	lemma = 'and'
+T74	NP0 130 133	Los
+#71	AnnotatorNotes T74	lemma = 'los'
+T75	NP0 134 141	Angeles
+#72	AnnotatorNotes T75	lemma = 'angeles'
+T76	SENT 141 142	.
+#73	AnnotatorNotes T76	lemma = '.'
+T77	AV0 143 152	Generally
+#74	AnnotatorNotes T77	lemma = 'generally'
+T78	PUN 152 153	,
+#75	AnnotatorNotes T78	lemma = ','
+T79	PNP 154 156	we
+#76	AnnotatorNotes T79	lemma = 'we'
+T80	VM0 157 160	can
+#77	AnnotatorNotes T80	lemma = 'can'
+T81	VVI 161 164	see
+#78	AnnotatorNotes T81	lemma = 'see'
+T82	DT0 165 169	that
+#79	AnnotatorNotes T82	lemma = 'that'
+T83	NN2 170 177	numbers
+#80	AnnotatorNotes T83	lemma = 'number'
+T84	PUN 177 178	,
+#81	AnnotatorNotes T84	lemma = ','
+T85	DTQ 179 184	which
+#82	AnnotatorNotes T85	lemma = 'which'
+T86	VVB 185 189	give
+#83	AnnotatorNotes T86	lemma = 'give'
+T87	PNP 190 192	us
+#84	AnnotatorNotes T87	lemma = 'we'
+T88	NN0 193 203	statistics
+#85	AnnotatorNotes T88	lemma = 'statistics'
+T89	VBB 204 207	are
+#86	AnnotatorNotes T89	lemma = 'be'
+T90	XX0 208 211	not
+#87	AnnotatorNotes T90	lemma = 'not'
+T91	AV0 212 217	alike
+#88	AnnotatorNotes T91	lemma = 'alike'
+T92	PRP 218 223	among
+#89	AnnotatorNotes T92	lemma = 'among'
+T93	DT0 224 228	this
+#90	AnnotatorNotes T93	lemma = 'this'
+T94	NN2 229 240	megapolises
+#91	AnnotatorNotes T94	lemma = 'megapolises'
+T95	SENT 240 241	.
+#92	AnnotatorNotes T95	lemma = '.'
+T96	PNP 243 245	It
+#93	AnnotatorNotes T96	lemma = 'it'
+T97	VBZ 246 248	is
+#94	AnnotatorNotes T97	lemma = 'be'
+T98	AJ0 249 256	obvious
+#95	AnnotatorNotes T98	lemma = 'obvious'
+T99	PUN 256 257	,
+#96	AnnotatorNotes T99	lemma = ','
+T100	DT0 258 262	that
+#97	AnnotatorNotes T100	lemma = 'that'
+T101	ORD 263 268	first
+#98	AnnotatorNotes T101	lemma = 'first'
+T102	NN1 269 275	subway
+#99	AnnotatorNotes T102	lemma = 'subway'
+T103	VBD 276 279	was
+#100	AnnotatorNotes T103	lemma = 'be'
+T104	VVN 280 286	opened
+#101	AnnotatorNotes T104	lemma = 'open'
+T105	PRP 287 289	in
+#102	AnnotatorNotes T105	lemma = 'in'
+T106	NN1 290 297	capital
+#103	AnnotatorNotes T106	lemma = 'capital'
+T107	PRF 298 300	of
+#104	AnnotatorNotes T107	lemma = 'of'
+T108	NP0 301 306	Great
+#105	AnnotatorNotes T108	lemma = 'great'
+T109	NP0 307 314	Britain
+#106	AnnotatorNotes T109	lemma = 'britain'
+T110	PUN 314 315	,
+#107	AnnotatorNotes T110	lemma = ','
+T111	CJS 316 320	than
+#108	AnnotatorNotes T111	lemma = 'than'
+T112	PNP 321 323	it
+#109	AnnotatorNotes T112	lemma = 'it'
+T113	VVB 324 328	take
+#110	AnnotatorNotes T113	lemma = 'take'
+T114	AV0 329 333	more
+#111	AnnotatorNotes T114	lemma = 'more'
+T115	PUN 333 334	,
+#112	AnnotatorNotes T115	lemma = ','
+T116	CJS 335 339	than
+#113	AnnotatorNotes T116	lemma = 'than'
+T117	CRD 340 343	one
+#114	AnnotatorNotes T117	lemma = 'one'
+T118	CRD 344 351	hundred
+#115	AnnotatorNotes T118	lemma = 'hundred'
+T119	CJC 352 355	and
+#116	AnnotatorNotes T119	lemma = 'and'
+T120	CRD 356 362	thirty
+#117	AnnotatorNotes T120	lemma = 'thirty'
+T121	NN2 363 368	years
+#118	AnnotatorNotes T121	lemma = 'year'
+T122	TO0 369 371	to
+#119	AnnotatorNotes T122	lemma = 'to'
+T123	VVI 372 376	open
+#120	AnnotatorNotes T123	lemma = 'open'
+T124	PNP 377 379	it
+#121	AnnotatorNotes T124	lemma = 'it'
+T125	PRP 380 382	in
+#122	AnnotatorNotes T125	lemma = 'in'
+T126	NP0 383 386	Los
+#123	AnnotatorNotes T126	lemma = 'los'
+T127	NP0 387 394	Angeles
+#124	AnnotatorNotes T127	lemma = 'angeles'
+T128	SENT 394 395	.
+#125	AnnotatorNotes T128	lemma = '.'
+T129	PRP 396 398	On
+#126	AnnotatorNotes T129	lemma = 'on'
+T130	DT0 399 403	this
+#127	AnnotatorNotes T130	lemma = 'this'
+T131	NN1 404 409	table
+#128	AnnotatorNotes T131	lemma = 'table'
+T132	NN2 410 416	cities
+#129	AnnotatorNotes T132	lemma = 'city'
+T133	VBB 417 420	are
+#130	AnnotatorNotes T133	lemma = 'be'
+T134	VVN 421 424	put
+#131	AnnotatorNotes T134	lemma = 'put'
+T135	PRP 425 429	from
+#132	AnnotatorNotes T135	lemma = 'from'
+T136	ORD 430 435	first
+#133	AnnotatorNotes T136	lemma = 'first'
+T137	VVD 436 442	opened
+#134	AnnotatorNotes T137	lemma = 'open|opened'
+T138	AJ0 443 454	underground
+#135	AnnotatorNotes T138	lemma = 'underground'
+T139	TO0 455 457	to
+#136	AnnotatorNotes T139	lemma = 'to'
+T140	VVI 458 462	last
+#137	AnnotatorNotes T140	lemma = 'last'
+T141	PNI 463 466	one
+#138	AnnotatorNotes T141	lemma = 'one'
+T142	SENT 466 467	.
+#139	AnnotatorNotes T142	lemma = '.'
+T143	AV0 468 475	Besides
+#140	AnnotatorNotes T143	lemma = 'besides'
+T144	PUN 475 476	,
+#141	AnnotatorNotes T144	lemma = ','
+T145	NP0 477 483	London
+#142	AnnotatorNotes T145	lemma = 'london'
+T146	VHB 484 488	have
+#143	AnnotatorNotes T146	lemma = 'have'
+T147	AT0 489 492	the
+#144	AnnotatorNotes T147	lemma = 'the'
+T148	AJS 493 500	biggest
+#145	AnnotatorNotes T148	lemma = 'big'
+T149	NN1 501 507	amount
+#146	AnnotatorNotes T149	lemma = 'amount'
+T150	PRF 508 510	of
+#147	AnnotatorNotes T150	lemma = 'of'
+T151	NN2 511 521	kilometres
+#148	AnnotatorNotes T151	lemma = 'kilometre'
+T152	PRF 522 524	of
+#149	AnnotatorNotes T152	lemma = 'of'
+T153	NN1 525 530	route
+#150	AnnotatorNotes T153	lemma = 'route'
+T154	PUN 530 531	,
+#151	AnnotatorNotes T154	lemma = ','
+T155	DTQ 532 537	which
+#152	AnnotatorNotes T155	lemma = 'which'
+T156	VBZ 538 540	is
+#153	AnnotatorNotes T156	lemma = 'be'
+T157	CRD 541 544	394
+#154	AnnotatorNotes T157	lemma = '394'
+T158	PUN 544 545	,
+#155	AnnotatorNotes T158	lemma = ','
+T159	CJC 546 549	but
+#156	AnnotatorNotes T159	lemma = 'but'
+T160	AT0 550 553	the
+#157	AnnotatorNotes T160	lemma = 'the'
+T161	AJS 554 561	biggest
+#158	AnnotatorNotes T161	lemma = 'big'
+T162	NN1 562 568	amount
+#159	AnnotatorNotes T162	lemma = 'amount'
+T163	PRF 569 571	of
+#160	AnnotatorNotes T163	lemma = 'of'
+T164	PRP 572 575	per
+#161	AnnotatorNotes T164	lemma = 'per'
+T165	NN1 576 580	year
+#162	AnnotatorNotes T165	lemma = 'year'
+T166	NN2 581 591	passengers
+#163	AnnotatorNotes T166	lemma = 'passenger'
+T167	VBB 592 595	are
+#164	AnnotatorNotes T167	lemma = 'be'
+T168	PRP 596 598	in
+#165	AnnotatorNotes T168	lemma = 'in'
+T169	NP0 599 604	Paris
+#166	AnnotatorNotes T169	lemma = 'paris'
+T170	CJC 605 608	and
+#167	AnnotatorNotes T170	lemma = 'and'
+T171	NP0 609 614	Tokyo
+#168	AnnotatorNotes T171	lemma = 'tokyo'
+T172	PUL 615 616	(
+#169	AnnotatorNotes T172	lemma = '('
+T173	CRD 616 620	1191
+#170	AnnotatorNotes T173	lemma = '1191'
+T174	CJC 621 624	and
+#171	AnnotatorNotes T174	lemma = 'and'
+T175	CRD 625 629	1927
+#172	AnnotatorNotes T175	lemma = '1927'
+T176	CRD 630 638	millions
+#173	AnnotatorNotes T176	lemma = 'millions'
+T177	PUR 638 639	)
+#174	AnnotatorNotes T177	lemma = ')'
+T178	PUN 639 640	,
+#175	AnnotatorNotes T178	lemma = ','
+T179	CJS 641 645	when
+#176	AnnotatorNotes T179	lemma = 'when'
+T180	NN1 646 653	capital
+#177	AnnotatorNotes T180	lemma = 'capital'
+T181	PRF 654 656	of
+#178	AnnotatorNotes T181	lemma = 'of'
+T182	NP0 657 662	Great
+#179	AnnotatorNotes T182	lemma = 'great'
+T183	NP0 663 670	Britain
+#180	AnnotatorNotes T183	lemma = 'britain'
+T184	VHZ 671 674	has
+#181	AnnotatorNotes T184	lemma = 'have'
+T185	AV0 675 679	just
+#182	AnnotatorNotes T185	lemma = 'just'
+T186	CRD 680 683	775
+#183	AnnotatorNotes T186	lemma = '775'
+T187	CRD 684 692	millions
+#184	AnnotatorNotes T187	lemma = 'millions'
+T188	SENT 692 693	.
+#185	AnnotatorNotes T188	lemma = '.'
+T189	AT0 694 697	The
+#186	AnnotatorNotes T189	lemma = 'the'
+T190	NN1 698 704	subway
+#187	AnnotatorNotes T190	lemma = 'subway'
+T191	PUN 704 705	,
+#188	AnnotatorNotes T191	lemma = ','
+T192	DTQ 706 711	which
+#189	AnnotatorNotes T192	lemma = 'which'
+T193	VBZ 712 714	is
+#190	AnnotatorNotes T193	lemma = 'be'
+T194	VVN 715 719	used
+#191	AnnotatorNotes T194	lemma = 'use|used'
+T195	AT0 720 723	the
+#192	AnnotatorNotes T195	lemma = 'the'
+T196	AV0 724 729	least
+#193	AnnotatorNotes T196	lemma = 'least'
+T197	PUN 729 730	,
+#194	AnnotatorNotes T197	lemma = ','
+T198	VBZ 731 733	is
+#195	AnnotatorNotes T198	lemma = 'be'
+T199	NP0 734 739	Kyoto
+#196	AnnotatorNotes T199	lemma = 'kyoto'
+T200	POS 739 741	's
+#197	AnnotatorNotes T200	lemma = 's'
+T201	CRD 742 745	one
+#198	AnnotatorNotes T201	lemma = 'one'
+T202	PUL 746 747	(
+#199	AnnotatorNotes T202	lemma = '('
+T203	CRD 747 749	45
+#200	AnnotatorNotes T203	lemma = '45'
+T204	CRD 750 758	millions
+#201	AnnotatorNotes T204	lemma = 'millions'
+T205	NN2 759 769	passengers
+#202	AnnotatorNotes T205	lemma = 'passenger'
+T206	AT0 770 771	a
+#203	AnnotatorNotes T206	lemma = 'a'
+T207	NN1 772 776	year
+#204	AnnotatorNotes T207	lemma = 'year'
+T208	PUR 776 777	)
+#205	AnnotatorNotes T208	lemma = ')'
+T209	PUN 777 778	,
+#206	AnnotatorNotes T209	lemma = ','
+T210	CJS 779 786	because
+#207	AnnotatorNotes T210	lemma = 'because'
+T211	DT0 787 791	this
+#208	AnnotatorNotes T211	lemma = 'this'
+T212	NN1 792 796	city
+#209	AnnotatorNotes T212	lemma = 'city'
+T213	VBZ 797 799	is
+#210	AnnotatorNotes T213	lemma = 'be'
+T214	AT0 800 803	the
+#211	AnnotatorNotes T214	lemma = 'the'
+T215	AJS 804 812	smallest
+#212	AnnotatorNotes T215	lemma = 'small'
+T216	CJC 813 816	and
+#213	AnnotatorNotes T216	lemma = 'and'
+T217	XX0 817 820	not
+#214	AnnotatorNotes T217	lemma = 'not'
+T218	AJ0 821 832	interesting
+#215	AnnotatorNotes T218	lemma = 'interesting'
+T219	PRP 833 836	for
+#216	AnnotatorNotes T219	lemma = 'for'
+T220	NN2 837 845	tourists
+#217	AnnotatorNotes T220	lemma = 'tourist'
+T221	SENT 845 846	.
+#218	AnnotatorNotes T221	lemma = '.'
+T222	AV0 848 852	Very
+#219	AnnotatorNotes T222	lemma = 'very'
+T223	AJ0 853 864	interesting
+#220	AnnotatorNotes T223	lemma = 'interesting'
+T224	PUN 864 865	,
+#221	AnnotatorNotes T224	lemma = ','
+T225	CJT 866 870	that
+#222	AnnotatorNotes T225	lemma = 'that'
+T226	DT0 871 875	such
+#223	AnnotatorNotes T226	lemma = 'such'
+T227	AT0 876 877	a
+#224	AnnotatorNotes T227	lemma = 'a'
+T228	AJ0 878 881	big
+#225	AnnotatorNotes T228	lemma = 'big'
+T229	NN1 882 886	city
+#226	AnnotatorNotes T229	lemma = 'city'
+T230	PUN 886 887	,
+#227	AnnotatorNotes T230	lemma = ','
+T231	PRP 888 892	like
+#228	AnnotatorNotes T231	lemma = 'like'
+T232	NP0 893 896	Los
+#229	AnnotatorNotes T232	lemma = 'los'
+T233	NP0 897 904	Angeles
+#230	AnnotatorNotes T233	lemma = 'angeles'
+T234	PUN 904 905	,
+#231	AnnotatorNotes T234	lemma = ','
+T235	VHB 906 910	have
+#232	AnnotatorNotes T235	lemma = 'have'
+T236	PRP 911 914	for
+#233	AnnotatorNotes T236	lemma = 'for'
+T237	AJ0 915 920	equal
+#234	AnnotatorNotes T237	lemma = 'equal'
+T238	NN1 921 927	number
+#235	AnnotatorNotes T238	lemma = 'number'
+T239	PUN 927 928	,
+#236	AnnotatorNotes T239	lemma = ','
+T240	CJS 929 931	as
+#237	AnnotatorNotes T240	lemma = 'as'
+T241	PRP 932 934	in
+#238	AnnotatorNotes T241	lemma = 'in'
+T242	NP0 935 940	Kyoto
+#239	AnnotatorNotes T242	lemma = 'kyoto'
+T243	PUL 941 942	(
+#240	AnnotatorNotes T243	lemma = '('
+T244	CRD 942 944	45
+#241	AnnotatorNotes T244	lemma = '45'
+T245	CRD 945 953	millions
+#242	AnnotatorNotes T245	lemma = 'millions'
+T246	PUR 953 954	)
+#243	AnnotatorNotes T246	lemma = ')'
+T247	PUN 954 955	,
+#244	AnnotatorNotes T247	lemma = ','
+T248	AV0 956 961	maybe
+#245	AnnotatorNotes T248	lemma = 'maybe'
+T249	CJS 962 969	because
+#246	AnnotatorNotes T249	lemma = 'because'
+T250	PRF 970 972	of
+#247	AnnotatorNotes T250	lemma = 'of'
+T251	AJ0 973 978	short
+#248	AnnotatorNotes T251	lemma = 'short'
+T252	NN1 979 984	route
+#249	AnnotatorNotes T252	lemma = 'route'
+T253	PUN 984 985	,
+#250	AnnotatorNotes T253	lemma = ','
+T254	DTQ 986 991	which
+#251	AnnotatorNotes T254	lemma = 'which'
+T255	VBZ 992 994	is
+#252	AnnotatorNotes T255	lemma = 'be'
+T256	CRD 995 997	28
+#253	AnnotatorNotes T256	lemma = '28'
+T257	CJC 998 1001	and
+#254	AnnotatorNotes T257	lemma = 'and'
+T258	PNP 1002 1004	it
+#255	AnnotatorNotes T258	lemma = 'it'
+T259	VBZ 1004 1006	's
+#256	AnnotatorNotes T259	lemma = 'be'
+T260	NN1 1007 1013	subway
+#257	AnnotatorNotes T260	lemma = 'subway'
+T261	VBD 1014 1017	was
+#258	AnnotatorNotes T261	lemma = 'be'
+T262	AJ0 1018 1022	open
+#259	AnnotatorNotes T262	lemma = 'open'
+T263	AV0 1023 1027	just
+#260	AnnotatorNotes T263	lemma = 'just'
+T264	CRD 1028 1030	13
+#261	AnnotatorNotes T264	lemma = '13'
+T265	NN2 1031 1036	years
+#262	AnnotatorNotes T265	lemma = 'year'
+T266	AV0 1037 1040	ago
+#263	AnnotatorNotes T266	lemma = 'ago'
+T267	PUN 1040 1041	,
+#264	AnnotatorNotes T267	lemma = ','
+T268	CJS 1042 1044	so
+#265	AnnotatorNotes T268	lemma = 'so'
+T269	PNP 1045 1047	it
+#266	AnnotatorNotes T269	lemma = 'it'
+T270	VM0 1048 1054	should
+#267	AnnotatorNotes T270	lemma = 'should'
+T271	VVI 1055 1061	become
+#268	AnnotatorNotes T271	lemma = 'become'
+T272	AJC 1062 1068	bigger
+#269	AnnotatorNotes T272	lemma = 'big'
+T273	PRP 1069 1071	in
+#270	AnnotatorNotes T273	lemma = 'in'
+T274	NN1 1072 1078	future
+#271	AnnotatorNotes T274	lemma = 'future'
+T275	SENT 1078 1079	.
+#272	AnnotatorNotes T275	lemma = '.'
+T276	TO0 1081 1083	To
+#273	AnnotatorNotes T276	lemma = 'to'
+T277	VVI 1084 1087	sum
+#274	AnnotatorNotes T277	lemma = 'sum'
+T278	AVP 1088 1090	up
+#275	AnnotatorNotes T278	lemma = 'up'
+T279	PUN 1090 1091	,
+#276	AnnotatorNotes T279	lemma = ','
+T280	PNP 1092 1094	we
+#277	AnnotatorNotes T280	lemma = 'we'
+T281	VM0 1095 1098	can
+#278	AnnotatorNotes T281	lemma = 'can'
+T282	VVI 1099 1102	see
+#279	AnnotatorNotes T282	lemma = 'see'
+T283	PUN 1102 1103	,
+#280	AnnotatorNotes T283	lemma = ','
+T284	CJT 1104 1108	that
+#281	AnnotatorNotes T284	lemma = 'that'
+T285	AT0 1109 1112	the
+#282	AnnotatorNotes T285	lemma = 'the'
+T286	NN1 1113 1117	size
+#283	AnnotatorNotes T286	lemma = 'size'
+T287	PRF 1118 1120	of
+#284	AnnotatorNotes T287	lemma = 'of'
+T288	AT0 1121 1124	the
+#285	AnnotatorNotes T288	lemma = 'the'
+T289	NN1 1125 1129	city
+#286	AnnotatorNotes T289	lemma = 'city'
+T290	VDB 1130 1132	do
+#287	AnnotatorNotes T290	lemma = 'do'
+T291	XX0 1133 1136	not
+#288	AnnotatorNotes T291	lemma = 'not'
+T292	VHI 1137 1141	have
+#289	AnnotatorNotes T292	lemma = 'have'
+T293	PNI 1142 1149	nothing
+#290	AnnotatorNotes T293	lemma = 'nothing'
+T294	PRP 1150 1154	with
+#291	AnnotatorNotes T294	lemma = 'with'
+T295	AT0 1155 1158	the
+#292	AnnotatorNotes T295	lemma = 'the'
+T296	NN1 1159 1165	length
+#293	AnnotatorNotes T296	lemma = 'length'
+T297	PRF 1166 1168	of
+#294	AnnotatorNotes T297	lemma = 'of'
+T298	NN1 1169 1175	subway
+#295	AnnotatorNotes T298	lemma = 'subway'
+T299	POS 1175 1177	's
+#296	AnnotatorNotes T299	lemma = 's'
+T300	NN1 1178 1183	route
+#297	AnnotatorNotes T300	lemma = 'route'
+T301	CJC 1184 1186	or
+#298	AnnotatorNotes T301	lemma = 'or'
+T302	NN2 1187 1197	passengers
+#299	AnnotatorNotes T302	lemma = 'passenger'
+T303	PRP 1198 1201	per
+#300	AnnotatorNotes T303	lemma = 'per'
+T304	NN1 1202 1206	year
+#301	AnnotatorNotes T304	lemma = 'year'
+T305	PUN 1206 1207	,
+#302	AnnotatorNotes T305	lemma = ','
+T306	DTQ 1208 1213	which
+#303	AnnotatorNotes T306	lemma = 'which'
+T307	VBZ 1214 1216	is
+#304	AnnotatorNotes T307	lemma = 'be'
+T308	AV0 1217 1221	very
+#305	AnnotatorNotes T308	lemma = 'very'
+T309	AJ0 1222 1229	strange
+#306	AnnotatorNotes T309	lemma = 'strange'
+T310	PRP 1230 1233	for
+#307	AnnotatorNotes T310	lemma = 'for'
+T311	PNP 1234 1236	me
+#308	AnnotatorNotes T311	lemma = 'i'
+T312	SENT 1236 1237	.
+#309	AnnotatorNotes T312	lemma = ''

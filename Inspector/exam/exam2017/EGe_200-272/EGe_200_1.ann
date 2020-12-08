@@ -1,0 +1,718 @@
+T1	Spelling 342 349	twicely
+#1	AnnotatorNotes T1	twice
+T2	Noun_number 82 87	sport
+#2	AnnotatorNotes T2	sports
+T3	Prepositions 109 111	by
+#3	AnnotatorNotes T3	depending on 
+T4	Noun_number 193 198	sport
+#4	AnnotatorNotes T4	sports
+T5	Agreement_errors 226 229	was
+#5	AnnotatorNotes T5	were
+T6	Agreement_errors 200 209	teenagers
+R1	Dependent_change Arg1:T5 Arg2:T6
+T7	Noun_number 236 241	sport
+#6	AnnotatorNotes T7	sports
+T8	Noun_number 408 413	sport
+#7	AnnotatorNotes T8	sports
+T9	Numerals 447 450	one
+A1	Delete T9
+T10	Noun_number 498 503	sport
+#8	AnnotatorNotes T10	sports
+T11	Prepositions 666 669	for
+#9	AnnotatorNotes T11	on
+T12	Spelling 673 677	that
+#10	AnnotatorNotes T12	than
+T13	Tense_choice 622 627	doing
+#11	AnnotatorNotes T13	did
+T14	Punctuation 560 580	It is worth noticing
+#12	AnnotatorNotes T14	It is worth noticing,
+T15	Noun_number 708 713	sport
+#13	AnnotatorNotes T15	sports
+T16	Noun_number 718 726	exercise
+#14	AnnotatorNotes T16	exercises
+T17	Adjectives 803 818	16-24 years old
+#15	AnnotatorNotes T17	16-24-year-old
+T18	Noun_number 1079 1084	sport
+#16	AnnotatorNotes T18	sports
+T19	Noun_number 1164 1169	years
+#17	AnnotatorNotes T19	year
+T20	Noun_number 1170 1173	old
+#18	AnnotatorNotes T20	olds
+T21	Redundant_comp 1174 1177	men
+A2	Delete T21
+T22	Adjectives 1311 1326	55-64 years old
+#19	AnnotatorNotes T22	55-64-year-old
+T23	Adjectives 1376 1391	65-74 years old
+#20	AnnotatorNotes T23	65-74-year-old
+T24	Noun_number 1474 1479	sport
+#21	AnnotatorNotes T24	sports
+T25	Noun_number 1587 1592	sport
+#22	AnnotatorNotes T25	sports
+T26	note 1637 1638	.
+#23	AnnotatorNotes T26	Zavyalov
+T27	AT0 0 3	The
+#24	AnnotatorNotes T27	lemma = 'the'
+T28	NN1 4 7	bar
+#25	AnnotatorNotes T28	lemma = 'bar'
+T29	NN1 8 13	chart
+#26	AnnotatorNotes T29	lemma = 'chart'
+T30	VVZ 14 22	presents
+#27	AnnotatorNotes T30	lemma = 'present'
+T31	NN1 23 34	information
+#28	AnnotatorNotes T31	lemma = 'information'
+T32	PRP 35 40	about
+#29	AnnotatorNotes T32	lemma = 'about'
+T33	AVQ 41 44	how
+#30	AnnotatorNotes T33	lemma = 'how'
+T34	DT0 45 49	much
+#31	AnnotatorNotes T34	lemma = 'much'
+T35	NN1 50 54	time
+#32	AnnotatorNotes T35	lemma = 'time'
+T36	NN0 55 61	people
+#33	AnnotatorNotes T36	lemma = 'people'
+T37	PRP 62 64	in
+#34	AnnotatorNotes T37	lemma = 'in'
+T38	NP0 65 72	England
+#35	AnnotatorNotes T38	lemma = 'england'
+T39	VVD 73 78	spent
+#36	AnnotatorNotes T39	lemma = 'spend|spent'
+T40	PRP 79 81	on
+#37	AnnotatorNotes T40	lemma = 'on'
+T41	NN1 82 87	sport
+#38	AnnotatorNotes T41	lemma = 'sport'
+T42	CJC 88 91	and
+#39	AnnotatorNotes T42	lemma = 'and'
+T43	NN1 92 100	exercise
+#40	AnnotatorNotes T43	lemma = 'exercise'
+T44	PRP 101 103	in
+#41	AnnotatorNotes T44	lemma = 'in'
+T45	CRD 104 108	2012
+#42	AnnotatorNotes T45	lemma = '2012'
+T46	PRP 109 111	by
+#43	AnnotatorNotes T46	lemma = 'by'
+T47	NN1 112 115	age
+#44	AnnotatorNotes T47	lemma = 'age'
+T48	CJC 116 119	and
+#45	AnnotatorNotes T48	lemma = 'and'
+T49	NN1 120 126	gender
+#46	AnnotatorNotes T49	lemma = 'gender'
+T50	SENT 126 127	.
+#47	AnnotatorNotes T50	lemma = '.'
+T51	AV0 128 135	Overall
+#48	AnnotatorNotes T51	lemma = 'overall'
+T52	PUN 135 136	,
+#49	AnnotatorNotes T52	lemma = ','
+T53	AT0 137 140	the
+#50	AnnotatorNotes T53	lemma = 'the'
+T54	AJC 141 148	younger
+#51	AnnotatorNotes T54	lemma = 'young'
+T55	NN0 149 155	people
+#52	AnnotatorNotes T55	lemma = 'people'
+T56	VBD 156 160	were
+#53	AnnotatorNotes T56	lemma = 'be'
+T57	PUN 160 161	,
+#54	AnnotatorNotes T57	lemma = ','
+T58	AT0 162 165	the
+#55	AnnotatorNotes T58	lemma = 'the'
+T59	DT0 166 170	more
+#56	AnnotatorNotes T59	lemma = 'more'
+T60	NN1 171 175	time
+#57	AnnotatorNotes T60	lemma = 'time'
+T61	PNP 176 180	they
+#58	AnnotatorNotes T61	lemma = 'they'
+T62	VVD 181 186	spent
+#59	AnnotatorNotes T62	lemma = 'spend|spent'
+T63	VDG 187 192	doing
+#60	AnnotatorNotes T63	lemma = 'do'
+T64	NN1 193 198	sport
+#61	AnnotatorNotes T64	lemma = 'sport'
+T65	PUN 198 199	:
+#62	AnnotatorNotes T65	lemma = ':'
+T66	NN2 200 209	teenagers
+#63	AnnotatorNotes T66	lemma = 'teenager'
+T67	CRD 210 215	16-24
+#64	AnnotatorNotes T67	lemma = '16-24'
+T68	NN2 216 221	years
+#65	AnnotatorNotes T68	lemma = 'year'
+T69	AJ0 222 225	old
+#66	AnnotatorNotes T69	lemma = 'old'
+T70	VBD 226 229	was
+#67	AnnotatorNotes T70	lemma = 'be'
+T71	VDG 230 235	doing
+#68	AnnotatorNotes T71	lemma = 'do'
+T72	NN1 236 241	sport
+#69	AnnotatorNotes T72	lemma = 'sport'
+T73	PRP 242 245	for
+#70	AnnotatorNotes T73	lemma = 'for'
+T74	CRD 246 251	282,1
+#71	AnnotatorNotes T74	lemma = '282,1'
+T75	NN2 252 259	minutes
+#72	AnnotatorNotes T75	lemma = 'minute'
+T76	PRP 260 262	in
+#73	AnnotatorNotes T76	lemma = 'in'
+T77	NN1 263 270	average
+#74	AnnotatorNotes T77	lemma = 'average'
+T78	PUN 270 271	,
+#75	AnnotatorNotes T78	lemma = ','
+T79	CJS 272 279	whereas
+#76	AnnotatorNotes T79	lemma = 'whereas'
+T80	PRP 280 285	since
+#77	AnnotatorNotes T80	lemma = 'since'
+T81	CRD 286 288	25
+#78	AnnotatorNotes T81	lemma = '25'
+T82	NN2 289 294	years
+#79	AnnotatorNotes T82	lemma = 'year'
+T83	VVB 295 298	age
+#80	AnnotatorNotes T83	lemma = 'age'
+T84	DT0 299 303	this
+#81	AnnotatorNotes T84	lemma = 'this'
+T85	NN1 304 309	level
+#82	AnnotatorNotes T85	lemma = 'level'
+T86	VVD 310 314	fell
+#83	AnnotatorNotes T86	lemma = 'fall|fell'
+T87	AVP 315 319	down
+#84	AnnotatorNotes T87	lemma = 'down'
+T88	PRP 320 322	at
+#85	AnnotatorNotes T88	lemma = 'at'
+T89	CRD 323 326	130
+#86	AnnotatorNotes T89	lemma = '130'
+T90	NN2 327 333	points
+#87	AnnotatorNotes T90	lemma = 'point'
+T91	PUL 334 335	(
+#88	AnnotatorNotes T91	lemma = '('
+T92	AV0 335 341	almost
+#89	AnnotatorNotes T92	lemma = 'almost'
+T93	AJ0 342 349	twicely
+#90	AnnotatorNotes T93	lemma = 'twicely'
+T94	PUR 349 350	)
+#91	AnnotatorNotes T94	lemma = ')'
+T95	SENT 350 351	.
+#92	AnnotatorNotes T95	lemma = '.'
+T96	AV0 352 360	Moreover
+#93	AnnotatorNotes T96	lemma = 'moreover'
+T97	PUN 360 361	,
+#94	AnnotatorNotes T97	lemma = ','
+T98	NN2 362 365	men
+#95	AnnotatorNotes T98	lemma = 'man'
+T99	PRF 366 368	of
+#96	AnnotatorNotes T99	lemma = 'of'
+T100	DT0 369 372	all
+#97	AnnotatorNotes T100	lemma = 'all'
+T101	NN2 373 377	ages
+#98	AnnotatorNotes T101	lemma = 'age'
+T102	VVN 378 383	spent
+#99	AnnotatorNotes T102	lemma = 'spend|spent'
+T103	PRP 384 386	in
+#100	AnnotatorNotes T103	lemma = 'in'
+T104	NN1 387 394	average
+#101	AnnotatorNotes T104	lemma = 'average'
+T105	DT0 395 399	more
+#102	AnnotatorNotes T105	lemma = 'more'
+T106	NN1 400 404	time
+#103	AnnotatorNotes T106	lemma = 'time'
+T107	PRP 405 407	on
+#104	AnnotatorNotes T107	lemma = 'on'
+T108	NN1 408 413	sport
+#105	AnnotatorNotes T108	lemma = 'sport'
+T109	CJS 414 418	than
+#106	AnnotatorNotes T109	lemma = 'than'
+T110	NN2 419 424	women
+#107	AnnotatorNotes T110	lemma = 'woman'
+T111	VDD 425 428	did
+#108	AnnotatorNotes T111	lemma = 'do'
+T112	PRP 429 431	in
+#109	AnnotatorNotes T112	lemma = 'in'
+T113	CRD 432 436	2012
+#110	AnnotatorNotes T113	lemma = '2012'
+T114	SENT 436 437	.
+#111	AnnotatorNotes T114	lemma = '.'
+T115	AT0 438 441	The
+#112	AnnotatorNotes T115	lemma = 'the'
+T116	AJ0 442 446	only
+#113	AnnotatorNotes T116	lemma = 'only'
+T117	CRD 447 450	one
+#114	AnnotatorNotes T117	lemma = 'one'
+T118	NN1 451 454	age
+#115	AnnotatorNotes T118	lemma = 'age'
+T119	NN1 455 460	level
+#116	AnnotatorNotes T119	lemma = 'level'
+T120	AVQ 461 466	where
+#117	AnnotatorNotes T120	lemma = 'where'
+T121	AT0 467 470	the
+#118	AnnotatorNotes T121	lemma = 'the'
+T122	NN1 471 477	amount
+#119	AnnotatorNotes T122	lemma = 'amount'
+T123	PRF 478 480	of
+#120	AnnotatorNotes T123	lemma = 'of'
+T124	NN2 481 488	minutes
+#121	AnnotatorNotes T124	lemma = 'minute'
+T125	VVN 489 494	spent
+#122	AnnotatorNotes T125	lemma = 'spend|spent'
+T126	PRP 495 497	on
+#123	AnnotatorNotes T126	lemma = 'on'
+T127	NN1 498 503	sport
+#124	AnnotatorNotes T127	lemma = 'sport'
+T128	PRP 504 506	by
+#125	AnnotatorNotes T128	lemma = 'by'
+T129	NN2 507 512	women
+#126	AnnotatorNotes T129	lemma = 'woman'
+T130	VBD 513 516	was
+#127	AnnotatorNotes T130	lemma = 'be'
+T131	AV0 517 521	more
+#128	AnnotatorNotes T131	lemma = 'more'
+T132	CJS 522 526	than
+#129	AnnotatorNotes T132	lemma = 'than'
+T133	DT0 527 531	that
+#130	AnnotatorNotes T133	lemma = 'that'
+T134	PNI 532 535	one
+#131	AnnotatorNotes T134	lemma = 'one'
+T135	PRP 536 538	by
+#132	AnnotatorNotes T135	lemma = 'by'
+T136	NN2 539 542	men
+#133	AnnotatorNotes T136	lemma = 'man'
+T137	VBD 543 546	was
+#134	AnnotatorNotes T137	lemma = 'be'
+T138	CRD 547 552	55-64
+#135	AnnotatorNotes T138	lemma = '55-64'
+T139	NN2 553 558	years
+#136	AnnotatorNotes T139	lemma = 'year'
+T140	SENT 558 559	.
+#137	AnnotatorNotes T140	lemma = '.'
+T141	PNP 560 562	It
+#138	AnnotatorNotes T141	lemma = 'it'
+T142	VBZ 563 565	is
+#139	AnnotatorNotes T142	lemma = 'be'
+T143	PRP 566 571	worth
+#140	AnnotatorNotes T143	lemma = 'worth'
+T144	VVG 572 580	noticing
+#141	AnnotatorNotes T144	lemma = 'notice'
+T145	CJT 581 585	that
+#142	AnnotatorNotes T145	lemma = 'that'
+T146	NN0 586 592	people
+#143	AnnotatorNotes T146	lemma = 'people'
+T147	PRP 593 597	over
+#144	AnnotatorNotes T147	lemma = 'over'
+T148	CRD 598 600	75
+#145	AnnotatorNotes T148	lemma = '75'
+T149	NN2 601 606	years
+#146	AnnotatorNotes T149	lemma = 'year'
+T150	AJ0 607 610	old
+#147	AnnotatorNotes T150	lemma = 'old'
+T151	PRP 611 613	in
+#148	AnnotatorNotes T151	lemma = 'in'
+T152	AJ0 614 621	average
+#149	AnnotatorNotes T152	lemma = 'average'
+T153	NN1 622 627	doing
+#150	AnnotatorNotes T153	lemma = 'doing'
+T154	NN2 628 634	sports
+#151	AnnotatorNotes T154	lemma = 'sport'
+T155	PUN 634 635	,
+#152	AnnotatorNotes T155	lemma = ','
+T156	CJC 636 639	but
+#153	AnnotatorNotes T156	lemma = 'but'
+T157	PNP 640 644	they
+#154	AnnotatorNotes T157	lemma = 'they'
+T158	VVD 645 650	spent
+#155	AnnotatorNotes T158	lemma = 'spend|spent'
+T159	AV0 651 655	much
+#156	AnnotatorNotes T159	lemma = 'much'
+T160	DT0 656 660	less
+#157	AnnotatorNotes T160	lemma = 'less'
+T161	NN1 661 665	time
+#158	AnnotatorNotes T161	lemma = 'time'
+T162	PRP 666 669	for
+#159	AnnotatorNotes T162	lemma = 'for'
+T163	PNP 670 672	it
+#160	AnnotatorNotes T163	lemma = 'it'
+T164	DT0 673 677	that
+#161	AnnotatorNotes T164	lemma = 'that'
+T165	NN2 678 687	teenagers
+#162	AnnotatorNotes T165	lemma = 'teenager'
+T166	PUN 687 688	:
+#163	AnnotatorNotes T166	lemma = ':'
+T167	NN2 689 696	seniors
+#164	AnnotatorNotes T167	lemma = 'senior'
+T168	VBD 697 701	were
+#165	AnnotatorNotes T168	lemma = 'be'
+T169	VDG 702 707	doing
+#166	AnnotatorNotes T169	lemma = 'do'
+T170	NN1 708 713	sport
+#167	AnnotatorNotes T170	lemma = 'sport'
+T171	CJC 714 717	and
+#168	AnnotatorNotes T171	lemma = 'and'
+T172	NN1 718 726	exercise
+#169	AnnotatorNotes T172	lemma = 'exercise'
+T173	PRP 727 730	for
+#170	AnnotatorNotes T173	lemma = 'for'
+T174	CRD 731 735	29.2
+#171	AnnotatorNotes T174	lemma = '29.2'
+T175	NN2 736 743	minutes
+#172	AnnotatorNotes T175	lemma = 'minute'
+T176	SENT 743 744	.
+#173	AnnotatorNotes T176	lemma = '.'
+T177	DT0 745 749	This
+#174	AnnotatorNotes T177	lemma = 'this'
+T178	NN1 750 756	number
+#175	AnnotatorNotes T178	lemma = 'number'
+T179	VBZ 757 759	is
+#176	AnnotatorNotes T179	lemma = 'be'
+T180	CRD 760 762	10
+#177	AnnotatorNotes T180	lemma = '10'
+T181	NN2 763 768	times
+#178	AnnotatorNotes T181	lemma = 'time'
+T182	AV0 769 773	less
+#179	AnnotatorNotes T182	lemma = 'less'
+T183	CJS 774 778	than
+#180	AnnotatorNotes T183	lemma = 'than'
+T184	NN1 779 783	time
+#181	AnnotatorNotes T184	lemma = 'time'
+T185	VVD 784 789	spent
+#182	AnnotatorNotes T185	lemma = 'spend|spent'
+T186	PRP 790 792	on
+#183	AnnotatorNotes T186	lemma = 'on'
+T187	NN2 793 799	sports
+#184	AnnotatorNotes T187	lemma = 'sport'
+T188	PRP 800 802	by
+#185	AnnotatorNotes T188	lemma = 'by'
+T189	CRD 803 808	16-24
+#186	AnnotatorNotes T189	lemma = '16-24'
+T190	NN2 809 814	years
+#187	AnnotatorNotes T190	lemma = 'year'
+T191	AJ0 815 818	old
+#188	AnnotatorNotes T191	lemma = 'old'
+T192	NN2 819 823	boys
+#189	AnnotatorNotes T192	lemma = 'boy'
+T193	SENT 823 824	.
+#190	AnnotatorNotes T193	lemma = '.'
+T194	AV0 825 832	Overall
+#191	AnnotatorNotes T194	lemma = 'overall'
+T195	PUN 832 833	,
+#192	AnnotatorNotes T195	lemma = ','
+T196	NN1 834 838	time
+#193	AnnotatorNotes T196	lemma = 'time'
+T197	VVN 839 844	spent
+#194	AnnotatorNotes T197	lemma = 'spend|spent'
+T198	VDG 845 850	doing
+#195	AnnotatorNotes T198	lemma = 'do'
+T199	NN2 851 857	sports
+#196	AnnotatorNotes T199	lemma = 'sport'
+T200	PRP 858 860	by
+#197	AnnotatorNotes T200	lemma = 'by'
+T201	NN2 861 866	women
+#198	AnnotatorNotes T201	lemma = 'woman'
+T202	AV0 867 873	always
+#199	AnnotatorNotes T202	lemma = 'always'
+T203	VVD 874 878	fell
+#200	AnnotatorNotes T203	lemma = 'fall|fell'
+T204	AV0 879 887	slightly
+#201	AnnotatorNotes T204	lemma = 'slightly'
+T205	PRP 888 892	from
+#202	AnnotatorNotes T205	lemma = 'from'
+T206	AJ0 893 898	young
+#203	AnnotatorNotes T206	lemma = 'young'
+T207	NN2 899 904	women
+#204	AnnotatorNotes T207	lemma = 'woman'
+T208	PRP 905 907	to
+#205	AnnotatorNotes T208	lemma = 'to'
+T209	AJC 908 913	older
+#206	AnnotatorNotes T209	lemma = 'old'
+T210	NN2 914 918	ones
+#207	AnnotatorNotes T210	lemma = 'one'
+T211	SENT 918 919	.
+#208	AnnotatorNotes T211	lemma = '.'
+T212	DT0 920 924	This
+#209	AnnotatorNotes T212	lemma = 'this'
+T213	NN1 925 931	amount
+#210	AnnotatorNotes T213	lemma = 'amount'
+T214	PRF 932 934	of
+#211	AnnotatorNotes T214	lemma = 'of'
+T215	NN1 935 939	time
+#212	AnnotatorNotes T215	lemma = 'time'
+T216	VVD 940 947	reached
+#213	AnnotatorNotes T216	lemma = 'reach'
+T217	DPS 948 951	its
+#214	AnnotatorNotes T217	lemma = 'it'
+T218	NN1 952 956	peak
+#215	AnnotatorNotes T218	lemma = 'peak'
+T219	PRP 957 964	between
+#216	AnnotatorNotes T219	lemma = 'between'
+T220	CRD 965 970	16-24
+#217	AnnotatorNotes T220	lemma = '16-24'
+T221	NN2 971 976	years
+#218	AnnotatorNotes T221	lemma = 'year'
+T222	AJ0 977 980	old
+#219	AnnotatorNotes T222	lemma = 'old'
+T223	NN2 981 986	women
+#220	AnnotatorNotes T223	lemma = 'woman'
+T224	PUN 986 987	,
+#221	AnnotatorNotes T224	lemma = ','
+T225	CJC 988 991	but
+#222	AnnotatorNotes T225	lemma = 'but'
+T226	DPS 992 995	its
+#223	AnnotatorNotes T226	lemma = 'it'
+T227	NN1 996 1003	minimum
+#224	AnnotatorNotes T227	lemma = 'minimum'
+T228	VBD 1004 1007	was
+#225	AnnotatorNotes T228	lemma = 'be'
+T229	PRP 1008 1010	at
+#226	AnnotatorNotes T229	lemma = 'at'
+T230	AT0 1011 1014	the
+#227	AnnotatorNotes T230	lemma = 'the'
+T231	NN1 1015 1020	level
+#228	AnnotatorNotes T231	lemma = 'level'
+T232	PRF 1021 1023	of
+#229	AnnotatorNotes T232	lemma = 'of'
+T233	CRD 1024 1027	ten
+#230	AnnotatorNotes T233	lemma = 'ten'
+T234	NN2 1028 1035	minutes
+#231	AnnotatorNotes T234	lemma = 'minute'
+T235	PRP 1036 1039	for
+#232	AnnotatorNotes T235	lemma = 'for'
+T236	NN2 1040 1045	women
+#233	AnnotatorNotes T236	lemma = 'woman'
+T237	PRP 1046 1050	over
+#234	AnnotatorNotes T237	lemma = 'over'
+T238	CRD 1051 1053	75
+#235	AnnotatorNotes T238	lemma = '75'
+T239	NN2 1054 1059	years
+#236	AnnotatorNotes T239	lemma = 'year'
+T240	AJ0 1060 1063	old
+#237	AnnotatorNotes T240	lemma = 'old'
+T241	SENT 1063 1064	.
+#238	AnnotatorNotes T241	lemma = '.'
+T242	NN1 1065 1069	Time
+#239	AnnotatorNotes T242	lemma = 'time'
+T243	VVN 1070 1075	spent
+#240	AnnotatorNotes T243	lemma = 'spend|spent'
+T244	PRP 1076 1078	on
+#241	AnnotatorNotes T244	lemma = 'on'
+T245	NN1 1079 1084	sport
+#242	AnnotatorNotes T245	lemma = 'sport'
+T246	PRP 1085 1087	by
+#243	AnnotatorNotes T246	lemma = 'by'
+T247	NN2 1088 1091	men
+#244	AnnotatorNotes T247	lemma = 'man'
+T248	VVN 1092 1098	boomed
+#245	AnnotatorNotes T248	lemma = 'boom'
+T249	PRP 1099 1106	between
+#246	AnnotatorNotes T249	lemma = 'between'
+T250	NN2 1107 1113	groups
+#247	AnnotatorNotes T250	lemma = 'group'
+T251	PRF 1114 1116	of
+#248	AnnotatorNotes T251	lemma = 'of'
+T252	CRD 1117 1122	16-24
+#249	AnnotatorNotes T252	lemma = '16-24'
+T253	PUL 1123 1124	(
+#250	AnnotatorNotes T253	lemma = '('
+T254	CRD 1124 1129	282.1
+#251	AnnotatorNotes T254	lemma = '282.1'
+T255	NN2 1130 1137	minutes
+#252	AnnotatorNotes T255	lemma = 'minute'
+T256	PUR 1137 1138	)
+#253	AnnotatorNotes T256	lemma = ')'
+T257	CJC 1139 1142	and
+#254	AnnotatorNotes T257	lemma = 'and'
+T258	CRD 1143 1148	25-34
+#255	AnnotatorNotes T258	lemma = '25-34'
+T259	PUL 1148 1149	(
+#256	AnnotatorNotes T259	lemma = '('
+T260	CRD 1149 1154	153.8
+#257	AnnotatorNotes T260	lemma = '153.8'
+T261	NN2 1155 1162	minutes
+#258	AnnotatorNotes T261	lemma = 'minute'
+T262	PUR 1162 1163	)
+#259	AnnotatorNotes T262	lemma = ')'
+T263	NN2 1164 1169	years
+#260	AnnotatorNotes T263	lemma = 'year'
+T264	AJ0 1170 1173	old
+#261	AnnotatorNotes T264	lemma = 'old'
+T265	NN2 1174 1177	men
+#262	AnnotatorNotes T265	lemma = 'man'
+T266	PUN 1177 1178	,
+#263	AnnotatorNotes T266	lemma = ','
+T267	AV0 1179 1183	then
+#264	AnnotatorNotes T267	lemma = 'then'
+T268	DT0 1184 1188	this
+#265	AnnotatorNotes T268	lemma = 'this'
+T269	NN1 1189 1195	number
+#266	AnnotatorNotes T269	lemma = 'number'
+T270	VVD 1196 1200	went
+#267	AnnotatorNotes T270	lemma = 'go'
+T271	AVP 1201 1203	on
+#268	AnnotatorNotes T271	lemma = 'on'
+T272	VVG 1204 1211	falling
+#269	AnnotatorNotes T272	lemma = 'fall|falling'
+T273	PUN 1211 1212	,
+#270	AnnotatorNotes T273	lemma = ','
+T274	PNP 1213 1215	it
+#271	AnnotatorNotes T274	lemma = 'it'
+T275	VVD 1216 1224	achieved
+#272	AnnotatorNotes T275	lemma = 'achieve'
+T276	CRD 1225 1230	114,2
+#273	AnnotatorNotes T276	lemma = '114,2'
+T277	NN2 1231 1238	minutes
+#274	AnnotatorNotes T277	lemma = 'minute'
+T278	PRP 1239 1241	at
+#275	AnnotatorNotes T278	lemma = 'at'
+T279	AT0 1242 1245	the
+#276	AnnotatorNotes T279	lemma = 'the'
+T280	NN1 1246 1249	age
+#277	AnnotatorNotes T280	lemma = 'age'
+T281	PRF 1250 1252	of
+#278	AnnotatorNotes T281	lemma = 'of'
+T282	CRD 1253 1258	45-54
+#279	AnnotatorNotes T282	lemma = '45-54'
+T283	CJC 1259 1262	and
+#280	AnnotatorNotes T283	lemma = 'and'
+T284	AV0 1263 1267	then
+#281	AnnotatorNotes T284	lemma = 'then'
+T285	PNP 1268 1270	it
+#282	AnnotatorNotes T285	lemma = 'it'
+T286	VVD 1271 1275	fell
+#283	AnnotatorNotes T286	lemma = 'fall|fell'
+T287	AV0 1276 1286	critically
+#284	AnnotatorNotes T287	lemma = 'critically'
+T288	AV0 1287 1292	again
+#285	AnnotatorNotes T288	lemma = 'again'
+T289	PUL 1293 1294	(
+#286	AnnotatorNotes T289	lemma = '('
+T290	CRD 1294 1298	52,7
+#287	AnnotatorNotes T290	lemma = '52,7'
+T291	NN2 1299 1306	minutes
+#288	AnnotatorNotes T291	lemma = 'minute'
+T292	PRP 1307 1310	for
+#289	AnnotatorNotes T292	lemma = 'for'
+T293	CRD 1311 1316	55-64
+#290	AnnotatorNotes T293	lemma = '55-64'
+T294	NN2 1317 1322	years
+#291	AnnotatorNotes T294	lemma = 'year'
+T295	AJ0 1323 1326	old
+#292	AnnotatorNotes T295	lemma = 'old'
+T296	NN2 1327 1330	men
+#293	AnnotatorNotes T296	lemma = 'man'
+T297	PUR 1330 1331	)
+#294	AnnotatorNotes T297	lemma = ')'
+T298	SENT 1331 1332	.
+#295	AnnotatorNotes T298	lemma = '.'
+T299	AV0 1333 1345	Nevertheless
+#296	AnnotatorNotes T299	lemma = 'nevertheless'
+T300	PUN 1345 1346	,
+#297	AnnotatorNotes T300	lemma = ','
+T301	PNP 1347 1349	it
+#298	AnnotatorNotes T301	lemma = 'it'
+T302	VVD 1350 1354	made
+#299	AnnotatorNotes T302	lemma = 'make'
+T303	AT0 1355 1356	a
+#300	AnnotatorNotes T303	lemma = 'a'
+T304	AJ0 1357 1362	small
+#301	AnnotatorNotes T304	lemma = 'small'
+T305	NN1 1363 1371	increase
+#302	AnnotatorNotes T305	lemma = 'increase'
+T306	PRP 1372 1375	for
+#303	AnnotatorNotes T306	lemma = 'for'
+T307	CRD 1376 1381	65-74
+#304	AnnotatorNotes T307	lemma = '65-74'
+T308	NN2 1382 1387	years
+#305	AnnotatorNotes T308	lemma = 'year'
+T309	AJ0 1388 1391	old
+#306	AnnotatorNotes T309	lemma = 'old'
+T310	NN2 1392 1395	men
+#307	AnnotatorNotes T310	lemma = 'man'
+T311	CJC 1396 1399	and
+#308	AnnotatorNotes T311	lemma = 'and'
+T312	VVD 1400 1404	fell
+#309	AnnotatorNotes T312	lemma = 'fall|fell'
+T313	AVP 1405 1409	down
+#310	AnnotatorNotes T313	lemma = 'down'
+T314	AV0 1410 1415	again
+#311	AnnotatorNotes T314	lemma = 'again'
+T315	PRP 1416 1419	for
+#312	AnnotatorNotes T315	lemma = 'for'
+T316	NN2 1420 1427	seniors
+#313	AnnotatorNotes T316	lemma = 'senior'
+T317	PRP 1428 1432	over
+#314	AnnotatorNotes T317	lemma = 'over'
+T318	CRD 1433 1435	75
+#315	AnnotatorNotes T318	lemma = '75'
+T319	NN2 1436 1441	years
+#316	AnnotatorNotes T319	lemma = 'year'
+T320	AJ0 1442 1445	old
+#317	AnnotatorNotes T320	lemma = 'old'
+T321	SENT 1445 1446	.
+#318	AnnotatorNotes T321	lemma = '.'
+T322	NN2 1447 1456	Teenagers
+#319	AnnotatorNotes T322	lemma = 'teenager'
+T323	POS 1456 1457	'
+#320	AnnotatorNotes T323	lemma = ''
+T324	NN1 1458 1468	connection
+#321	AnnotatorNotes T324	lemma = 'connection'
+T325	PRP 1469 1473	with
+#322	AnnotatorNotes T325	lemma = 'with'
+T326	NN1 1474 1479	sport
+#323	AnnotatorNotes T326	lemma = 'sport'
+T327	VM0 1480 1483	can
+#324	AnnotatorNotes T327	lemma = 'can'
+T328	VBI 1484 1486	be
+#325	AnnotatorNotes T328	lemma = 'be'
+T329	VVN 1487 1496	explained
+#326	AnnotatorNotes T329	lemma = 'explain'
+T330	PRP 1497 1499	by
+#327	AnnotatorNotes T330	lemma = 'by'
+T331	VHG 1500 1506	having
+#328	AnnotatorNotes T331	lemma = 'have'
+T332	NN2 1507 1515	subjects
+#329	AnnotatorNotes T332	lemma = 'subject'
+T333	PRP 1516 1520	like
+#330	AnnotatorNotes T333	lemma = 'like'
+T334	NN1 1521 1523	PE
+#331	AnnotatorNotes T334	lemma = 'pe'
+T335	PRP 1524 1526	at
+#332	AnnotatorNotes T335	lemma = 'at'
+T336	AT0 1527 1530	the
+#333	AnnotatorNotes T336	lemma = 'the'
+T337	NN1 1531 1541	university
+#334	AnnotatorNotes T337	lemma = 'university'
+T338	CJC 1542 1545	and
+#335	AnnotatorNotes T338	lemma = 'and'
+T339	PRP 1546 1548	at
+#336	AnnotatorNotes T339	lemma = 'at'
+T340	NN1 1549 1555	school
+#337	AnnotatorNotes T340	lemma = 'school'
+T341	PUN 1555 1556	,
+#338	AnnotatorNotes T341	lemma = ','
+T342	CJC 1557 1560	and
+#339	AnnotatorNotes T342	lemma = 'and'
+T343	NN0 1561 1567	people
+#340	AnnotatorNotes T343	lemma = 'people'
+T344	CJT 1568 1572	that
+#341	AnnotatorNotes T344	lemma = 'that'
+T345	VBB 1573 1576	are
+#342	AnnotatorNotes T345	lemma = 'be'
+T346	AJC 1577 1582	older
+#343	AnnotatorNotes T346	lemma = 'old'
+T347	VDD 1583 1586	did
+#344	AnnotatorNotes T347	lemma = 'do'
+T348	NN1 1587 1592	sport
+#345	AnnotatorNotes T348	lemma = 'sport'
+T349	PRP 1593 1595	by
+#346	AnnotatorNotes T349	lemma = 'by'
+T350	PNX 1596 1606	themselves
+#347	AnnotatorNotes T350	lemma = 'themselves'
+T351	PUN 1606 1607	,
+#348	AnnotatorNotes T351	lemma = ','
+T352	CJS 1608 1610	so
+#349	AnnotatorNotes T352	lemma = 'so'
+T353	PNP 1611 1615	they
+#350	AnnotatorNotes T353	lemma = 'they'
+T354	VVB 1616 1621	spend
+#351	AnnotatorNotes T354	lemma = 'spend'
+T355	DT0 1622 1626	less
+#352	AnnotatorNotes T355	lemma = 'less'
+T356	NN1 1627 1631	time
+#353	AnnotatorNotes T356	lemma = 'time'
+T357	PRP 1632 1634	on
+#354	AnnotatorNotes T357	lemma = 'on'
+T358	PNP 1635 1637	it
+#355	AnnotatorNotes T358	lemma = 'it'
+T359	SENT 1637 1638	.
+#356	AnnotatorNotes T359	lemma = ''

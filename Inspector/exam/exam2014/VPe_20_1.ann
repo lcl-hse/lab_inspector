@@ -1,0 +1,563 @@
+T1	Spelling 867 878	supportance
+#1	AnnotatorNotes T1	support
+T2	Noun_number 72 75	age
+#2	AnnotatorNotes T2	ages
+T3	Noun_number 91 101	educations
+#3	AnnotatorNotes T3	education
+T4	Articles 84 101	higher educations
+#4	AnnotatorNotes T4	a higher education
+R1	Dependent_change Arg1:T3 Arg2:T4
+T5	suggestion 106 116	the career
+T6	Often_confused 162 170	graphics
+#5	AnnotatorNotes T6	graphs
+T7	Punctuation 153 157	Also
+#6	AnnotatorNotes T7	Also,
+T8	Spelling 248 258	dependancy
+#7	AnnotatorNotes T8	dependency
+T9	Spelling 354 358	come
+#8	AnnotatorNotes T9	some
+T10	Articles 376 388	higher index
+#9	AnnotatorNotes T10	a higher index
+T11	Derivation 867 878	supportance
+#10	AnnotatorNotes T11	support
+T12	Often_confused 950 959	supremacy
+#11	AnnotatorNotes T12	superiority
+T13	Noun_number 1098 1108	educations
+#12	AnnotatorNotes T13	education
+T14	Often_confused 1153 1161	contrast
+#13	AnnotatorNotes T14	contrary
+T15	Articles 1163 1179	the older people
+#14	AnnotatorNotes T15	older people
+T16	Word_choice 4 14	chart bars
+#15	AnnotatorNotes T16	bar charts
+T17	suggestion 4 14	chart bars
+T18	Tense_choice 467 471	tend
+#16	AnnotatorNotes T18	tended
+T19	suggestion 467 471	tend
+T20	Tense_choice 594 603	increases
+#17	AnnotatorNotes T20	increased
+T21	suggestion 594 603	increases
+T22	Tense_choice 731 733	is
+#18	AnnotatorNotes T22	was
+T23	suggestion 731 733	is
+T24	Tense_choice 879 881	is
+#19	AnnotatorNotes T24	was
+T25	suggestion 879 881	is
+T26	Tense_choice 998 1002	tend
+#20	AnnotatorNotes T26	tended
+T27	suggestion 998 1002	tend
+T28	Tense_choice 1071 1077	choose
+#21	AnnotatorNotes T28	chose
+T29	suggestion 1071 1077	choose
+T30	AT0 0 3	The
+#22	AnnotatorNotes T30	lemma = 'the'
+T31	NN1 4 9	chart
+#23	AnnotatorNotes T31	lemma = 'chart'
+T32	NN2 10 14	bars
+#24	AnnotatorNotes T32	lemma = 'bar'
+T33	AV0 15 20	below
+#25	AnnotatorNotes T33	lemma = 'below'
+T34	VVB 21 31	illustrate
+#26	AnnotatorNotes T34	lemma = 'illustrate'
+T35	AT0 32 35	the
+#27	AnnotatorNotes T35	lemma = 'the'
+T36	NN1 36 46	percentage
+#28	AnnotatorNotes T36	lemma = 'percentage'
+T37	PRF 47 49	of
+#29	AnnotatorNotes T37	lemma = 'of'
+T38	NN2 50 58	students
+#30	AnnotatorNotes T38	lemma = 'student'
+T39	PRF 59 61	of
+#31	AnnotatorNotes T39	lemma = 'of'
+T40	AJ0 62 71	different
+#32	AnnotatorNotes T40	lemma = 'different'
+T41	NN1 72 75	age
+#33	AnnotatorNotes T41	lemma = 'age'
+T42	VVG 76 83	getting
+#34	AnnotatorNotes T42	lemma = 'get'
+T43	AJC 84 90	higher
+#35	AnnotatorNotes T43	lemma = 'high'
+T44	NN2 91 101	educations
+#36	AnnotatorNotes T44	lemma = 'education'
+T45	PRP 102 105	for
+#37	AnnotatorNotes T45	lemma = 'for'
+T46	AT0 106 109	the
+#38	AnnotatorNotes T46	lemma = 'the'
+T47	NN1 110 116	career
+#39	AnnotatorNotes T47	lemma = 'career'
+T48	CJC 117 119	or
+#40	AnnotatorNotes T48	lemma = 'or'
+T49	DPS 120 125	their
+#41	AnnotatorNotes T49	lemma = 'they'
+T50	AJ0 126 134	personal
+#42	AnnotatorNotes T50	lemma = 'personal'
+T51	NN1 135 143	interest
+#43	AnnotatorNotes T51	lemma = 'interest'
+T52	NN2 144 151	reasons
+#44	AnnotatorNotes T52	lemma = 'reason'
+T53	SENT 151 152	.
+#45	AnnotatorNotes T53	lemma = '.'
+T54	AV0 153 157	Also
+#46	AnnotatorNotes T54	lemma = 'also'
+T55	AT0 158 161	the
+#47	AnnotatorNotes T55	lemma = 'the'
+T56	NN0 162 170	graphics
+#48	AnnotatorNotes T56	lemma = 'graphics'
+T57	VVB 171 175	show
+#49	AnnotatorNotes T57	lemma = 'show'
+T58	AT0 176 179	the
+#50	AnnotatorNotes T58	lemma = 'the'
+T59	NN1 180 186	amount
+#51	AnnotatorNotes T59	lemma = 'amount'
+T60	PRF 187 189	of
+#52	AnnotatorNotes T60	lemma = 'of'
+T61	NN1 190 197	support
+#53	AnnotatorNotes T61	lemma = 'support'
+T62	VVN 198 203	given
+#54	AnnotatorNotes T62	lemma = 'give|given'
+T63	PRP 204 206	to
+#55	AnnotatorNotes T63	lemma = 'to'
+T64	NN2 207 220	postgraduates
+#56	AnnotatorNotes T64	lemma = 'postgraduate'
+T65	PRP 221 223	by
+#57	AnnotatorNotes T65	lemma = 'by'
+T66	DPS 224 229	their
+#58	AnnotatorNotes T66	lemma = 'they'
+T67	NN2 230 239	employers
+#59	AnnotatorNotes T67	lemma = 'employer'
+T68	CJC 240 243	and
+#60	AnnotatorNotes T68	lemma = 'and'
+T69	DPS 244 247	its
+#61	AnnotatorNotes T69	lemma = 'it'
+T70	NN1 248 258	dependancy
+#62	AnnotatorNotes T70	lemma = 'dependancy'
+T71	PRP 259 261	on
+#63	AnnotatorNotes T71	lemma = 'on'
+T72	AT0 262 265	the
+#64	AnnotatorNotes T72	lemma = 'the'
+T73	NN1 266 269	age
+#65	AnnotatorNotes T73	lemma = 'age'
+T74	PRF 270 272	of
+#66	AnnotatorNotes T74	lemma = 'of'
+T75	NN2 273 280	workers
+#67	AnnotatorNotes T75	lemma = 'worker'
+T76	SENT 280 281	.
+#68	AnnotatorNotes T76	lemma = '.'
+T77	AV0 283 292	Evidently
+#69	AnnotatorNotes T77	lemma = 'evidently'
+T78	PUN 292 293	,
+#70	AnnotatorNotes T78	lemma = ','
+T79	AT0 294 297	the
+#71	AnnotatorNotes T79	lemma = 'the'
+T80	NN1 298 304	number
+#72	AnnotatorNotes T80	lemma = 'number'
+T81	PRF 305 307	of
+#73	AnnotatorNotes T81	lemma = 'of'
+T82	NN2 308 316	students
+#74	AnnotatorNotes T82	lemma = 'student'
+T83	DTQ 317 322	whose
+#75	AnnotatorNotes T83	lemma = 'whose'
+T84	NN1 323 331	decision
+#76	AnnotatorNotes T84	lemma = 'decision'
+T85	PRP 332 334	to
+#77	AnnotatorNotes T85	lemma = 'to'
+T86	NN1 335 340	study
+#78	AnnotatorNotes T86	lemma = 'study'
+T87	VBD 341 344	was
+#79	AnnotatorNotes T87	lemma = 'be'
+T88	VVN 345 350	based
+#80	AnnotatorNotes T88	lemma = 'base'
+T89	PRP 351 353	on
+#81	AnnotatorNotes T89	lemma = 'on'
+T90	VVB 354 358	come
+#82	AnnotatorNotes T90	lemma = 'come'
+T91	NN1 359 365	career
+#83	AnnotatorNotes T91	lemma = 'career'
+T92	NN2 366 371	needs
+#84	AnnotatorNotes T92	lemma = 'need'
+T93	VHZ 372 375	has
+#85	AnnotatorNotes T93	lemma = 'have'
+T94	AJC 376 382	higher
+#86	AnnotatorNotes T94	lemma = 'high'
+T95	NN1 383 388	index
+#87	AnnotatorNotes T95	lemma = 'index'
+T96	PRP 389 391	in
+#88	AnnotatorNotes T96	lemma = 'in'
+T97	NN2 392 399	columns
+#89	AnnotatorNotes T97	lemma = 'column'
+T98	PRP 400 404	from
+#90	AnnotatorNotes T98	lemma = 'from'
+T99	AT0 405 408	the
+#91	AnnotatorNotes T99	lemma = 'the'
+T100	NN1 409 412	age
+#92	AnnotatorNotes T100	lemma = 'age'
+T101	PRP 413 418	under
+#93	AnnotatorNotes T101	lemma = 'under'
+T102	CRD 419 421	26
+#94	AnnotatorNotes T102	lemma = '26'
+T103	PRP 422 424	to
+#95	AnnotatorNotes T103	lemma = 'to'
+T104	CRD 425 427	39
+#96	AnnotatorNotes T104	lemma = '39'
+T105	SENT 427 428	.
+#97	AnnotatorNotes T105	lemma = '.'
+T106	AV0 429 438	Obviously
+#98	AnnotatorNotes T106	lemma = 'obviously'
+T107	PUN 438 439	,
+#99	AnnotatorNotes T107	lemma = ','
+T108	DT0 440 445	those
+#100	AnnotatorNotes T108	lemma = 'those'
+T109	DTQ 446 451	whose
+#101	AnnotatorNotes T109	lemma = 'whose'
+T110	NN1 452 455	age
+#102	AnnotatorNotes T110	lemma = 'age'
+T111	VBZ 456 458	is
+#103	AnnotatorNotes T111	lemma = 'be'
+T112	AV0 459 463	over
+#104	AnnotatorNotes T112	lemma = 'over'
+T113	CRD 464 466	40
+#105	AnnotatorNotes T113	lemma = '40'
+T114	VVB 467 471	tend
+#106	AnnotatorNotes T114	lemma = 'tend'
+T115	TO0 472 474	to
+#107	AnnotatorNotes T115	lemma = 'to'
+T116	VVI 475 480	study
+#108	AnnotatorNotes T116	lemma = 'study'
+T117	PRP 481 484	for
+#109	AnnotatorNotes T117	lemma = 'for'
+T118	AT0 485 488	the
+#110	AnnotatorNotes T118	lemma = 'the'
+T119	NN2 489 496	reasons
+#111	AnnotatorNotes T119	lemma = 'reason'
+T120	PRF 497 499	of
+#112	AnnotatorNotes T120	lemma = 'of'
+T121	VHG 500 506	having
+#113	AnnotatorNotes T121	lemma = 'have'
+T122	AT0 507 509	an
+#114	AnnotatorNotes T122	lemma = 'an'
+T123	NN1 510 518	interest
+#115	AnnotatorNotes T123	lemma = 'interest'
+T124	PRP 519 521	in
+#116	AnnotatorNotes T124	lemma = 'in'
+T125	AT0 522 525	the
+#117	AnnotatorNotes T125	lemma = 'the'
+T126	NN1 526 532	sphere
+#118	AnnotatorNotes T126	lemma = 'sphere'
+T127	AVQ 533 538	where
+#119	AnnotatorNotes T127	lemma = 'where'
+T128	PNP 539 543	they
+#120	AnnotatorNotes T128	lemma = 'they'
+T129	VVD 544 551	decided
+#121	AnnotatorNotes T129	lemma = 'decide|decided'
+T130	TO0 552 554	to
+#122	AnnotatorNotes T130	lemma = 'to'
+T131	VVI 555 562	enlarge
+#123	AnnotatorNotes T131	lemma = 'enlarge'
+T132	DPS 563 568	their
+#124	AnnotatorNotes T132	lemma = 'they'
+T133	NN1 569 578	knowledge
+#125	AnnotatorNotes T133	lemma = 'knowledge'
+T134	SENT 578 579	.
+#126	AnnotatorNotes T134	lemma = '.'
+T135	AV0 580 582	So
+#127	AnnotatorNotes T135	lemma = 'so'
+T136	PUN 582 583	,
+#128	AnnotatorNotes T136	lemma = ','
+T137	AT0 584 587	the
+#129	AnnotatorNotes T137	lemma = 'the'
+T138	NN1 588 593	index
+#130	AnnotatorNotes T138	lemma = 'index'
+T139	VVZ 594 603	increases
+#131	AnnotatorNotes T139	lemma = 'increase'
+T140	AV0 604 611	rapidly
+#132	AnnotatorNotes T140	lemma = 'rapidly'
+T141	PRP 612 615	for
+#133	AnnotatorNotes T141	lemma = 'for'
+T142	DT0 616 621	those
+#134	AnnotatorNotes T142	lemma = 'those'
+T143	PRP 622 624	at
+#135	AnnotatorNotes T143	lemma = 'at'
+T144	AT0 625 628	the
+#136	AnnotatorNotes T144	lemma = 'the'
+T145	NN1 629 632	age
+#137	AnnotatorNotes T145	lemma = 'age'
+T146	PRP 633 637	over
+#138	AnnotatorNotes T146	lemma = 'over'
+T147	CRD 638 640	49
+#139	AnnotatorNotes T147	lemma = '49'
+T148	SENT 640 641	.
+#140	AnnotatorNotes T148	lemma = '.'
+T149	CJS 643 645	As
+#141	AnnotatorNotes T149	lemma = 'as'
+T150	PRP 646 649	for
+#142	AnnotatorNotes T150	lemma = 'for'
+T151	AT0 650 653	the
+#143	AnnotatorNotes T151	lemma = 'the'
+T152	NN1 654 659	table
+#144	AnnotatorNotes T152	lemma = 'table'
+T153	VVG 660 669	depicting
+#145	AnnotatorNotes T153	lemma = 'depict'
+T154	AT0 670 673	the
+#146	AnnotatorNotes T154	lemma = 'the'
+T155	NN1 674 684	percentage
+#147	AnnotatorNotes T155	lemma = 'percentage'
+T156	PRF 685 687	of
+#148	AnnotatorNotes T156	lemma = 'of'
+T157	NN2 688 697	employers
+#149	AnnotatorNotes T157	lemma = 'employer'
+T158	POS 697 698	'
+#150	AnnotatorNotes T158	lemma = ''
+T159	NN1 699 706	support
+#151	AnnotatorNotes T159	lemma = 'support'
+T160	PRP 707 709	to
+#152	AnnotatorNotes T160	lemma = 'to'
+T161	DPS 710 715	their
+#153	AnnotatorNotes T161	lemma = 'they'
+T162	NN2 716 723	workers
+#154	AnnotatorNotes T162	lemma = 'worker'
+T163	PUN 723 724	,
+#155	AnnotatorNotes T163	lemma = ','
+T164	EX0 725 730	there
+#156	AnnotatorNotes T164	lemma = 'there'
+T165	VBZ 731 733	is
+#157	AnnotatorNotes T165	lemma = 'be'
+T166	AT0 734 735	a
+#158	AnnotatorNotes T166	lemma = 'a'
+T167	NN1 736 744	tendency
+#159	AnnotatorNotes T167	lemma = 'tendency'
+T168	TO0 745 747	to
+#160	AnnotatorNotes T168	lemma = 'to'
+T169	VVI 748 752	care
+#161	AnnotatorNotes T169	lemma = 'care'
+T170	AV0 753 757	more
+#162	AnnotatorNotes T170	lemma = 'more'
+T171	PRP 758 763	about
+#163	AnnotatorNotes T171	lemma = 'about'
+T172	AJ0 764 769	young
+#164	AnnotatorNotes T172	lemma = 'young'
+T173	NN2 770 781	specialists
+#165	AnnotatorNotes T173	lemma = 'specialist'
+T174	PRP 782 787	under
+#166	AnnotatorNotes T174	lemma = 'under'
+T175	CRD 788 790	26
+#167	AnnotatorNotes T175	lemma = '26'
+T176	PUN 790 791	;
+#168	AnnotatorNotes T176	lemma = ';'
+T177	AT0 792 795	the
+#169	AnnotatorNotes T177	lemma = 'the'
+T178	NN1 796 802	amount
+#170	AnnotatorNotes T178	lemma = 'amount'
+T179	PRF 803 805	of
+#171	AnnotatorNotes T179	lemma = 'of'
+T180	NN1 806 813	support
+#172	AnnotatorNotes T180	lemma = 'support'
+T181	PRP 814 816	to
+#173	AnnotatorNotes T181	lemma = 'to'
+T182	PNP 817 821	them
+#174	AnnotatorNotes T182	lemma = 'they'
+T183	VBZ 822 824	is
+#175	AnnotatorNotes T183	lemma = 'be'
+T184	AV0 825 831	almost
+#176	AnnotatorNotes T184	lemma = 'almost'
+T185	CRD 832 834	70
+#177	AnnotatorNotes T185	lemma = '70'
+T186	NN0 834 835	%
+#178	AnnotatorNotes T186	lemma = '%'
+T187	SENT 835 836	.
+#179	AnnotatorNotes T187	lemma = '.'
+T188	AV0 837 843	Almost
+#180	AnnotatorNotes T188	lemma = 'almost'
+T189	AT0 844 847	the
+#181	AnnotatorNotes T189	lemma = 'the'
+T190	DT0 848 852	same
+#182	AnnotatorNotes T190	lemma = 'same'
+T191	NN1 853 863	percentage
+#183	AnnotatorNotes T191	lemma = 'percentage'
+T192	PRF 864 866	of
+#184	AnnotatorNotes T192	lemma = 'of'
+T193	NN1 867 878	supportance
+#185	AnnotatorNotes T193	lemma = 'supportance'
+T194	VBZ 879 881	is
+#186	AnnotatorNotes T194	lemma = 'be'
+T195	VVN 882 887	given
+#187	AnnotatorNotes T195	lemma = 'give|given'
+T196	PRP 888 890	to
+#188	AnnotatorNotes T196	lemma = 'to'
+T197	NN0 891 897	people
+#189	AnnotatorNotes T197	lemma = 'people'
+T198	PRF 898 900	of
+#190	AnnotatorNotes T198	lemma = 'of'
+T199	CRD 901 906	26-29
+#191	AnnotatorNotes T199	lemma = '26-29'
+T200	NN2 907 912	years
+#192	AnnotatorNotes T200	lemma = 'year'
+T201	AJ0 913 916	old
+#193	AnnotatorNotes T201	lemma = 'old'
+T202	CJC 917 920	and
+#194	AnnotatorNotes T202	lemma = 'and'
+T203	DT0 921 926	those
+#195	AnnotatorNotes T203	lemma = 'those'
+T204	PRP 927 931	over
+#196	AnnotatorNotes T204	lemma = 'over'
+T205	CRD 932 934	49
+#197	AnnotatorNotes T205	lemma = '49'
+T206	PUN 934 935	,
+#198	AnnotatorNotes T206	lemma = ','
+T207	PRP 936 940	with
+#199	AnnotatorNotes T207	lemma = 'with'
+T208	AT0 941 942	a
+#200	AnnotatorNotes T208	lemma = 'a'
+T209	AJ0 943 949	slight
+#201	AnnotatorNotes T209	lemma = 'slight'
+T210	NN1 950 959	supremacy
+#202	AnnotatorNotes T210	lemma = 'supremacy'
+T211	PRF 960 962	of
+#203	AnnotatorNotes T211	lemma = 'of'
+T212	AT0 963 966	the
+#204	AnnotatorNotes T212	lemma = 'the'
+T213	ORD 967 972	first
+#205	AnnotatorNotes T213	lemma = 'first'
+T214	PNI 973 976	one
+#206	AnnotatorNotes T214	lemma = 'one'
+T215	SENT 976 977	.
+#207	AnnotatorNotes T215	lemma = '.'
+T216	NN0 978 984	People
+#208	AnnotatorNotes T216	lemma = 'people'
+T217	PRP 985 987	in
+#209	AnnotatorNotes T217	lemma = 'in'
+T218	DPS 988 993	their
+#210	AnnotatorNotes T218	lemma = 'they'
+T219	CRD 994 997	30s
+#211	AnnotatorNotes T219	lemma = '30s'
+T220	VVB 998 1002	tend
+#212	AnnotatorNotes T220	lemma = 'tend'
+T221	TO0 1003 1005	to
+#213	AnnotatorNotes T221	lemma = 'to'
+T222	VVI 1006 1009	get
+#214	AnnotatorNotes T222	lemma = 'get'
+T223	DT0 1010 1014	less
+#215	AnnotatorNotes T223	lemma = 'less'
+T224	NN1 1015 1022	support
+#216	AnnotatorNotes T224	lemma = 'support'
+T225	SENT 1022 1023	.
+#217	AnnotatorNotes T225	lemma = '.'
+T226	TO0 1024 1026	To
+#218	AnnotatorNotes T226	lemma = 'to'
+T227	VVI 1027 1030	sum
+#219	AnnotatorNotes T227	lemma = 'sum'
+T228	PNP 1031 1033	it
+#220	AnnotatorNotes T228	lemma = 'it'
+T229	AVP 1034 1036	up
+#221	AnnotatorNotes T229	lemma = 'up'
+T230	PUN 1036 1037	,
+#222	AnnotatorNotes T230	lemma = ','
+T231	AJ0 1038 1043	young
+#223	AnnotatorNotes T231	lemma = 'young'
+T232	NN0 1044 1050	people
+#224	AnnotatorNotes T232	lemma = 'people'
+T233	AV0 1051 1057	almost
+#225	AnnotatorNotes T233	lemma = 'almost'
+T234	PRP 1058 1060	in
+#226	AnnotatorNotes T234	lemma = 'in'
+T235	DT0 1061 1064	all
+#227	AnnotatorNotes T235	lemma = 'all'
+T236	NN2 1065 1070	cases
+#228	AnnotatorNotes T236	lemma = 'case'
+T237	VVB 1071 1077	choose
+#229	AnnotatorNotes T237	lemma = 'choose'
+T238	TO0 1078 1080	to
+#230	AnnotatorNotes T238	lemma = 'to'
+T239	VVI 1081 1085	take
+#231	AnnotatorNotes T239	lemma = 'take'
+T240	AT0 1086 1089	the
+#232	AnnotatorNotes T240	lemma = 'the'
+T241	AJC 1090 1097	further
+#233	AnnotatorNotes T241	lemma = 'far'
+T242	NN2 1098 1108	educations
+#234	AnnotatorNotes T242	lemma = 'education'
+T243	TO0 1109 1111	to
+#235	AnnotatorNotes T243	lemma = 'to'
+T244	VBI 1112 1114	be
+#236	AnnotatorNotes T244	lemma = 'be'
+T245	AJ0 1115 1119	able
+#237	AnnotatorNotes T245	lemma = 'able'
+T246	TO0 1120 1122	to
+#238	AnnotatorNotes T246	lemma = 'to'
+T247	VVI 1123 1127	work
+#239	AnnotatorNotes T247	lemma = 'work'
+T248	PRP 1128 1133	after
+#240	AnnotatorNotes T248	lemma = 'after'
+T249	NN1 1134 1144	graduation
+#241	AnnotatorNotes T249	lemma = 'graduation'
+T250	PUN 1144 1145	;
+#242	AnnotatorNotes T250	lemma = ';'
+T251	PRP 1146 1148	on
+#243	AnnotatorNotes T251	lemma = 'on'
+T252	AT0 1149 1152	the
+#244	AnnotatorNotes T252	lemma = 'the'
+T253	NN1 1153 1161	contrast
+#245	AnnotatorNotes T253	lemma = 'contrast'
+T254	PUN 1161 1162	,
+#246	AnnotatorNotes T254	lemma = ','
+T255	AT0 1163 1166	the
+#247	AnnotatorNotes T255	lemma = 'the'
+T256	AJC 1167 1172	older
+#248	AnnotatorNotes T256	lemma = 'old'
+T257	NN0 1173 1179	people
+#249	AnnotatorNotes T257	lemma = 'people'
+T258	VVB 1180 1184	tend
+#250	AnnotatorNotes T258	lemma = 'tend'
+T259	TO0 1185 1187	to
+#251	AnnotatorNotes T259	lemma = 'to'
+T260	VVI 1188 1193	study
+#252	AnnotatorNotes T260	lemma = 'study'
+T261	PRP 1194 1197	for
+#253	AnnotatorNotes T261	lemma = 'for'
+T262	AT0 1198 1201	the
+#254	AnnotatorNotes T262	lemma = 'the'
+T263	NN2 1202 1209	reasons
+#255	AnnotatorNotes T263	lemma = 'reason'
+T264	PRF 1210 1212	of
+#256	AnnotatorNotes T264	lemma = 'of'
+T265	VHG 1213 1219	having
+#257	AnnotatorNotes T265	lemma = 'have'
+T266	AT0 1220 1221	a
+#258	AnnotatorNotes T266	lemma = 'a'
+T267	AJ0 1222 1230	personal
+#259	AnnotatorNotes T267	lemma = 'personal'
+T268	NN1 1231 1239	interest
+#260	AnnotatorNotes T268	lemma = 'interest'
+T269	SENT 1239 1240	.
+#261	AnnotatorNotes T269	lemma = '.'
+T270	AV0 1241 1249	Moreover
+#262	AnnotatorNotes T270	lemma = 'moreover'
+T271	PUN 1249 1250	,
+#263	AnnotatorNotes T271	lemma = ','
+T272	AJ0 1251 1256	young
+#264	AnnotatorNotes T272	lemma = 'young'
+T273	NN2 1257 1268	specialists
+#265	AnnotatorNotes T273	lemma = 'specialist'
+T274	VVB 1269 1272	get
+#266	AnnotatorNotes T274	lemma = 'get'
+T275	DT0 1273 1277	more
+#267	AnnotatorNotes T275	lemma = 'more'
+T276	NN1 1278 1285	support
+#268	AnnotatorNotes T276	lemma = 'support'
+T277	PRP 1286 1290	from
+#269	AnnotatorNotes T277	lemma = 'from'
+T278	DPS 1291 1296	their
+#270	AnnotatorNotes T278	lemma = 'they'
+T279	NN2 1297 1306	employers
+#271	AnnotatorNotes T279	lemma = 'employer'
+T280	CJS 1307 1311	than
+#272	AnnotatorNotes T280	lemma = 'than'
+T281	NN2 1312 1319	workers
+#273	AnnotatorNotes T281	lemma = 'worker'
+T282	PRF 1320 1322	of
+#274	AnnotatorNotes T282	lemma = 'of'
+T283	AJ0 1323 1329	middle
+#275	AnnotatorNotes T283	lemma = 'middle'
+T284	NN1 1330 1333	age
+#276	AnnotatorNotes T284	lemma = 'age'
+T285	SENT 1333 1334	.
+#277	AnnotatorNotes T285	lemma = ''

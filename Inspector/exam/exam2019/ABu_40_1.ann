@@ -1,0 +1,440 @@
+T1	Absence_explanation 283 288	those
+#1	AnnotatorNotes T1	the proportion of those
+T2	Word_choice 395 399	with
+#2	AnnotatorNotes T2	suffering from
+T3	Standard 386 421	children with obesity of both sexes
+#3	AnnotatorNotes T3	children of both sexes suffering from obesity
+T4	Prepositions 383 385	of
+#4	AnnotatorNotes T4	in
+T5	Prepositions 280 282	of
+#5	AnnotatorNotes T5	in
+T6	Absence_explanation 386 421	children with obesity of both sexes
+#6	AnnotatorNotes T6	the percentage of children of both sexes suffering from obesity
+T7	Standard 618 626	both for
+#7	AnnotatorNotes T7	for both
+T8	lex_item_choice 710 716	number
+#8	AnnotatorNotes T8	proportion
+T9	Redundant_comp 729 740	of children
+T10	Standard 665 699	boys were becoming more owerweight
+#9	AnnotatorNotes T10	more boys were becoming overweight
+T11	Redundant_comp 643 646	and
+T12	lex_item_choice 136 146	relatively
+#10	AnnotatorNotes T12	respectively
+A1	Delete T9
+A2	Delete T11
+T13	lex_item_choice 535 545	relatively
+#11	AnnotatorNotes T13	respectively
+T14	Prepositional_verb 604 613	levele at
+#12	AnnotatorNotes T14	levelled off at
+T15	Spelling 604 610	levele
+#13	AnnotatorNotes T15	levelled
+T16	Category_confusion 689 699	owerweight
+#14	AnnotatorNotes T16	obese
+T17	Category_confusion 484 494	owerweight
+#15	AnnotatorNotes T17	obese
+T18	Spelling 977 986	excersise
+#16	AnnotatorNotes T18	exercise
+T19	DT0 0 5	These
+#17	AnnotatorNotes T19	lemma = 'these'
+T20	NN2 6 14	diagrams
+#18	AnnotatorNotes T20	lemma = 'diagram'
+T21	VVB 15 21	depict
+#19	AnnotatorNotes T21	lemma = 'depict'
+T22	AT0 22 25	the
+#20	AnnotatorNotes T22	lemma = 'the'
+T23	NN1 26 32	number
+#21	AnnotatorNotes T23	lemma = 'number'
+T24	PRF 33 35	of
+#22	AnnotatorNotes T24	lemma = 'of'
+T25	NN2 36 44	children
+#23	AnnotatorNotes T25	lemma = 'child'
+T26	PRP 45 49	with
+#24	AnnotatorNotes T26	lemma = 'with'
+T27	NN1 50 57	obesity
+#25	AnnotatorNotes T27	lemma = 'obesity'
+T28	CJC 58 61	and
+#26	AnnotatorNotes T28	lemma = 'and'
+T29	PRF 62 64	of
+#27	AnnotatorNotes T29	lemma = 'of'
+T30	NN2 65 69	kids
+#28	AnnotatorNotes T30	lemma = 'kid'
+T31	PNQ 70 73	who
+#29	AnnotatorNotes T31	lemma = 'who'
+T32	VDD 74 77	did
+#30	AnnotatorNotes T32	lemma = 'do'
+T33	AJ0 78 86	physical
+#31	AnnotatorNotes T33	lemma = 'physical'
+T34	NN2 87 96	exercises
+#32	AnnotatorNotes T34	lemma = 'exercise'
+T35	PRP 97 101	from
+#33	AnnotatorNotes T35	lemma = 'from'
+T36	CRD 102 106	1985
+#34	AnnotatorNotes T36	lemma = '1985'
+T37	PRP 107 109	to
+#35	AnnotatorNotes T37	lemma = 'to'
+T38	CRD 110 114	2005
+#36	AnnotatorNotes T38	lemma = '2005'
+T39	CJC 115 118	and
+#37	AnnotatorNotes T39	lemma = 'and'
+T40	PRP 119 121	in
+#38	AnnotatorNotes T40	lemma = 'in'
+T41	CRD 122 126	1990
+#39	AnnotatorNotes T41	lemma = '1990'
+T42	CJC 127 130	and
+#40	AnnotatorNotes T42	lemma = 'and'
+T43	CRD 131 135	2005
+#41	AnnotatorNotes T43	lemma = '2005'
+T44	AV0 136 146	relatively
+#42	AnnotatorNotes T44	lemma = 'relatively'
+T45	SENT 146 147	.
+#43	AnnotatorNotes T45	lemma = '.'
+T46	AV0 148 155	Overall
+#44	AnnotatorNotes T46	lemma = 'overall'
+T47	PUN 155 156	,
+#45	AnnotatorNotes T47	lemma = ','
+T48	EX0 157 162	there
+#46	AnnotatorNotes T48	lemma = 'there'
+T49	VBZ 163 165	is
+#47	AnnotatorNotes T49	lemma = 'be'
+T50	AT0 166 167	a
+#48	AnnotatorNotes T50	lemma = 'a'
+T51	NN1 168 176	tendency
+#49	AnnotatorNotes T51	lemma = 'tendency'
+T52	PRP 177 180	for
+#50	AnnotatorNotes T52	lemma = 'for'
+T53	AT0 181 184	the
+#51	AnnotatorNotes T53	lemma = 'the'
+T54	NN1 185 189	rise
+#52	AnnotatorNotes T54	lemma = 'rise'
+T55	PRF 190 192	of
+#53	AnnotatorNotes T55	lemma = 'of'
+T56	AT0 193 196	the
+#54	AnnotatorNotes T56	lemma = 'the'
+T57	NN1 197 207	percentage
+#55	AnnotatorNotes T57	lemma = 'percentage'
+T58	PRF 208 210	of
+#56	AnnotatorNotes T58	lemma = 'of'
+T59	AJ0 211 221	overweight
+#57	AnnotatorNotes T59	lemma = 'overweight'
+T60	NN2 222 230	children
+#58	AnnotatorNotes T60	lemma = 'child'
+T61	PRP 231 241	throughout
+#59	AnnotatorNotes T61	lemma = 'throughout'
+T62	AT0 242 245	the
+#60	AnnotatorNotes T62	lemma = 'the'
+T63	AJ0 246 251	given
+#61	AnnotatorNotes T63	lemma = 'given|give'
+T64	NN1 252 258	period
+#62	AnnotatorNotes T64	lemma = 'period'
+T65	PRP 259 266	despite
+#63	AnnotatorNotes T65	lemma = 'despite'
+T66	AT0 267 270	the
+#64	AnnotatorNotes T66	lemma = 'the'
+T67	NN1 271 279	increase
+#65	AnnotatorNotes T67	lemma = 'increase'
+T68	PRF 280 282	of
+#66	AnnotatorNotes T68	lemma = 'of'
+T69	DT0 283 288	those
+#67	AnnotatorNotes T69	lemma = 'those'
+T70	PNQ 289 292	who
+#68	AnnotatorNotes T70	lemma = 'who'
+T71	VVD 293 303	excercised
+#69	AnnotatorNotes T71	lemma = 'excercised'
+T72	PRP 304 306	on
+#70	AnnotatorNotes T72	lemma = 'on'
+T73	AT0 307 308	a
+#71	AnnotatorNotes T73	lemma = 'a'
+T74	AJ0 309 316	regular
+#72	AnnotatorNotes T74	lemma = 'regular'
+T75	NN1 317 322	basis
+#73	AnnotatorNotes T75	lemma = 'basis'
+T76	SENT 322 323	.
+#74	AnnotatorNotes T76	lemma = '.'
+T77	AT0 325 328	The
+#75	AnnotatorNotes T77	lemma = 'the'
+T78	NN1 329 332	bar
+#76	AnnotatorNotes T78	lemma = 'bar'
+T79	NN1 333 338	chart
+#77	AnnotatorNotes T79	lemma = 'chart'
+T80	VVZ 339 346	reveals
+#78	AnnotatorNotes T80	lemma = 'reveal'
+T81	AT0 347 348	a
+#79	AnnotatorNotes T81	lemma = 'a'
+T82	NN1 349 357	tendency
+#80	AnnotatorNotes T82	lemma = 'tendency'
+T83	PRP 358 361	for
+#81	AnnotatorNotes T83	lemma = 'for'
+T84	AT0 362 365	the
+#82	AnnotatorNotes T84	lemma = 'the'
+T85	AJ0 366 373	gradual
+#83	AnnotatorNotes T85	lemma = 'gradual'
+T86	NN1 374 382	increase
+#84	AnnotatorNotes T86	lemma = 'increase'
+T87	PRF 383 385	of
+#85	AnnotatorNotes T87	lemma = 'of'
+T88	NN2 386 394	children
+#86	AnnotatorNotes T88	lemma = 'child'
+T89	PRP 395 399	with
+#87	AnnotatorNotes T89	lemma = 'with'
+T90	NN1 400 407	obesity
+#88	AnnotatorNotes T90	lemma = 'obesity'
+T91	PRF 408 410	of
+#89	AnnotatorNotes T91	lemma = 'of'
+T92	DT0 411 415	both
+#90	AnnotatorNotes T92	lemma = 'both'
+T93	NN2 416 421	sexes
+#91	AnnotatorNotes T93	lemma = 'sex'
+T94	PRP 422 426	from
+#92	AnnotatorNotes T94	lemma = 'from'
+T95	CRD 427 431	1985
+#93	AnnotatorNotes T95	lemma = '1985'
+T96	PRP 432 434	to
+#94	AnnotatorNotes T96	lemma = 'to'
+T97	CRD 435 439	2005
+#95	AnnotatorNotes T97	lemma = '2005'
+T98	SENT 439 440	.
+#96	AnnotatorNotes T98	lemma = '.'
+T99	AV0 441 448	However
+#97	AnnotatorNotes T99	lemma = 'however'
+T100	PUN 448 449	,
+#98	AnnotatorNotes T100	lemma = ','
+T101	PRP 450 454	from
+#99	AnnotatorNotes T101	lemma = 'from'
+T102	CRD 455 459	1985
+#100	AnnotatorNotes T102	lemma = '1985'
+T103	PRP 460 462	to
+#101	AnnotatorNotes T103	lemma = 'to'
+T104	CRD 463 467	1990
+#102	AnnotatorNotes T104	lemma = '1990'
+T105	NN2 468 473	girls
+#103	AnnotatorNotes T105	lemma = 'girl'
+T106	VBD 474 478	were
+#104	AnnotatorNotes T106	lemma = 'be'
+T107	AV0 479 483	more
+#105	AnnotatorNotes T107	lemma = 'more'
+T108	AJ0 484 494	owerweight
+#106	AnnotatorNotes T108	lemma = 'owerweight'
+T109	CJS 495 499	than
+#107	AnnotatorNotes T109	lemma = 'than'
+T110	NN2 500 504	boys
+#108	AnnotatorNotes T110	lemma = 'boy'
+T111	PRP 505 509	with
+#109	AnnotatorNotes T111	lemma = 'with'
+T112	CRD 510 512	12
+#110	AnnotatorNotes T112	lemma = '12'
+T113	NN0 512 513	%
+#111	AnnotatorNotes T113	lemma = '%'
+T114	PRP 514 516	in
+#112	AnnotatorNotes T114	lemma = 'in'
+T115	NN1 517 527	comparison
+#113	AnnotatorNotes T115	lemma = 'comparison'
+T116	PRP 528 530	to
+#114	AnnotatorNotes T116	lemma = 'to'
+T117	CRD 531 533	11
+#115	AnnotatorNotes T117	lemma = '11'
+T118	NN0 533 534	%
+#116	AnnotatorNotes T118	lemma = '%'
+T119	AV0 535 545	relatively
+#117	AnnotatorNotes T119	lemma = 'relatively'
+T120	PRP 546 548	in
+#118	AnnotatorNotes T120	lemma = 'in'
+T121	CRD 549 553	1985
+#119	AnnotatorNotes T121	lemma = '1985'
+T122	CJC 554 557	and
+#120	AnnotatorNotes T122	lemma = 'and'
+T123	CRD 558 560	14
+#121	AnnotatorNotes T123	lemma = '14'
+T124	NN0 560 561	%
+#122	AnnotatorNotes T124	lemma = '%'
+T125	PRP 562 568	versus
+#123	AnnotatorNotes T125	lemma = 'versus'
+T126	CRD 569 571	12
+#124	AnnotatorNotes T126	lemma = '12'
+T127	NN0 571 572	%
+#125	AnnotatorNotes T127	lemma = '%'
+T128	PRP 573 575	in
+#126	AnnotatorNotes T128	lemma = 'in'
+T129	CRD 576 580	1990
+#127	AnnotatorNotes T129	lemma = '1990'
+T130	SENT 580 581	.
+#128	AnnotatorNotes T130	lemma = '.'
+T131	PRP 582 584	In
+#129	AnnotatorNotes T131	lemma = 'in'
+T132	CRD 585 589	1995
+#130	AnnotatorNotes T132	lemma = '1995'
+T133	DT0 590 595	these
+#131	AnnotatorNotes T133	lemma = 'these'
+T134	NN2 596 603	figures
+#132	AnnotatorNotes T134	lemma = 'figure'
+T135	NP0 604 610	levele
+#133	AnnotatorNotes T135	lemma = 'levele'
+T136	PRP 611 613	at
+#134	AnnotatorNotes T136	lemma = 'at'
+T137	CRD 614 616	16
+#135	AnnotatorNotes T137	lemma = '16'
+T138	NN0 616 617	%
+#136	AnnotatorNotes T138	lemma = '%'
+T139	DT0 618 622	both
+#137	AnnotatorNotes T139	lemma = 'both'
+T140	PRP 623 626	for
+#138	AnnotatorNotes T140	lemma = 'for'
+T141	NN2 627 631	boys
+#139	AnnotatorNotes T141	lemma = 'boy'
+T142	CJC 632 635	and
+#140	AnnotatorNotes T142	lemma = 'and'
+T143	NN2 636 641	girls
+#141	AnnotatorNotes T143	lemma = 'girl'
+T144	PUN 641 642	;
+#142	AnnotatorNotes T144	lemma = ';'
+T145	CJC 643 646	and
+#143	AnnotatorNotes T145	lemma = 'and'
+T146	PRP 647 651	from
+#144	AnnotatorNotes T146	lemma = 'from'
+T147	CRD 652 656	2000
+#145	AnnotatorNotes T147	lemma = '2000'
+T148	PRP 657 659	to
+#146	AnnotatorNotes T148	lemma = 'to'
+T149	CRD 660 664	2005
+#147	AnnotatorNotes T149	lemma = '2005'
+T150	NN2 665 669	boys
+#148	AnnotatorNotes T150	lemma = 'boy'
+T151	VBD 670 674	were
+#149	AnnotatorNotes T151	lemma = 'be'
+T152	VVG 675 683	becoming
+#150	AnnotatorNotes T152	lemma = 'become|becoming'
+T153	AV0 684 688	more
+#151	AnnotatorNotes T153	lemma = 'more'
+T154	AJ0 689 699	owerweight
+#152	AnnotatorNotes T154	lemma = 'owerweight'
+T155	CJC 700 703	and
+#153	AnnotatorNotes T155	lemma = 'and'
+T156	DPS 704 709	their
+#154	AnnotatorNotes T156	lemma = 'they'
+T157	NN1 710 716	number
+#155	AnnotatorNotes T157	lemma = 'number'
+T158	VVD 717 724	reached
+#156	AnnotatorNotes T158	lemma = 'reach'
+T159	CRD 725 727	25
+#157	AnnotatorNotes T159	lemma = '25'
+T160	NN0 727 728	%
+#158	AnnotatorNotes T160	lemma = '%'
+T161	PRF 729 731	of
+#159	AnnotatorNotes T161	lemma = 'of'
+T162	NN2 732 740	children
+#160	AnnotatorNotes T162	lemma = 'child'
+T163	VVN 741 749	compared
+#161	AnnotatorNotes T163	lemma = 'compare'
+T164	PRP 750 752	to
+#162	AnnotatorNotes T164	lemma = 'to'
+T165	CRD 753 755	22
+#163	AnnotatorNotes T165	lemma = '22'
+T166	NN0 755 756	%
+#164	AnnotatorNotes T166	lemma = '%'
+T167	PRP 757 760	for
+#165	AnnotatorNotes T167	lemma = 'for'
+T168	NN2 761 766	girls
+#166	AnnotatorNotes T168	lemma = 'girl'
+T169	SENT 766 767	.
+#167	AnnotatorNotes T169	lemma = '.'
+T170	AT0 769 772	The
+#168	AnnotatorNotes T170	lemma = 'the'
+T171	NN1 773 778	table
+#169	AnnotatorNotes T171	lemma = 'table'
+T172	VVZ 779 784	shows
+#170	AnnotatorNotes T172	lemma = 'show'
+T173	CJT 785 789	that
+#171	AnnotatorNotes T173	lemma = 'that'
+T174	AT0 790 793	the
+#172	AnnotatorNotes T174	lemma = 'the'
+T175	NN1 794 800	number
+#173	AnnotatorNotes T175	lemma = 'number'
+T176	PRF 801 803	of
+#174	AnnotatorNotes T176	lemma = 'of'
+T177	NN2 804 812	children
+#175	AnnotatorNotes T177	lemma = 'child'
+T178	PRF 813 815	of
+#176	AnnotatorNotes T178	lemma = 'of'
+T179	DT0 816 820	both
+#177	AnnotatorNotes T179	lemma = 'both'
+T180	NN2 821 826	sexes
+#178	AnnotatorNotes T180	lemma = 'sex'
+T181	PNQ 827 830	who
+#179	AnnotatorNotes T181	lemma = 'who'
+T182	VDD 831 834	did
+#180	AnnotatorNotes T182	lemma = 'do'
+T183	AJ0 835 842	regular
+#181	AnnotatorNotes T183	lemma = 'regular'
+T184	AJ0 843 851	physical
+#182	AnnotatorNotes T184	lemma = 'physical'
+T185	NN1 852 860	activity
+#183	AnnotatorNotes T185	lemma = 'activity'
+T186	VVN 861 870	increased
+#184	AnnotatorNotes T186	lemma = 'increase|increased'
+T187	PRP 871 875	from
+#185	AnnotatorNotes T187	lemma = 'from'
+T188	CRD 876 880	1990
+#186	AnnotatorNotes T188	lemma = '1990'
+T189	PRP 881 883	to
+#187	AnnotatorNotes T189	lemma = 'to'
+T190	CRD 884 888	2005
+#188	AnnotatorNotes T190	lemma = '2005'
+T191	PUN 888 889	:
+#189	AnnotatorNotes T191	lemma = ':'
+T192	PRP 890 894	from
+#190	AnnotatorNotes T192	lemma = 'from'
+T193	CRD 895 897	51
+#191	AnnotatorNotes T193	lemma = '51'
+T194	NN0 897 898	%
+#192	AnnotatorNotes T194	lemma = '%'
+T195	PRP 899 901	to
+#193	AnnotatorNotes T195	lemma = 'to'
+T196	CRD 902 904	77
+#194	AnnotatorNotes T196	lemma = '77'
+T197	NN0 904 905	%
+#195	AnnotatorNotes T197	lemma = '%'
+T198	PRP 906 909	for
+#196	AnnotatorNotes T198	lemma = 'for'
+T199	NN2 910 914	boys
+#197	AnnotatorNotes T199	lemma = 'boy'
+T200	CJC 915 918	and
+#198	AnnotatorNotes T200	lemma = 'and'
+T201	PRP 919 923	from
+#199	AnnotatorNotes T201	lemma = 'from'
+T202	CRD 924 926	57
+#200	AnnotatorNotes T202	lemma = '57'
+T203	NN0 926 927	%
+#201	AnnotatorNotes T203	lemma = '%'
+T204	PRP 928 930	to
+#202	AnnotatorNotes T204	lemma = 'to'
+T205	CRD 931 933	87
+#203	AnnotatorNotes T205	lemma = '87'
+T206	NN0 933 934	%
+#204	AnnotatorNotes T206	lemma = '%'
+T207	PRP 935 938	for
+#205	AnnotatorNotes T207	lemma = 'for'
+T208	NN2 939 944	girls
+#206	AnnotatorNotes T208	lemma = 'girl'
+T209	PUN 944 945	;
+#207	AnnotatorNotes T209	lemma = ';'
+T210	CJC 946 949	and
+#208	AnnotatorNotes T210	lemma = 'and'
+T211	PRP 950 952	in
+#209	AnnotatorNotes T211	lemma = 'in'
+T212	AJ0 953 960	general
+#210	AnnotatorNotes T212	lemma = 'general'
+T213	NN2 961 966	girls
+#211	AnnotatorNotes T213	lemma = 'girl'
+T214	VVD 967 973	tended
+#212	AnnotatorNotes T214	lemma = 'tend'
+T215	TO0 974 976	to
+#213	AnnotatorNotes T215	lemma = 'to'
+T216	VVI 977 986	excersise
+#214	AnnotatorNotes T216	lemma = 'excersise'
+T217	AV0 987 991	more
+#215	AnnotatorNotes T217	lemma = 'more'
+T218	CJS 992 996	than
+#216	AnnotatorNotes T218	lemma = 'than'
+T219	NN2 997 1001	boys
+#217	AnnotatorNotes T219	lemma = 'boy'
+T220	SENT 1001 1002	.
+#218	AnnotatorNotes T220	lemma = '.'

@@ -1,0 +1,187 @@
+T1	Determiners 63 68	level
+A1	Cause T1 Other
+A2	Weight-language T1 Minor
+A3	Weight-understanding T1 Minor
+#1	AnnotatorNotes T1	their level
+T2	Absence_explanation 98 105	in 1999
+A4	Cause T2 Other
+A5	Weight-language T2 Minor
+A6	Weight-understanding T2 Major
+#2	AnnotatorNotes T2	in 1999 in Australia
+T3	Absence_comp_sent 182 188	higher
+A7	Cause T3 Other
+A8	Weight-language T3 Critical
+A9	Weight-understanding T3 Major
+#3	AnnotatorNotes T3	was higher
+T4	lex_item_choice 201 205	data
+A10	Cause T4 Other
+A11	Weight-language T4 Major
+A12	Weight-understanding T4 Major
+#4	AnnotatorNotes T4	one
+T5	Determiners 209 213	such
+A13	Cause T5 Other
+A14	Weight-language T5 Minor
+A15	Weight-understanding T5 Major
+#5	AnnotatorNotes T5	these
+T6	Redundant_comp 280 287	in time
+A16	Cause T6 Other
+A17	Weight-language T6 Major
+A18	Weight-understanding T6 Major
+A19	Delete T6
+T7	Absence_comp_sent 288 294	higher
+A20	Cause T7 Other
+A21	Weight-language T7 Critical
+A22	Weight-understanding T7 Major
+#6	AnnotatorNotes T7	was higher
+T8	lex_item_choice 309 313	data
+A23	Cause T8 Other
+A24	Weight-language T8 Major
+A25	Weight-understanding T8 Major
+#7	AnnotatorNotes T8	one
+T9	Articles 300 313	female's data
+A26	Cause T9 Absence_of_Category_in_L1
+A27	Weight-language T9 Major
+A28	Weight-understanding T9 Major
+#8	AnnotatorNotes T9	the females' one
+T10	Noun_number 300 308	female's
+A29	Cause T10 Typo
+A30	Weight-language T10 Major
+A31	Weight-understanding T10 Major
+#9	AnnotatorNotes T10	females'
+T11	Articles 194 205	male's data
+A32	Cause T11 Absence_of_Category_in_L1
+A33	Weight-language T11 Major
+A34	Weight-understanding T11 Major
+#10	AnnotatorNotes T11	the males' one
+T12	Noun_number 194 200	male's
+A35	Cause T12 Typo
+A36	Weight-language T12 Major
+A37	Weight-understanding T12 Major
+#11	AnnotatorNotes T12	males'
+T13	Absence_comp_sent 315 355	The difference between females and males
+A38	Cause T13 Other
+A39	Weight-language T13 Critical
+A40	Weight-understanding T13 Critical
+#12	AnnotatorNotes T13	NOT FINISHED
+T14	DET 0 3	The
+#13	AnnotatorNotes T14	lemma = 'the'
+T15	NOUN 4 9	chart
+#14	AnnotatorNotes T15	lemma = 'chart'
+T16	VERB 10 22	demonstrates
+#15	AnnotatorNotes T16	lemma = 'demonstrate'
+T17	DET 23 26	the
+#16	AnnotatorNotes T17	lemma = 'the'
+T18	NOUN 27 37	difference
+#17	AnnotatorNotes T18	lemma = 'difference'
+T19	ADP 38 45	between
+#18	AnnotatorNotes T19	lemma = 'between'
+T20	NOUN 46 49	men
+#19	AnnotatorNotes T20	lemma = 'man'
+T21	CCONJ 50 53	and
+#20	AnnotatorNotes T21	lemma = 'and'
+T22	NOUN 54 59	women
+#21	AnnotatorNotes T22	lemma = 'women'
+T23	ADP 60 62	in
+#22	AnnotatorNotes T23	lemma = 'in'
+T24	NOUN 63 68	level
+#23	AnnotatorNotes T24	lemma = 'level'
+T25	ADP 69 71	of
+#24	AnnotatorNotes T25	lemma = 'of'
+T26	NOUN 72 76	post
+#25	AnnotatorNotes T26	lemma = 'post'
+T27	PUNCT 76 77	-
+#26	AnnotatorNotes T27	lemma = '-'
+T28	NOUN 77 83	school
+#27	AnnotatorNotes T28	lemma = 'school'
+T29	NOUN 84 97	qualification
+#28	AnnotatorNotes T29	lemma = 'qualification'
+T30	ADP 98 100	in
+#29	AnnotatorNotes T30	lemma = 'in'
+T31	NUM 101 105	1999
+#30	AnnotatorNotes T31	lemma = '1999'
+T32	PUNCT 105 106	.
+#31	AnnotatorNotes T32	lemma = '.'
+T33	DET 107 110	The
+#32	AnnotatorNotes T33	lemma = 'the'
+T34	NOUN 111 121	percentage
+#33	AnnotatorNotes T34	lemma = 'percentage'
+T35	ADP 122 124	of
+#34	AnnotatorNotes T35	lemma = 'of'
+T36	NOUN 125 132	females
+#35	AnnotatorNotes T36	lemma = 'female'
+T37	ADP 133 137	with
+#36	AnnotatorNotes T37	lemma = 'with'
+T38	ADJ 138 151	undergraduate
+#37	AnnotatorNotes T38	lemma = 'undergraduate'
+T39	NOUN 152 159	diploma
+#38	AnnotatorNotes T39	lemma = 'diploma'
+T40	CCONJ 160 163	and
+#39	AnnotatorNotes T40	lemma = 'and'
+T41	NOUN 164 172	bachelor
+#40	AnnotatorNotes T41	lemma = 'bachelor'
+T42	PART 172 174	's
+#41	AnnotatorNotes T42	lemma = ''s'
+T43	NOUN 175 181	degree
+#42	AnnotatorNotes T43	lemma = 'degree'
+T44	ADJ 182 188	higher
+#43	AnnotatorNotes T44	lemma = 'higher'
+T45	ADP 189 193	than
+#44	AnnotatorNotes T45	lemma = 'than'
+T46	NOUN 194 198	male
+#45	AnnotatorNotes T46	lemma = 'male'
+T47	PART 198 200	's
+#46	AnnotatorNotes T47	lemma = ''s'
+T48	NOUN 201 205	data
+#47	AnnotatorNotes T48	lemma = 'datum'
+T49	ADP 206 208	in
+#48	AnnotatorNotes T49	lemma = 'in'
+T50	DET 209 213	such
+#49	AnnotatorNotes T50	lemma = 'such'
+T51	NOUN 214 224	categories
+#50	AnnotatorNotes T51	lemma = 'category'
+T52	PUNCT 224 225	.
+#51	AnnotatorNotes T52	lemma = '.'
+T53	DET 226 229	The
+#52	AnnotatorNotes T53	lemma = 'the'
+T54	NOUN 230 240	percentage
+#53	AnnotatorNotes T54	lemma = 'percentage'
+T55	ADP 241 243	of
+#54	AnnotatorNotes T55	lemma = 'of'
+T56	NOUN 244 249	males
+#55	AnnotatorNotes T56	lemma = 'male'
+T57	ADP 250 254	with
+#56	AnnotatorNotes T57	lemma = 'with'
+T58	ADJ 255 262	skilled
+#57	AnnotatorNotes T58	lemma = 'skilled'
+T59	NOUN 263 271	vocation
+#58	AnnotatorNotes T59	lemma = 'vocation'
+T60	NOUN 272 279	diploma
+#59	AnnotatorNotes T60	lemma = 'diploma'
+T61	ADP 280 282	in
+#60	AnnotatorNotes T61	lemma = 'in'
+T62	NOUN 283 287	time
+#61	AnnotatorNotes T62	lemma = 'time'
+T63	ADJ 288 294	higher
+#62	AnnotatorNotes T63	lemma = 'higher'
+T64	ADP 295 299	than
+#63	AnnotatorNotes T64	lemma = 'than'
+T65	ADJ 300 306	female
+#64	AnnotatorNotes T65	lemma = 'female'
+T66	PART 306 308	's
+#65	AnnotatorNotes T66	lemma = ''s'
+T67	NOUN 309 313	data
+#66	AnnotatorNotes T67	lemma = 'datum'
+T68	PUNCT 313 314	.
+#67	AnnotatorNotes T68	lemma = '.'
+T69	DET 315 318	The
+#68	AnnotatorNotes T69	lemma = 'the'
+T70	NOUN 319 329	difference
+#69	AnnotatorNotes T70	lemma = 'difference'
+T71	ADP 330 337	between
+#70	AnnotatorNotes T71	lemma = 'between'
+T72	NOUN 338 345	females
+#71	AnnotatorNotes T72	lemma = 'female'
+T73	CCONJ 346 349	and
+#72	AnnotatorNotes T73	lemma = 'and'
+T74	NOUN 350 355	males
+#73	AnnotatorNotes T74	lemma = 'male'

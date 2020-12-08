@@ -1,0 +1,374 @@
+T1	Spelling 151 159	Yarkutsk
+#1	AnnotatorNotes T1	Yakutsk
+T2	Spelling 748 756	Yarkutsk
+#2	AnnotatorNotes T2	Yakutsk
+T3	Spelling 809 815	climat
+#3	AnnotatorNotes T3	climate
+T4	Spelling 173 186	drammatically
+#4	AnnotatorNotes T4	dramatically
+T5	Punctuation 337 347	in general
+#5	AnnotatorNotes T5	, in general,
+T6	lex_item_choice 382 387	equal
+#6	AnnotatorNotes T6	uniform
+T7	Spelling 610 621	temperatute
+#7	AnnotatorNotes T7	temperature
+T8	Prepositions 641 643	in
+#8	AnnotatorNotes T8	at
+T9	Prepositions 684 686	in
+#9	AnnotatorNotes T9	at
+T10	Punctuation 758 764	Russia
+#10	AnnotatorNotes T10	Russia,
+T11	Punctuation 785 791	Brazil
+#11	AnnotatorNotes T11	Brazil,
+T12	Agreement_errors 792 804	demonstrates
+#12	AnnotatorNotes T12	demonstrate
+T13	Agreement_errors 728 739	differences
+R1	Dependent_change Arg1:T12 Arg2:T13
+T14	note 861 862	.
+#13	AnnotatorNotes T14	Zavyalov
+T15	AT0 0 3	The
+#14	AnnotatorNotes T15	lemma = 'the'
+T16	NN2 4 10	graphs
+#15	AnnotatorNotes T16	lemma = 'graph'
+T17	VVB 11 18	present
+#16	AnnotatorNotes T17	lemma = 'present'
+T18	AT0 19 22	the
+#17	AnnotatorNotes T18	lemma = 'the'
+T19	NN1 23 34	information
+#18	AnnotatorNotes T19	lemma = 'information'
+T20	PRP 35 40	about
+#19	AnnotatorNotes T20	lemma = 'about'
+T21	AJ0 41 48	average
+#20	AnnotatorNotes T21	lemma = 'average'
+T22	NN2 49 61	temperatures
+#21	AnnotatorNotes T22	lemma = 'temperature'
+T23	PRP 62 64	in
+#22	AnnotatorNotes T23	lemma = 'in'
+T24	NP0 65 72	Yakutsk
+#23	AnnotatorNotes T24	lemma = 'yakutsk'
+T25	CJC 73 76	and
+#24	AnnotatorNotes T25	lemma = 'and'
+T26	PRP 77 79	in
+#25	AnnotatorNotes T26	lemma = 'in'
+T27	NP0 80 83	Rio
+#26	AnnotatorNotes T27	lemma = 'rio'
+T28	NP0 84 86	de
+#27	AnnotatorNotes T28	lemma = 'de'
+T29	NP0 87 94	Janeiro
+#28	AnnotatorNotes T29	lemma = 'janeiro'
+T30	PRP 95 101	during
+#29	AnnotatorNotes T30	lemma = 'during'
+T31	AT0 102 105	the
+#30	AnnotatorNotes T31	lemma = 'the'
+T32	NN1 106 110	year
+#31	AnnotatorNotes T32	lemma = 'year'
+T33	SENT 110 111	.
+#32	AnnotatorNotes T33	lemma = '.'
+T34	PNP 113 115	It
+#33	AnnotatorNotes T34	lemma = 'it'
+T35	VBZ 116 118	is
+#34	AnnotatorNotes T35	lemma = 'be'
+T36	AJ0 119 126	evident
+#35	AnnotatorNotes T36	lemma = 'evident'
+T37	CJT 127 131	that
+#36	AnnotatorNotes T37	lemma = 'that'
+T38	AT0 132 135	the
+#37	AnnotatorNotes T38	lemma = 'the'
+T39	NN1 136 147	temperature
+#38	AnnotatorNotes T39	lemma = 'temperature'
+T40	PRP 148 150	in
+#39	AnnotatorNotes T40	lemma = 'in'
+T41	NP0 151 159	Yarkutsk
+#40	AnnotatorNotes T41	lemma = 'Yarkutsk'
+T42	NN2 160 167	changes
+#41	AnnotatorNotes T42	lemma = 'change'
+T43	AV0 168 172	more
+#42	AnnotatorNotes T43	lemma = 'more'
+T44	AV0 173 186	drammatically
+#43	AnnotatorNotes T44	lemma = 'drammatically'
+T45	CJS 187 191	than
+#44	AnnotatorNotes T45	lemma = 'than'
+T46	PRP 192 194	in
+#45	AnnotatorNotes T46	lemma = 'in'
+T47	NP0 195 198	Rio
+#46	AnnotatorNotes T47	lemma = 'rio'
+T48	NP0 199 201	de
+#47	AnnotatorNotes T48	lemma = 'de'
+T49	NP0 202 209	Janeiro
+#48	AnnotatorNotes T49	lemma = 'janeiro'
+T50	SENT 209 210	.
+#49	AnnotatorNotes T50	lemma = '.'
+T51	PRP 211 213	In
+#50	AnnotatorNotes T51	lemma = 'in'
+T52	NP0 214 218	July
+#51	AnnotatorNotes T52	lemma = 'july'
+T53	PNP 219 221	it
+#52	AnnotatorNotes T53	lemma = 'it'
+T54	VVZ 222 229	reaches
+#53	AnnotatorNotes T54	lemma = 'reach'
+T55	DPS 230 233	its
+#54	AnnotatorNotes T55	lemma = 'it'
+T56	NN1 234 241	maximum
+#55	AnnotatorNotes T56	lemma = 'maximum'
+T57	PUL 242 243	(
+#56	AnnotatorNotes T57	lemma = '('
+T58	CRD 243 246	+25
+#57	AnnotatorNotes T58	lemma = '+25'
+T59	NP0 247 249	dg
+#58	AnnotatorNotes T59	lemma = 'dg'
+T60	PUR 249 250	)
+#59	AnnotatorNotes T60	lemma = ')'
+T61	PUN 250 251	,
+#60	AnnotatorNotes T61	lemma = ','
+T62	AV0 252 259	however
+#61	AnnotatorNotes T62	lemma = 'however'
+T63	AT0 260 263	the
+#62	AnnotatorNotes T63	lemma = 'the'
+T64	NP0 264 270	Brazil
+#63	AnnotatorNotes T64	lemma = 'brazil'
+T65	POS 270 272	's
+#64	AnnotatorNotes T65	lemma = 's'
+T66	NN1 273 280	maximum
+#65	AnnotatorNotes T66	lemma = 'maximum'
+T67	VVZ 281 286	seems
+#66	AnnotatorNotes T67	lemma = 'seem'
+T68	TO0 287 289	to
+#67	AnnotatorNotes T68	lemma = 'to'
+T69	VBI 290 292	be
+#68	AnnotatorNotes T69	lemma = 'be'
+T70	PRP 293 295	in
+#69	AnnotatorNotes T70	lemma = 'in'
+T71	NP0 296 303	January
+#70	AnnotatorNotes T71	lemma = 'january'
+T72	PUL 304 305	(
+#71	AnnotatorNotes T72	lemma = '('
+T73	CRD 305 308	+30
+#72	AnnotatorNotes T73	lemma = '+30'
+T74	NP0 309 311	dg
+#73	AnnotatorNotes T74	lemma = 'dg'
+T75	PUR 311 312	)
+#74	AnnotatorNotes T75	lemma = ')'
+T76	SENT 312 313	.
+#75	AnnotatorNotes T76	lemma = '.'
+T77	PNP 314 316	It
+#76	AnnotatorNotes T77	lemma = 'it'
+T78	VM0 317 320	can
+#77	AnnotatorNotes T78	lemma = 'can'
+T79	VBI 321 323	be
+#78	AnnotatorNotes T79	lemma = 'be'
+T80	VVN 324 331	noticed
+#79	AnnotatorNotes T80	lemma = 'notice'
+T81	CJT 332 336	that
+#80	AnnotatorNotes T81	lemma = 'that'
+T82	PRP 337 339	in
+#81	AnnotatorNotes T82	lemma = 'in'
+T83	AJ0 340 347	general
+#82	AnnotatorNotes T83	lemma = 'general'
+T84	AT0 348 351	the
+#83	AnnotatorNotes T84	lemma = 'the'
+T85	NN1 352 363	temperature
+#84	AnnotatorNotes T85	lemma = 'temperature'
+T86	PRP 364 366	in
+#85	AnnotatorNotes T86	lemma = 'in'
+T87	NP0 367 373	Brazil
+#86	AnnotatorNotes T87	lemma = 'brazil'
+T88	VBZ 374 376	is
+#87	AnnotatorNotes T88	lemma = 'be'
+T89	AV0 377 381	more
+#88	AnnotatorNotes T89	lemma = 'more'
+T90	AJ0 382 387	equal
+#89	AnnotatorNotes T90	lemma = 'equal'
+T91	PRP 388 394	during
+#90	AnnotatorNotes T91	lemma = 'during'
+T92	AT0 395 398	the
+#91	AnnotatorNotes T92	lemma = 'the'
+T93	NN1 399 403	year
+#92	AnnotatorNotes T93	lemma = 'year'
+T94	PUL 404 405	(
+#93	AnnotatorNotes T94	lemma = '('
+T95	PNP 405 407	it
+#94	AnnotatorNotes T95	lemma = 'it'
+T96	VVZ 408 415	changes
+#95	AnnotatorNotes T96	lemma = 'change'
+T97	PRP 416 420	from
+#96	AnnotatorNotes T97	lemma = 'from'
+T98	AJ0 421 424	+18
+#97	AnnotatorNotes T98	lemma = '+18'
+T99	NN1 425 427	dg
+#98	AnnotatorNotes T99	lemma = 'dg'
+T100	PRP 428 430	to
+#99	AnnotatorNotes T100	lemma = 'to'
+T101	CRD 431 434	+30
+#100	AnnotatorNotes T101	lemma = '+30'
+T102	NP0 435 437	gd
+#101	AnnotatorNotes T102	lemma = 'gd'
+T103	PUR 437 438	)
+#102	AnnotatorNotes T103	lemma = ')'
+T104	CJC 439 442	and
+#103	AnnotatorNotes T104	lemma = 'and'
+T105	PRP 443 445	in
+#104	AnnotatorNotes T105	lemma = 'in'
+T106	NP0 446 452	Russia
+#105	AnnotatorNotes T106	lemma = 'russia'
+T107	EX0 453 458	there
+#106	AnnotatorNotes T107	lemma = 'there'
+T108	VBZ 459 461	is
+#107	AnnotatorNotes T108	lemma = 'be'
+T109	AT0 462 463	a
+#108	AnnotatorNotes T109	lemma = 'a'
+T110	AJ0 464 467	big
+#109	AnnotatorNotes T110	lemma = 'big'
+T111	NN1 468 471	gap
+#110	AnnotatorNotes T111	lemma = 'gap'
+T112	PRP 472 479	between
+#111	AnnotatorNotes T112	lemma = 'between'
+T113	AT0 480 483	the
+#112	AnnotatorNotes T113	lemma = 'the'
+T114	AJS 484 491	hottest
+#113	AnnotatorNotes T114	lemma = 'hot'
+T115	CJC 492 495	and
+#114	AnnotatorNotes T115	lemma = 'and'
+T116	AT0 496 499	the
+#115	AnnotatorNotes T116	lemma = 'the'
+T117	AJS 500 507	coldest
+#116	AnnotatorNotes T117	lemma = 'cold'
+T118	NN1 508 515	weather
+#117	AnnotatorNotes T118	lemma = 'weather'
+T119	PUN 515 516	:
+#118	AnnotatorNotes T119	lemma = ':'
+T120	PRP 517 521	from
+#119	AnnotatorNotes T120	lemma = 'from'
+T121	CRD 522 525	-40
+#120	AnnotatorNotes T121	lemma = '-40'
+T122	NN1 526 528	dg
+#121	AnnotatorNotes T122	lemma = 'dg'
+T123	PRP 529 531	to
+#122	AnnotatorNotes T123	lemma = 'to'
+T124	AJ0 532 535	+25
+#123	AnnotatorNotes T124	lemma = '+25'
+T125	NN1 536 538	dg
+#124	AnnotatorNotes T125	lemma = 'dg'
+T126	SENT 538 539	.
+#125	AnnotatorNotes T126	lemma = '.'
+T127	PNP 540 542	It
+#126	AnnotatorNotes T127	lemma = 'it'
+T128	VBZ 543 545	is
+#127	AnnotatorNotes T128	lemma = 'be'
+T129	VVN 546 552	caused
+#128	AnnotatorNotes T129	lemma = 'cause'
+T130	PRP 553 555	by
+#129	AnnotatorNotes T130	lemma = 'by'
+T131	AT0 556 559	the
+#130	AnnotatorNotes T131	lemma = 'the'
+T132	AJ0 560 572	geographical
+#131	AnnotatorNotes T132	lemma = 'geographical'
+T133	NN1 573 581	location
+#132	AnnotatorNotes T133	lemma = 'location'
+T134	PRF 582 584	of
+#133	AnnotatorNotes T134	lemma = 'of'
+T135	AT0 585 588	the
+#134	AnnotatorNotes T135	lemma = 'the'
+T136	NN2 589 595	cities
+#135	AnnotatorNotes T136	lemma = 'city'
+T137	SENT 595 596	.
+#136	AnnotatorNotes T137	lemma = '.'
+T138	AT0 597 600	The
+#137	AnnotatorNotes T138	lemma = 'the'
+T139	NP0 601 607	Brazil
+#138	AnnotatorNotes T139	lemma = 'brazil'
+T140	POS 607 609	's
+#139	AnnotatorNotes T140	lemma = 's'
+T141	NN1 610 621	temperatute
+#140	AnnotatorNotes T141	lemma = 'temperatute'
+T142	NN1 622 629	minimum
+#141	AnnotatorNotes T142	lemma = 'minimum'
+T143	VBZ 630 632	is
+#142	AnnotatorNotes T143	lemma = 'be'
+T144	VVN 633 640	noticed
+#143	AnnotatorNotes T144	lemma = 'notice'
+T145	PRP 641 643	in
+#144	AnnotatorNotes T145	lemma = 'in'
+T146	AT0 644 647	the
+#145	AnnotatorNotes T146	lemma = 'the'
+T147	NN1 648 653	point
+#146	AnnotatorNotes T147	lemma = 'point'
+T148	PRF 654 656	of
+#147	AnnotatorNotes T148	lemma = 'of'
+T149	AJ0 657 660	+18
+#148	AnnotatorNotes T149	lemma = '+18'
+T150	NN1 661 663	dg
+#149	AnnotatorNotes T150	lemma = 'dg'
+T151	PUN 663 664	,
+#150	AnnotatorNotes T151	lemma = ','
+T152	CJC 665 668	and
+#151	AnnotatorNotes T152	lemma = 'and'
+T153	AJ0 669 676	Russian
+#152	AnnotatorNotes T153	lemma = 'russian'
+T154	PNI 677 680	one
+#153	AnnotatorNotes T154	lemma = 'one'
+T155	VBZ 681 683	is
+#154	AnnotatorNotes T155	lemma = 'be'
+T156	PRP 684 686	in
+#155	AnnotatorNotes T156	lemma = 'in'
+T157	AT0 687 690	the
+#156	AnnotatorNotes T157	lemma = 'the'
+T158	CRD 691 694	-40
+#157	AnnotatorNotes T158	lemma = '-40'
+T159	NN1 695 697	dg
+#158	AnnotatorNotes T159	lemma = 'dg'
+T160	SENT 697 698	.
+#159	AnnotatorNotes T160	lemma = '.'
+T161	DT0 700 703	All
+#160	AnnotatorNotes T161	lemma = 'all'
+T162	PRP 704 706	in
+#161	AnnotatorNotes T162	lemma = 'in'
+T163	DT0 707 710	all
+#162	AnnotatorNotes T163	lemma = 'all'
+T164	PUN 710 711	,
+#163	AnnotatorNotes T164	lemma = ','
+T165	AT0 712 715	the
+#164	AnnotatorNotes T165	lemma = 'the'
+T166	NN1 716 727	temperature
+#165	AnnotatorNotes T166	lemma = 'temperature'
+T167	NN2 728 739	differences
+#166	AnnotatorNotes T167	lemma = 'difference'
+T168	PRP 740 747	between
+#167	AnnotatorNotes T168	lemma = 'between'
+T169	NP0 748 756	Yarkutsk
+#168	AnnotatorNotes T169	lemma = 'Yarkutsk'
+T170	PUN 756 757	,
+#169	AnnotatorNotes T170	lemma = ','
+T171	NP0 758 764	Russia
+#170	AnnotatorNotes T171	lemma = 'russia'
+T172	CJC 765 768	and
+#171	AnnotatorNotes T172	lemma = 'and'
+T173	NP0 769 772	Rio
+#172	AnnotatorNotes T173	lemma = 'rio'
+T174	NP0 773 775	de
+#173	AnnotatorNotes T174	lemma = 'de'
+T175	NP0 776 783	Janeiro
+#174	AnnotatorNotes T175	lemma = 'janeiro'
+T176	PUN 783 784	,
+#175	AnnotatorNotes T176	lemma = ','
+T177	NP0 785 791	Brazil
+#176	AnnotatorNotes T177	lemma = 'brazil'
+T178	VVZ 792 804	demonstrates
+#177	AnnotatorNotes T178	lemma = 'demonstrate'
+T179	AT0 805 808	the
+#178	AnnotatorNotes T179	lemma = 'the'
+T180	AJ0 809 815	climat
+#179	AnnotatorNotes T180	lemma = 'climat'
+T181	NN2 816 827	differences
+#180	AnnotatorNotes T181	lemma = 'difference'
+T182	PRP 828 835	between
+#181	AnnotatorNotes T182	lemma = 'between'
+T183	NP0 836 841	South
+#182	AnnotatorNotes T183	lemma = 'south'
+T184	NP0 842 849	America
+#183	AnnotatorNotes T184	lemma = 'america'
+T185	CJC 850 853	and
+#184	AnnotatorNotes T185	lemma = 'and'
+T186	NP0 854 861	Eurasia
+#185	AnnotatorNotes T186	lemma = 'eurasia'
+T187	SENT 861 862	.
+#186	AnnotatorNotes T187	lemma = ''

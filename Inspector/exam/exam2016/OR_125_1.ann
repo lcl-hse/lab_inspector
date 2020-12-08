@@ -1,0 +1,516 @@
+T1	Spelling 42 52	smartphone
+#1	AnnotatorNotes T1	smartphones
+T2	Spelling 245 255	smartphone
+#2	AnnotatorNotes T2	smartphones
+T3	Spelling 548 558	smartphone
+#3	AnnotatorNotes T3	smartphones
+T4	Spelling 738 748	smartphone
+#4	AnnotatorNotes T4	smartphones
+T5	Spelling 1139 1149	smartphone
+#5	AnnotatorNotes T5	smartphones
+T6	Prepositions 61 63	in
+#6	AnnotatorNotes T6	from
+T7	Articles 93 107	the percentage
+#7	AnnotatorNotes T7	percentage
+T8	Articles 231 237	amount
+#8	AnnotatorNotes T8	the amount
+T9	Punctuation 382 383	,
+A1	Delete T9
+T10	Punctuation 287 365	this graph shows that Apple corporation have biggest profits all over the time
+#9	AnnotatorNotes T10	this graph shows that Apple corporation had the biggest profits all over the time,
+T11	Tense_choice 327 331	have
+#10	AnnotatorNotes T11	had
+T12	Articles 332 347	biggest profits
+#11	AnnotatorNotes T12	the biggest profits
+T13	Agreement_errors 434 437	are
+#12	AnnotatorNotes T13	is
+T14	Tense_choice 395 400	takes
+#13	AnnotatorNotes T14	has been taking
+T15	lex_item_choice 510 520	were takes
+#14	AnnotatorNotes T15	had
+T16	lex_item_choice 588 599	has grow up
+#15	AnnotatorNotes T16	increased
+T17	Tense_choice 588 599	has grow up
+#16	AnnotatorNotes T17	increased
+T18	Punctuation 606 613	profits
+#17	AnnotatorNotes T18	profits,
+T19	lex_item_choice 661 673	for nowadays
+#18	AnnotatorNotes T19	to date
+T20	Confusion_of_structures 715 718	bit
+A2	Delete T20
+T21	Tense_choice 772 776	have
+#19	AnnotatorNotes T21	had
+T22	DT0 0 4	This
+#20	AnnotatorNotes T22	lemma = 'this'
+T23	NN1 5 10	graph
+#21	AnnotatorNotes T23	lemma = 'graph'
+T24	VVZ 11 16	shows
+#22	AnnotatorNotes T24	lemma = 'show'
+T25	AT0 17 20	the
+#23	AnnotatorNotes T25	lemma = 'the'
+T26	NN1 21 27	volume
+#24	AnnotatorNotes T26	lemma = 'volume'
+T27	PRF 28 30	of
+#25	AnnotatorNotes T27	lemma = 'of'
+T28	AT0 31 34	the
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	AJ0 35 41	global
+#27	AnnotatorNotes T29	lemma = 'global'
+T30	NN1 42 52	smartphone
+#28	AnnotatorNotes T30	lemma = 'smartphone'
+T31	NN2 53 60	profits
+#29	AnnotatorNotes T31	lemma = 'profit'
+T32	PRP 61 63	in
+#30	AnnotatorNotes T32	lemma = 'in'
+T33	CRD 64 68	2010
+#31	AnnotatorNotes T33	lemma = '2010'
+T34	PRP 69 71	to
+#32	AnnotatorNotes T34	lemma = 'to'
+T35	CRD 72 76	2015
+#33	AnnotatorNotes T35	lemma = '2015'
+T36	PUN 76 77	,
+#34	AnnotatorNotes T36	lemma = ','
+T37	DTQ 78 83	which
+#35	AnnotatorNotes T37	lemma = 'which'
+T38	VVZ 84 89	shows
+#36	AnnotatorNotes T38	lemma = 'show'
+T39	PRP 90 92	in
+#37	AnnotatorNotes T39	lemma = 'in'
+T40	AT0 93 96	the
+#38	AnnotatorNotes T40	lemma = 'the'
+T41	NN1 97 107	percentage
+#39	AnnotatorNotes T41	lemma = 'percentage'
+T42	SENT 107 108	.
+#40	AnnotatorNotes T42	lemma = '.'
+T43	EX0 109 114	There
+#41	AnnotatorNotes T43	lemma = 'there'
+T44	VBZ 115 117	is
+#42	AnnotatorNotes T44	lemma = 'be'
+T45	AT0 118 121	the
+#43	AnnotatorNotes T45	lemma = 'the'
+T46	NN1 122 133	information
+#44	AnnotatorNotes T46	lemma = 'information'
+T47	PRP 134 139	about
+#45	AnnotatorNotes T47	lemma = 'about'
+T48	CRD 140 144	four
+#46	AnnotatorNotes T48	lemma = 'four'
+T49	NN2 145 154	companies
+#47	AnnotatorNotes T49	lemma = 'company'
+T50	PUN 154 155	:
+#48	AnnotatorNotes T50	lemma = ':'
+T51	NN1 156 161	Apple
+#49	AnnotatorNotes T51	lemma = 'apple'
+T52	PUN 161 162	,
+#50	AnnotatorNotes T52	lemma = ','
+T53	NP0 163 170	Samsung
+#51	AnnotatorNotes T53	lemma = 'samsung'
+T54	PUN 170 171	,
+#52	AnnotatorNotes T54	lemma = ','
+T55	NP0 172 182	Blackberry
+#53	AnnotatorNotes T55	lemma = 'blackberry'
+T56	CJC 183 186	and
+#54	AnnotatorNotes T56	lemma = 'and'
+T57	NP0 187 190	HTC
+#55	AnnotatorNotes T57	lemma = 'HTC'
+T58	SENT 190 191	.
+#56	AnnotatorNotes T58	lemma = '.'
+T59	DT0 192 196	This
+#57	AnnotatorNotes T59	lemma = 'this'
+T60	NN2 197 206	companies
+#58	AnnotatorNotes T60	lemma = 'company'
+T61	AV0 207 215	together
+#59	AnnotatorNotes T61	lemma = 'together'
+T62	VVB 216 219	set
+#60	AnnotatorNotes T62	lemma = 'set'
+T63	AVP 220 222	up
+#61	AnnotatorNotes T63	lemma = 'up'
+T64	AV0 223 227	most
+#62	AnnotatorNotes T64	lemma = 'most'
+T65	PRF 228 230	of
+#63	AnnotatorNotes T65	lemma = 'of'
+T66	NN1 231 237	amount
+#64	AnnotatorNotes T66	lemma = 'amount'
+T67	PRF 238 240	of
+#65	AnnotatorNotes T67	lemma = 'of'
+T68	AT0 241 244	the
+#66	AnnotatorNotes T68	lemma = 'the'
+T69	NN1 245 255	smartphone
+#67	AnnotatorNotes T69	lemma = 'smartphone'
+T70	POS 255 257	's
+#68	AnnotatorNotes T70	lemma = 's'
+T71	NN1 258 264	market
+#69	AnnotatorNotes T71	lemma = 'market'
+T72	NN1 265 271	volume
+#70	AnnotatorNotes T72	lemma = 'volume'
+T73	SENT 271 272	.
+#71	AnnotatorNotes T73	lemma = '.'
+T74	ORD 273 278	First
+#72	AnnotatorNotes T74	lemma = 'first'
+T75	PRF 279 281	of
+#73	AnnotatorNotes T75	lemma = 'of'
+T76	DT0 282 285	all
+#74	AnnotatorNotes T76	lemma = 'all'
+T77	PUN 285 286	,
+#75	AnnotatorNotes T77	lemma = ','
+T78	DT0 287 291	this
+#76	AnnotatorNotes T78	lemma = 'this'
+T79	NN1 292 297	graph
+#77	AnnotatorNotes T79	lemma = 'graph'
+T80	VVZ 298 303	shows
+#78	AnnotatorNotes T80	lemma = 'show'
+T81	CJT 304 308	that
+#79	AnnotatorNotes T81	lemma = 'that'
+T82	NN1 309 314	Apple
+#80	AnnotatorNotes T82	lemma = 'apple'
+T83	NN1 315 326	corporation
+#81	AnnotatorNotes T83	lemma = 'corporation'
+T84	VHB 327 331	have
+#82	AnnotatorNotes T84	lemma = 'have'
+T85	AJS 332 339	biggest
+#83	AnnotatorNotes T85	lemma = 'big'
+T86	NN2 340 347	profits
+#84	AnnotatorNotes T86	lemma = 'profit'
+T87	DT0 348 351	all
+#85	AnnotatorNotes T87	lemma = 'all'
+T88	PRP 352 356	over
+#86	AnnotatorNotes T88	lemma = 'over'
+T89	AT0 357 360	the
+#87	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 361 365	time
+#88	AnnotatorNotes T90	lemma = 'time'
+T91	AT0 366 369	the
+#89	AnnotatorNotes T91	lemma = 'the'
+T92	ORD 370 376	second
+#90	AnnotatorNotes T92	lemma = 'second'
+T93	NN1 377 382	place
+#91	AnnotatorNotes T93	lemma = 'place'
+T94	PUN 382 383	,
+#92	AnnotatorNotes T94	lemma = ','
+T95	CJS 384 389	since
+#93	AnnotatorNotes T95	lemma = 'since'
+T96	CRD 390 394	2011
+#94	AnnotatorNotes T96	lemma = '2011'
+T97	VVZ 395 400	takes
+#95	AnnotatorNotes T97	lemma = 'take'
+T98	AJ0 401 408	Samsung
+#96	AnnotatorNotes T98	lemma = 'samsung'
+T99	NN1 409 420	corporation
+#97	AnnotatorNotes T99	lemma = 'corporation'
+T100	SENT 420 421	.
+#98	AnnotatorNotes T100	lemma = '.'
+T101	AV0 422 426	Also
+#99	AnnotatorNotes T101	lemma = 'also'
+T102	PUN 426 427	,
+#100	AnnotatorNotes T102	lemma = ','
+T103	EX0 428 433	there
+#101	AnnotatorNotes T103	lemma = 'there'
+T104	VBB 434 437	are
+#102	AnnotatorNotes T104	lemma = 'be'
+T105	CRD 438 441	one
+#103	AnnotatorNotes T105	lemma = 'one'
+T106	DT0 442 446	more
+#104	AnnotatorNotes T106	lemma = 'more'
+T107	NN1 447 454	feature
+#105	AnnotatorNotes T107	lemma = 'feature'
+T108	PRP 455 459	from
+#106	AnnotatorNotes T108	lemma = 'from'
+T109	DT0 460 464	this
+#107	AnnotatorNotes T109	lemma = 'this'
+T110	NN1 465 470	graph
+#108	AnnotatorNotes T110	lemma = 'graph'
+T111	PUN 470 471	:
+#109	AnnotatorNotes T111	lemma = ':'
+T112	AJ0 472 479	Samsung
+#110	AnnotatorNotes T112	lemma = 'samsung'
+T113	NN1 480 491	corporation
+#111	AnnotatorNotes T113	lemma = 'corporation'
+T114	CJC 492 495	and
+#112	AnnotatorNotes T114	lemma = 'and'
+T115	NN1 496 501	Apple
+#113	AnnotatorNotes T115	lemma = 'apple'
+T116	NN1 502 509	company
+#114	AnnotatorNotes T116	lemma = 'company'
+T117	VBD 510 514	were
+#115	AnnotatorNotes T117	lemma = 'be'
+T118	VVZ 515 520	takes
+#116	AnnotatorNotes T118	lemma = 'take'
+T119	AT0 521 522	a
+#117	AnnotatorNotes T119	lemma = 'a'
+T120	AJ0 523 531	relevant
+#118	AnnotatorNotes T120	lemma = 'relevant'
+T121	NN1 532 537	share
+#119	AnnotatorNotes T121	lemma = 'share'
+T122	PRF 538 540	of
+#120	AnnotatorNotes T122	lemma = 'of'
+T123	AJ0 541 547	global
+#121	AnnotatorNotes T123	lemma = 'global'
+T124	NN1 548 558	smartphone
+#122	AnnotatorNotes T124	lemma = 'smartphone'
+T125	NN2 559 566	profits
+#123	AnnotatorNotes T125	lemma = 'profit'
+T126	CJC 567 570	but
+#124	AnnotatorNotes T126	lemma = 'but'
+T127	PRP 571 576	after
+#125	AnnotatorNotes T127	lemma = 'after'
+T128	DT0 577 581	that
+#126	AnnotatorNotes T128	lemma = 'that'
+T129	NN1 582 587	Apple
+#127	AnnotatorNotes T129	lemma = 'apple'
+T130	VHZ 588 591	has
+#128	AnnotatorNotes T130	lemma = 'have'
+T131	VVB 592 596	grow
+#129	AnnotatorNotes T131	lemma = 'grow'
+T132	AVP 597 599	up
+#130	AnnotatorNotes T132	lemma = 'up'
+T133	DPS 600 605	their
+#131	AnnotatorNotes T133	lemma = 'they'
+T134	NN2 606 613	profits
+#132	AnnotatorNotes T134	lemma = 'profit'
+T135	AV0 614 623	therefore
+#133	AnnotatorNotes T135	lemma = 'therefore'
+T136	NP0 624 631	Samsung
+#134	AnnotatorNotes T136	lemma = 'samsung'
+T137	POS 631 633	's
+#135	AnnotatorNotes T137	lemma = 's'
+T138	NN0 634 639	sales
+#136	AnnotatorNotes T138	lemma = 'sales'
+T139	VVD 640 644	went
+#137	AnnotatorNotes T139	lemma = 'go'
+T140	AVP 645 649	down
+#138	AnnotatorNotes T140	lemma = 'down'
+T141	PRP 650 655	since
+#139	AnnotatorNotes T141	lemma = 'since'
+T142	CRD 656 660	2013
+#140	AnnotatorNotes T142	lemma = '2013'
+T143	PRP 661 664	for
+#141	AnnotatorNotes T143	lemma = 'for'
+T144	AV0 665 673	nowadays
+#142	AnnotatorNotes T144	lemma = 'nowadays'
+T145	SENT 673 674	.
+#143	AnnotatorNotes T145	lemma = '.'
+T146	AV0 675 686	Furthermore
+#144	AnnotatorNotes T146	lemma = 'furthermore'
+T147	PUN 686 687	,
+#145	AnnotatorNotes T147	lemma = ','
+T148	NP0 688 691	HTC
+#146	AnnotatorNotes T148	lemma = 'HTC'
+T149	NN1 692 699	company
+#147	AnnotatorNotes T149	lemma = 'company'
+T150	VVZ 700 705	takes
+#148	AnnotatorNotes T150	lemma = 'take'
+T151	AT0 706 707	a
+#149	AnnotatorNotes T151	lemma = 'a'
+T152	AJ0 708 714	little
+#150	AnnotatorNotes T152	lemma = 'little'
+T153	NN1 715 718	bit
+#151	AnnotatorNotes T153	lemma = 'bit'
+T154	NN1 719 723	part
+#152	AnnotatorNotes T154	lemma = 'part'
+T155	PRF 724 726	of
+#153	AnnotatorNotes T155	lemma = 'of'
+T156	AT0 727 730	the
+#154	AnnotatorNotes T156	lemma = 'the'
+T157	AJ0 731 737	global
+#155	AnnotatorNotes T157	lemma = 'global'
+T158	NN1 738 748	smartphone
+#156	AnnotatorNotes T158	lemma = 'smartphone'
+T159	POS 748 750	's
+#157	AnnotatorNotes T159	lemma = 's'
+T160	NN1 751 757	market
+#158	AnnotatorNotes T160	lemma = 'market'
+T161	SENT 757 758	.
+#159	AnnotatorNotes T161	lemma = '.'
+T162	DPS 759 764	Their
+#160	AnnotatorNotes T162	lemma = 'they'
+T163	NN0 765 770	sales
+#161	AnnotatorNotes T163	lemma = 'sales'
+T164	PUN 770 771	,
+#162	AnnotatorNotes T164	lemma = ','
+T165	VHB 772 776	have
+#163	AnnotatorNotes T165	lemma = 'have'
+T166	AT0 777 778	a
+#164	AnnotatorNotes T166	lemma = 'a'
+T167	AJ0 779 785	little
+#165	AnnotatorNotes T167	lemma = 'little'
+T168	NN1 786 792	growth
+#166	AnnotatorNotes T168	lemma = 'growth'
+T169	PRP 793 795	in
+#167	AnnotatorNotes T169	lemma = 'in'
+T170	CRD 796 800	2011
+#168	AnnotatorNotes T170	lemma = '2011'
+T171	PUN 800 801	,
+#169	AnnotatorNotes T171	lemma = ','
+T172	CJC 802 805	but
+#170	AnnotatorNotes T172	lemma = 'but'
+T173	PRP 806 811	after
+#171	AnnotatorNotes T173	lemma = 'after'
+T174	DT0 812 816	that
+#172	AnnotatorNotes T174	lemma = 'that'
+T175	DPS 817 822	their
+#173	AnnotatorNotes T175	lemma = 'they'
+T176	NN1 823 828	share
+#174	AnnotatorNotes T176	lemma = 'share'
+T177	PRF 829 831	of
+#175	AnnotatorNotes T177	lemma = 'of'
+T178	AJ0 832 838	global
+#176	AnnotatorNotes T178	lemma = 'global'
+T179	NN2 839 846	profits
+#177	AnnotatorNotes T179	lemma = 'profit'
+T180	VVD 847 851	went
+#178	AnnotatorNotes T180	lemma = 'go'
+T181	AVP 852 856	down
+#179	AnnotatorNotes T181	lemma = 'down'
+T182	SENT 856 857	.
+#180	AnnotatorNotes T182	lemma = '.'
+T183	AV0 858 866	Nowadays
+#181	AnnotatorNotes T183	lemma = 'nowadays'
+T184	DT0 867 871	this
+#182	AnnotatorNotes T184	lemma = 'this'
+T185	NN2 872 881	companies
+#183	AnnotatorNotes T185	lemma = 'company'
+T186	VVD 882 888	placed
+#184	AnnotatorNotes T186	lemma = 'place'
+T187	NN1 889 895	amount
+#185	AnnotatorNotes T187	lemma = 'amount'
+T188	PRF 896 898	of
+#186	AnnotatorNotes T188	lemma = 'of'
+T189	AT0 899 902	the
+#187	AnnotatorNotes T189	lemma = 'the'
+T190	NN1 903 909	market
+#188	AnnotatorNotes T190	lemma = 'market'
+T191	PUN 909 910	:
+#189	AnnotatorNotes T191	lemma = ':'
+T192	NN1 911 916	Apple
+#190	AnnotatorNotes T192	lemma = 'apple'
+T193	VBZ 917 919	is
+#191	AnnotatorNotes T193	lemma = 'be'
+T194	AT0 920 923	the
+#192	AnnotatorNotes T194	lemma = 'the'
+T195	NN1 924 930	leader
+#193	AnnotatorNotes T195	lemma = 'leader'
+T196	PRF 931 933	of
+#194	AnnotatorNotes T196	lemma = 'of'
+T197	NN1 934 942	industry
+#195	AnnotatorNotes T197	lemma = 'industry'
+T198	PUN 942 943	,
+#196	AnnotatorNotes T198	lemma = ','
+T199	CJS 944 949	after
+#197	AnnotatorNotes T199	lemma = 'after'
+T200	PNP 950 954	them
+#198	AnnotatorNotes T200	lemma = 'they'
+T201	VVZ 955 961	causes
+#199	AnnotatorNotes T201	lemma = 'cause'
+T202	AJ0 962 969	Samsung
+#200	AnnotatorNotes T202	lemma = 'samsung'
+T203	PUN 969 970	,
+#201	AnnotatorNotes T203	lemma = ','
+T204	CJC 971 974	and
+#202	AnnotatorNotes T204	lemma = 'and'
+T205	PNP 975 977	it
+#203	AnnotatorNotes T205	lemma = 'it'
+T206	VVZ 978 983	seems
+#204	AnnotatorNotes T206	lemma = 'seem'
+T207	PRP 984 988	like
+#205	AnnotatorNotes T207	lemma = 'like'
+T208	NP0 989 992	HTC
+#206	AnnotatorNotes T208	lemma = 'HTC'
+T209	CJC 993 996	and
+#207	AnnotatorNotes T209	lemma = 'and'
+T210	NP0 997 1007	Blackberry
+#208	AnnotatorNotes T210	lemma = 'blackberry'
+T211	VHB 1008 1012	have
+#209	AnnotatorNotes T211	lemma = 'have'
+T212	AJ0 1013 1021	relevant
+#210	AnnotatorNotes T212	lemma = 'relevant'
+T213	NN2 1022 1028	shares
+#211	AnnotatorNotes T213	lemma = 'share'
+T214	PRF 1029 1031	of
+#212	AnnotatorNotes T214	lemma = 'of'
+T215	NN1 1032 1038	market
+#213	AnnotatorNotes T215	lemma = 'market'
+T216	SENT 1038 1039	.
+#214	AnnotatorNotes T216	lemma = '.'
+T217	TO0 1040 1042	To
+#215	AnnotatorNotes T217	lemma = 'to'
+T218	VVI 1043 1052	summarise
+#216	AnnotatorNotes T218	lemma = 'summarise'
+T219	DT0 1053 1057	this
+#217	AnnotatorNotes T219	lemma = 'this'
+T220	NN1 1058 1065	article
+#218	AnnotatorNotes T220	lemma = 'article'
+T221	PUN 1065 1066	,
+#219	AnnotatorNotes T221	lemma = ','
+T222	AT0 1067 1070	the
+#220	AnnotatorNotes T222	lemma = 'the'
+T223	NN1 1071 1076	graph
+#221	AnnotatorNotes T223	lemma = 'graph'
+T224	AV0 1077 1082	below
+#222	AnnotatorNotes T224	lemma = 'below'
+T225	VVZ 1083 1088	shows
+#223	AnnotatorNotes T225	lemma = 'show'
+T226	PNP 1089 1091	us
+#224	AnnotatorNotes T226	lemma = 'we'
+T227	DT0 1092 1096	that
+#225	AnnotatorNotes T227	lemma = 'that'
+T228	NN1 1097 1102	Apple
+#226	AnnotatorNotes T228	lemma = 'apple'
+T229	CJC 1103 1106	and
+#227	AnnotatorNotes T229	lemma = 'and'
+T230	NP0 1107 1114	Samsung
+#228	AnnotatorNotes T230	lemma = 'samsung'
+T231	VVZ 1115 1120	takes
+#229	AnnotatorNotes T231	lemma = 'take'
+T232	NN1 1121 1131	leadership
+#230	AnnotatorNotes T232	lemma = 'leadership'
+T233	PRF 1132 1134	of
+#231	AnnotatorNotes T233	lemma = 'of'
+T234	AT0 1135 1138	the
+#232	AnnotatorNotes T234	lemma = 'the'
+T235	NN1 1139 1149	smartphone
+#233	AnnotatorNotes T235	lemma = 'smartphone'
+T236	POS 1149 1151	's
+#234	AnnotatorNotes T236	lemma = 's'
+T237	NN1 1152 1160	industry
+#235	AnnotatorNotes T237	lemma = 'industry'
+T238	CJC 1161 1164	and
+#236	AnnotatorNotes T238	lemma = 'and'
+T239	NN1 1165 1168	HTC
+#237	AnnotatorNotes T239	lemma = 'HTC'
+T240	CJC 1169 1172	and
+#238	AnnotatorNotes T240	lemma = 'and'
+T241	NN1 1173 1183	Blackberry
+#239	AnnotatorNotes T241	lemma = 'blackberry'
+T242	VM0 1184 1190	should
+#240	AnnotatorNotes T242	lemma = 'should'
+T243	VVI 1191 1195	take
+#241	AnnotatorNotes T243	lemma = 'take'
+T244	DT0 1196 1200	some
+#242	AnnotatorNotes T244	lemma = 'some'
+T245	AJ0 1201 1204	new
+#243	AnnotatorNotes T245	lemma = 'new'
+T246	NN2 1205 1215	strategies
+#244	AnnotatorNotes T246	lemma = 'strategy'
+T247	CJS 1216 1218	if
+#245	AnnotatorNotes T247	lemma = 'if'
+T248	PNP 1219 1223	they
+#246	AnnotatorNotes T248	lemma = 'they'
+T249	VVB 1224 1228	want
+#247	AnnotatorNotes T249	lemma = 'want'
+T250	TO0 1229 1231	to
+#248	AnnotatorNotes T250	lemma = 'to'
+T251	VVI 1232 1236	stay
+#249	AnnotatorNotes T251	lemma = 'stay'
+T252	PRP 1237 1239	on
+#250	AnnotatorNotes T252	lemma = 'on'
+T253	AT0 1240 1243	the
+#251	AnnotatorNotes T253	lemma = 'the'
+T254	AJ0 1244 1250	global
+#252	AnnotatorNotes T254	lemma = 'global'
+T255	NN1 1251 1257	market
+#253	AnnotatorNotes T255	lemma = 'market'
+T256	PRF 1258 1260	of
+#254	AnnotatorNotes T256	lemma = 'of'
+T257	NN2 1261 1272	smartphones
+#255	AnnotatorNotes T257	lemma = 'smartphones'
+T258	SENT 1272 1273	.
+#256	AnnotatorNotes T258	lemma = ''

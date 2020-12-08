@@ -1,0 +1,430 @@
+T1	Tense_choice 373 381	decrease
+#1	AnnotatorNotes T1	decreased
+T2	Punctuation 24 25	,
+A1	Delete T2
+T3	Prepositions 231 234	for
+#2	AnnotatorNotes T3	in
+T4	Prepositions 248 251	for
+#3	AnnotatorNotes T4	in
+T5	Infinitive_constr 313 322	borrowing
+#4	AnnotatorNotes T5	to borrow
+T6	Lack_par_constr 213 219	return
+#5	AnnotatorNotes T6	to return
+T7	Infinitive_constr 326 335	returning
+#6	AnnotatorNotes T7	to return
+T8	Punctuation 502 503	,
+A2	Delete T8
+T9	Articles 514 525	the library
+#7	AnnotatorNotes T9	libraries
+T10	Noun_number 514 525	the library
+#8	AnnotatorNotes T10	libraries
+T11	Punctuation 553 554	,
+A3	Delete T11
+T12	Punctuation 605 606	,
+A4	Delete T12
+T13	lex_item_choice 627 631	less
+#9	AnnotatorNotes T13	lower
+T14	Articles 643 653	percentage
+#10	AnnotatorNotes T14	the percentage
+T15	Punctuation 663 664	,
+A5	Delete T15
+T16	Articles 702 717	the information
+#11	AnnotatorNotes T16	information
+T17	lex_item_choice 739 745	bigger
+#12	AnnotatorNotes T17	larger
+T18	Spelling 746 750	then
+#13	AnnotatorNotes T18	than
+T19	Articles 764 774	percentage
+#14	AnnotatorNotes T19	the percentage
+T20	Tense_choice 849 855	become
+#15	AnnotatorNotes T20	became
+T21	Confusion_of_structures 856 878	smaller in three times
+#16	AnnotatorNotes T21	three times smaller
+T22	Punctuation 784 785	,
+A6	Delete T22
+T23	Tense_choice 197 199	is
+#17	AnnotatorNotes T23	was
+T24	Tense_choice 271 273	is
+#18	AnnotatorNotes T24	was
+T25	Tense_choice 310 312	is
+#19	AnnotatorNotes T25	was
+T26	Tense_choice 547 549	is
+#20	AnnotatorNotes T26	was
+T27	Tense_choice 600 602	is
+#21	AnnotatorNotes T27	was
+T28	Tense_choice 726 728	is
+#22	AnnotatorNotes T28	was
+T29	EX0 0 5	There
+#23	AnnotatorNotes T29	lemma = 'there'
+T30	VBB 6 9	are
+#24	AnnotatorNotes T30	lemma = 'be'
+T31	CRD 10 13	two
+#25	AnnotatorNotes T31	lemma = 'two'
+T32	NN1 14 17	pie
+#26	AnnotatorNotes T32	lemma = 'pie'
+T33	NN2 18 24	charts
+#27	AnnotatorNotes T33	lemma = 'chart'
+T34	PUN 24 25	,
+#28	AnnotatorNotes T34	lemma = ','
+T35	VVG 26 33	showing
+#29	AnnotatorNotes T35	lemma = 'show|showing'
+T36	AT0 34 37	the
+#30	AnnotatorNotes T36	lemma = 'the'
+T37	NN1 38 43	usage
+#31	AnnotatorNotes T37	lemma = 'usage'
+T38	PRF 44 46	of
+#32	AnnotatorNotes T38	lemma = 'of'
+T39	AJ0 47 53	public
+#33	AnnotatorNotes T39	lemma = 'public'
+T40	NN2 54 63	libraries
+#34	AnnotatorNotes T40	lemma = 'library'
+T41	PRP 64 66	in
+#35	AnnotatorNotes T41	lemma = 'in'
+T42	AT0 67 70	the
+#36	AnnotatorNotes T42	lemma = 'the'
+T43	NP0 71 77	United
+#37	AnnotatorNotes T43	lemma = 'united'
+T44	NP0 78 85	Kingdom
+#38	AnnotatorNotes T44	lemma = 'kingdom'
+T45	PRP 86 88	in
+#39	AnnotatorNotes T45	lemma = 'in'
+T46	CRD 89 92	two
+#40	AnnotatorNotes T46	lemma = 'two'
+T47	NN2 93 98	years
+#41	AnnotatorNotes T47	lemma = 'year'
+T48	PUN 98 99	:
+#42	AnnotatorNotes T48	lemma = ':'
+T49	CRD 100 104	1990
+#43	AnnotatorNotes T49	lemma = '1990'
+T50	CJC 105 108	and
+#44	AnnotatorNotes T50	lemma = 'and'
+T51	CRD 109 113	2000
+#45	AnnotatorNotes T51	lemma = '2000'
+T52	SENT 113 114	.
+#46	AnnotatorNotes T52	lemma = '.'
+T53	CJS 116 118	As
+#47	AnnotatorNotes T53	lemma = 'as'
+T54	PNP 119 121	it
+#48	AnnotatorNotes T54	lemma = 'it'
+T55	VM0 122 125	can
+#49	AnnotatorNotes T55	lemma = 'can'
+T56	VBI 126 128	be
+#50	AnnotatorNotes T56	lemma = 'be'
+T57	VVN 129 133	seen
+#51	AnnotatorNotes T57	lemma = 'see'
+T58	PRP 134 138	from
+#52	AnnotatorNotes T58	lemma = 'from'
+T59	AT0 139 142	the
+#53	AnnotatorNotes T59	lemma = 'the'
+T60	NN1 143 146	pie
+#54	AnnotatorNotes T60	lemma = 'pie'
+T61	NN2 147 153	charts
+#55	AnnotatorNotes T61	lemma = 'chart'
+T62	PUN 153 154	,
+#56	AnnotatorNotes T62	lemma = ','
+T63	AT0 155 158	the
+#57	AnnotatorNotes T63	lemma = 'the'
+T64	AJ0 159 163	main
+#58	AnnotatorNotes T64	lemma = 'main'
+T65	NN1 164 170	reason
+#59	AnnotatorNotes T65	lemma = 'reason'
+T66	TO0 171 173	to
+#60	AnnotatorNotes T66	lemma = 'to'
+T67	VVI 174 179	visit
+#61	AnnotatorNotes T67	lemma = 'visit'
+T68	AJ0 180 186	public
+#62	AnnotatorNotes T68	lemma = 'public'
+T69	NN2 187 196	libraries
+#63	AnnotatorNotes T69	lemma = 'library'
+T70	VBZ 197 199	is
+#64	AnnotatorNotes T70	lemma = 'be'
+T71	TO0 200 202	to
+#65	AnnotatorNotes T71	lemma = 'to'
+T72	VVI 203 209	borrow
+#66	AnnotatorNotes T72	lemma = 'borrow'
+T73	CJC 210 212	or
+#67	AnnotatorNotes T73	lemma = 'or'
+T74	VVI 213 219	return
+#68	AnnotatorNotes T74	lemma = 'return'
+T75	NN2 220 225	books
+#69	AnnotatorNotes T75	lemma = 'book'
+T76	PUL 226 227	(
+#70	AnnotatorNotes T76	lemma = '('
+T77	CRD 227 229	65
+#71	AnnotatorNotes T77	lemma = '65'
+T78	NN0 229 230	%
+#72	AnnotatorNotes T78	lemma = '%'
+T79	PRP 231 234	for
+#73	AnnotatorNotes T79	lemma = 'for'
+T80	CRD 235 239	1990
+#74	AnnotatorNotes T80	lemma = '1990'
+T81	CJC 240 243	and
+#75	AnnotatorNotes T81	lemma = 'and'
+T82	CRD 244 246	55
+#76	AnnotatorNotes T82	lemma = '55'
+T83	NN0 246 247	%
+#77	AnnotatorNotes T83	lemma = '%'
+T84	PRP 248 251	for
+#78	AnnotatorNotes T84	lemma = 'for'
+T85	CRD 252 256	2000
+#79	AnnotatorNotes T85	lemma = '2000'
+T86	PUR 256 257	)
+#80	AnnotatorNotes T86	lemma = ')'
+T87	SENT 257 258	.
+#81	AnnotatorNotes T87	lemma = '.'
+T88	AV0 259 263	Also
+#82	AnnotatorNotes T88	lemma = 'also'
+T89	PUN 263 264	,
+#83	AnnotatorNotes T89	lemma = ','
+T90	EX0 265 270	there
+#84	AnnotatorNotes T90	lemma = 'there'
+T91	VBZ 271 273	is
+#85	AnnotatorNotes T91	lemma = 'be'
+T92	AT0 274 275	a
+#86	AnnotatorNotes T92	lemma = 'a'
+T93	AJ0 276 279	new
+#87	AnnotatorNotes T93	lemma = 'new'
+T94	NN1 280 286	reason
+#88	AnnotatorNotes T94	lemma = 'reason'
+T95	PRP 287 290	for
+#89	AnnotatorNotes T95	lemma = 'for'
+T96	NN2 291 297	visits
+#90	AnnotatorNotes T96	lemma = 'visit'
+T97	PRP 298 300	in
+#91	AnnotatorNotes T97	lemma = 'in'
+T98	CRD 301 305	2000
+#92	AnnotatorNotes T98	lemma = '2000'
+T99	PUN 305 306	,
+#93	AnnotatorNotes T99	lemma = ','
+T100	PNP 307 309	it
+#94	AnnotatorNotes T100	lemma = 'it'
+T101	VBZ 310 312	is
+#95	AnnotatorNotes T101	lemma = 'be'
+T102	VVG 313 322	borrowing
+#96	AnnotatorNotes T102	lemma = 'borrow|borrowing'
+T103	CJC 323 325	or
+#97	AnnotatorNotes T103	lemma = 'or'
+T104	VVG 326 335	returning
+#98	AnnotatorNotes T104	lemma = 'return|returning'
+T105	NN2 336 340	DVDs
+#99	AnnotatorNotes T105	lemma = 'DVDs'
+T106	SENT 340 341	.
+#100	AnnotatorNotes T106	lemma = '.'
+T107	AV0 342 350	Moreover
+#101	AnnotatorNotes T107	lemma = 'moreover'
+T108	PUN 350 351	,
+#102	AnnotatorNotes T108	lemma = ','
+T109	AJ0 352 357	total
+#103	AnnotatorNotes T109	lemma = 'total'
+T110	NN2 358 364	visits
+#104	AnnotatorNotes T110	lemma = 'visit'
+T111	PRP 365 367	in
+#105	AnnotatorNotes T111	lemma = 'in'
+T112	CRD 368 372	2000
+#106	AnnotatorNotes T112	lemma = '2000'
+T113	NN1 373 381	decrease
+#107	AnnotatorNotes T113	lemma = 'decrease'
+T114	PUL 382 383	(
+#108	AnnotatorNotes T114	lemma = '('
+T115	PRP 383 387	from
+#109	AnnotatorNotes T115	lemma = 'from'
+T116	CRD 388 391	350
+#110	AnnotatorNotes T116	lemma = '350'
+T117	CRD 392 399	million
+#111	AnnotatorNotes T117	lemma = 'million'
+T118	NN0 400 406	people
+#112	AnnotatorNotes T118	lemma = 'people'
+T119	PRP 407 409	in
+#113	AnnotatorNotes T119	lemma = 'in'
+T120	CRD 410 414	1990
+#114	AnnotatorNotes T120	lemma = '1990'
+T121	PRP 415 417	to
+#115	AnnotatorNotes T121	lemma = 'to'
+T122	CRD 418 421	290
+#116	AnnotatorNotes T122	lemma = '290'
+T123	CRD 422 429	million
+#117	AnnotatorNotes T123	lemma = 'million'
+T124	NN0 430 436	people
+#118	AnnotatorNotes T124	lemma = 'people'
+T125	PRP 437 439	in
+#119	AnnotatorNotes T125	lemma = 'in'
+T126	CRD 440 444	2000
+#120	AnnotatorNotes T126	lemma = '2000'
+T127	PUR 444 445	)
+#121	AnnotatorNotes T127	lemma = ')'
+T128	SENT 445 446	.
+#122	AnnotatorNotes T128	lemma = '.'
+T129	AT0 448 451	The
+#123	AnnotatorNotes T129	lemma = 'the'
+T130	NN1 452 455	pie
+#124	AnnotatorNotes T130	lemma = 'pie'
+T131	NN2 456 462	charts
+#125	AnnotatorNotes T131	lemma = 'chart'
+T132	AV0 463 467	also
+#126	AnnotatorNotes T132	lemma = 'also'
+T133	VVB 468 472	show
+#127	AnnotatorNotes T133	lemma = 'show'
+T134	CJT 473 477	that
+#128	AnnotatorNotes T134	lemma = 'that'
+T135	AT0 478 481	the
+#129	AnnotatorNotes T135	lemma = 'the'
+T136	NN1 482 492	percentage
+#130	AnnotatorNotes T136	lemma = 'percentage'
+T137	PRF 493 495	of
+#131	AnnotatorNotes T137	lemma = 'of'
+T138	NN0 496 502	people
+#132	AnnotatorNotes T138	lemma = 'people'
+T139	PUN 502 503	,
+#133	AnnotatorNotes T139	lemma = ','
+T140	PNQ 504 507	who
+#134	AnnotatorNotes T140	lemma = 'who'
+T141	VVB 508 513	visit
+#135	AnnotatorNotes T141	lemma = 'visit'
+T142	AT0 514 517	the
+#136	AnnotatorNotes T142	lemma = 'the'
+T143	NN1 518 525	library
+#137	AnnotatorNotes T143	lemma = 'library'
+T144	PRP 526 529	for
+#138	AnnotatorNotes T144	lemma = 'for'
+T145	VVG 530 538	studying
+#139	AnnotatorNotes T145	lemma = 'study'
+T146	PRP 539 541	in
+#140	AnnotatorNotes T146	lemma = 'in'
+T147	CRD 542 546	1990
+#141	AnnotatorNotes T147	lemma = '1990'
+T148	VBZ 547 549	is
+#142	AnnotatorNotes T148	lemma = 'be'
+T149	CRD 550 552	10
+#143	AnnotatorNotes T149	lemma = '10'
+T150	NN0 552 553	%
+#144	AnnotatorNotes T150	lemma = '%'
+T151	PUN 553 554	,
+#145	AnnotatorNotes T151	lemma = ','
+T152	CJS 555 560	while
+#146	AnnotatorNotes T152	lemma = 'while'
+T153	AT0 561 564	the
+#147	AnnotatorNotes T153	lemma = 'the'
+T154	NN1 565 575	percentage
+#148	AnnotatorNotes T154	lemma = 'percentage'
+T155	PRF 576 578	of
+#149	AnnotatorNotes T155	lemma = 'of'
+T156	DT0 579 584	these
+#150	AnnotatorNotes T156	lemma = 'these'
+T157	NN0 585 591	people
+#151	AnnotatorNotes T157	lemma = 'people'
+T158	PRP 592 594	in
+#152	AnnotatorNotes T158	lemma = 'in'
+T159	CRD 595 599	2000
+#153	AnnotatorNotes T159	lemma = '2000'
+T160	VBZ 600 602	is
+#154	AnnotatorNotes T160	lemma = 'be'
+T161	CRD 603 604	2
+#155	AnnotatorNotes T161	lemma = '2'
+T162	NN0 604 605	%
+#156	AnnotatorNotes T162	lemma = '%'
+T163	PUN 605 606	,
+#157	AnnotatorNotes T163	lemma = ','
+T164	DTQ 607 612	which
+#158	AnnotatorNotes T164	lemma = 'which'
+T165	VBZ 613 615	is
+#159	AnnotatorNotes T165	lemma = 'be'
+T166	CRD 616 620	five
+#160	AnnotatorNotes T166	lemma = 'five'
+T167	NN2 621 626	times
+#161	AnnotatorNotes T167	lemma = 'time'
+T168	AV0 627 631	less
+#162	AnnotatorNotes T168	lemma = 'less'
+T169	SENT 631 632	.
+#163	AnnotatorNotes T169	lemma = '.'
+T170	AV0 633 641	Moreover
+#164	AnnotatorNotes T170	lemma = 'moreover'
+T171	PUN 641 642	,
+#165	AnnotatorNotes T171	lemma = ','
+T172	NN1 643 653	percentage
+#166	AnnotatorNotes T172	lemma = 'percentage'
+T173	PRF 654 656	of
+#167	AnnotatorNotes T173	lemma = 'of'
+T174	NN0 657 663	people
+#168	AnnotatorNotes T174	lemma = 'people'
+T175	PUN 663 664	,
+#169	AnnotatorNotes T175	lemma = ','
+T176	PNQ 665 668	who
+#170	AnnotatorNotes T176	lemma = 'who'
+T177	VVB 669 672	use
+#171	AnnotatorNotes T177	lemma = 'use'
+T178	AJ0 673 679	public
+#172	AnnotatorNotes T178	lemma = 'public'
+T179	NN2 680 689	libraries
+#173	AnnotatorNotes T179	lemma = 'library'
+T180	PRP 690 693	for
+#174	AnnotatorNotes T180	lemma = 'for'
+T181	VVG 694 701	finding
+#175	AnnotatorNotes T181	lemma = 'find|finding'
+T182	AT0 702 705	the
+#176	AnnotatorNotes T182	lemma = 'the'
+T183	NN1 706 717	information
+#177	AnnotatorNotes T183	lemma = 'information'
+T184	PRP 718 720	in
+#178	AnnotatorNotes T184	lemma = 'in'
+T185	CRD 721 725	2000
+#179	AnnotatorNotes T185	lemma = '2000'
+T186	VBZ 726 728	is
+#180	AnnotatorNotes T186	lemma = 'be'
+T187	CRD 729 732	two
+#181	AnnotatorNotes T187	lemma = 'two'
+T188	NN2 733 738	times
+#182	AnnotatorNotes T188	lemma = 'time'
+T189	AJC 739 745	bigger
+#183	AnnotatorNotes T189	lemma = 'big'
+T190	AV0 746 750	then
+#184	AnnotatorNotes T190	lemma = 'then'
+T191	PRP 751 753	in
+#185	AnnotatorNotes T191	lemma = 'in'
+T192	CRD 754 758	1990
+#186	AnnotatorNotes T192	lemma = '1990'
+T193	PUN 758 759	,
+#187	AnnotatorNotes T193	lemma = ','
+T194	CJC 760 763	but
+#188	AnnotatorNotes T194	lemma = 'but'
+T195	NN1 764 774	percentage
+#189	AnnotatorNotes T195	lemma = 'percentage'
+T196	PRF 775 777	of
+#190	AnnotatorNotes T196	lemma = 'of'
+T197	NN0 778 784	people
+#191	AnnotatorNotes T197	lemma = 'people'
+T198	PUN 784 785	,
+#192	AnnotatorNotes T198	lemma = ','
+T199	PNQ 786 789	who
+#193	AnnotatorNotes T199	lemma = 'who'
+T200	VVB 790 795	visit
+#194	AnnotatorNotes T200	lemma = 'visit'
+T201	AJ0 796 802	public
+#195	AnnotatorNotes T201	lemma = 'public'
+T202	NN2 803 812	libraries
+#196	AnnotatorNotes T202	lemma = 'library'
+T203	PRP 813 816	for
+#197	AnnotatorNotes T203	lemma = 'for'
+T204	VVG 817 824	reading
+#198	AnnotatorNotes T204	lemma = 'read|reading'
+T205	NN2 825 835	newspapers
+#199	AnnotatorNotes T205	lemma = 'newspaper'
+T206	CJC 836 838	or
+#200	AnnotatorNotes T206	lemma = 'or'
+T207	NN2 839 848	magazines
+#201	AnnotatorNotes T207	lemma = 'magazine'
+T208	VVB 849 855	become
+#202	AnnotatorNotes T208	lemma = 'become'
+T209	AJC 856 863	smaller
+#203	AnnotatorNotes T209	lemma = 'small'
+T210	PRP 864 866	in
+#204	AnnotatorNotes T210	lemma = 'in'
+T211	CRD 867 872	three
+#205	AnnotatorNotes T211	lemma = 'three'
+T212	NN2 873 878	times
+#206	AnnotatorNotes T212	lemma = 'time'
+T213	PRP 879 881	in
+#207	AnnotatorNotes T213	lemma = 'in'
+T214	CRD 882 886	2000
+#208	AnnotatorNotes T214	lemma = '2000'
+T215	SENT 886 887	.
+#209	AnnotatorNotes T215	lemma = '.'

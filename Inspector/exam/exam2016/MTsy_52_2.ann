@@ -1,0 +1,588 @@
+T1	Tense_form 36 42	become
+#1	AnnotatorNotes T1	becomes
+T2	Spelling 173 182	nessecary
+#2	AnnotatorNotes T2	neccesary
+T3	Punctuation 195 199	life
+#3	AnnotatorNotes T3	life,
+T4	Spelling 219 226	demages
+#4	AnnotatorNotes T4	damages
+T5	Articles 273 279	number
+#5	AnnotatorNotes T5	the number
+T6	Spelling 362 369	sertain
+#6	AnnotatorNotes T6	certain
+T7	lex_item_choice 463 470	enables
+#7	AnnotatorNotes T7	let
+T8	lex_item_choice 477 481	meet
+#8	AnnotatorNotes T8	explore
+T9	Agreement_errors 614 618	part
+#9	AnnotatorNotes T9	parts
+T10	lex_item_choice 724 730	source
+#10	AnnotatorNotes T10	mean
+T11	Spelling 854 858	rare
+#11	AnnotatorNotes T11	are
+T12	Redundant_comp 998 1001	the
+T13	Category_confusion 1271 1279	economic
+#12	AnnotatorNotes T13	economy
+T14	Voice 1313 1317	need
+#13	AnnotatorNotes T14	needed
+T15	Redundant_comp 474 476	to
+A1	Delete T15
+T16	Redundant_comp 482 486	with
+A2	Delete T16
+T17	Articles 622 627	world
+#14	AnnotatorNotes T17	the world
+T18	Capitalisation 973 984	world trade
+#15	AnnotatorNotes T18	World Trade
+A3	Delete T12
+T19	note 1340 1341	.
+#16	AnnotatorNotes T19	Berseneva
+T20	Articles 173 182	nessecary
+#17	AnnotatorNotes T20	a neccesary
+T21	Category_confusion 311 317	travel
+#18	AnnotatorNotes T21	travelling
+R1	Dependent_change Arg1:T7 Arg2:T15
+R2	Dependent_change Arg1:T7 Arg2:T8
+R3	Dependent_change Arg1:T8 Arg2:T16
+T22	Redundant_comp 491 493	to
+A4	Delete T22
+R4	Parallel_construction Arg1:T15 Arg2:T22
+T23	Punctuation 1114 1123	of course
+#19	AnnotatorNotes T23	, of course, 
+T24	Redundant_comp 1159 1162	the
+A5	Delete T24
+T25	Articles 1172 1178	amount
+#20	AnnotatorNotes T25	the amount
+T26	Spelling 1224 1232	with out
+#21	AnnotatorNotes T26	without
+T27	lex_item_choice 673 677	ways
+#22	AnnotatorNotes T27	trips
+T28	AV0 0 8	Nowadays
+#23	AnnotatorNotes T28	lemma = 'nowadays'
+T29	PRP 9 11	in
+#24	AnnotatorNotes T29	lemma = 'in'
+T30	AJ0 12 18	modern
+#25	AnnotatorNotes T30	lemma = 'modern'
+T31	NN1 19 24	world
+#26	AnnotatorNotes T31	lemma = 'world'
+T32	NN1 25 35	travelling
+#27	AnnotatorNotes T32	lemma = 'travelling|travel'
+T33	VVN 36 42	become
+#28	AnnotatorNotes T33	lemma = 'become'
+T34	AV0 43 47	more
+#29	AnnotatorNotes T34	lemma = 'more'
+T35	CJC 48 51	and
+#30	AnnotatorNotes T35	lemma = 'and'
+T36	AV0 52 56	more
+#31	AnnotatorNotes T36	lemma = 'more'
+T37	AJ0 57 64	popular
+#32	AnnotatorNotes T37	lemma = 'popular'
+T38	SENT 64 65	.
+#33	AnnotatorNotes T38	lemma = '.'
+T39	AT0 66 71	Every
+#34	AnnotatorNotes T39	lemma = 'every'
+T40	NN1 72 75	day
+#35	AnnotatorNotes T40	lemma = 'day'
+T41	CRD 76 84	millions
+#36	AnnotatorNotes T41	lemma = 'millions'
+T42	PRF 85 87	of
+#37	AnnotatorNotes T42	lemma = 'of'
+T43	NN0 88 94	people
+#38	AnnotatorNotes T43	lemma = 'people'
+T44	NN1 95 98	use
+#39	AnnotatorNotes T44	lemma = 'use'
+T45	NN1 99 104	plane
+#40	AnnotatorNotes T45	lemma = 'plane'
+T46	PRP 105 108	for
+#41	AnnotatorNotes T46	lemma = 'for'
+T47	DPS 109 114	their
+#42	AnnotatorNotes T47	lemma = 'they'
+T48	NN1 115 123	business
+#43	AnnotatorNotes T48	lemma = 'business'
+T49	NN1 124 128	trip
+#44	AnnotatorNotes T49	lemma = 'trip'
+T50	CJC 129 131	or
+#45	AnnotatorNotes T50	lemma = 'or'
+T51	PRP 132 135	for
+#46	AnnotatorNotes T51	lemma = 'for'
+T52	NN2 136 144	holidays
+#47	AnnotatorNotes T52	lemma = 'holiday'
+T53	SENT 144 145	.
+#48	AnnotatorNotes T53	lemma = '.'
+T54	DT0 146 150	Some
+#49	AnnotatorNotes T54	lemma = 'some'
+T55	NN0 151 157	people
+#50	AnnotatorNotes T55	lemma = 'people'
+T56	VVB 158 161	say
+#51	AnnotatorNotes T56	lemma = 'say'
+T57	CJT 162 166	that
+#52	AnnotatorNotes T57	lemma = 'that'
+T58	PNP 167 169	it
+#53	AnnotatorNotes T58	lemma = 'it'
+T59	VBZ 170 172	is
+#54	AnnotatorNotes T59	lemma = 'be'
+T60	AJ0 173 182	nessecary
+#55	AnnotatorNotes T60	lemma = 'nessecary'
+T61	NN1 183 187	part
+#56	AnnotatorNotes T61	lemma = 'part'
+T62	PRF 188 190	of
+#57	AnnotatorNotes T62	lemma = 'of'
+T63	DPS 191 194	our
+#58	AnnotatorNotes T63	lemma = 'we'
+T64	NN1 195 199	life
+#59	AnnotatorNotes T64	lemma = 'life'
+T65	NN2 200 206	others
+#60	AnnotatorNotes T65	lemma = 'other'
+T66	VVB 207 210	say
+#61	AnnotatorNotes T66	lemma = 'say'
+T67	CJT 211 215	that
+#62	AnnotatorNotes T67	lemma = 'that'
+T68	PNP 216 218	it
+#63	AnnotatorNotes T68	lemma = 'it'
+T69	VVZ 219 226	demages
+#64	AnnotatorNotes T69	lemma = 'demages'
+T70	DPS 227 230	our
+#65	AnnotatorNotes T70	lemma = 'we'
+T71	NN1 231 242	environment
+#66	AnnotatorNotes T71	lemma = 'environment'
+T72	CJC 243 246	and
+#67	AnnotatorNotes T72	lemma = 'and'
+T73	PNP 247 249	we
+#68	AnnotatorNotes T73	lemma = 'we'
+T74	VM0 250 256	should
+#69	AnnotatorNotes T74	lemma = 'should'
+T75	VVI 257 260	try
+#70	AnnotatorNotes T75	lemma = 'try'
+T76	TO0 261 263	to
+#71	AnnotatorNotes T76	lemma = 'to'
+T77	VVI 264 272	decrease
+#72	AnnotatorNotes T77	lemma = 'decrease'
+T78	NN1 273 279	number
+#73	AnnotatorNotes T78	lemma = 'number'
+T79	PRF 280 282	of
+#74	AnnotatorNotes T79	lemma = 'of'
+T80	NN2 283 290	flights
+#75	AnnotatorNotes T80	lemma = 'flight'
+T81	SENT 290 291	.
+#76	AnnotatorNotes T81	lemma = '.'
+T82	PRP 293 295	In
+#77	AnnotatorNotes T82	lemma = 'in'
+T83	DPS 296 298	my
+#78	AnnotatorNotes T83	lemma = 'i'
+T84	NN1 299 306	opinion
+#79	AnnotatorNotes T84	lemma = 'opinion'
+T85	NN1 307 310	air
+#80	AnnotatorNotes T85	lemma = 'air'
+T86	NN1 311 317	travel
+#81	AnnotatorNotes T86	lemma = 'travel'
+T87	VBZ 318 320	is
+#82	AnnotatorNotes T87	lemma = 'be'
+T88	AJ0 321 330	important
+#83	AnnotatorNotes T88	lemma = 'important'
+T89	PRP 331 334	for
+#84	AnnotatorNotes T89	lemma = 'for'
+T90	AJ0 335 341	modern
+#85	AnnotatorNotes T90	lemma = 'modern'
+T91	NN1 342 349	society
+#86	AnnotatorNotes T91	lemma = 'society'
+T92	SENT 349 350	.
+#87	AnnotatorNotes T92	lemma = '.'
+T93	EX0 351 356	There
+#88	AnnotatorNotes T93	lemma = 'there'
+T94	VBZ 357 359	is
+#89	AnnotatorNotes T94	lemma = 'be'
+T95	AT0 360 361	a
+#90	AnnotatorNotes T95	lemma = 'a'
+T96	AJ0 362 369	sertain
+#91	AnnotatorNotes T96	lemma = 'sertain'
+T97	NN1 370 376	reason
+#92	AnnotatorNotes T97	lemma = 'reason'
+T98	PRP 377 380	for
+#93	AnnotatorNotes T98	lemma = 'for'
+T99	PNP 381 383	it
+#94	AnnotatorNotes T99	lemma = 'it'
+T100	SENT 383 384	.
+#95	AnnotatorNotes T100	lemma = '.'
+T101	AV0 385 392	Firstly
+#96	AnnotatorNotes T101	lemma = 'firstly'
+T102	PUN 392 393	,
+#97	AnnotatorNotes T102	lemma = ','
+T103	AT0 394 399	every
+#98	AnnotatorNotes T103	lemma = 'every'
+T104	NN1 400 407	country
+#99	AnnotatorNotes T104	lemma = 'country'
+T105	VHZ 408 411	has
+#100	AnnotatorNotes T105	lemma = 'have'
+T106	PNP 412 414	it
+#101	AnnotatorNotes T106	lemma = 'it'
+T107	POS 414 416	's
+#102	AnnotatorNotes T107	lemma = 's'
+T108	AJ0 417 425	cultural
+#103	AnnotatorNotes T108	lemma = 'cultural'
+T109	NN1 426 434	identity
+#104	AnnotatorNotes T109	lemma = 'identity'
+T110	PUN 434 435	,
+#105	AnnotatorNotes T110	lemma = ','
+T111	PNP 436 438	it
+#106	AnnotatorNotes T111	lemma = 'it'
+T112	VBZ 438 440	's
+#107	AnnotatorNotes T112	lemma = 'be'
+T113	NN1 441 450	tradition
+#108	AnnotatorNotes T113	lemma = 'tradition'
+T114	SENT 450 451	.
+#109	AnnotatorNotes T114	lemma = '.'
+T115	NN1 452 462	Travelling
+#110	AnnotatorNotes T115	lemma = 'travelling|travel'
+T116	VVZ 463 470	enables
+#111	AnnotatorNotes T116	lemma = 'enable'
+T117	PNP 471 473	us
+#112	AnnotatorNotes T117	lemma = 'we'
+T118	TO0 474 476	to
+#113	AnnotatorNotes T118	lemma = 'to'
+T119	VVI 477 481	meet
+#114	AnnotatorNotes T119	lemma = 'meet'
+T120	PRP 482 486	with
+#115	AnnotatorNotes T120	lemma = 'with'
+T121	PNP 487 489	it
+#116	AnnotatorNotes T121	lemma = 'it'
+T122	PUN 489 490	,
+#117	AnnotatorNotes T122	lemma = ','
+T123	TO0 491 493	to
+#118	AnnotatorNotes T123	lemma = 'to'
+T124	VVI 494 498	make
+#119	AnnotatorNotes T124	lemma = 'make'
+T125	DPS 499 502	our
+#120	AnnotatorNotes T125	lemma = 'we'
+T126	NN1 503 507	life
+#121	AnnotatorNotes T126	lemma = 'life'
+T127	AJC 508 516	brighter
+#122	AnnotatorNotes T127	lemma = 'bright'
+T128	PRP 517 521	with
+#123	AnnotatorNotes T128	lemma = 'with'
+T129	AT0 522 525	the
+#124	AnnotatorNotes T129	lemma = 'the'
+T130	NN2 526 534	emotions
+#125	AnnotatorNotes T130	lemma = 'emotion'
+T131	PRP 535 539	from
+#126	AnnotatorNotes T131	lemma = 'from'
+T132	AJ0 540 547	foreign
+#127	AnnotatorNotes T132	lemma = 'foreign'
+T133	NN2 548 557	countries
+#128	AnnotatorNotes T133	lemma = 'country'
+T134	SENT 557 558	.
+#129	AnnotatorNotes T134	lemma = '.'
+T135	AV0 560 568	Secondly
+#130	AnnotatorNotes T135	lemma = 'secondly'
+T136	PUN 568 569	,
+#131	AnnotatorNotes T136	lemma = ','
+T137	AT0 570 571	a
+#132	AnnotatorNotes T137	lemma = 'a'
+T138	NN1 572 575	lot
+#133	AnnotatorNotes T138	lemma = 'lot'
+T139	PRF 576 578	of
+#134	AnnotatorNotes T139	lemma = 'of'
+T140	NN0 579 585	people
+#135	AnnotatorNotes T140	lemma = 'people'
+T141	VHB 586 590	have
+#136	AnnotatorNotes T141	lemma = 'have'
+T142	NN2 591 600	relatives
+#137	AnnotatorNotes T142	lemma = 'relative'
+T143	PRP 601 603	in
+#138	AnnotatorNotes T143	lemma = 'in'
+T144	AJ0 604 613	different
+#139	AnnotatorNotes T144	lemma = 'different'
+T145	NN1 614 618	part
+#140	AnnotatorNotes T145	lemma = 'part'
+T146	PRF 619 621	of
+#141	AnnotatorNotes T146	lemma = 'of'
+T147	NN1 622 627	world
+#142	AnnotatorNotes T147	lemma = 'world'
+T148	SENT 627 628	.
+#143	AnnotatorNotes T148	lemma = '.'
+T149	NN1 629 635	Family
+#144	AnnotatorNotes T149	lemma = 'family'
+T150	VBZ 636 638	is
+#145	AnnotatorNotes T150	lemma = 'be'
+T151	AV0 639 643	very
+#146	AnnotatorNotes T151	lemma = 'very'
+T152	AJ0 644 653	important
+#147	AnnotatorNotes T152	lemma = 'important'
+T153	PRP 654 657	for
+#148	AnnotatorNotes T153	lemma = 'for'
+T154	PNI 658 666	everyone
+#149	AnnotatorNotes T154	lemma = 'everyone'
+T155	SENT 666 667	.
+#150	AnnotatorNotes T155	lemma = '.'
+T156	DT0 668 672	Some
+#151	AnnotatorNotes T156	lemma = 'some'
+T157	NN2 673 677	ways
+#152	AnnotatorNotes T157	lemma = 'way'
+T158	VVB 678 682	take
+#153	AnnotatorNotes T158	lemma = 'take'
+T159	AV0 683 686	too
+#154	AnnotatorNotes T159	lemma = 'too'
+T160	DT0 687 691	much
+#155	AnnotatorNotes T160	lemma = 'much'
+T161	NN1 692 696	time
+#156	AnnotatorNotes T161	lemma = 'time'
+T162	CJC 697 700	and
+#157	AnnotatorNotes T162	lemma = 'and'
+T163	NN2 701 707	planes
+#158	AnnotatorNotes T163	lemma = 'plane'
+T164	VBB 708 711	are
+#159	AnnotatorNotes T164	lemma = 'be'
+T165	AT0 712 715	the
+#160	AnnotatorNotes T165	lemma = 'the'
+T166	AJS 716 723	fastest
+#161	AnnotatorNotes T166	lemma = 'fast'
+T167	NN1 724 730	source
+#162	AnnotatorNotes T167	lemma = 'source'
+T168	PRF 731 733	of
+#163	AnnotatorNotes T168	lemma = 'of'
+T169	NN1 734 743	transport
+#164	AnnotatorNotes T169	lemma = 'transport'
+T170	SENT 743 744	.
+#165	AnnotatorNotes T170	lemma = '.'
+T171	VVG 745 750	Using
+#166	AnnotatorNotes T171	lemma = 'use'
+T172	NN1 751 754	air
+#167	AnnotatorNotes T172	lemma = 'air'
+T173	NN1 755 765	travelling
+#168	AnnotatorNotes T173	lemma = 'travelling|travel'
+T174	VM0 766 769	can
+#169	AnnotatorNotes T174	lemma = 'can'
+T175	VVI 770 774	help
+#170	AnnotatorNotes T175	lemma = 'help'
+T176	NN0 775 781	people
+#171	AnnotatorNotes T176	lemma = 'people'
+T177	TO0 782 784	to
+#172	AnnotatorNotes T177	lemma = 'to'
+T178	VVI 785 790	spend
+#173	AnnotatorNotes T178	lemma = 'spend'
+T179	AV0 791 799	together
+#174	AnnotatorNotes T179	lemma = 'together'
+T180	DT0 800 804	more
+#175	AnnotatorNotes T180	lemma = 'more'
+T181	NN1 805 809	time
+#176	AnnotatorNotes T181	lemma = 'time'
+T182	PUN 809 810	,
+#177	AnnotatorNotes T182	lemma = ','
+T183	VVG 811 819	reducing
+#178	AnnotatorNotes T183	lemma = 'reduce|reducing'
+T184	NN1 820 824	time
+#179	AnnotatorNotes T184	lemma = 'time'
+T185	PRP 825 827	in
+#180	AnnotatorNotes T185	lemma = 'in'
+T186	AT0 828 831	the
+#181	AnnotatorNotes T186	lemma = 'the'
+T187	NN1 832 835	way
+#182	AnnotatorNotes T187	lemma = 'way'
+T188	SENT 835 836	.
+#183	AnnotatorNotes T188	lemma = '.'
+T189	AV0 838 846	Moreover
+#184	AnnotatorNotes T189	lemma = 'moreover'
+T190	PUN 846 847	,
+#185	AnnotatorNotes T190	lemma = ','
+T191	AV0 848 853	there
+#186	AnnotatorNotes T191	lemma = 'there'
+T192	AJ0 854 858	rare
+#187	AnnotatorNotes T192	lemma = 'rare'
+T193	AT0 859 860	a
+#188	AnnotatorNotes T193	lemma = 'a'
+T194	NN1 861 864	lot
+#189	AnnotatorNotes T194	lemma = 'lot'
+T195	PRF 865 867	of
+#190	AnnotatorNotes T195	lemma = 'of'
+T196	NN1 868 876	business
+#191	AnnotatorNotes T196	lemma = 'business'
+T197	NN2 877 883	duties
+#192	AnnotatorNotes T197	lemma = 'duty'
+T198	CJT 884 888	that
+#193	AnnotatorNotes T198	lemma = 'that'
+T199	VM0 889 892	can
+#194	AnnotatorNotes T199	lemma = 'can'
+T200	XX0 892 895	not
+#195	AnnotatorNotes T200	lemma = 'not'
+T201	VBI 896 898	be
+#196	AnnotatorNotes T201	lemma = 'be'
+T202	VDN 899 903	done
+#197	AnnotatorNotes T202	lemma = 'do'
+T203	PRP 904 906	in
+#198	AnnotatorNotes T203	lemma = 'in'
+T204	CRD 907 910	one
+#199	AnnotatorNotes T204	lemma = 'one'
+T205	NN1 911 918	country
+#200	AnnotatorNotes T205	lemma = 'country'
+T206	SENT 918 919	.
+#201	AnnotatorNotes T206	lemma = '.'
+T207	NN1 920 927	Society
+#202	AnnotatorNotes T207	lemma = 'society'
+T208	VM0 928 934	should
+#203	AnnotatorNotes T208	lemma = 'should'
+T209	VVI 935 940	share
+#204	AnnotatorNotes T209	lemma = 'share'
+T210	NN1 941 951	experience
+#205	AnnotatorNotes T210	lemma = 'experience'
+T211	PRP 952 956	with
+#206	AnnotatorNotes T211	lemma = 'with'
+T212	AJ0 957 962	other
+#207	AnnotatorNotes T212	lemma = 'other'
+T213	NN2 963 966	men
+#208	AnnotatorNotes T213	lemma = 'man'
+T214	SENT 966 967	.
+#209	AnnotatorNotes T214	lemma = '.'
+T215	AV0 968 972	Also
+#210	AnnotatorNotes T215	lemma = 'also'
+T216	NN1 973 978	world
+#211	AnnotatorNotes T216	lemma = 'world'
+T217	NN1 979 984	trade
+#212	AnnotatorNotes T217	lemma = 'trade'
+T218	VBZ 985 987	is
+#213	AnnotatorNotes T218	lemma = 'be'
+T219	AT0 988 989	a
+#214	AnnotatorNotes T219	lemma = 'a'
+T220	NN1 990 994	base
+#215	AnnotatorNotes T220	lemma = 'base'
+T221	PRF 995 997	of
+#216	AnnotatorNotes T221	lemma = 'of'
+T222	AT0 998 1001	the
+#217	AnnotatorNotes T222	lemma = 'the'
+T223	DT0 1002 1005	all
+#218	AnnotatorNotes T223	lemma = 'all'
+T224	NN1 1006 1011	state
+#219	AnnotatorNotes T224	lemma = 'state'
+T225	POS 1011 1013	's
+#220	AnnotatorNotes T225	lemma = 's'
+T226	NN1 1014 1023	economics
+#221	AnnotatorNotes T226	lemma = 'economics'
+T227	SENT 1023 1024	.
+#222	AnnotatorNotes T227	lemma = '.'
+T228	NN0 1025 1031	People
+#223	AnnotatorNotes T228	lemma = 'people'
+T229	VM0 1032 1038	should
+#224	AnnotatorNotes T229	lemma = 'should'
+T230	VVI 1039 1045	travel
+#225	AnnotatorNotes T230	lemma = 'travel'
+T231	PRP 1046 1049	for
+#226	AnnotatorNotes T231	lemma = 'for'
+T232	AT0 1050 1053	the
+#227	AnnotatorNotes T232	lemma = 'the'
+T233	NN1 1054 1061	success
+#228	AnnotatorNotes T233	lemma = 'success'
+T234	PRF 1062 1064	of
+#229	AnnotatorNotes T234	lemma = 'of'
+T235	DPS 1065 1070	their
+#230	AnnotatorNotes T235	lemma = 'they'
+T236	NN1 1071 1075	duty
+#231	AnnotatorNotes T236	lemma = 'duty'
+T237	SENT 1075 1076	.
+#232	AnnotatorNotes T237	lemma = '.'
+T238	TO0 1078 1080	To
+#233	AnnotatorNotes T238	lemma = 'to'
+T239	VVI 1081 1084	sum
+#234	AnnotatorNotes T239	lemma = 'sum'
+T240	AVP 1085 1087	up
+#235	AnnotatorNotes T240	lemma = 'up'
+T241	PUN 1087 1088	,
+#236	AnnotatorNotes T241	lemma = ','
+T242	PNP 1089 1090	I
+#237	AnnotatorNotes T242	lemma = 'i'
+T243	VM0 1091 1096	would
+#238	AnnotatorNotes T243	lemma = 'would'
+T244	VVI 1097 1101	like
+#239	AnnotatorNotes T244	lemma = 'like'
+T245	TO0 1102 1104	to
+#240	AnnotatorNotes T245	lemma = 'to'
+T246	VVI 1105 1108	say
+#241	AnnotatorNotes T246	lemma = 'say'
+T247	DT0 1109 1113	that
+#242	AnnotatorNotes T247	lemma = 'that'
+T248	PRF 1114 1116	of
+#243	AnnotatorNotes T248	lemma = 'of'
+T249	NN1 1117 1123	course
+#244	AnnotatorNotes T249	lemma = 'course'
+T250	NN1 1124 1127	air
+#245	AnnotatorNotes T250	lemma = 'air'
+T251	NN1 1128 1137	pollution
+#246	AnnotatorNotes T251	lemma = 'pollution'
+T252	VBZ 1138 1140	is
+#247	AnnotatorNotes T252	lemma = 'be'
+T253	AT0 1141 1142	a
+#248	AnnotatorNotes T253	lemma = 'a'
+T254	AJ0 1143 1147	huge
+#249	AnnotatorNotes T254	lemma = 'huge'
+T255	NN1 1148 1154	reason
+#250	AnnotatorNotes T255	lemma = 'reason'
+T256	PRP 1155 1158	for
+#251	AnnotatorNotes T256	lemma = 'for'
+T257	AT0 1159 1162	the
+#252	AnnotatorNotes T257	lemma = 'the'
+T258	AJ0 1163 1171	reducing
+#253	AnnotatorNotes T258	lemma = 'reducing|reduce'
+T259	NN1 1172 1178	amount
+#254	AnnotatorNotes T259	lemma = 'amount'
+T260	PRF 1179 1181	of
+#255	AnnotatorNotes T260	lemma = 'of'
+T261	NN2 1182 1189	flights
+#256	AnnotatorNotes T261	lemma = 'flight'
+T262	PUN 1189 1190	,
+#257	AnnotatorNotes T262	lemma = ','
+T263	CJC 1191 1194	but
+#258	AnnotatorNotes T263	lemma = 'but'
+T264	NN1 1195 1200	world
+#259	AnnotatorNotes T264	lemma = 'world'
+T265	NN1 1201 1209	business
+#260	AnnotatorNotes T265	lemma = 'business'
+T266	VBZ 1210 1212	is
+#261	AnnotatorNotes T266	lemma = 'be'
+T267	AJ0 1213 1223	impossible
+#262	AnnotatorNotes T267	lemma = 'impossible'
+T268	PRP 1224 1228	with
+#263	AnnotatorNotes T268	lemma = 'with'
+T269	AVP 1229 1232	out
+#264	AnnotatorNotes T269	lemma = 'out'
+T270	PNP 1233 1235	it
+#265	AnnotatorNotes T270	lemma = 'it'
+T271	CJC 1236 1239	and
+#266	AnnotatorNotes T271	lemma = 'and'
+T272	PNP 1240 1242	it
+#267	AnnotatorNotes T272	lemma = 'it'
+T273	VVZ 1243 1248	makes
+#268	AnnotatorNotes T273	lemma = 'make'
+T274	AT0 1249 1250	a
+#269	AnnotatorNotes T274	lemma = 'a'
+T275	AJ0 1251 1254	big
+#270	AnnotatorNotes T275	lemma = 'big'
+T276	NN1 1255 1261	impact
+#271	AnnotatorNotes T276	lemma = 'impact'
+T277	PRP 1262 1264	on
+#272	AnnotatorNotes T277	lemma = 'on'
+T278	NN1 1265 1270	world
+#273	AnnotatorNotes T278	lemma = 'world'
+T279	AJ0 1271 1279	economic
+#274	AnnotatorNotes T279	lemma = 'economic'
+T280	SENT 1279 1280	.
+#275	AnnotatorNotes T280	lemma = '.'
+T281	AV0 1281 1285	Also
+#276	AnnotatorNotes T281	lemma = 'also'
+T282	PUN 1285 1286	,
+#277	AnnotatorNotes T282	lemma = ','
+T283	NN1 1287 1293	family
+#278	AnnotatorNotes T283	lemma = 'family'
+T284	CJC 1294 1297	and
+#279	AnnotatorNotes T284	lemma = 'and'
+T285	NN1 1298 1308	travelling
+#280	AnnotatorNotes T285	lemma = 'travelling|travel'
+T286	VBB 1309 1312	are
+#281	AnnotatorNotes T286	lemma = 'be'
+T287	NN1 1313 1317	need
+#282	AnnotatorNotes T287	lemma = 'need'
+T288	AJ0 1318 1322	fast
+#283	AnnotatorNotes T288	lemma = 'fast'
+T289	NN2 1323 1327	ways
+#284	AnnotatorNotes T289	lemma = 'way'
+T290	PRF 1328 1330	of
+#285	AnnotatorNotes T290	lemma = 'of'
+T291	NN1 1331 1340	transport
+#286	AnnotatorNotes T291	lemma = 'transport'
+T292	SENT 1340 1341	.
+#287	AnnotatorNotes T292	lemma = ''

@@ -1,0 +1,424 @@
+T1	note 935 936	.
+#1	AnnotatorNotes T1	Im A.
+T2	Articles 208 216	Internet
+#2	AnnotatorNotes T2	the Internet
+T3	Spelling 356 363	highter
+#3	AnnotatorNotes T3	higher
+T4	Spelling 365 369	It's
+#4	AnnotatorNotes T4	Its
+T5	Articles 501 507	number
+#5	AnnotatorNotes T5	the percentage number
+T6	Redundant_comp 22 24	us
+A1	Delete T6
+T7	suggestion 91 98	, which
+#6	AnnotatorNotes T7	which
+T8	lex_item_choice 99 102	use
+#7	AnnotatorNotes T8	had
+T9	Prepositions 119 122	for
+#8	AnnotatorNotes T9	over
+T10	Articles 123 138	six-year-period
+#9	AnnotatorNotes T10	a six-year-period
+T11	Punctuation 139 162	(between 1999 and 2004)
+#10	AnnotatorNotes T11	between 1999 and 2004
+T12	Punctuation 0 162	The graph illustrates us the percentage of urban and rural households in a European country, which use Internet access for six-year-period (between 1999 and 2004)
+#11	AnnotatorNotes T12	The graph illustrates the percentage of urban and rural households in a European country which had Internet access over a six-year-period between 1999 and 2004.
+T13	Tense_choice 203 207	have
+#12	AnnotatorNotes T13	had
+T14	lex_item_choice 182 188	number
+#13	AnnotatorNotes T14	percentage
+T15	Tense_choice 324 328	have
+#14	AnnotatorNotes T15	had
+T16	Word_choice 284 293	Of course
+#15	AnnotatorNotes T16	Unsurprisingly
+T17	Tense_choice 353 355	is
+#16	AnnotatorNotes T17	was
+T18	lex_item_choice 448 456	Stealing
+#17	AnnotatorNotes T18	Talking
+T19	suggestion 486 492	, that
+#18	AnnotatorNotes T19	that
+T20	suggestion 493 500	however
+#19	AnnotatorNotes T20	even though
+T21	suggestion 501 507	number
+#20	AnnotatorNotes T21	the percentage number
+T22	suggestion 517 559	, who use Internet access in their places,
+#21	AnnotatorNotes T22	who had Internet access in their places
+T23	lex_item_choice 523 526	use
+#22	AnnotatorNotes T23	had
+T24	suggestion 560 564	less
+#23	AnnotatorNotes T24	was lower
+T25	Tense_choice 595 604	increases
+#24	AnnotatorNotes T25	increased
+T26	Word_choice 656 664	cut down
+#25	AnnotatorNotes T26	decreased
+T27	lex_item_choice 741 749	accesses
+#26	AnnotatorNotes T27	users
+T28	Noun_number 825 833	accesses
+#27	AnnotatorNotes T28	access
+T29	suggestion 860 864	that
+#28	AnnotatorNotes T29	which
+T30	Word_choice 876 882	speaks
+#29	AnnotatorNotes T30	says a lot
+T31	Tense_choice 99 102	use
+#30	AnnotatorNotes T31	had
+T32	Redundant_comp 767 769	by
+A2	Delete T32
+T33	AT0 0 3	The
+#31	AnnotatorNotes T33	lemma = 'the'
+T34	NN1 4 9	graph
+#32	AnnotatorNotes T34	lemma = 'graph'
+T35	VVZ 10 21	illustrates
+#33	AnnotatorNotes T35	lemma = 'illustrate'
+T36	PNP 22 24	us
+#34	AnnotatorNotes T36	lemma = 'we'
+T37	AT0 25 28	the
+#35	AnnotatorNotes T37	lemma = 'the'
+T38	NN1 29 39	percentage
+#36	AnnotatorNotes T38	lemma = 'percentage'
+T39	PRF 40 42	of
+#37	AnnotatorNotes T39	lemma = 'of'
+T40	AJ0 43 48	urban
+#38	AnnotatorNotes T40	lemma = 'urban'
+T41	CJC 49 52	and
+#39	AnnotatorNotes T41	lemma = 'and'
+T42	AJ0 53 58	rural
+#40	AnnotatorNotes T42	lemma = 'rural'
+T43	NN2 59 69	households
+#41	AnnotatorNotes T43	lemma = 'household'
+T44	PRP 70 72	in
+#42	AnnotatorNotes T44	lemma = 'in'
+T45	AT0 73 74	a
+#43	AnnotatorNotes T45	lemma = 'a'
+T46	AJ0 75 83	European
+#44	AnnotatorNotes T46	lemma = 'european'
+T47	NN1 84 91	country
+#45	AnnotatorNotes T47	lemma = 'country'
+T48	PUN 91 92	,
+#46	AnnotatorNotes T48	lemma = ','
+T49	DTQ 93 98	which
+#47	AnnotatorNotes T49	lemma = 'which'
+T50	VVB 99 102	use
+#48	AnnotatorNotes T50	lemma = 'use'
+T51	NN1 103 111	Internet
+#49	AnnotatorNotes T51	lemma = 'internet'
+T52	NN1 112 118	access
+#50	AnnotatorNotes T52	lemma = 'access'
+T53	PRP 119 122	for
+#51	AnnotatorNotes T53	lemma = 'for'
+T54	NN1 123 138	six-year-period
+#52	AnnotatorNotes T54	lemma = 'six-year-period'
+T55	PUL 139 140	(
+#53	AnnotatorNotes T55	lemma = '('
+T56	PRP 140 147	between
+#54	AnnotatorNotes T56	lemma = 'between'
+T57	CRD 148 152	1999
+#55	AnnotatorNotes T57	lemma = '1999'
+T58	CJC 153 156	and
+#56	AnnotatorNotes T58	lemma = 'and'
+T59	CRD 157 161	2004
+#57	AnnotatorNotes T59	lemma = '2004'
+T60	PUR 161 162	)
+#58	AnnotatorNotes T60	lemma = ')'
+T61	CJS 163 165	As
+#59	AnnotatorNotes T61	lemma = 'as'
+T62	PNP 166 168	we
+#60	AnnotatorNotes T62	lemma = 'we'
+T63	VM0 169 172	can
+#61	AnnotatorNotes T63	lemma = 'can'
+T64	VVI 173 176	see
+#62	AnnotatorNotes T64	lemma = 'see'
+T65	PUN 176 177	,
+#63	AnnotatorNotes T65	lemma = ','
+T66	AT0 178 181	the
+#64	AnnotatorNotes T66	lemma = 'the'
+T67	NN1 182 188	number
+#65	AnnotatorNotes T67	lemma = 'number'
+T68	PRF 189 191	of
+#66	AnnotatorNotes T68	lemma = 'of'
+T69	NN0 192 198	people
+#67	AnnotatorNotes T69	lemma = 'people'
+T70	PNQ 199 202	who
+#68	AnnotatorNotes T70	lemma = 'who'
+T71	VHB 203 207	have
+#69	AnnotatorNotes T71	lemma = 'have'
+T72	NN1 208 216	Internet
+#70	AnnotatorNotes T72	lemma = 'internet'
+T73	PRP 217 219	in
+#71	AnnotatorNotes T73	lemma = 'in'
+T74	DPS 220 225	their
+#72	AnnotatorNotes T74	lemma = 'they'
+T75	NN2 226 231	homes
+#73	AnnotatorNotes T75	lemma = 'home'
+T76	VVD 232 241	increased
+#74	AnnotatorNotes T76	lemma = 'increase|increased'
+T77	AT0 242 247	every
+#75	AnnotatorNotes T77	lemma = 'every'
+T78	NN1 248 252	year
+#76	AnnotatorNotes T78	lemma = 'year'
+T79	AV0 253 257	both
+#77	AnnotatorNotes T79	lemma = 'both'
+T80	PRP 258 260	in
+#78	AnnotatorNotes T80	lemma = 'in'
+T81	AJ0 261 266	urban
+#79	AnnotatorNotes T81	lemma = 'urban'
+T82	CJC 267 270	and
+#80	AnnotatorNotes T82	lemma = 'and'
+T83	AJ0 271 276	rural
+#81	AnnotatorNotes T83	lemma = 'rural'
+T84	NN2 277 282	areas
+#82	AnnotatorNotes T84	lemma = 'area'
+T85	SENT 282 283	.
+#83	AnnotatorNotes T85	lemma = '.'
+T86	PRF 284 286	Of
+#84	AnnotatorNotes T86	lemma = 'of'
+T87	NN1 287 293	course
+#85	AnnotatorNotes T87	lemma = 'course'
+T88	PUN 293 294	,
+#86	AnnotatorNotes T88	lemma = ','
+T89	AT0 295 298	the
+#87	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 299 309	percentage
+#88	AnnotatorNotes T90	lemma = 'percentage'
+T91	PRF 310 312	of
+#89	AnnotatorNotes T91	lemma = 'of'
+T92	NN0 313 319	people
+#90	AnnotatorNotes T92	lemma = 'people'
+T93	PNQ 320 323	who
+#91	AnnotatorNotes T93	lemma = 'who'
+T94	VHB 324 328	have
+#92	AnnotatorNotes T94	lemma = 'have'
+T95	NN1 329 337	Internet
+#93	AnnotatorNotes T95	lemma = 'internet'
+T96	PRP 338 340	in
+#94	AnnotatorNotes T96	lemma = 'in'
+T97	AJ0 341 346	urban
+#95	AnnotatorNotes T97	lemma = 'urban'
+T98	NN2 347 352	areas
+#96	AnnotatorNotes T98	lemma = 'area'
+T99	VBZ 353 355	is
+#97	AnnotatorNotes T99	lemma = 'be'
+T100	AJ0 356 363	highter
+#98	AnnotatorNotes T100	lemma = 'highter'
+T101	SENT 363 364	.
+#99	AnnotatorNotes T101	lemma = '.'
+T102	PNP 365 367	It
+#100	AnnotatorNotes T102	lemma = 'it'
+T103	VBZ 367 369	's
+#101	AnnotatorNotes T103	lemma = 'be'
+T104	AJS 370 377	biggest
+#102	AnnotatorNotes T104	lemma = 'big'
+T105	NN1 378 384	growth
+#103	AnnotatorNotes T105	lemma = 'growth'
+T106	VBD 385 388	was
+#104	AnnotatorNotes T106	lemma = 'be'
+T107	PRP 389 396	between
+#105	AnnotatorNotes T107	lemma = 'between'
+T108	CRD 397 401	1999
+#106	AnnotatorNotes T108	lemma = '1999'
+T109	CJC 402 405	and
+#107	AnnotatorNotes T109	lemma = 'and'
+T110	CRD 406 410	2000
+#108	AnnotatorNotes T110	lemma = '2000'
+T111	PUN 410 411	,
+#109	AnnotatorNotes T111	lemma = ','
+T112	CJS 412 416	when
+#110	AnnotatorNotes T112	lemma = 'when'
+T113	PNP 417 419	it
+#111	AnnotatorNotes T113	lemma = 'it'
+T114	VVD 420 429	increased
+#112	AnnotatorNotes T114	lemma = 'increase|increased'
+T115	PRP 430 434	from
+#113	AnnotatorNotes T115	lemma = 'from'
+T116	CRD 435 437	15
+#114	AnnotatorNotes T116	lemma = '15'
+T117	NN0 437 438	%
+#115	AnnotatorNotes T117	lemma = '%'
+T118	PRP 439 441	to
+#116	AnnotatorNotes T118	lemma = 'to'
+T119	CRD 442 444	30
+#117	AnnotatorNotes T119	lemma = '30'
+T120	NN0 444 445	%
+#118	AnnotatorNotes T120	lemma = '%'
+T121	SENT 445 446	.
+#119	AnnotatorNotes T121	lemma = '.'
+T122	VVG 448 456	Stealing
+#120	AnnotatorNotes T122	lemma = 'steal'
+T123	PRP 457 462	about
+#121	AnnotatorNotes T123	lemma = 'about'
+T124	AJ0 463 468	rural
+#122	AnnotatorNotes T124	lemma = 'rural'
+T125	NN2 469 474	areas
+#123	AnnotatorNotes T125	lemma = 'area'
+T126	PUN 474 475	,
+#124	AnnotatorNotes T126	lemma = ','
+T127	PNP 476 478	we
+#125	AnnotatorNotes T127	lemma = 'we'
+T128	VM0 479 482	can
+#126	AnnotatorNotes T128	lemma = 'can'
+T129	VVI 483 486	see
+#127	AnnotatorNotes T129	lemma = 'see'
+T130	PUN 486 487	,
+#128	AnnotatorNotes T130	lemma = ','
+T131	CJT 488 492	that
+#129	AnnotatorNotes T131	lemma = 'that'
+T132	AV0 493 500	however
+#130	AnnotatorNotes T132	lemma = 'however'
+T133	NN1 501 507	number
+#131	AnnotatorNotes T133	lemma = 'number'
+T134	PRF 508 510	of
+#132	AnnotatorNotes T134	lemma = 'of'
+T135	NN0 511 517	people
+#133	AnnotatorNotes T135	lemma = 'people'
+T136	PUN 517 518	,
+#134	AnnotatorNotes T136	lemma = ','
+T137	PNQ 519 522	who
+#135	AnnotatorNotes T137	lemma = 'who'
+T138	VVB 523 526	use
+#136	AnnotatorNotes T138	lemma = 'use'
+T139	NN1 527 535	Internet
+#137	AnnotatorNotes T139	lemma = 'internet'
+T140	NN1 536 542	access
+#138	AnnotatorNotes T140	lemma = 'access'
+T141	PRP 543 545	in
+#139	AnnotatorNotes T141	lemma = 'in'
+T142	DPS 546 551	their
+#140	AnnotatorNotes T142	lemma = 'they'
+T143	NN2 552 558	places
+#141	AnnotatorNotes T143	lemma = 'place'
+T144	PUN 558 559	,
+#142	AnnotatorNotes T144	lemma = ','
+T145	AV0 560 564	less
+#143	AnnotatorNotes T145	lemma = 'less'
+T146	CJS 565 569	than
+#144	AnnotatorNotes T146	lemma = 'than'
+T147	PRP 570 572	in
+#145	AnnotatorNotes T147	lemma = 'in'
+T148	AJ0 573 578	urban
+#146	AnnotatorNotes T148	lemma = 'urban'
+T149	NN2 579 584	areas
+#147	AnnotatorNotes T149	lemma = 'area'
+T150	PUN 584 585	,
+#148	AnnotatorNotes T150	lemma = ','
+T151	PNP 586 588	it
+#149	AnnotatorNotes T151	lemma = 'it'
+T152	AV0 589 594	still
+#150	AnnotatorNotes T152	lemma = 'still'
+T153	VVZ 595 604	increases
+#151	AnnotatorNotes T153	lemma = 'increase'
+T154	SENT 604 605	.
+#152	AnnotatorNotes T154	lemma = '.'
+T155	CJC 606 609	And
+#153	AnnotatorNotes T155	lemma = 'and'
+T156	AT0 610 613	the
+#154	AnnotatorNotes T156	lemma = 'the'
+T157	NN2 614 625	differences
+#155	AnnotatorNotes T157	lemma = 'difference'
+T158	PRP 626 633	between
+#156	AnnotatorNotes T158	lemma = 'between'
+T159	AJ0 634 639	urban
+#157	AnnotatorNotes T159	lemma = 'urban'
+T160	CJC 640 643	and
+#158	AnnotatorNotes T160	lemma = 'and'
+T161	AJ0 644 649	rural
+#159	AnnotatorNotes T161	lemma = 'rural'
+T162	NN2 650 655	areas
+#160	AnnotatorNotes T162	lemma = 'area'
+T163	VVB 656 659	cut
+#161	AnnotatorNotes T163	lemma = 'cut'
+T164	AVP 660 664	down
+#162	AnnotatorNotes T164	lemma = 'down'
+T165	AT0 665 670	every
+#163	AnnotatorNotes T165	lemma = 'every'
+T166	NN1 671 675	year
+#164	AnnotatorNotes T166	lemma = 'year'
+T167	SENT 675 676	.
+#165	AnnotatorNotes T167	lemma = '.'
+T168	TO0 678 680	To
+#166	AnnotatorNotes T168	lemma = 'to'
+T169	VVI 681 684	sum
+#167	AnnotatorNotes T169	lemma = 'sum'
+T170	AVP 685 687	up
+#168	AnnotatorNotes T170	lemma = 'up'
+T171	PUN 687 688	,
+#169	AnnotatorNotes T171	lemma = ','
+T172	AT0 689 692	the
+#170	AnnotatorNotes T172	lemma = 'the'
+T173	NN1 693 703	percentage
+#171	AnnotatorNotes T173	lemma = 'percentage'
+T174	PRF 704 706	of
+#172	AnnotatorNotes T174	lemma = 'of'
+T175	AJ0 707 712	urban
+#173	AnnotatorNotes T175	lemma = 'urban'
+T176	PUN 712 713	/
+#174	AnnotatorNotes T176	lemma = '/'
+T177	AJ0 713 721	suburban
+#175	AnnotatorNotes T177	lemma = 'suburban'
+T178	NN1 722 731	household
+#176	AnnotatorNotes T178	lemma = 'household'
+T179	NN1 732 740	Internet
+#177	AnnotatorNotes T179	lemma = 'internet'
+T180	NN2 741 749	accesses
+#178	AnnotatorNotes T180	lemma = 'access'
+T181	VVN 750 759	increased
+#179	AnnotatorNotes T181	lemma = 'increase|increased'
+T182	AV0 760 766	almost
+#180	AnnotatorNotes T182	lemma = 'almost'
+T183	PRP 767 769	by
+#181	AnnotatorNotes T183	lemma = 'by'
+T184	CRD 770 771	4
+#182	AnnotatorNotes T184	lemma = '4'
+T185	NN2 772 777	times
+#183	AnnotatorNotes T185	lemma = 'time'
+T186	CJC 778 781	and
+#184	AnnotatorNotes T186	lemma = 'and'
+T187	AT0 782 785	the
+#185	AnnotatorNotes T187	lemma = 'the'
+T188	NN1 786 796	percentage
+#186	AnnotatorNotes T188	lemma = 'percentage'
+T189	PRF 797 799	of
+#187	AnnotatorNotes T189	lemma = 'of'
+T190	AJ0 800 805	rural
+#188	AnnotatorNotes T190	lemma = 'rural'
+T191	NN1 806 815	household
+#189	AnnotatorNotes T191	lemma = 'household'
+T192	NN1 816 824	Internet
+#190	AnnotatorNotes T192	lemma = 'internet'
+T193	NN2 825 833	accesses
+#191	AnnotatorNotes T193	lemma = 'access'
+T194	VVN 834 843	increased
+#192	AnnotatorNotes T194	lemma = 'increase|increased'
+T195	AV0 844 850	almost
+#193	AnnotatorNotes T195	lemma = 'almost'
+T196	CRD 851 852	8
+#194	AnnotatorNotes T196	lemma = '8'
+T197	NN2 853 858	times
+#195	AnnotatorNotes T197	lemma = 'time'
+T198	PUN 858 859	,
+#196	AnnotatorNotes T198	lemma = ','
+T199	DT0 860 864	that
+#197	AnnotatorNotes T199	lemma = 'that'
+T200	PRP 865 867	in
+#198	AnnotatorNotes T200	lemma = 'in'
+T201	AJ0 868 875	general
+#199	AnnotatorNotes T201	lemma = 'general'
+T202	VVZ 876 882	speaks
+#200	AnnotatorNotes T202	lemma = 'speak'
+T203	PRP 883 888	about
+#201	AnnotatorNotes T203	lemma = 'about'
+T204	AT0 889 892	the
+#202	AnnotatorNotes T204	lemma = 'the'
+T205	NN1 893 904	development
+#203	AnnotatorNotes T205	lemma = 'development'
+T206	PRF 905 907	of
+#204	AnnotatorNotes T206	lemma = 'of'
+T207	AT0 908 911	the
+#205	AnnotatorNotes T207	lemma = 'the'
+T208	NN1 912 920	Internet
+#206	AnnotatorNotes T208	lemma = 'internet'
+T209	PRP 921 923	in
+#207	AnnotatorNotes T209	lemma = 'in'
+T210	AT0 924 927	the
+#208	AnnotatorNotes T210	lemma = 'the'
+T211	NN1 928 935	country
+#209	AnnotatorNotes T211	lemma = 'country'
+T212	SENT 935 936	.
+#210	AnnotatorNotes T212	lemma = ''

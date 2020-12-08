@@ -1,0 +1,223 @@
+T1	Standard 25 49	every day use technology
+#1	AnnotatorNotes T1	use technology every day
+T2	Punctuation 50 57	another
+#2	AnnotatorNotes T2	, another
+T3	Spelling 76 79	nea
+#3	AnnotatorNotes T3	new
+T4	Spelling 121 125	thot
+#4	AnnotatorNotes T4	that
+T5	Spelling 126 138	imp r diving
+#5	AnnotatorNotes T5	improving
+T6	Spelling 242 253	contemprory
+#6	AnnotatorNotes T6	contemporary
+T7	Articles 242 259	contemprory world
+#7	AnnotatorNotes T7	the contemporary world
+A1	Cause T7
+T8	Spelling 279 284	there
+#8	AnnotatorNotes T8	their
+T9	Spelling 315 318	old
+#9	AnnotatorNotes T9	day
+T10	Articles 354 361	old one
+#10	AnnotatorNotes T10	an old one
+A2	Cause T10
+T11	note 515 516	.
+#11	AnnotatorNotes T11	A. Orlenko
+T12	Redundant 6 24	the most of people
+T13	Noun_number 80 90	technology
+#12	AnnotatorNotes T13	technologies
+T14	Agreement_errors 91 93	is
+#13	AnnotatorNotes T14	are
+T15	Agreement_errors 76 90	nea technology
+R1	Dependent_change Arg1:T15 Arg2:T14
+T16	Spelling 139 143	thet
+#14	AnnotatorNotes T16	that
+T17	Spelling 402 411	experince
+#15	AnnotatorNotes T17	experience
+T18	Spelling 415 422	monkind
+#16	AnnotatorNotes T18	mankind
+T19	Spelling 450 458	resctiod
+#17	AnnotatorNotes T19	restricted
+T20	Spelling 478 488	apperecite
+#18	AnnotatorNotes T20	appreciate
+T21	AV0 0 5	Today
+#19	AnnotatorNotes T21	lemma = 'today'
+T22	AT0 6 9	the
+#20	AnnotatorNotes T22	lemma = 'the'
+T23	AV0 10 14	most
+#21	AnnotatorNotes T23	lemma = 'most'
+T24	PRF 15 17	of
+#22	AnnotatorNotes T24	lemma = 'of'
+T25	NN0 18 24	people
+#23	AnnotatorNotes T25	lemma = 'people'
+T26	AT0 25 30	every
+#24	AnnotatorNotes T26	lemma = 'every'
+T27	NN1 31 34	day
+#25	AnnotatorNotes T27	lemma = 'day'
+T28	NN1 35 38	use
+#26	AnnotatorNotes T28	lemma = 'use'
+T29	NN1 39 49	technology
+#27	AnnotatorNotes T29	lemma = 'technology'
+T30	DT0 50 57	another
+#28	AnnotatorNotes T30	lemma = 'another'
+T31	NN0 58 64	people
+#29	AnnotatorNotes T31	lemma = 'people'
+T32	VVB 65 70	think
+#30	AnnotatorNotes T32	lemma = 'think'
+T33	CJT 71 75	that
+#31	AnnotatorNotes T33	lemma = 'that'
+T34	AJ0 76 79	nea
+#32	AnnotatorNotes T34	lemma = 'nea'
+T35	NN1 80 90	technology
+#33	AnnotatorNotes T35	lemma = 'technology'
+T36	VBZ 91 93	is
+#34	AnnotatorNotes T36	lemma = 'be'
+T37	AJ0 94 97	bad
+#35	AnnotatorNotes T37	lemma = 'bad'
+T38	SENT 97 98	.
+#36	AnnotatorNotes T38	lemma = '.'
+T39	AT0 99 102	The
+#37	AnnotatorNotes T39	lemma = 'the'
+T40	AJ0 103 110	popular
+#38	AnnotatorNotes T40	lemma = 'popular'
+T41	NN1 111 117	belief
+#39	AnnotatorNotes T41	lemma = 'belief'
+T42	VBZ 118 120	is
+#40	AnnotatorNotes T42	lemma = 'be'
+T43	AJ0 121 125	thot
+#41	AnnotatorNotes T43	lemma = 'thot'
+T44	NN1 126 129	imp
+#42	AnnotatorNotes T44	lemma = 'imp'
+T45	ZZ0 130 131	r
+#43	AnnotatorNotes T45	lemma = 'r'
+T46	AJ0 132 138	diving
+#44	AnnotatorNotes T46	lemma = 'diving|dive'
+T47	NN1 139 143	thet
+#45	AnnotatorNotes T47	lemma = 'thet'
+T48	NN1 144 147	way
+#46	AnnotatorNotes T48	lemma = 'way'
+T49	PRF 148 150	of
+#47	AnnotatorNotes T49	lemma = 'of'
+T50	VDG 151 156	doing
+#48	AnnotatorNotes T50	lemma = 'do'
+T51	NN2 157 163	things
+#49	AnnotatorNotes T51	lemma = 'thing'
+T52	NN0 164 170	people
+#50	AnnotatorNotes T52	lemma = 'people'
+T53	VVB 171 177	forget
+#51	AnnotatorNotes T53	lemma = 'forget'
+T54	CJC 178 181	and
+#52	AnnotatorNotes T54	lemma = 'and'
+T55	AJ0 182 185	old
+#53	AnnotatorNotes T55	lemma = 'old'
+T56	NN1 186 195	tradition
+#54	AnnotatorNotes T56	lemma = 'tradition'
+T57	DT0 196 200	this
+#55	AnnotatorNotes T57	lemma = 'this'
+T58	AV0 201 210	generally
+#56	AnnotatorNotes T58	lemma = 'generally'
+T59	AJ0 211 215	true
+#57	AnnotatorNotes T59	lemma = 'true'
+T60	CJC 216 219	but
+#58	AnnotatorNotes T60	lemma = 'but'
+T61	XX0 220 223	not
+#59	AnnotatorNotes T61	lemma = 'not'
+T62	AV0 224 230	always
+#60	AnnotatorNotes T62	lemma = 'always'
+T63	SENT 230 231	.
+#61	AnnotatorNotes T63	lemma = '.'
+T64	NN0 232 238	People
+#62	AnnotatorNotes T64	lemma = 'people'
+T65	PRP 239 241	in
+#63	AnnotatorNotes T65	lemma = 'in'
+T66	AJ0 242 253	contemprory
+#64	AnnotatorNotes T66	lemma = 'contemprory'
+T67	NN1 254 259	world
+#65	AnnotatorNotes T67	lemma = 'world'
+T68	VM0 260 263	can
+#66	AnnotatorNotes T68	lemma = 'can'
+T69	AV0 264 270	hardly
+#67	AnnotatorNotes T69	lemma = 'hardly'
+T70	VVI 271 278	imagine
+#68	AnnotatorNotes T70	lemma = 'imagine'
+T71	AV0 279 284	there
+#69	AnnotatorNotes T71	lemma = 'there'
+T72	NN2 285 290	lives
+#70	AnnotatorNotes T72	lemma = 'life|live'
+T73	PRP 291 298	without
+#71	AnnotatorNotes T73	lemma = 'without'
+T74	NN2 299 307	machines
+#72	AnnotatorNotes T74	lemma = 'machine'
+T75	SENT 307 308	.
+#73	AnnotatorNotes T75	lemma = '.'
+T76	AT0 309 314	Every
+#74	AnnotatorNotes T76	lemma = 'every'
+T77	AJ0 315 318	old
+#75	AnnotatorNotes T77	lemma = 'old'
+T78	DT0 319 325	either
+#76	AnnotatorNotes T78	lemma = 'either'
+T79	AT0 326 327	a
+#77	AnnotatorNotes T79	lemma = 'a'
+T80	AJ0 328 331	new
+#78	AnnotatorNotes T80	lemma = 'new'
+T81	NN1 332 338	gadget
+#79	AnnotatorNotes T81	lemma = 'gadget'
+T82	VBZ 339 341	is
+#80	AnnotatorNotes T82	lemma = 'be'
+T83	VVN 342 350	invented
+#81	AnnotatorNotes T83	lemma = 'invent'
+T84	CJC 351 353	or
+#82	AnnotatorNotes T84	lemma = 'or'
+T85	AJ0 354 357	old
+#83	AnnotatorNotes T85	lemma = 'old'
+T86	PNI 358 361	one
+#84	AnnotatorNotes T86	lemma = 'one'
+T87	VBZ 362 364	is
+#85	AnnotatorNotes T87	lemma = 'be'
+T88	AJ0 365 373	improved
+#86	AnnotatorNotes T88	lemma = 'improved|improve'
+T89	SENT 373 374	.
+#87	AnnotatorNotes T89	lemma = '.'
+T90	PNP 375 377	It
+#88	AnnotatorNotes T90	lemma = 'it'
+T91	VBZ 378 380	is
+#89	AnnotatorNotes T91	lemma = 'be'
+T92	AJ0 381 391	undeniable
+#90	AnnotatorNotes T92	lemma = 'undeniable'
+T93	CJT 392 396	that
+#91	AnnotatorNotes T93	lemma = 'that'
+T94	DT0 397 401	same
+#92	AnnotatorNotes T94	lemma = 'same'
+T95	NN1 402 411	experince
+#93	AnnotatorNotes T95	lemma = 'experince'
+T96	PRF 412 414	of
+#94	AnnotatorNotes T96	lemma = 'of'
+T97	NN1 415 422	monkind
+#95	AnnotatorNotes T97	lemma = 'monkind'
+T98	DTQ 423 428	which
+#96	AnnotatorNotes T98	lemma = 'which'
+T99	VBD 429 432	was
+#97	AnnotatorNotes T99	lemma = 'be'
+T100	AV0 433 437	very
+#98	AnnotatorNotes T100	lemma = 'very'
+T101	AJ0 438 445	helpful
+#99	AnnotatorNotes T101	lemma = 'helpful'
+T102	CJC 446 449	and
+#100	AnnotatorNotes T102	lemma = 'and'
+T103	AJ0 450 458	resctiod
+#101	AnnotatorNotes T103	lemma = 'resctiod'
+T104	SENT 458 459	.
+#102	AnnotatorNotes T104	lemma = '.'
+T105	AJ0 461 470	Different
+#103	AnnotatorNotes T105	lemma = 'different'
+T106	NN0 471 477	people
+#104	AnnotatorNotes T106	lemma = 'people'
+T107	AJ0 478 488	apperecite
+#105	AnnotatorNotes T107	lemma = 'apperecite'
+T108	AJ0 489 492	new
+#106	AnnotatorNotes T108	lemma = 'new'
+T109	NN2 493 503	inventions
+#107	AnnotatorNotes T109	lemma = 'invention'
+T110	AV0 504 515	differently
+#108	AnnotatorNotes T110	lemma = 'differently'
+T111	SENT 515 516	.
+#109	AnnotatorNotes T111	lemma = ''

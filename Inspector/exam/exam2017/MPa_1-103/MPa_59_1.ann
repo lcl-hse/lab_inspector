@@ -1,0 +1,404 @@
+T1	lex_item_choice 10 17	figures
+#1	AnnotatorNotes T1	graphs
+T2	Articles 113 121	the year
+#2	AnnotatorNotes T2	a year
+T3	Often_confused 213 217	then
+#3	AnnotatorNotes T3	thereafter
+T4	Category_confusion 260 272	the opposite
+#4	AnnotatorNotes T4	opposite
+T5	Spelling 284 293	mantioned
+#5	AnnotatorNotes T5	mentioned
+T6	lex_item_choice 454 458	here
+#6	AnnotatorNotes T6	there,
+T7	Punctuation 454 458	here
+#7	AnnotatorNotes T7	there,
+T8	Articles 557 569	temperatures
+#8	AnnotatorNotes T8	the temperatures
+T9	Redundant_comp 532 537	whole
+T10	lex_item_choice 717 721	here
+#9	AnnotatorNotes T10	there
+T11	Agreement_errors 710 716	months
+#10	AnnotatorNotes T11	month
+T12	lex_item_choice 780 785	least
+#11	AnnotatorNotes T12	minimum
+T13	Punctuation 821 825	July
+#12	AnnotatorNotes T13	July,
+T14	Spelling 826 831	withe
+#13	AnnotatorNotes T14	with
+T15	Prepositions 873 877	25°C
+#14	AnnotatorNotes T15	at 25°C
+A1	Delete T9
+T16	Prepositions 894 905	around 18°C
+#15	AnnotatorNotes T16	at around 18°C
+T17	AT0 0 3	The
+#16	AnnotatorNotes T17	lemma = 'the'
+T18	AJ0 4 9	given
+#17	AnnotatorNotes T18	lemma = 'given|give'
+T19	NN2 10 17	figures
+#18	AnnotatorNotes T19	lemma = 'figure'
+T20	VVB 18 27	represent
+#19	AnnotatorNotes T20	lemma = 'represent'
+T21	AVQ 28 31	how
+#20	AnnotatorNotes T21	lemma = 'how'
+T22	AT0 32 35	the
+#21	AnnotatorNotes T22	lemma = 'the'
+T23	AJ0 36 43	minimum
+#22	AnnotatorNotes T23	lemma = 'minimum'
+T24	CJC 44 47	and
+#23	AnnotatorNotes T24	lemma = 'and'
+T25	AJ0 48 55	maximum
+#24	AnnotatorNotes T25	lemma = 'maximum'
+T26	NN2 56 68	temperatures
+#25	AnnotatorNotes T26	lemma = 'temperature'
+T27	VVB 69 75	change
+#26	AnnotatorNotes T27	lemma = 'change'
+T28	PRP 76 78	in
+#27	AnnotatorNotes T28	lemma = 'in'
+T29	NP0 79 86	Yakutsk
+#28	AnnotatorNotes T29	lemma = 'yakutsk'
+T30	CJC 87 90	and
+#29	AnnotatorNotes T30	lemma = 'and'
+T31	NP0 91 94	Rio
+#30	AnnotatorNotes T31	lemma = 'rio'
+T32	NP0 95 97	de
+#31	AnnotatorNotes T32	lemma = 'de'
+T33	NP0 98 105	Janeiro
+#32	AnnotatorNotes T33	lemma = 'janeiro'
+T34	PRP 106 112	during
+#33	AnnotatorNotes T34	lemma = 'during'
+T35	AT0 113 116	the
+#34	AnnotatorNotes T35	lemma = 'the'
+T36	NN1 117 121	year
+#35	AnnotatorNotes T36	lemma = 'year'
+T37	SENT 121 122	.
+#36	AnnotatorNotes T37	lemma = '.'
+T38	AT0 123 126	The
+#37	AnnotatorNotes T38	lemma = 'the'
+T39	AV0 127 131	most
+#38	AnnotatorNotes T39	lemma = 'most'
+T40	AJ0 132 139	obvious
+#39	AnnotatorNotes T40	lemma = 'obvious'
+T41	NN1 140 147	pattern
+#40	AnnotatorNotes T41	lemma = 'pattern'
+T42	VBZ 148 150	is
+#41	AnnotatorNotes T42	lemma = 'be'
+T43	CJT 151 155	that
+#42	AnnotatorNotes T43	lemma = 'that'
+T44	AT0 156 159	the
+#43	AnnotatorNotes T44	lemma = 'the'
+T45	NN1 160 171	temperature
+#44	AnnotatorNotes T45	lemma = 'temperature'
+T46	PRP 172 174	in
+#45	AnnotatorNotes T46	lemma = 'in'
+T47	NP0 175 182	Yakutsk
+#46	AnnotatorNotes T47	lemma = 'yakutsk'
+T48	NN2 183 192	increases
+#47	AnnotatorNotes T48	lemma = 'increase'
+T49	PRP 193 197	till
+#48	AnnotatorNotes T49	lemma = 'till'
+T50	NP0 198 202	July
+#49	AnnotatorNotes T50	lemma = 'july'
+T51	CJC 203 206	and
+#50	AnnotatorNotes T51	lemma = 'and'
+T52	VVZ 207 212	falls
+#51	AnnotatorNotes T52	lemma = 'fall'
+T53	AV0 213 217	then
+#52	AnnotatorNotes T53	lemma = 'then'
+T54	PUN 217 218	,
+#53	AnnotatorNotes T54	lemma = ','
+T55	CJS 219 224	while
+#54	AnnotatorNotes T55	lemma = 'while'
+T56	PRP 225 228	for
+#55	AnnotatorNotes T56	lemma = 'for'
+T57	NP0 229 232	Rio
+#56	AnnotatorNotes T57	lemma = 'rio'
+T58	NP0 233 235	de
+#57	AnnotatorNotes T58	lemma = 'de'
+T59	NP0 236 243	Janeiro
+#58	AnnotatorNotes T59	lemma = 'janeiro'
+T60	PNP 244 246	it
+#59	AnnotatorNotes T60	lemma = 'it'
+T61	VBZ 247 249	is
+#60	AnnotatorNotes T61	lemma = 'be'
+T62	AV0 250 259	generally
+#61	AnnotatorNotes T62	lemma = 'generally'
+T63	AT0 260 263	the
+#62	AnnotatorNotes T63	lemma = 'the'
+T64	NN1 264 272	opposite
+#63	AnnotatorNotes T64	lemma = 'opposite'
+T65	SENT 272 273	.
+#64	AnnotatorNotes T65	lemma = '.'
+T66	CJS 274 276	As
+#65	AnnotatorNotes T66	lemma = 'as'
+T67	PNP 277 279	it
+#66	AnnotatorNotes T67	lemma = 'it'
+T68	VBD 280 283	was
+#67	AnnotatorNotes T68	lemma = 'be'
+T69	AJ0 284 293	mantioned
+#68	AnnotatorNotes T69	lemma = 'mantioned'
+T70	PUN 293 294	,
+#69	AnnotatorNotes T70	lemma = ','
+T71	AT0 295 298	the
+#70	AnnotatorNotes T71	lemma = 'the'
+T72	NN1 299 310	temperature
+#71	AnnotatorNotes T72	lemma = 'temperature'
+T73	PRP 311 313	in
+#72	AnnotatorNotes T73	lemma = 'in'
+T74	AT0 314 317	the
+#73	AnnotatorNotes T74	lemma = 'the'
+T75	AJ0 318 325	Russian
+#74	AnnotatorNotes T75	lemma = 'russian'
+T76	NN1 326 330	city
+#75	AnnotatorNotes T76	lemma = 'city'
+T77	VVZ 331 338	reaches
+#76	AnnotatorNotes T77	lemma = 'reach'
+T78	DPS 339 342	its
+#77	AnnotatorNotes T78	lemma = 'it'
+T79	NN1 343 347	peak
+#78	AnnotatorNotes T79	lemma = 'peak'
+T80	PRP 348 350	in
+#79	AnnotatorNotes T80	lemma = 'in'
+T81	NP0 351 355	July
+#80	AnnotatorNotes T81	lemma = 'july'
+T82	PUN 355 356	,
+#81	AnnotatorNotes T82	lemma = ','
+T83	CJS 357 361	when
+#82	AnnotatorNotes T83	lemma = 'when'
+T84	AT0 362 365	the
+#83	AnnotatorNotes T84	lemma = 'the'
+T85	AJ0 366 373	maximum
+#84	AnnotatorNotes T85	lemma = 'maximum'
+T86	NN1 374 385	temperature
+#85	AnnotatorNotes T86	lemma = 'temperature'
+T87	VBZ 386 388	is
+#86	AnnotatorNotes T87	lemma = 'be'
+T88	CRD 389 391	25
+#87	AnnotatorNotes T88	lemma = '25'
+T89	NN0 391 392	°
+#88	AnnotatorNotes T89	lemma = '°'
+T90	ZZ0 392 393	C
+#89	AnnotatorNotes T90	lemma = 'c'
+T91	CJC 394 397	and
+#90	AnnotatorNotes T91	lemma = 'and'
+T92	AT0 398 401	the
+#91	AnnotatorNotes T92	lemma = 'the'
+T93	NN1 402 409	minimum
+#92	AnnotatorNotes T93	lemma = 'minimum'
+T94	VBZ 410 412	is
+#93	AnnotatorNotes T94	lemma = 'be'
+T95	AV0 413 418	about
+#94	AnnotatorNotes T95	lemma = 'about'
+T96	CRD 419 421	12
+#95	AnnotatorNotes T96	lemma = '12'
+T97	NN0 421 422	°
+#96	AnnotatorNotes T97	lemma = '°'
+T98	ZZ0 422 423	C
+#97	AnnotatorNotes T98	lemma = 'c'
+T99	SENT 423 424	.
+#98	AnnotatorNotes T99	lemma = '.'
+T100	NP0 425 432	January
+#99	AnnotatorNotes T100	lemma = 'january'
+T101	VBZ 433 435	is
+#100	AnnotatorNotes T101	lemma = 'be'
+T102	AT0 436 439	the
+#101	AnnotatorNotes T102	lemma = 'the'
+T103	AJS 440 447	coldest
+#102	AnnotatorNotes T103	lemma = 'cold'
+T104	NN1 448 453	month
+#103	AnnotatorNotes T104	lemma = 'month'
+T105	AV0 454 458	here
+#104	AnnotatorNotes T105	lemma = 'here'
+T106	PRP 459 463	with
+#105	AnnotatorNotes T106	lemma = 'with'
+T107	AT0 464 467	the
+#106	AnnotatorNotes T107	lemma = 'the'
+T108	AJ0 468 475	maximum
+#107	AnnotatorNotes T108	lemma = 'maximum'
+T109	NN1 476 487	temperature
+#108	AnnotatorNotes T109	lemma = 'temperature'
+T110	PRP 488 492	near
+#109	AnnotatorNotes T110	lemma = 'near'
+T111	CRD 493 496	-34
+#110	AnnotatorNotes T111	lemma = '-34'
+T112	NN0 496 497	°
+#111	AnnotatorNotes T112	lemma = '°'
+T113	ZZ0 497 498	C
+#112	AnnotatorNotes T113	lemma = 'c'
+T114	CJC 499 502	and
+#113	AnnotatorNotes T114	lemma = 'and'
+T115	AT0 503 506	the
+#114	AnnotatorNotes T115	lemma = 'the'
+T116	NN1 507 514	minimum
+#115	AnnotatorNotes T116	lemma = 'minimum'
+T117	PRP 515 520	below
+#116	AnnotatorNotes T117	lemma = 'below'
+T118	CRD 521 524	-40
+#117	AnnotatorNotes T118	lemma = '-40'
+T119	NN0 524 525	°
+#118	AnnotatorNotes T119	lemma = '°'
+T120	ZZ0 525 526	C
+#119	AnnotatorNotes T120	lemma = 'c'
+T121	SENT 526 527	.
+#120	AnnotatorNotes T121	lemma = '.'
+T122	AT0 528 531	The
+#121	AnnotatorNotes T122	lemma = 'the'
+T123	AJ0 532 537	whole
+#122	AnnotatorNotes T123	lemma = 'whole'
+T124	NN1 538 548	difference
+#123	AnnotatorNotes T124	lemma = 'difference'
+T125	PRP 549 556	between
+#124	AnnotatorNotes T125	lemma = 'between'
+T126	NN2 557 569	temperatures
+#125	AnnotatorNotes T126	lemma = 'temperature'
+T127	PRP 570 572	in
+#126	AnnotatorNotes T127	lemma = 'in'
+T128	AT0 573 576	the
+#127	AnnotatorNotes T128	lemma = 'the'
+T129	AJS 577 584	warmest
+#128	AnnotatorNotes T129	lemma = 'warm'
+T130	CJC 585 588	and
+#129	AnnotatorNotes T130	lemma = 'and'
+T131	AT0 589 592	the
+#130	AnnotatorNotes T131	lemma = 'the'
+T132	AJS 593 600	coldest
+#131	AnnotatorNotes T132	lemma = 'cold'
+T133	NN2 601 607	months
+#132	AnnotatorNotes T133	lemma = 'month'
+T134	VBZ 608 610	is
+#133	AnnotatorNotes T134	lemma = 'be'
+T135	AV0 611 617	around
+#134	AnnotatorNotes T135	lemma = 'around'
+T136	CRD 618 623	52-59
+#135	AnnotatorNotes T136	lemma = '52-59'
+T137	NN0 623 624	°
+#136	AnnotatorNotes T137	lemma = '°'
+T138	ZZ0 624 625	C
+#137	AnnotatorNotes T138	lemma = 'c'
+T139	SENT 625 626	.
+#138	AnnotatorNotes T139	lemma = '.'
+T140	AT0 627 630	The
+#139	AnnotatorNotes T140	lemma = 'the'
+T141	NN1 631 641	difference
+#140	AnnotatorNotes T141	lemma = 'difference'
+T142	PRP 642 644	in
+#141	AnnotatorNotes T142	lemma = 'in'
+T143	NP0 645 648	Rio
+#142	AnnotatorNotes T143	lemma = 'rio'
+T144	NP0 649 651	de
+#143	AnnotatorNotes T144	lemma = 'de'
+T145	NP0 652 659	Janeiro
+#144	AnnotatorNotes T145	lemma = 'janeiro'
+T146	VBZ 660 662	is
+#145	AnnotatorNotes T146	lemma = 'be'
+T147	XX0 663 666	not
+#146	AnnotatorNotes T147	lemma = 'not'
+T148	DT0 667 671	this
+#147	AnnotatorNotes T148	lemma = 'this'
+T149	AJ0 672 677	sharp
+#148	AnnotatorNotes T149	lemma = 'sharp'
+T150	PUN 678 679	-
+#149	AnnotatorNotes T150	lemma = '-'
+T151	AV0 680 684	just
+#150	AnnotatorNotes T151	lemma = 'just'
+T152	PRP 685 690	about
+#151	AnnotatorNotes T152	lemma = 'about'
+T153	CRD 691 694	5-6
+#152	AnnotatorNotes T153	lemma = '5-6'
+T154	NN0 694 695	°
+#153	AnnotatorNotes T154	lemma = '°'
+T155	ZZ0 695 696	C
+#154	AnnotatorNotes T155	lemma = 'c'
+T156	SENT 696 697	.
+#155	AnnotatorNotes T156	lemma = '.'
+T157	AT0 698 701	The
+#156	AnnotatorNotes T157	lemma = 'the'
+T158	AJS 702 709	hottest
+#157	AnnotatorNotes T158	lemma = 'hot'
+T159	NN2 710 716	months
+#158	AnnotatorNotes T159	lemma = 'month'
+T160	AV0 717 721	here
+#159	AnnotatorNotes T160	lemma = 'here'
+T161	VBZ 722 724	is
+#160	AnnotatorNotes T161	lemma = 'be'
+T162	NP0 725 733	February
+#161	AnnotatorNotes T162	lemma = 'february'
+T163	PUN 733 734	,
+#162	AnnotatorNotes T163	lemma = ','
+T164	CJS 735 739	when
+#163	AnnotatorNotes T164	lemma = 'when'
+T165	AT0 740 743	the
+#164	AnnotatorNotes T165	lemma = 'the'
+T166	AJ0 744 751	maximum
+#165	AnnotatorNotes T166	lemma = 'maximum'
+T167	NN1 752 763	temperature
+#166	AnnotatorNotes T167	lemma = 'temperature'
+T168	VBZ 764 766	is
+#167	AnnotatorNotes T168	lemma = 'be'
+T169	CRD 767 769	30
+#168	AnnotatorNotes T169	lemma = '30'
+T170	NN0 769 770	°
+#169	AnnotatorNotes T170	lemma = '°'
+T171	ZZ0 770 771	C
+#170	AnnotatorNotes T171	lemma = 'c'
+T172	CJC 772 775	and
+#171	AnnotatorNotes T172	lemma = 'and'
+T173	AT0 776 779	the
+#172	AnnotatorNotes T173	lemma = 'the'
+T174	DT0 780 785	least
+#173	AnnotatorNotes T174	lemma = 'least'
+T175	VBZ 786 788	is
+#174	AnnotatorNotes T175	lemma = 'be'
+T176	CRD 789 791	24
+#175	AnnotatorNotes T176	lemma = '24'
+T177	NN0 791 792	°
+#176	AnnotatorNotes T177	lemma = '°'
+T178	ZZ0 792 793	C
+#177	AnnotatorNotes T178	lemma = 'c'
+T179	SENT 793 794	.
+#178	AnnotatorNotes T179	lemma = '.'
+T180	AT0 795 798	The
+#179	AnnotatorNotes T180	lemma = 'the'
+T181	AJS 799 806	coldest
+#180	AnnotatorNotes T181	lemma = 'cold'
+T182	NN1 807 814	weather
+#181	AnnotatorNotes T182	lemma = 'weather'
+T183	VBZ 815 817	is
+#182	AnnotatorNotes T183	lemma = 'be'
+T184	PRP 818 820	in
+#183	AnnotatorNotes T184	lemma = 'in'
+T185	NP0 821 825	July
+#184	AnnotatorNotes T185	lemma = 'july'
+T186	VVB 826 831	withe
+#185	AnnotatorNotes T186	lemma = 'withe'
+T187	AT0 832 835	the
+#186	AnnotatorNotes T187	lemma = 'the'
+T188	AJ0 836 843	maximum
+#187	AnnotatorNotes T188	lemma = 'maximum'
+T189	AJ0 844 852	recorded
+#188	AnnotatorNotes T189	lemma = 'record|recorded'
+T190	NN1 853 860	average
+#189	AnnotatorNotes T190	lemma = 'average'
+T191	NN1 861 872	temperature
+#190	AnnotatorNotes T191	lemma = 'temperature'
+T192	CRD 873 875	25
+#191	AnnotatorNotes T192	lemma = '25'
+T193	NN0 875 876	°
+#192	AnnotatorNotes T193	lemma = '°'
+T194	ZZ0 876 877	C
+#193	AnnotatorNotes T194	lemma = 'c'
+T195	CJC 878 881	and
+#194	AnnotatorNotes T195	lemma = 'and'
+T196	AT0 882 885	the
+#195	AnnotatorNotes T196	lemma = 'the'
+T197	NN1 886 893	minimum
+#196	AnnotatorNotes T197	lemma = 'minimum'
+T198	PRP 894 900	around
+#197	AnnotatorNotes T198	lemma = 'around'
+T199	CRD 901 903	18
+#198	AnnotatorNotes T199	lemma = '18'
+T200	NN0 903 904	°
+#199	AnnotatorNotes T200	lemma = '°'
+T201	ZZ0 904 905	C
+#200	AnnotatorNotes T201	lemma = 'c'
+T202	SENT 905 906	.
+#201	AnnotatorNotes T202	lemma = '.'

@@ -1,0 +1,333 @@
+T1	Spelling 458 469	undangerous
+#1	AnnotatorNotes T1	non-dangerous
+T2	Spelling 559 568	catastrof
+#2	AnnotatorNotes T2	catastrophy
+T3	Spelling 347 355	traveles
+#3	AnnotatorNotes T3	travels
+T4	Determiners 10 13	sky
+#4	AnnotatorNotes T4	the sky
+A1	Cause T4
+T5	Category_confusion 14 23	pollution
+#5	AnnotatorNotes T5	pollutes
+A2	Cause T5
+T6	Agreement_errors 32 41	influence
+#6	AnnotatorNotes T6	influences
+A3	Cause T6
+T7	Redundant 33 59	nfluence on global warming
+#7	AnnotatorNotes T7	influences global warming
+A4	Cause T7
+T8	Voice 85 89	need
+#8	AnnotatorNotes T8	is needed
+A5	Cause T8
+T9	Spelling 151 164	disadvanteges
+#9	AnnotatorNotes T9	disadvantages
+T10	Determiners 168 173	athor
+#10	AnnotatorNotes T10	the author's
+A6	Cause T10
+T11	Spelling 168 173	athor
+#11	AnnotatorNotes T11	the author's
+A7	Cause T11
+T12	Absence_comp_sent 137 164	I am going to disadvanteges
+#12	AnnotatorNotes T12	I am going to present disadvantages
+A8	Cause T12
+T13	Prepositional_noun 151 178	disadvanteges on athor idea
+#13	AnnotatorNotes T13	disadvantages of the author's idea
+A9	Cause T13
+T14	Voice 201 205	need
+#14	AnnotatorNotes T14	is needed
+A10	Cause T14
+T15	Spelling 216 223	Nowaday
+#15	AnnotatorNotes T15	Nowadays
+T16	Spelling 248 261	internetional
+#16	AnnotatorNotes T16	international
+T17	Spelling 275 281	wokers
+#17	AnnotatorNotes T17	workers
+T18	Absence_comp_colloc 275 294	wokers this company
+#18	AnnotatorNotes T18	workers of this company
+T19	Absence_explanation 282 294	this company
+T20	Spelling 299 305	quiqly
+#19	AnnotatorNotes T20	quickly
+T21	Prepositions 312 314	in
+#20	AnnotatorNotes T21	to
+T22	Category_confusion 248 294	internetional business and wokers this company
+#21	AnnotatorNotes T22	workers of international business companies
+T23	Spelling 360 366	solove
+#22	AnnotatorNotes T23	solve
+T24	Agreement_errors 388 392	help
+#23	AnnotatorNotes T24	helps
+T25	lex_item_choice 410 424	fly till place
+#24	AnnotatorNotes T25	reach the place
+A11	Cause T25
+T26	Often_confused 470 479	transport
+#25	AnnotatorNotes T26	kind of transport
+T27	Spelling 481 488	Reciech
+#26	AnnotatorNotes T27	Research
+T28	lex_item_choice 481 499	Reciech professors
+#27	AnnotatorNotes T28	Researchers
+A12	Cause T28
+T29	Linking_device 481 536	Reciech professors National state university in Ukraine
+#28	AnnotatorNotes T29	Researchers of the National state university in Ukraine
+A13	Cause T29
+T30	Agreement_errors 537 542	shows
+#29	AnnotatorNotes T30	show
+A14	Cause T30
+T31	Numerals 589 595	twenty
+#30	AnnotatorNotes T31	the 20th
+A15	Cause T31
+T32	Agreement_errors 596 605	centuries
+#31	AnnotatorNotes T32	century
+T33	Abs_comp_clause 608 640	Third, gas, which pollution air,
+T34	Category_confusion 608 613	Third
+#32	AnnotatorNotes T34	Thirdly,
+T35	Category_confusion 626 635	pollution
+#33	AnnotatorNotes T35	pollutes
+T36	Standard 548 605	in air was catastrof with airplane 19 in twenty centuries
+#34	AnnotatorNotes T36	there were 19 air accidents in the 20th century
+T37	Agreement_errors 555 558	was
+#35	AnnotatorNotes T37	were
+T38	lex_item_choice 559 582	catastrof with airplane
+#36	AnnotatorNotes T38	air accidents
+T39	Prepositions 393 395	on
+#37	AnnotatorNotes T39	in
+T40	Determiners 396 406	short time
+#38	AnnotatorNotes T40	a short time
+A16	Cause T40
+T41	Determiners 437 445	airplane
+#39	AnnotatorNotes T41	an airplane
+A17	Cause T41
+T42	VVB 0 6	Travel
+#40	AnnotatorNotes T42	lemma = 'travel'
+T43	PRP 7 9	in
+#41	AnnotatorNotes T43	lemma = 'in'
+T44	NN1 10 13	sky
+#42	AnnotatorNotes T44	lemma = 'sky'
+T45	NN1 14 23	pollution
+#43	AnnotatorNotes T45	lemma = 'pollution'
+T46	NN1 24 27	air
+#44	AnnotatorNotes T46	lemma = 'air'
+T47	CJC 28 31	and
+#45	AnnotatorNotes T47	lemma = 'and'
+T48	NN1 32 41	influence
+#46	AnnotatorNotes T48	lemma = 'influence'
+T49	PRP 42 44	on
+#47	AnnotatorNotes T49	lemma = 'on'
+T50	AJ0 45 51	global
+#48	AnnotatorNotes T50	lemma = 'global'
+T51	NN1 52 59	warming
+#49	AnnotatorNotes T51	lemma = 'warm|warming'
+T52	PUN 59 60	,
+#50	AnnotatorNotes T52	lemma = ','
+T53	CJC 61 64	but
+#51	AnnotatorNotes T53	lemma = 'but'
+T54	DT0 65 69	this
+#52	AnnotatorNotes T54	lemma = 'this'
+T55	NN1 70 74	type
+#53	AnnotatorNotes T55	lemma = 'type'
+T56	PRF 75 77	of
+#54	AnnotatorNotes T56	lemma = 'of'
+T57	NN1 78 84	travel
+#55	AnnotatorNotes T57	lemma = 'travel'
+T58	NN1 85 89	need
+#56	AnnotatorNotes T58	lemma = 'need'
+T59	PRP 90 93	for
+#57	AnnotatorNotes T59	lemma = 'for'
+T60	NN1 94 102	business
+#58	AnnotatorNotes T60	lemma = 'business'
+T61	CJC 103 106	and
+#59	AnnotatorNotes T61	lemma = 'and'
+T62	AJ0 107 112	other
+#60	AnnotatorNotes T62	lemma = 'other'
+T63	NN1 113 121	activity
+#61	AnnotatorNotes T63	lemma = 'activity'
+T64	SENT 121 122	.
+#62	AnnotatorNotes T64	lemma = '.'
+T65	PRP 123 125	In
+#63	AnnotatorNotes T65	lemma = 'in'
+T66	DT0 126 130	this
+#64	AnnotatorNotes T66	lemma = 'this'
+T67	NN1 131 136	essay
+#65	AnnotatorNotes T67	lemma = 'essay'
+T68	PNP 137 138	I
+#66	AnnotatorNotes T68	lemma = 'i'
+T69	VBB 139 141	am
+#67	AnnotatorNotes T69	lemma = 'be'
+T70	VVG 142 147	going
+#68	AnnotatorNotes T70	lemma = 'go|going'
+T71	PRP 148 150	to
+#69	AnnotatorNotes T71	lemma = 'to'
+T72	NN2 151 164	disadvanteges
+#70	AnnotatorNotes T72	lemma = 'disadvanteges'
+T73	PRP 165 167	on
+#71	AnnotatorNotes T73	lemma = 'on'
+T74	AJ0 168 173	athor
+#72	AnnotatorNotes T74	lemma = 'athor'
+T75	NN1 174 178	idea
+#73	AnnotatorNotes T75	lemma = 'idea'
+T76	SENT 178 179	.
+#74	AnnotatorNotes T76	lemma = '.'
+T77	AV0 181 188	Firstly
+#75	AnnotatorNotes T77	lemma = 'firstly'
+T78	PUN 188 189	,
+#76	AnnotatorNotes T78	lemma = ','
+T79	NN1 190 193	air
+#77	AnnotatorNotes T79	lemma = 'air'
+T80	NN1 194 200	travel
+#78	AnnotatorNotes T80	lemma = 'travel'
+T81	NN1 201 205	need
+#79	AnnotatorNotes T81	lemma = 'need'
+T82	PRP 206 209	for
+#80	AnnotatorNotes T82	lemma = 'for'
+T83	NN1 210 214	work
+#81	AnnotatorNotes T83	lemma = 'work'
+T84	SENT 214 215	.
+#82	AnnotatorNotes T84	lemma = '.'
+T85	AV0 216 223	Nowaday
+#83	AnnotatorNotes T85	lemma = 'Nowaday'
+T86	DT0 224 227	all
+#84	AnnotatorNotes T86	lemma = 'all'
+T87	PRP 228 232	over
+#85	AnnotatorNotes T87	lemma = 'over'
+T88	AT0 233 236	the
+#86	AnnotatorNotes T88	lemma = 'the'
+T89	NN1 237 242	world
+#87	AnnotatorNotes T89	lemma = 'world'
+T90	DT0 243 247	many
+#88	AnnotatorNotes T90	lemma = 'many'
+T91	AJ0 248 261	internetional
+#89	AnnotatorNotes T91	lemma = 'internetional'
+T92	NN1 262 270	business
+#90	AnnotatorNotes T92	lemma = 'business'
+T93	CJC 271 274	and
+#91	AnnotatorNotes T93	lemma = 'and'
+T94	NN2 275 281	wokers
+#92	AnnotatorNotes T94	lemma = 'wokers'
+T95	DT0 282 286	this
+#93	AnnotatorNotes T95	lemma = 'this'
+T96	NN1 287 294	company
+#94	AnnotatorNotes T96	lemma = 'company'
+T97	VM0 295 298	can
+#95	AnnotatorNotes T97	lemma = 'can'
+T98	AV0 299 305	quiqly
+#96	AnnotatorNotes T98	lemma = 'quiqly'
+T99	VVG 306 311	going
+#97	AnnotatorNotes T99	lemma = 'go|going'
+T100	PRP 312 314	in
+#98	AnnotatorNotes T100	lemma = 'in'
+T101	AJ0 315 320	other
+#99	AnnotatorNotes T101	lemma = 'other'
+T102	NN1 321 328	country
+#100	AnnotatorNotes T102	lemma = 'country'
+T103	SENT 328 329	.
+#101	AnnotatorNotes T103	lemma = '.'
+T104	DT0 330 334	This
+#102	AnnotatorNotes T104	lemma = 'this'
+T105	NN1 335 342	problem
+#103	AnnotatorNotes T105	lemma = 'problem'
+T106	NN1 343 346	air
+#104	AnnotatorNotes T106	lemma = 'air'
+T107	NN2 347 355	traveles
+#105	AnnotatorNotes T107	lemma = 'traveles'
+T108	VM0 356 359	can
+#106	AnnotatorNotes T108	lemma = 'can'
+T109	VVI 360 366	solove
+#107	AnnotatorNotes T109	lemma = 'solove'
+T110	PUN 366 367	,
+#108	AnnotatorNotes T110	lemma = ','
+T111	CJS 368 375	because
+#109	AnnotatorNotes T111	lemma = 'because'
+T112	DT0 376 380	this
+#110	AnnotatorNotes T112	lemma = 'this'
+T113	NN1 381 387	method
+#111	AnnotatorNotes T113	lemma = 'method'
+T114	NN1 388 392	help
+#112	AnnotatorNotes T114	lemma = 'help'
+T115	PRP 393 395	on
+#113	AnnotatorNotes T115	lemma = 'on'
+T116	AJ0 396 401	short
+#114	AnnotatorNotes T116	lemma = 'short'
+T117	NN1 402 406	time
+#115	AnnotatorNotes T117	lemma = 'time'
+T118	TO0 407 409	to
+#116	AnnotatorNotes T118	lemma = 'to'
+T119	VVI 410 413	fly
+#117	AnnotatorNotes T119	lemma = 'fly'
+T120	PRP 414 418	till
+#118	AnnotatorNotes T120	lemma = 'till'
+T121	NN1 419 424	place
+#119	AnnotatorNotes T121	lemma = 'place'
+T122	SENT 424 425	.
+#120	AnnotatorNotes T122	lemma = '.'
+T123	AV0 427 435	Secondly
+#121	AnnotatorNotes T123	lemma = 'secondly'
+T124	PUN 435 436	,
+#122	AnnotatorNotes T124	lemma = ','
+T125	NN1 437 445	airplane
+#123	AnnotatorNotes T125	lemma = 'airplane'
+T126	VBZ 446 448	is
+#124	AnnotatorNotes T126	lemma = 'be'
+T127	AT0 449 452	the
+#125	AnnotatorNotes T127	lemma = 'the'
+T128	AV0 453 457	most
+#126	AnnotatorNotes T128	lemma = 'most'
+T129	AJ0 458 469	undangerous
+#127	AnnotatorNotes T129	lemma = 'undangerous'
+T130	NN1 470 479	transport
+#128	AnnotatorNotes T130	lemma = 'transport'
+T131	SENT 479 480	.
+#129	AnnotatorNotes T131	lemma = '.'
+T132	NN1 481 488	Reciech
+#130	AnnotatorNotes T132	lemma = 'Reciech'
+T133	NN2 489 499	professors
+#131	AnnotatorNotes T133	lemma = 'professor'
+T134	AJ0 500 508	National
+#132	AnnotatorNotes T134	lemma = 'national'
+T135	NN1 509 514	state
+#133	AnnotatorNotes T135	lemma = 'state'
+T136	NN1 515 525	university
+#134	AnnotatorNotes T136	lemma = 'university'
+T137	PRP 526 528	in
+#135	AnnotatorNotes T137	lemma = 'in'
+T138	NP0 529 536	Ukraine
+#136	AnnotatorNotes T138	lemma = 'ukraine'
+T139	VVZ 537 542	shows
+#137	AnnotatorNotes T139	lemma = 'show'
+T140	CJT 543 547	that
+#138	AnnotatorNotes T140	lemma = 'that'
+T141	PRP 548 550	in
+#139	AnnotatorNotes T141	lemma = 'in'
+T142	NN1 551 554	air
+#140	AnnotatorNotes T142	lemma = 'air'
+T143	VBD 555 558	was
+#141	AnnotatorNotes T143	lemma = 'be'
+T144	AJ0 559 568	catastrof
+#142	AnnotatorNotes T144	lemma = 'catastrof'
+T145	PRP 569 573	with
+#143	AnnotatorNotes T145	lemma = 'with'
+T146	NN1 574 582	airplane
+#144	AnnotatorNotes T146	lemma = 'airplane'
+T147	CRD 583 585	19
+#145	AnnotatorNotes T147	lemma = '19'
+T148	PRP 586 588	in
+#146	AnnotatorNotes T148	lemma = 'in'
+T149	CRD 589 595	twenty
+#147	AnnotatorNotes T149	lemma = 'twenty'
+T150	NN2 596 605	centuries
+#148	AnnotatorNotes T150	lemma = 'century'
+T151	SENT 605 606	.
+#149	AnnotatorNotes T151	lemma = '.'
+T152	ORD 608 613	Third
+#150	AnnotatorNotes T152	lemma = 'third'
+T153	PUN 613 614	,
+#151	AnnotatorNotes T153	lemma = ','
+T154	NN1 615 618	gas
+#152	AnnotatorNotes T154	lemma = 'gas'
+T155	PUN 618 619	,
+#153	AnnotatorNotes T155	lemma = ','
+T156	DTQ 620 625	which
+#154	AnnotatorNotes T156	lemma = 'which'
+T157	NN1 626 635	pollution
+#155	AnnotatorNotes T157	lemma = 'pollution'
+T158	NN1 636 639	air
+#156	AnnotatorNotes T158	lemma = 'air'
+T159	PUN 639 640	,
+#157	AnnotatorNotes T159	lemma = ''

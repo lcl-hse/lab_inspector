@@ -1,0 +1,567 @@
+T1	Spelling 1048 1056	disgrase
+#1	AnnotatorNotes T1	disgrace
+T2	Spelling 19 31	architectors
+#2	AnnotatorNotes T2	architects
+T3	Spelling 634 641	genious
+#3	AnnotatorNotes T3	genius
+T4	Spelling 532 540	Vysotsky
+#4	AnnotatorNotes T4	Vygotsky
+T5	Modals 242 245	can
+#5	AnnotatorNotes T5	should
+T6	Spelling 272 281	democraty
+#6	AnnotatorNotes T6	democracy
+A1	Cause T6
+T7	Category_confusion 272 281	democraty
+#7	AnnotatorNotes T7	democratic
+T8	Articles 272 287	democraty world
+#8	AnnotatorNotes T8	a democratic world
+T9	Redundant_comp 303 309	people
+T10	Absence_comp_sent 314 320	almost
+#9	AnnotatorNotes T10	almost all
+T11	Defining 288 291	and
+#10	AnnotatorNotes T11	where
+T12	Punctuation 282 287	world
+#11	AnnotatorNotes T12	world,
+T13	lex_item_choice 282 287	world
+#12	AnnotatorNotes T13	society
+T14	Articles 155 164	goverment
+#13	AnnotatorNotes T14	the government
+T15	Tense_choice 454 457	had
+#14	AnnotatorNotes T15	have
+T16	Articles 489 498	goverment
+#15	AnnotatorNotes T16	the government
+T17	Spelling 502 506	USSR
+#16	AnnotatorNotes T17	the Soviet Union
+A2	Cause T17
+T18	Punctuation 352 355	and
+#17	AnnotatorNotes T18	, and
+T19	EX0 0 5	There
+#18	AnnotatorNotes T19	lemma = 'there'
+T20	VBB 6 9	are
+#19	AnnotatorNotes T20	lemma = 'be'
+T21	AT0 10 11	a
+#20	AnnotatorNotes T21	lemma = 'a'
+T22	NN1 12 15	lot
+#21	AnnotatorNotes T22	lemma = 'lot'
+T23	PRF 16 18	of
+#22	AnnotatorNotes T23	lemma = 'of'
+T24	NN2 19 31	architectors
+#23	AnnotatorNotes T24	lemma = 'architectors'
+T25	PUN 31 32	,
+#24	AnnotatorNotes T25	lemma = ','
+T26	NN2 33 40	artists
+#25	AnnotatorNotes T26	lemma = 'artist'
+T27	PUN 40 41	,
+#26	AnnotatorNotes T27	lemma = ','
+T28	NN2 42 48	actors
+#27	AnnotatorNotes T28	lemma = 'actor'
+T29	PUN 48 49	,
+#28	AnnotatorNotes T29	lemma = ','
+T30	NN1 50 54	film
+#29	AnnotatorNotes T30	lemma = 'film'
+T31	NN2 55 64	directors
+#30	AnnotatorNotes T31	lemma = 'director'
+T32	AV0 65 73	nowadays
+#31	AnnotatorNotes T32	lemma = 'nowadays'
+T33	PNQ 74 77	who
+#32	AnnotatorNotes T33	lemma = 'who'
+T34	VVB 78 82	need
+#33	AnnotatorNotes T34	lemma = 'need'
+T35	NN1 83 90	freedom
+#34	AnnotatorNotes T35	lemma = 'freedom'
+T36	PRP 91 93	in
+#35	AnnotatorNotes T36	lemma = 'in'
+T37	DPS 94 99	their
+#36	AnnotatorNotes T37	lemma = 'they'
+T38	AJ0 100 108	creative
+#37	AnnotatorNotes T38	lemma = 'creative'
+T39	NN1 109 113	work
+#38	AnnotatorNotes T39	lemma = 'work'
+T40	SENT 113 114	.
+#39	AnnotatorNotes T40	lemma = '.'
+T41	AV0 115 118	Now
+#40	AnnotatorNotes T41	lemma = 'now'
+T42	PNP 119 121	we
+#41	AnnotatorNotes T42	lemma = 'we'
+T43	VM0 122 125	can
+#42	AnnotatorNotes T43	lemma = 'can'
+T44	VVI 126 129	see
+#43	AnnotatorNotes T44	lemma = 'see'
+T45	AT0 130 133	the
+#44	AnnotatorNotes T45	lemma = 'the'
+T46	AJ0 134 142	negative
+#45	AnnotatorNotes T46	lemma = 'negative'
+T47	NN1 143 151	reaction
+#46	AnnotatorNotes T47	lemma = 'reaction'
+T48	PRF 152 154	of
+#47	AnnotatorNotes T48	lemma = 'of'
+T49	NN1 155 164	goverment
+#48	AnnotatorNotes T49	lemma = 'goverment'
+T50	CJS 165 172	because
+#49	AnnotatorNotes T50	lemma = 'because'
+T51	PRF 173 175	of
+#50	AnnotatorNotes T51	lemma = 'of'
+T52	DT0 176 181	these
+#51	AnnotatorNotes T52	lemma = 'these'
+T53	PUQ 182 183	"
+#52	AnnotatorNotes T53	lemma = '"'
+T54	AJ0 183 187	free
+#53	AnnotatorNotes T54	lemma = 'free'
+T55	PUQ 187 188	"
+#54	AnnotatorNotes T55	lemma = '"'
+T56	CJC 189 192	and
+#55	AnnotatorNotes T56	lemma = 'and'
+T57	PUQ 193 194	"
+#56	AnnotatorNotes T57	lemma = '"'
+T58	AJ0 194 202	creative
+#57	AnnotatorNotes T58	lemma = 'creative'
+T59	PUQ 202 203	"
+#58	AnnotatorNotes T59	lemma = '"'
+T60	NN0 204 209	works
+#59	AnnotatorNotes T60	lemma = 'works'
+T61	PRF 210 212	of
+#60	AnnotatorNotes T61	lemma = 'of'
+T62	AJ0 213 219	modern
+#61	AnnotatorNotes T62	lemma = 'modern'
+T63	NN2 220 227	artists
+#62	AnnotatorNotes T63	lemma = 'artist'
+T64	SENT 227 228	.
+#63	AnnotatorNotes T64	lemma = '.'
+T65	PRP 230 232	At
+#64	AnnotatorNotes T65	lemma = 'at'
+T66	ORD 233 238	first
+#65	AnnotatorNotes T66	lemma = 'first'
+T67	PNP 239 241	we
+#66	AnnotatorNotes T67	lemma = 'we'
+T68	VM0 242 245	can
+#67	AnnotatorNotes T68	lemma = 'can'
+T69	VVI 246 254	remember
+#68	AnnotatorNotes T69	lemma = 'remember'
+T70	PUN 254 255	,
+#69	AnnotatorNotes T70	lemma = ','
+T71	CJT 256 260	that
+#70	AnnotatorNotes T71	lemma = 'that'
+T72	PNP 261 263	we
+#71	AnnotatorNotes T72	lemma = 'we'
+T73	VVB 264 268	live
+#72	AnnotatorNotes T73	lemma = 'live'
+T74	PRP 269 271	in
+#73	AnnotatorNotes T74	lemma = 'in'
+T75	AJ0 272 281	democraty
+#74	AnnotatorNotes T75	lemma = 'democraty'
+T76	NN1 282 287	world
+#75	AnnotatorNotes T76	lemma = 'world'
+T77	CJC 288 291	and
+#76	AnnotatorNotes T77	lemma = 'and'
+T78	DT0 292 295	all
+#77	AnnotatorNotes T78	lemma = 'all'
+T79	NN0 296 302	people
+#78	AnnotatorNotes T79	lemma = 'people'
+T80	NN0 303 309	people
+#79	AnnotatorNotes T80	lemma = 'people'
+T81	CJC 310 313	and
+#80	AnnotatorNotes T81	lemma = 'and'
+T82	AV0 314 320	almost
+#81	AnnotatorNotes T82	lemma = 'almost'
+T83	NN2 321 328	artists
+#82	AnnotatorNotes T83	lemma = 'artist'
+T84	VHB 329 333	have
+#83	AnnotatorNotes T84	lemma = 'have'
+T85	DPS 334 339	their
+#84	AnnotatorNotes T85	lemma = 'they'
+T86	DT0 340 343	own
+#85	AnnotatorNotes T86	lemma = 'own'
+T87	NN1 344 351	freedom
+#86	AnnotatorNotes T87	lemma = 'freedom'
+T88	CJC 352 355	and
+#87	AnnotatorNotes T88	lemma = 'and'
+T89	AT0 356 359	the
+#88	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 360 369	goverment
+#89	AnnotatorNotes T90	lemma = 'goverment'
+T91	VM0 370 376	should
+#90	AnnotatorNotes T91	lemma = 'should'
+T92	XX0 376 379	n't
+#91	AnnotatorNotes T92	lemma = 'not'
+T93	VVI 380 388	restrict
+#92	AnnotatorNotes T93	lemma = 'restrict'
+T94	DPS 389 394	their
+#93	AnnotatorNotes T94	lemma = 'they'
+T95	NN0 395 400	works
+#94	AnnotatorNotes T95	lemma = 'works'
+T96	SENT 400 401	.
+#95	AnnotatorNotes T96	lemma = '.'
+T97	DPS 402 405	Our
+#96	AnnotatorNotes T97	lemma = 'we'
+T98	NN1 406 411	world
+#97	AnnotatorNotes T98	lemma = 'world'
+T99	VBZ 412 414	is
+#98	AnnotatorNotes T99	lemma = 'be'
+T100	AV0 415 418	too
+#99	AnnotatorNotes T100	lemma = 'too'
+T101	AJ0 419 428	difficult
+#100	AnnotatorNotes T101	lemma = 'difficult'
+T102	CJC 429 432	and
+#101	AnnotatorNotes T102	lemma = 'and'
+T103	AJ0 433 442	different
+#102	AnnotatorNotes T103	lemma = 'different'
+T104	AV0 443 446	now
+#103	AnnotatorNotes T104	lemma = 'now'
+T105	PUN 446 447	,
+#104	AnnotatorNotes T105	lemma = ','
+T106	CJS 448 450	so
+#105	AnnotatorNotes T106	lemma = 'so'
+T107	PNP 451 453	we
+#106	AnnotatorNotes T107	lemma = 'we'
+T108	VHD 454 457	had
+#107	AnnotatorNotes T108	lemma = 'have'
+T109	DT0 458 461	all
+#108	AnnotatorNotes T109	lemma = 'all'
+T110	NN2 462 467	kinds
+#109	AnnotatorNotes T110	lemma = 'kind'
+T111	PRF 468 470	of
+#110	AnnotatorNotes T111	lemma = 'of'
+T112	NN1 471 474	art
+#111	AnnotatorNotes T112	lemma = 'art'
+T113	SENT 474 475	.
+#112	AnnotatorNotes T113	lemma = '.'
+T114	PRP 476 479	For
+#113	AnnotatorNotes T114	lemma = 'for'
+T115	NN1 480 487	example
+#114	AnnotatorNotes T115	lemma = 'example'
+T116	PUN 487 488	,
+#115	AnnotatorNotes T116	lemma = ','
+T117	NN1 489 498	goverment
+#116	AnnotatorNotes T117	lemma = 'goverment'
+T118	PRP 499 501	in
+#117	AnnotatorNotes T118	lemma = 'in'
+T119	NP0 502 506	USSR
+#118	AnnotatorNotes T119	lemma = 'ussr'
+T120	VDD 507 510	did
+#119	AnnotatorNotes T120	lemma = 'do'
+T121	XX0 510 513	n't
+#120	AnnotatorNotes T121	lemma = 'not'
+T122	VVI 514 518	like
+#121	AnnotatorNotes T122	lemma = 'like'
+T123	AT0 519 522	the
+#122	AnnotatorNotes T123	lemma = 'the'
+T124	NP0 523 531	Vladimir
+#123	AnnotatorNotes T124	lemma = 'vladimir'
+T125	NP0 532 540	Vysotsky
+#124	AnnotatorNotes T125	lemma = 'Vysotsky'
+T126	NN2 541 547	events
+#125	AnnotatorNotes T126	lemma = 'event'
+T127	PUN 547 548	,
+#126	AnnotatorNotes T127	lemma = ','
+T128	CJC 549 552	but
+#127	AnnotatorNotes T128	lemma = 'but'
+T129	PNP 553 557	they
+#128	AnnotatorNotes T129	lemma = 'they'
+T130	VDD 558 561	did
+#129	AnnotatorNotes T130	lemma = 'do'
+T131	XX0 561 564	n't
+#130	AnnotatorNotes T131	lemma = 'not'
+T132	VVI 565 573	restrict
+#131	AnnotatorNotes T132	lemma = 'restrict'
+T133	AV0 574 576	so
+#132	AnnotatorNotes T133	lemma = 'so'
+T134	DT0 577 581	much
+#133	AnnotatorNotes T134	lemma = 'much'
+T135	DPS 582 585	his
+#134	AnnotatorNotes T135	lemma = 'he'
+T136	AJ0 586 594	creative
+#135	AnnotatorNotes T136	lemma = 'creative'
+T137	SENT 594 595	.
+#136	AnnotatorNotes T137	lemma = '.'
+T138	CJS 596 598	If
+#137	AnnotatorNotes T138	lemma = 'if'
+T139	PNP 599 603	they
+#138	AnnotatorNotes T139	lemma = 'they'
+T140	VDD 604 607	did
+#139	AnnotatorNotes T140	lemma = 'do'
+T141	PNP 608 610	it
+#140	AnnotatorNotes T141	lemma = 'it'
+T142	PUN 610 611	,
+#141	AnnotatorNotes T142	lemma = ','
+T143	PNP 612 614	we
+#142	AnnotatorNotes T143	lemma = 'we'
+T144	VM0 615 620	would
+#143	AnnotatorNotes T144	lemma = 'would'
+T145	XX0 621 624	not
+#144	AnnotatorNotes T145	lemma = 'not'
+T146	VVI 625 629	hear
+#145	AnnotatorNotes T146	lemma = 'hear'
+T147	DPS 630 633	his
+#146	AnnotatorNotes T147	lemma = 'he'
+T148	AJ0 634 641	genious
+#147	AnnotatorNotes T148	lemma = 'genious'
+T149	NN2 642 647	songs
+#148	AnnotatorNotes T149	lemma = 'song'
+T150	SENT 647 648	.
+#149	AnnotatorNotes T150	lemma = '.'
+T151	EX0 649 654	There
+#150	AnnotatorNotes T151	lemma = 'there'
+T152	VBZ 655 657	is
+#151	AnnotatorNotes T152	lemma = 'be'
+T153	AV0 658 662	only
+#152	AnnotatorNotes T153	lemma = 'only'
+T154	CRD 663 666	one
+#153	AnnotatorNotes T154	lemma = 'one'
+T155	NN1 667 673	reason
+#154	AnnotatorNotes T155	lemma = 'reason'
+T156	SENT 673 674	.
+#155	AnnotatorNotes T156	lemma = '.'
+T157	PRP 675 677	In
+#156	AnnotatorNotes T157	lemma = 'in'
+T158	DT0 678 681	all
+#157	AnnotatorNotes T158	lemma = 'all'
+T159	NN2 682 687	years
+#158	AnnotatorNotes T159	lemma = 'year'
+T160	NN1 688 691	art
+#159	AnnotatorNotes T160	lemma = 'art'
+T161	VVI 692 699	impeach
+#160	AnnotatorNotes T161	lemma = 'impeach'
+T162	NN1 700 710	government
+#161	AnnotatorNotes T162	lemma = 'government'
+T163	SENT 710 711	.
+#162	AnnotatorNotes T163	lemma = '.'
+T164	CJC 712 715	But
+#163	AnnotatorNotes T164	lemma = 'but'
+T165	AV0 716 719	now
+#164	AnnotatorNotes T165	lemma = 'now'
+T166	PNP 720 722	we
+#165	AnnotatorNotes T166	lemma = 'we'
+T167	VVB 723 727	live
+#166	AnnotatorNotes T167	lemma = 'live'
+T168	PRP 728 730	in
+#167	AnnotatorNotes T168	lemma = 'in'
+T169	NN1 731 738	freedom
+#168	AnnotatorNotes T169	lemma = 'freedom'
+T170	CJC 739 742	and
+#169	AnnotatorNotes T170	lemma = 'and'
+T171	VM0 743 746	can
+#170	AnnotatorNotes T171	lemma = 'can'
+T172	VVI 747 753	create
+#171	AnnotatorNotes T172	lemma = 'create'
+T173	AJ0 754 764	scandalous
+#172	AnnotatorNotes T173	lemma = 'scandalous'
+T174	NN2 765 770	films
+#173	AnnotatorNotes T174	lemma = 'film'
+T175	PUN 770 771	,
+#174	AnnotatorNotes T175	lemma = ','
+T176	NN2 772 780	pictures
+#175	AnnotatorNotes T176	lemma = 'picture'
+T177	AV0 781 785	etc.
+#176	AnnotatorNotes T177	lemma = 'etc.'
+T178	PRP 787 789	On
+#177	AnnotatorNotes T178	lemma = 'on'
+T179	AT0 790 793	the
+#178	AnnotatorNotes T179	lemma = 'the'
+T180	AJ0 794 799	other
+#179	AnnotatorNotes T180	lemma = 'other'
+T181	NN1 800 804	hand
+#180	AnnotatorNotes T181	lemma = 'hand'
+T182	PUN 804 805	,
+#181	AnnotatorNotes T182	lemma = ','
+T183	AV0 806 809	too
+#182	AnnotatorNotes T183	lemma = 'too'
+T184	DT0 810 814	much
+#183	AnnotatorNotes T184	lemma = 'much'
+T185	NN1 815 822	freedom
+#184	AnnotatorNotes T185	lemma = 'freedom'
+T186	PRP 823 827	with
+#185	AnnotatorNotes T186	lemma = 'with'
+T187	XX0 828 831	not
+#186	AnnotatorNotes T187	lemma = 'not'
+T188	AJ0 832 840	talented
+#187	AnnotatorNotes T188	lemma = 'talented'
+T189	NN1 841 844	art
+#188	AnnotatorNotes T189	lemma = 'art'
+T190	CJC 845 848	nor
+#189	AnnotatorNotes T190	lemma = 'nor'
+T191	AJ0 849 855	polite
+#190	AnnotatorNotes T191	lemma = 'polite'
+T192	NN2 856 863	artists
+#191	AnnotatorNotes T192	lemma = 'artist'
+T193	VM0 864 867	can
+#192	AnnotatorNotes T193	lemma = 'can'
+T194	VVI 868 872	make
+#193	AnnotatorNotes T194	lemma = 'make'
+T195	PUQ 873 874	"
+#194	AnnotatorNotes T195	lemma = '"'
+T196	AJ0 874 880	stupid
+#195	AnnotatorNotes T196	lemma = 'stupid'
+T197	NN1 881 884	art
+#196	AnnotatorNotes T197	lemma = 'art'
+T198	PUQ 884 885	"
+#197	AnnotatorNotes T198	lemma = '"'
+T199	SENT 885 886	.
+#198	AnnotatorNotes T199	lemma = '.'
+T200	DT0 887 892	These
+#199	AnnotatorNotes T200	lemma = 'these'
+T201	NN2 893 900	artists
+#200	AnnotatorNotes T201	lemma = 'artist'
+T202	NN1 901 911	disrespect
+#201	AnnotatorNotes T202	lemma = 'disrespect'
+T203	NN1 912 919	history
+#202	AnnotatorNotes T203	lemma = 'history'
+T204	CJC 920 923	and
+#203	AnnotatorNotes T204	lemma = 'and'
+T205	NN2 924 930	heroes
+#204	AnnotatorNotes T205	lemma = 'hero'
+T206	SENT 930 931	.
+#205	AnnotatorNotes T206	lemma = '.'
+T207	PRP 932 935	For
+#206	AnnotatorNotes T207	lemma = 'for'
+T208	NN1 936 943	example
+#207	AnnotatorNotes T208	lemma = 'example'
+T209	EX0 944 949	there
+#208	AnnotatorNotes T209	lemma = 'there'
+T210	VBB 950 953	are
+#209	AnnotatorNotes T210	lemma = 'be'
+T211	DT0 954 958	many
+#210	AnnotatorNotes T211	lemma = 'many'
+T212	NN1 959 963	film
+#211	AnnotatorNotes T212	lemma = 'film'
+T213	NN2 964 973	directors
+#212	AnnotatorNotes T213	lemma = 'director'
+T214	DTQ 974 979	which
+#213	AnnotatorNotes T214	lemma = 'which'
+T215	VVB 980 984	make
+#214	AnnotatorNotes T215	lemma = 'make'
+T216	NN1 985 992	scandal
+#215	AnnotatorNotes T216	lemma = 'scandal'
+T217	NN1 993 997	film
+#216	AnnotatorNotes T217	lemma = 'film'
+T218	PRP 998 1003	about
+#217	AnnotatorNotes T218	lemma = 'about'
+T219	ORD 1004 1010	Second
+#218	AnnotatorNotes T219	lemma = 'second'
+T220	NN1 1011 1016	World
+#219	AnnotatorNotes T220	lemma = 'world'
+T221	NN1 1017 1020	War
+#220	AnnotatorNotes T221	lemma = 'war'
+T222	PRP 1021 1025	with
+#221	AnnotatorNotes T222	lemma = 'with'
+T223	DT0 1026 1030	many
+#222	AnnotatorNotes T223	lemma = 'many'
+T224	AJ0 1031 1036	false
+#223	AnnotatorNotes T224	lemma = 'false'
+T225	NN2 1037 1043	events
+#224	AnnotatorNotes T225	lemma = 'event'
+T226	CJC 1044 1047	and
+#225	AnnotatorNotes T226	lemma = 'and'
+T227	NN2 1048 1056	disgrase
+#226	AnnotatorNotes T227	lemma = 'disgrase'
+T228	VBB 1057 1060	are
+#227	AnnotatorNotes T228	lemma = 'be'
+T229	AV0 1061 1065	very
+#228	AnnotatorNotes T229	lemma = 'very'
+T230	AJ0 1066 1069	bad
+#229	AnnotatorNotes T230	lemma = 'bad'
+T231	CJC 1070 1073	and
+#230	AnnotatorNotes T231	lemma = 'and'
+T232	PNP 1074 1075	I
+#231	AnnotatorNotes T232	lemma = 'i'
+T233	VDB 1076 1078	do
+#232	AnnotatorNotes T233	lemma = 'do'
+T234	XX0 1078 1081	n't
+#233	AnnotatorNotes T234	lemma = 'not'
+T235	VVI 1082 1087	think
+#234	AnnotatorNotes T235	lemma = 'think'
+T236	PNP 1088 1090	it
+#235	AnnotatorNotes T236	lemma = 'it'
+T237	VBZ 1091 1093	is
+#236	AnnotatorNotes T237	lemma = 'be'
+T238	NN1 1094 1097	art
+#237	AnnotatorNotes T238	lemma = 'art'
+T239	SENT 1097 1098	.
+#238	AnnotatorNotes T239	lemma = '.'
+T240	CJC 1099 1102	But
+#239	AnnotatorNotes T240	lemma = 'but'
+T241	AT0 1103 1106	the
+#240	AnnotatorNotes T241	lemma = 'the'
+T242	AJ0 1107 1118	intelligent
+#241	AnnotatorNotes T242	lemma = 'intelligent'
+T243	NN1 1119 1126	freedom
+#242	AnnotatorNotes T243	lemma = 'freedom'
+T244	VVB 1127 1133	create
+#243	AnnotatorNotes T244	lemma = 'create'
+T245	NN1 1134 1138	work
+#244	AnnotatorNotes T245	lemma = 'work'
+T246	VM0 1139 1142	can
+#245	AnnotatorNotes T246	lemma = 'can'
+T247	VBI 1143 1145	be
+#246	AnnotatorNotes T247	lemma = 'be'
+T248	AV0 1146 1150	very
+#247	AnnotatorNotes T248	lemma = 'very'
+T249	AJ0 1151 1160	beautiful
+#248	AnnotatorNotes T249	lemma = 'beautiful'
+T250	SENT 1160 1161	.
+#249	AnnotatorNotes T250	lemma = '.'
+T251	DT0 1163 1166	All
+#250	AnnotatorNotes T251	lemma = 'all'
+T252	PRP 1167 1169	in
+#251	AnnotatorNotes T252	lemma = 'in'
+T253	DT0 1170 1173	all
+#252	AnnotatorNotes T253	lemma = 'all'
+T254	NN1 1174 1183	goverment
+#253	AnnotatorNotes T254	lemma = 'goverment'
+T255	VM0 1184 1188	must
+#254	AnnotatorNotes T255	lemma = 'must'
+T256	XX0 1189 1192	not
+#255	AnnotatorNotes T256	lemma = 'not'
+T257	VVI 1193 1201	restrict
+#256	AnnotatorNotes T257	lemma = 'restrict'
+T258	DT0 1202 1205	any
+#257	AnnotatorNotes T258	lemma = 'any'
+T259	NN1 1206 1213	freedom
+#258	AnnotatorNotes T259	lemma = 'freedom'
+T260	NN2 1214 1219	ideas
+#259	AnnotatorNotes T260	lemma = 'idea'
+T261	PRF 1220 1222	of
+#260	AnnotatorNotes T261	lemma = 'of'
+T262	AJ0 1223 1229	modern
+#261	AnnotatorNotes T262	lemma = 'modern'
+T263	NN2 1230 1237	artists
+#262	AnnotatorNotes T263	lemma = 'artist'
+T264	SENT 1237 1238	.
+#263	AnnotatorNotes T264	lemma = '.'
+T265	PNP 1239 1241	We
+#264	AnnotatorNotes T265	lemma = 'we'
+T266	VM0 1242 1246	must
+#265	AnnotatorNotes T266	lemma = 'must'
+T267	AV0 1247 1251	only
+#266	AnnotatorNotes T267	lemma = 'only'
+T268	VVI 1252 1256	find
+#267	AnnotatorNotes T268	lemma = 'find'
+T269	AJ0 1257 1265	talented
+#268	AnnotatorNotes T269	lemma = 'talented'
+T270	NN1 1266 1273	freedom
+#269	AnnotatorNotes T270	lemma = 'freedom'
+T271	NN1 1274 1277	art
+#270	AnnotatorNotes T271	lemma = 'art'
+T272	CJC 1278 1280	or
+#271	AnnotatorNotes T272	lemma = 'or'
+T273	AJ0 1281 1287	stupid
+#272	AnnotatorNotes T273	lemma = 'stupid'
+T274	NN1 1288 1299	provocation
+#273	AnnotatorNotes T274	lemma = 'provocation'
+T275	NN1 1300 1305	witch
+#274	AnnotatorNotes T275	lemma = 'witch'
+T276	VDB 1306 1308	do
+#275	AnnotatorNotes T276	lemma = 'do'
+T277	XX0 1308 1311	n't
+#276	AnnotatorNotes T277	lemma = 'not'
+T278	VVI 1312 1316	need
+#277	AnnotatorNotes T278	lemma = 'need'
+T279	TO0 1317 1319	to
+#278	AnnotatorNotes T279	lemma = 'to'
+T280	VBI 1320 1322	be
+#279	AnnotatorNotes T280	lemma = 'be'
+T281	PUN 1322 1323	,
+#280	AnnotatorNotes T281	lemma = ','
+T282	VVD 1324 1331	watched
+#281	AnnotatorNotes T282	lemma = 'watch'
+T283	SENT 1331 1332	.
+#282	AnnotatorNotes T283	lemma = ''

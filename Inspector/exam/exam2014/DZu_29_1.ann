@@ -1,0 +1,259 @@
+T1	Spelling 115 117	if
+#1	AnnotatorNotes T1	of 
+A1	Cause T1
+T2	Punctuation 273 292	passengers per year
+#2	AnnotatorNotes T2	passengers per year
+A2	Cause T2
+T3	Numerals 301 309	millions
+#3	AnnotatorNotes T3	million
+A3	Cause T3
+T4	Absence_explanation 362 366	1191
+#4	AnnotatorNotes T4	1191 million of passengers per year 
+T5	lex_item_choice 376 386	kilometres
+#5	AnnotatorNotes T5	the length
+A4	Cause T5
+T6	Agreement_errors 396 399	are
+#6	AnnotatorNotes T6	is
+A5	Cause T6
+T7	lex_item_choice 400 406	longer
+#7	AnnotatorNotes T7	bigger 
+A6	Cause T7
+T8	lex_item_choice 586 596	kilometres
+#8	AnnotatorNotes T8	length
+A7	Cause T8
+R1	Dependent_change Arg1:T5 Arg2:T6
+T9	lex_item_choice 522 532	kilometres
+#9	AnnotatorNotes T9	the length
+T10	Word_choice 198 216	less kilometres of
+#10	AnnotatorNotes T10	shorter
+T11	Determiners 217 222	route
+#11	AnnotatorNotes T11	its route
+T12	Word_choice 223 229	it has
+#12	AnnotatorNotes T12	is
+R2	Dependent_change Arg1:T10 Arg2:T12
+T13	AT0 0 3	The
+#13	AnnotatorNotes T13	lemma = 'the'
+T14	NN1 4 9	chart
+#14	AnnotatorNotes T14	lemma = 'chart'
+T15	AV0 10 15	below
+#15	AnnotatorNotes T15	lemma = 'below'
+T16	VVZ 16 27	illustrates
+#16	AnnotatorNotes T16	lemma = 'illustrate'
+T17	NN1 28 39	information
+#17	AnnotatorNotes T17	lemma = 'information'
+T18	PRP 40 45	about
+#18	AnnotatorNotes T18	lemma = 'about'
+T19	AT0 46 49	the
+#19	AnnotatorNotes T19	lemma = 'the'
+T20	AJ0 50 61	underground
+#20	AnnotatorNotes T20	lemma = 'underground'
+T21	NN1 62 69	railway
+#21	AnnotatorNotes T21	lemma = 'railway'
+T22	NN2 70 77	systems
+#22	AnnotatorNotes T22	lemma = 'system'
+T23	PRP 78 80	in
+#23	AnnotatorNotes T23	lemma = 'in'
+T24	CRD 81 82	6
+#24	AnnotatorNotes T24	lemma = '6'
+T25	NN2 83 89	cities
+#25	AnnotatorNotes T25	lemma = 'city'
+T26	PRP 90 96	during
+#26	AnnotatorNotes T26	lemma = 'during'
+T27	AJ0 97 107	particular
+#27	AnnotatorNotes T27	lemma = 'particular'
+T28	NN1 108 114	period
+#28	AnnotatorNotes T28	lemma = 'period'
+T29	CJS 115 117	if
+#29	AnnotatorNotes T29	lemma = 'if'
+T30	NN1 118 122	time
+#30	AnnotatorNotes T30	lemma = 'time'
+T31	SENT 122 123	.
+#31	AnnotatorNotes T31	lemma = '.'
+T32	AV0 125 132	Overall
+#32	AnnotatorNotes T32	lemma = 'overall'
+T33	PUN 132 133	,
+#33	AnnotatorNotes T33	lemma = ','
+T34	EX0 134 139	there
+#34	AnnotatorNotes T34	lemma = 'there'
+T35	VBZ 140 142	is
+#35	AnnotatorNotes T35	lemma = 'be'
+T36	AT0 143 144	a
+#36	AnnotatorNotes T36	lemma = 'a'
+T37	AJ0 145 151	common
+#37	AnnotatorNotes T37	lemma = 'common'
+T38	NN1 152 157	trend
+#38	AnnotatorNotes T38	lemma = 'trend'
+T39	CJT 158 162	that
+#39	AnnotatorNotes T39	lemma = 'that'
+T40	AT0 163 166	the
+#40	AnnotatorNotes T40	lemma = 'the'
+T41	AJC 167 174	younger
+#41	AnnotatorNotes T41	lemma = 'young'
+T42	NN1 175 182	railway
+#42	AnnotatorNotes T42	lemma = 'railway'
+T43	NN1 183 189	system
+#43	AnnotatorNotes T43	lemma = 'system'
+T44	VBZ 190 192	is
+#44	AnnotatorNotes T44	lemma = 'be'
+T45	PUN 192 193	,
+#45	AnnotatorNotes T45	lemma = ','
+T46	AT0 194 197	the
+#46	AnnotatorNotes T46	lemma = 'the'
+T47	DT0 198 202	less
+#47	AnnotatorNotes T47	lemma = 'less'
+T48	NN2 203 213	kilometres
+#48	AnnotatorNotes T48	lemma = 'kilometre'
+T49	PRF 214 216	of
+#49	AnnotatorNotes T49	lemma = 'of'
+T50	NN1 217 222	route
+#50	AnnotatorNotes T50	lemma = 'route'
+T51	PNP 223 225	it
+#51	AnnotatorNotes T51	lemma = 'it'
+T52	VHZ 226 229	has
+#52	AnnotatorNotes T52	lemma = 'have'
+T53	SENT 229 230	.
+#53	AnnotatorNotes T53	lemma = '.'
+T54	AT0 231 234	The
+#54	AnnotatorNotes T54	lemma = 'the'
+T55	AV0 235 239	most
+#55	AnnotatorNotes T55	lemma = 'most'
+T56	AJ0 240 251	significant
+#56	AnnotatorNotes T56	lemma = 'significant'
+T57	NN1 252 259	feature
+#57	AnnotatorNotes T57	lemma = 'feature'
+T58	PRP 260 262	in
+#58	AnnotatorNotes T58	lemma = 'in'
+T59	AT0 263 266	the
+#59	AnnotatorNotes T59	lemma = 'the'
+T60	NN1 267 272	graph
+#60	AnnotatorNotes T60	lemma = 'graph'
+T61	NN2 273 283	passengers
+#61	AnnotatorNotes T61	lemma = 'passenger'
+T62	PRP 284 287	per
+#62	AnnotatorNotes T62	lemma = 'per'
+T63	NN1 288 292	year
+#63	AnnotatorNotes T63	lemma = 'year'
+T64	VBZ 293 295	is
+#64	AnnotatorNotes T64	lemma = 'be'
+T65	CRD 296 300	1927
+#65	AnnotatorNotes T65	lemma = '1927'
+T66	CRD 301 309	millions
+#66	AnnotatorNotes T66	lemma = 'millions'
+T67	PRF 310 312	of
+#67	AnnotatorNotes T67	lemma = 'of'
+T68	NN0 313 319	people
+#68	AnnotatorNotes T68	lemma = 'people'
+T69	PRP 320 322	in
+#69	AnnotatorNotes T69	lemma = 'in'
+T70	NP0 323 328	Tokyo
+#70	AnnotatorNotes T70	lemma = 'tokyo'
+T71	SENT 328 329	.
+#71	AnnotatorNotes T71	lemma = '.'
+T72	AT0 330 333	The
+#72	AnnotatorNotes T72	lemma = 'the'
+T73	ORD 334 340	second
+#73	AnnotatorNotes T73	lemma = 'second'
+T74	NN1 341 346	place
+#74	AnnotatorNotes T74	lemma = 'place'
+T75	VHZ 347 350	has
+#75	AnnotatorNotes T75	lemma = 'have'
+T76	NP0 351 356	Paris
+#76	AnnotatorNotes T76	lemma = 'paris'
+T77	PRP 357 361	with
+#77	AnnotatorNotes T77	lemma = 'with'
+T78	CRD 362 366	1191
+#78	AnnotatorNotes T78	lemma = '1191'
+T79	CJS 367 375	although
+#79	AnnotatorNotes T79	lemma = 'although'
+T80	NN2 376 386	kilometres
+#80	AnnotatorNotes T80	lemma = 'kilometre'
+T81	PRF 387 389	of
+#81	AnnotatorNotes T81	lemma = 'of'
+T82	NN1 390 395	route
+#82	AnnotatorNotes T82	lemma = 'route'
+T83	VBB 396 399	are
+#83	AnnotatorNotes T83	lemma = 'be'
+T84	AV0 400 406	longer
+#84	AnnotatorNotes T84	lemma = 'longer'
+T85	VVN 407 415	compared
+#85	AnnotatorNotes T85	lemma = 'compare'
+T86	PRP 416 418	to
+#86	AnnotatorNotes T86	lemma = 'to'
+T87	NP0 419 424	Tokyo
+#87	AnnotatorNotes T87	lemma = 'tokyo'
+T88	SENT 424 425	.
+#88	AnnotatorNotes T88	lemma = '.'
+T89	AT0 426 429	The
+#89	AnnotatorNotes T89	lemma = 'the'
+T90	NN1 430 436	amount
+#90	AnnotatorNotes T90	lemma = 'amount'
+T91	PRF 437 439	of
+#91	AnnotatorNotes T91	lemma = 'of'
+T92	NN2 440 450	passengers
+#92	AnnotatorNotes T92	lemma = 'passenger'
+T93	PRP 451 454	per
+#93	AnnotatorNotes T93	lemma = 'per'
+T94	NN1 455 459	year
+#94	AnnotatorNotes T94	lemma = 'year'
+T95	PRP 460 462	in
+#95	AnnotatorNotes T95	lemma = 'in'
+T96	NP0 463 473	Washington
+#96	AnnotatorNotes T96	lemma = 'washington'
+T97	NP0 474 476	DC
+#97	AnnotatorNotes T97	lemma = 'dc'
+T98	CJC 477 480	and
+#98	AnnotatorNotes T98	lemma = 'and'
+T99	NP0 481 487	London
+#99	AnnotatorNotes T99	lemma = 'london'
+T100	VVZ 488 495	differs
+#100	AnnotatorNotes T100	lemma = 'differ'
+T101	PRP 496 498	in
+#101	AnnotatorNotes T101	lemma = 'in'
+T102	AT0 499 502	the
+#102	AnnotatorNotes T102	lemma = 'the'
+T103	DT0 503 507	same
+#103	AnnotatorNotes T103	lemma = 'same'
+T104	NN1 508 518	proportion
+#104	AnnotatorNotes T104	lemma = 'proportion'
+T105	PRP 519 521	as
+#105	AnnotatorNotes T105	lemma = 'as'
+T106	NN2 522 532	kilometres
+#106	AnnotatorNotes T106	lemma = 'kilometre'
+T107	PRF 533 535	of
+#107	AnnotatorNotes T107	lemma = 'of'
+T108	NN1 536 541	route
+#108	AnnotatorNotes T108	lemma = 'route'
+T109	SENT 541 542	.
+#109	AnnotatorNotes T109	lemma = '.'
+T110	AT0 544 547	The
+#110	AnnotatorNotes T110	lemma = 'the'
+T111	AJS 548 554	newest
+#111	AnnotatorNotes T111	lemma = 'new'
+T112	NN1 555 562	railway
+#112	AnnotatorNotes T112	lemma = 'railway'
+T113	NN2 563 570	systems
+#113	AnnotatorNotes T113	lemma = 'system'
+T114	VHB 571 575	have
+#114	AnnotatorNotes T114	lemma = 'have'
+T115	AT0 576 579	the
+#115	AnnotatorNotes T115	lemma = 'the'
+T116	DT0 580 585	least
+#116	AnnotatorNotes T116	lemma = 'least'
+T117	NN2 586 596	kilometres
+#117	AnnotatorNotes T117	lemma = 'kilometre'
+T118	PRF 597 599	of
+#118	AnnotatorNotes T118	lemma = 'of'
+T119	NN1 600 605	route
+#119	AnnotatorNotes T119	lemma = 'route'
+T120	CJC 606 609	and
+#120	AnnotatorNotes T120	lemma = 'and'
+T121	AT0 610 613	the
+#121	AnnotatorNotes T121	lemma = 'the'
+T122	NN1 614 618	flow
+#122	AnnotatorNotes T122	lemma = 'flow'
+T123	PRF 619 621	of
+#123	AnnotatorNotes T123	lemma = 'of'
+T124	NN2 622 632	passengers
+#124	AnnotatorNotes T124	lemma = 'passenger'
+T125	SENT 632 633	.
+#125	AnnotatorNotes T125	lemma = ''

@@ -1,0 +1,499 @@
+T1	Agreement_errors 222 232	investment
+#1	AnnotatorNotes T1	investments 
+T2	Tense_choice 233 235	is
+#2	AnnotatorNotes T2	were 
+T3	Tense 405 411	begins
+#3	AnnotatorNotes T3	began 
+T4	Verbs 449 454	rises
+#4	AnnotatorNotes T4	rose 
+T5	Agreement_errors 628 638	investment
+#5	AnnotatorNotes T5	investments 
+T6	Tense_choice 649 658	decreases
+#6	AnnotatorNotes T6	have decreased 
+T7	Agreement_errors 394 404	investment
+#7	AnnotatorNotes T7	investments 
+T8	Agreement_errors 684 694	investment
+#8	AnnotatorNotes T8	investments 
+T9	Agreement_errors 53 63	investment
+#9	AnnotatorNotes T9	investments 
+T10	Tense 752 761	increases
+#10	AnnotatorNotes T10	have increased 
+T11	Spelling 876 884	increase
+#11	AnnotatorNotes T11	increased 
+T12	Agreement_errors 902 912	investment
+#12	AnnotatorNotes T12	investments 
+T13	Tense 923 928	falls
+#13	AnnotatorNotes T13	fell 
+T14	Tense 933 938	saves
+#14	AnnotatorNotes T14	saved 
+T15	Spelling 993 1002	countires
+#15	AnnotatorNotes T15	countries 
+T16	Agreement_errors 968 978	investment
+#16	AnnotatorNotes T16	investments 
+T17	Spelling 1003 1011	increses
+#17	AnnotatorNotes T17	increase
+T18	Agreement_errors 1035 1045	investment
+#18	AnnotatorNotes T18	investments 
+T19	Agreement_errors 1069 1072	has
+#19	AnnotatorNotes T19	have 
+T20	Agreement_errors 1108 1117	increases
+#20	AnnotatorNotes T20	increase
+R1	Dependent_change Arg1:T18 Arg2:T19
+R2	Dependent_change Arg1:T18 Arg2:T20
+T21	Agreement_errors 1003 1011	increses
+#21	AnnotatorNotes T21	increase 
+R3	Dependent_change Arg1:T16 Arg2:T21
+T22	AT0 0 3	The
+#22	AnnotatorNotes T22	lemma = 'the'
+T23	NN1 4 11	diagram
+#23	AnnotatorNotes T23	lemma = 'diagram'
+T24	VVZ 12 23	illustrates
+#24	AnnotatorNotes T24	lemma = 'illustrate'
+T25	NN2 24 29	rises
+#25	AnnotatorNotes T25	lemma = 'rise'
+T26	CJC 30 33	and
+#26	AnnotatorNotes T26	lemma = 'and'
+T27	NN2 34 39	falls
+#27	AnnotatorNotes T27	lemma = 'fall'
+T28	PRP 40 42	in
+#28	AnnotatorNotes T28	lemma = 'in'
+T29	AJ0 43 52	worldwide
+#29	AnnotatorNotes T29	lemma = 'worldwide'
+T30	NN1 53 63	investment
+#30	AnnotatorNotes T30	lemma = 'investment'
+T31	PRP 64 66	in
+#31	AnnotatorNotes T31	lemma = 'in'
+T32	AJ0 67 76	renewable
+#32	AnnotatorNotes T32	lemma = 'renewable'
+T33	NN1 77 83	energy
+#33	AnnotatorNotes T33	lemma = 'energy'
+T34	SENT 83 84	.
+#34	AnnotatorNotes T34	lemma = '.'
+T35	AV0 85 89	Here
+#35	AnnotatorNotes T35	lemma = 'here'
+T36	VM0 90 93	can
+#36	AnnotatorNotes T36	lemma = 'can'
+T37	VBI 94 96	be
+#37	AnnotatorNotes T37	lemma = 'be'
+T38	VVN 97 101	seen
+#38	AnnotatorNotes T38	lemma = 'see'
+T39	AT0 102 105	the
+#39	AnnotatorNotes T39	lemma = 'the'
+T40	NN1 106 112	period
+#40	AnnotatorNotes T40	lemma = 'period'
+T41	PRP 113 117	from
+#41	AnnotatorNotes T41	lemma = 'from'
+T42	CRD 118 122	2006
+#42	AnnotatorNotes T42	lemma = '2006'
+T43	PRP 123 125	to
+#43	AnnotatorNotes T43	lemma = 'to'
+T44	CRD 126 130	2013
+#44	AnnotatorNotes T44	lemma = '2013'
+T45	CJC 131 134	and
+#45	AnnotatorNotes T45	lemma = 'and'
+T46	AT0 135 138	the
+#46	AnnotatorNotes T46	lemma = 'the'
+T47	NN2 139 146	results
+#47	AnnotatorNotes T47	lemma = 'result'
+T48	PRF 147 149	of
+#48	AnnotatorNotes T48	lemma = 'of'
+T49	AJ0 150 159	developed
+#49	AnnotatorNotes T49	lemma = 'developed|develop'
+T50	CJC 160 163	and
+#50	AnnotatorNotes T50	lemma = 'and'
+T51	AJ0 164 174	developing
+#51	AnnotatorNotes T51	lemma = 'developing|develop'
+T52	NN2 175 184	countries
+#52	AnnotatorNotes T52	lemma = 'country'
+T53	SENT 184 185	.
+#53	AnnotatorNotes T53	lemma = '.'
+T54	PRP 186 188	In
+#54	AnnotatorNotes T54	lemma = 'in'
+T55	AT0 189 192	the
+#55	AnnotatorNotes T55	lemma = 'the'
+T56	NN1 193 199	period
+#56	AnnotatorNotes T56	lemma = 'period'
+T57	PRP 200 204	from
+#57	AnnotatorNotes T57	lemma = 'from'
+T58	CRD 205 209	2006
+#58	AnnotatorNotes T58	lemma = '2006'
+T59	PRP 210 212	to
+#59	AnnotatorNotes T59	lemma = 'to'
+T60	CRD 213 217	2008
+#60	AnnotatorNotes T60	lemma = '2008'
+T61	AT0 218 221	the
+#61	AnnotatorNotes T61	lemma = 'the'
+T62	NN1 222 232	investment
+#62	AnnotatorNotes T62	lemma = 'investment'
+T63	VBZ 233 235	is
+#63	AnnotatorNotes T63	lemma = 'be'
+T64	VVG 236 242	rising
+#64	AnnotatorNotes T64	lemma = 'rise|rising'
+T65	AV0 243 252	gradually
+#65	AnnotatorNotes T65	lemma = 'gradually'
+T66	PRP 253 257	from
+#66	AnnotatorNotes T66	lemma = 'from'
+T67	CRD 258 261	100
+#67	AnnotatorNotes T67	lemma = '100'
+T68	NN0 261 262	$
+#68	AnnotatorNotes T68	lemma = '$'
+T69	PRP 263 265	to
+#69	AnnotatorNotes T69	lemma = 'to'
+T70	CRD 266 269	171
+#70	AnnotatorNotes T70	lemma = '171'
+T71	NN0 269 270	$
+#71	AnnotatorNotes T71	lemma = '$'
+T72	NN0 271 273	Bn
+#72	AnnotatorNotes T72	lemma = 'bn'
+T73	SENT 273 274	.
+#73	AnnotatorNotes T73	lemma = '.'
+T74	AJ0 275 284	Developed
+#74	AnnotatorNotes T74	lemma = 'developed|develop'
+T75	NN2 285 294	countries
+#75	AnnotatorNotes T75	lemma = 'country'
+T76	VVN 295 303	invested
+#76	AnnotatorNotes T76	lemma = 'invest|invested'
+T77	AV0 304 308	more
+#77	AnnotatorNotes T77	lemma = 'more'
+T78	AV0 309 313	then
+#78	AnnotatorNotes T78	lemma = 'then'
+T79	CRD 314 317	100
+#79	AnnotatorNotes T79	lemma = '100'
+T80	NN0 317 318	$
+#80	AnnotatorNotes T80	lemma = '$'
+T81	NN0 319 321	Bn
+#81	AnnotatorNotes T81	lemma = 'bn'
+T82	PRP 322 324	in
+#82	AnnotatorNotes T82	lemma = 'in'
+T83	CRD 325 329	2008
+#83	AnnotatorNotes T83	lemma = '2008'
+T84	PUN 329 330	,
+#84	AnnotatorNotes T84	lemma = ','
+T85	AVQ 331 335	when
+#85	AnnotatorNotes T85	lemma = 'when'
+T86	AJ0 336 346	developing
+#86	AnnotatorNotes T86	lemma = 'developing|develop'
+T87	NN2 347 356	countries
+#87	AnnotatorNotes T87	lemma = 'country'
+T88	VVN 357 365	invested
+#88	AnnotatorNotes T88	lemma = 'invest|invested'
+T89	CRD 366 368	50
+#89	AnnotatorNotes T89	lemma = '50'
+T90	NN0 368 369	$
+#90	AnnotatorNotes T90	lemma = '$'
+T91	NN0 370 372	Bn
+#91	AnnotatorNotes T91	lemma = 'bn'
+T92	CJC 373 375	or
+#92	AnnotatorNotes T92	lemma = 'or'
+T93	AV0 376 380	more
+#93	AnnotatorNotes T93	lemma = 'more'
+T94	SENT 380 381	.
+#94	AnnotatorNotes T94	lemma = '.'
+T95	PRP 382 384	In
+#95	AnnotatorNotes T95	lemma = 'in'
+T96	CRD 385 389	2009
+#96	AnnotatorNotes T96	lemma = '2009'
+T97	AT0 390 393	the
+#97	AnnotatorNotes T97	lemma = 'the'
+T98	NN1 394 404	investment
+#98	AnnotatorNotes T98	lemma = 'investment'
+T99	VVZ 405 411	begins
+#99	AnnotatorNotes T99	lemma = 'begin'
+T100	TO0 412 414	to
+#100	AnnotatorNotes T100	lemma = 'to'
+T101	VVI 415 419	fall
+#101	AnnotatorNotes T101	lemma = 'fall'
+T102	PUN 419 420	,
+#102	AnnotatorNotes T102	lemma = ','
+T103	VVN 421 428	stopped
+#103	AnnotatorNotes T103	lemma = 'stop|stopped'
+T104	PRP 429 431	on
+#104	AnnotatorNotes T104	lemma = 'on'
+T105	CRD 432 435	168
+#105	AnnotatorNotes T105	lemma = '168'
+T106	NN0 435 436	$
+#106	AnnotatorNotes T106	lemma = '$'
+T107	NN0 437 439	Bn
+#107	AnnotatorNotes T107	lemma = 'bn'
+T108	CJC 440 443	and
+#108	AnnotatorNotes T108	lemma = 'and'
+T109	AV0 444 448	then
+#109	AnnotatorNotes T109	lemma = 'then'
+T110	VVZ 449 454	rises
+#110	AnnotatorNotes T110	lemma = 'rise'
+T111	AV0 455 462	rapidly
+#111	AnnotatorNotes T111	lemma = 'rapidly'
+T112	PRP 463 468	until
+#112	AnnotatorNotes T112	lemma = 'until'
+T113	CRD 469 473	2011
+#113	AnnotatorNotes T113	lemma = '2011'
+T114	PUN 473 474	,
+#114	AnnotatorNotes T114	lemma = ','
+T115	VVG 475 481	saving
+#115	AnnotatorNotes T115	lemma = 'save|saving'
+T116	PNP 482 484	it
+#116	AnnotatorNotes T116	lemma = 'it'
+T117	VBZ 484 486	's
+#117	AnnotatorNotes T117	lemma = 'be'
+T118	NN1 487 495	position
+#118	AnnotatorNotes T118	lemma = 'position'
+T119	PRP 496 498	on
+#119	AnnotatorNotes T119	lemma = 'on'
+T120	CRD 499 502	279
+#120	AnnotatorNotes T120	lemma = '279'
+T121	NN0 502 503	$
+#121	AnnotatorNotes T121	lemma = '$'
+T122	NN0 504 506	Bn
+#122	AnnotatorNotes T122	lemma = 'bn'
+T123	SENT 506 507	.
+#123	AnnotatorNotes T123	lemma = '.'
+T124	PRP 508 510	At
+#124	AnnotatorNotes T124	lemma = 'at'
+T125	DT0 511 515	that
+#125	AnnotatorNotes T125	lemma = 'that'
+T126	NN1 516 520	time
+#126	AnnotatorNotes T126	lemma = 'time'
+T127	AJ0 521 530	developed
+#127	AnnotatorNotes T127	lemma = 'developed|develop'
+T128	NN2 531 540	countries
+#128	AnnotatorNotes T128	lemma = 'country'
+T129	VVD 541 547	picked
+#129	AnnotatorNotes T129	lemma = 'pick|picked'
+T130	CRD 548 551	170
+#130	AnnotatorNotes T130	lemma = '170'
+T131	NN0 551 552	$
+#131	AnnotatorNotes T131	lemma = '$'
+T132	NN0 553 555	Bn
+#132	AnnotatorNotes T132	lemma = 'bn'
+T133	PUN 555 556	,
+#133	AnnotatorNotes T133	lemma = ','
+T134	CJS 557 561	when
+#134	AnnotatorNotes T134	lemma = 'when'
+T135	VVG 562 572	developing
+#135	AnnotatorNotes T135	lemma = 'develop|developing'
+T136	VVN 573 579	stayed
+#136	AnnotatorNotes T136	lemma = 'stay'
+T137	PRP 580 582	at
+#137	AnnotatorNotes T137	lemma = 'at'
+T138	CRD 583 586	100
+#138	AnnotatorNotes T138	lemma = '100'
+T139	NN0 586 587	$
+#139	AnnotatorNotes T139	lemma = '$'
+T140	NN0 588 590	Bn
+#140	AnnotatorNotes T140	lemma = 'bn'
+T141	SENT 590 591	.
+#141	AnnotatorNotes T141	lemma = '.'
+T142	PRP 592 594	In
+#142	AnnotatorNotes T142	lemma = 'in'
+T143	AT0 595 598	the
+#143	AnnotatorNotes T143	lemma = 'the'
+T144	NN1 599 605	period
+#144	AnnotatorNotes T144	lemma = 'period'
+T145	PRP 606 610	from
+#145	AnnotatorNotes T145	lemma = 'from'
+T146	CRD 611 615	2011
+#146	AnnotatorNotes T146	lemma = '2011'
+T147	PRP 616 618	to
+#147	AnnotatorNotes T147	lemma = 'to'
+T148	CRD 619 623	2013
+#148	AnnotatorNotes T148	lemma = '2013'
+T149	AT0 624 627	the
+#149	AnnotatorNotes T149	lemma = 'the'
+T150	NN1 628 638	investment
+#150	AnnotatorNotes T150	lemma = 'investment'
+T151	PRP 639 641	in
+#151	AnnotatorNotes T151	lemma = 'in'
+T152	NN1 642 648	energy
+#152	AnnotatorNotes T152	lemma = 'energy'
+T153	NN2 649 658	decreases
+#153	AnnotatorNotes T153	lemma = 'decrease'
+T154	PUN 658 659	,
+#154	AnnotatorNotes T154	lemma = ','
+T155	VVN 660 667	stopped
+#155	AnnotatorNotes T155	lemma = 'stop|stopped'
+T156	PRP 668 670	on
+#156	AnnotatorNotes T156	lemma = 'on'
+T157	CRD 671 674	214
+#157	AnnotatorNotes T157	lemma = '214'
+T158	NN0 674 675	$
+#158	AnnotatorNotes T158	lemma = '$'
+T159	NN0 676 678	Bn
+#159	AnnotatorNotes T159	lemma = 'bn'
+T160	SENT 678 679	.
+#160	AnnotatorNotes T160	lemma = '.'
+T161	AT0 680 683	The
+#161	AnnotatorNotes T161	lemma = 'the'
+T162	NN1 684 694	investment
+#162	AnnotatorNotes T162	lemma = 'investment'
+T163	PRP 695 697	in
+#163	AnnotatorNotes T163	lemma = 'in'
+T164	AJ0 698 707	renewable
+#164	AnnotatorNotes T164	lemma = 'renewable'
+T165	NN1 708 714	energy
+#165	AnnotatorNotes T165	lemma = 'energy'
+T166	PUN 714 715	,
+#166	AnnotatorNotes T166	lemma = ','
+T167	CJS 716 718	as
+#167	AnnotatorNotes T167	lemma = 'as'
+T168	PNP 719 721	it
+#168	AnnotatorNotes T168	lemma = 'it'
+T169	VM0 722 725	can
+#169	AnnotatorNotes T169	lemma = 'can'
+T170	VBI 726 728	be
+#170	AnnotatorNotes T170	lemma = 'be'
+T171	VVN 729 733	seen
+#171	AnnotatorNotes T171	lemma = 'see'
+T172	PRP 734 738	from
+#172	AnnotatorNotes T172	lemma = 'from'
+T173	AT0 739 742	the
+#173	AnnotatorNotes T173	lemma = 'the'
+T174	NN1 743 750	diagram
+#174	AnnotatorNotes T174	lemma = 'diagram'
+T175	PUN 750 751	,
+#175	AnnotatorNotes T175	lemma = ','
+T176	VVZ 752 761	increases
+#176	AnnotatorNotes T176	lemma = 'increase'
+T177	PRP 762 764	in
+#177	AnnotatorNotes T177	lemma = 'in'
+T178	AT0 765 768	the
+#178	AnnotatorNotes T178	lemma = 'the'
+T179	NN1 769 775	period
+#179	AnnotatorNotes T179	lemma = 'period'
+T180	PRP 776 780	from
+#180	AnnotatorNotes T180	lemma = 'from'
+T181	CRD 781 785	2006
+#181	AnnotatorNotes T181	lemma = '2006'
+T182	PRP 786 788	to
+#182	AnnotatorNotes T182	lemma = 'to'
+T183	CRD 789 793	2008
+#183	AnnotatorNotes T183	lemma = '2008'
+T184	SENT 793 794	.
+#184	AnnotatorNotes T184	lemma = '.'
+T185	CRD 795 798	One
+#185	AnnotatorNotes T185	lemma = 'one'
+T186	NN1 799 803	year
+#186	AnnotatorNotes T186	lemma = 'year'
+T187	PNP 804 806	it
+#187	AnnotatorNotes T187	lemma = 'it'
+T188	VHZ 807 810	has
+#188	AnnotatorNotes T188	lemma = 'have'
+T189	AJ0 811 818	similar
+#189	AnnotatorNotes T189	lemma = 'similar'
+T190	NN2 819 826	results
+#190	AnnotatorNotes T190	lemma = 'result'
+T191	CJC 827 830	and
+#191	AnnotatorNotes T191	lemma = 'and'
+T192	PRP 831 833	in
+#192	AnnotatorNotes T192	lemma = 'in'
+T193	AT0 834 837	the
+#193	AnnotatorNotes T193	lemma = 'the'
+T194	NN1 838 844	period
+#194	AnnotatorNotes T194	lemma = 'period'
+T195	PRP 845 849	from
+#195	AnnotatorNotes T195	lemma = 'from'
+T196	CRD 850 854	2009
+#196	AnnotatorNotes T196	lemma = '2009'
+T197	PRP 855 857	to
+#197	AnnotatorNotes T197	lemma = 'to'
+T198	CRD 858 862	2011
+#198	AnnotatorNotes T198	lemma = '2011'
+T199	PNP 863 865	it
+#199	AnnotatorNotes T199	lemma = 'it'
+T200	VHZ 866 869	has
+#200	AnnotatorNotes T200	lemma = 'have'
+T201	AJ0 870 875	sharp
+#201	AnnotatorNotes T201	lemma = 'sharp'
+T202	NN1 876 884	increase
+#202	AnnotatorNotes T202	lemma = 'increase'
+T203	SENT 884 885	.
+#203	AnnotatorNotes T203	lemma = '.'
+T204	PRP 886 888	At
+#204	AnnotatorNotes T204	lemma = 'at'
+T205	AT0 889 892	the
+#205	AnnotatorNotes T205	lemma = 'the'
+T206	NN1 893 896	end
+#206	AnnotatorNotes T206	lemma = 'end'
+T207	PUN 896 897	,
+#207	AnnotatorNotes T207	lemma = ','
+T208	AT0 898 901	the
+#208	AnnotatorNotes T208	lemma = 'the'
+T209	NN1 902 912	investment
+#209	AnnotatorNotes T209	lemma = 'investment'
+T210	PRP 913 915	in
+#210	AnnotatorNotes T210	lemma = 'in'
+T211	NN1 916 922	energy
+#211	AnnotatorNotes T211	lemma = 'energy'
+T212	VVZ 923 928	falls
+#212	AnnotatorNotes T212	lemma = 'fall'
+T213	CJC 929 932	and
+#213	AnnotatorNotes T213	lemma = 'and'
+T214	VVZ 933 938	saves
+#214	AnnotatorNotes T214	lemma = 'save'
+T215	PNP 939 941	it
+#215	AnnotatorNotes T215	lemma = 'it'
+T216	VBZ 941 943	's
+#216	AnnotatorNotes T216	lemma = 'be'
+T217	NN2 944 951	results
+#217	AnnotatorNotes T217	lemma = 'result'
+T218	PRP 952 954	on
+#218	AnnotatorNotes T218	lemma = 'on'
+T219	CRD 955 958	214
+#219	AnnotatorNotes T219	lemma = '214'
+T220	NN0 958 959	$
+#220	AnnotatorNotes T220	lemma = '$'
+T221	NN0 960 962	Bn
+#221	AnnotatorNotes T221	lemma = 'bn'
+T222	SENT 962 963	.
+#222	AnnotatorNotes T222	lemma = '.'
+T223	AT0 964 967	The
+#223	AnnotatorNotes T223	lemma = 'the'
+T224	NN1 968 978	investment
+#224	AnnotatorNotes T224	lemma = 'investment'
+T225	PRF 979 981	of
+#225	AnnotatorNotes T225	lemma = 'of'
+T226	AJ0 982 992	developing
+#226	AnnotatorNotes T226	lemma = 'developing|develop'
+T227	NN2 993 1002	countires
+#227	AnnotatorNotes T227	lemma = 'countires'
+T228	NN2 1003 1011	increses
+#228	AnnotatorNotes T228	lemma = 'increses'
+T229	VVB 1012 1016	step
+#229	AnnotatorNotes T229	lemma = 'step'
+T230	PRP 1017 1019	by
+#230	AnnotatorNotes T230	lemma = 'by'
+T231	NN1 1020 1024	step
+#231	AnnotatorNotes T231	lemma = 'step'
+T232	PUN 1024 1025	,
+#232	AnnotatorNotes T232	lemma = ','
+T233	CJS 1026 1030	when
+#233	AnnotatorNotes T233	lemma = 'when'
+T234	AT0 1031 1034	the
+#234	AnnotatorNotes T234	lemma = 'the'
+T235	NN1 1035 1045	investment
+#235	AnnotatorNotes T235	lemma = 'investment'
+T236	PRF 1046 1048	of
+#236	AnnotatorNotes T236	lemma = 'of'
+T237	AJ0 1049 1058	developed
+#237	AnnotatorNotes T237	lemma = 'developed|develop'
+T238	NN2 1059 1068	countries
+#238	AnnotatorNotes T238	lemma = 'country'
+T239	VHZ 1069 1072	has
+#239	AnnotatorNotes T239	lemma = 'have'
+T240	AJ0 1073 1080	similar
+#240	AnnotatorNotes T240	lemma = 'similar'
+T241	AJ0 1081 1085	high
+#241	AnnotatorNotes T241	lemma = 'high'
+T242	NN2 1086 1093	results
+#242	AnnotatorNotes T242	lemma = 'result'
+T243	DT0 1094 1098	some
+#243	AnnotatorNotes T243	lemma = 'some'
+T244	NN2 1099 1104	years
+#244	AnnotatorNotes T244	lemma = 'year'
+T245	CJC 1105 1107	or
+#245	AnnotatorNotes T245	lemma = 'or'
+T246	NN2 1108 1117	increases
+#246	AnnotatorNotes T246	lemma = 'increase'
+T247	AV0 1118 1125	rapidly
+#247	AnnotatorNotes T247	lemma = 'rapidly'
+T248	SENT 1125 1126	.
+#248	AnnotatorNotes T248	lemma = ''

@@ -1,0 +1,355 @@
+T1	Spelling 103 114	predominent
+#1	AnnotatorNotes T1	predominant
+T2	Prepositions 446 448	in
+#2	AnnotatorNotes T2	at
+T3	Redundant_comp 466 471	years
+A1	Delete T3
+T4	Spelling 545 560	26-40 year olds
+#3	AnnotatorNotes T4	26-40-year-olds
+T5	Punctuation 595 598	and
+#4	AnnotatorNotes T5	, and
+T6	Spelling 631 644	40 years olds
+#5	AnnotatorNotes T6	40-year-olds
+T7	Spelling 652 667	26-40 year olds
+#6	AnnotatorNotes T7	26-40-year-olds
+T8	Spelling 716 731	18-25 year olds
+#7	AnnotatorNotes T8	18-25-year-olds
+T9	Category_confusion 250 265	18-25 years old
+#8	AnnotatorNotes T9	18-25-year-old
+T10	Absence_explanation 250 265	18-25 years old
+#9	AnnotatorNotes T10	18-25-year-old age group
+R1	Dependent_change Arg1:T9 Arg2:T10
+T11	Spelling 364 380	26-40 years olds
+#10	AnnotatorNotes T11	26-40-year-olds
+T12	Spelling 524 537	40 years olds
+#11	AnnotatorNotes T12	40-year-olds
+T13	AV0 0 7	Overall
+#12	AnnotatorNotes T13	lemma = 'overall'
+T14	PUN 7 8	,
+#13	AnnotatorNotes T14	lemma = ','
+T15	AV0 9 22	approximately
+#14	AnnotatorNotes T15	lemma = 'approximately'
+T16	AT0 23 26	the
+#15	AnnotatorNotes T16	lemma = 'the'
+T17	DT0 27 31	same
+#16	AnnotatorNotes T17	lemma = 'same'
+T18	NN1 32 38	number
+#17	AnnotatorNotes T18	lemma = 'number'
+T19	PRF 39 41	of
+#18	AnnotatorNotes T19	lemma = 'of'
+T20	NN2 42 50	students
+#19	AnnotatorNotes T20	lemma = 'student'
+T21	VVB 51 57	attend
+#20	AnnotatorNotes T21	lemma = 'attend'
+T22	DT0 58 61	all
+#21	AnnotatorNotes T22	lemma = 'all'
+T23	CRD 62 67	three
+#22	AnnotatorNotes T23	lemma = 'three'
+T24	NN2 68 75	courses
+#23	AnnotatorNotes T24	lemma = 'course'
+T25	PUN 75 76	,
+#24	AnnotatorNotes T25	lemma = ','
+T26	CJC 77 80	but
+#25	AnnotatorNotes T26	lemma = 'but'
+T27	PRP 81 83	in
+#26	AnnotatorNotes T27	lemma = 'in'
+T28	DT0 84 88	each
+#27	AnnotatorNotes T28	lemma = 'each'
+T29	PRF 89 91	of
+#28	AnnotatorNotes T29	lemma = 'of'
+T30	AT0 92 95	the
+#29	AnnotatorNotes T30	lemma = 'the'
+T31	NN1 96 102	course
+#30	AnnotatorNotes T31	lemma = 'course'
+T32	NN1 103 114	predominent
+#31	AnnotatorNotes T32	lemma = 'predominent'
+T33	NN2 115 119	ages
+#32	AnnotatorNotes T33	lemma = 'age'
+T34	VVB 120 126	differ
+#33	AnnotatorNotes T34	lemma = 'differ'
+T35	SENT 126 127	.
+#34	AnnotatorNotes T35	lemma = '.'
+T36	AT0 129 132	The
+#35	AnnotatorNotes T36	lemma = 'the'
+T37	NN1 133 138	graph
+#36	AnnotatorNotes T37	lemma = 'graph'
+T38	DTQ 139 144	which
+#37	AnnotatorNotes T38	lemma = 'which'
+T39	VVZ 145 152	depicts
+#38	AnnotatorNotes T39	lemma = 'depict'
+T40	AT0 153 156	the
+#39	AnnotatorNotes T40	lemma = 'the'
+T41	NN1 157 163	number
+#40	AnnotatorNotes T41	lemma = 'number'
+T42	PRF 164 166	of
+#41	AnnotatorNotes T42	lemma = 'of'
+T43	NN1 167 174	science
+#42	AnnotatorNotes T43	lemma = 'science'
+T44	NN2 175 182	courses
+#43	AnnotatorNotes T44	lemma = 'course'
+T45	NN2 183 192	attenders
+#44	AnnotatorNotes T45	lemma = 'attender'
+T46	VVZ 193 198	shows
+#45	AnnotatorNotes T46	lemma = 'show'
+T47	PNP 199 201	us
+#46	AnnotatorNotes T47	lemma = 'we'
+T48	CJT 202 206	that
+#47	AnnotatorNotes T48	lemma = 'that'
+T49	DT0 207 212	those
+#48	AnnotatorNotes T49	lemma = 'those'
+T50	NN2 213 220	courses
+#49	AnnotatorNotes T50	lemma = 'course'
+T51	VBD 221 225	were
+#50	AnnotatorNotes T51	lemma = 'be'
+T52	AJ0 226 233	popular
+#51	AnnotatorNotes T52	lemma = 'popular'
+T53	PRP 234 239	among
+#52	AnnotatorNotes T53	lemma = 'among'
+T54	NN0 240 246	people
+#53	AnnotatorNotes T54	lemma = 'people'
+T55	PRF 247 249	of
+#54	AnnotatorNotes T55	lemma = 'of'
+T56	CRD 250 255	18-25
+#55	AnnotatorNotes T56	lemma = '18-25'
+T57	NN2 256 261	years
+#56	AnnotatorNotes T57	lemma = 'year'
+T58	AJ0 262 265	old
+#57	AnnotatorNotes T58	lemma = 'old'
+T59	PUL 266 267	(
+#58	AnnotatorNotes T59	lemma = '('
+T60	CRD 267 269	55
+#59	AnnotatorNotes T60	lemma = '55'
+T61	NN0 269 270	%
+#60	AnnotatorNotes T61	lemma = '%'
+T62	PUR 270 271	)
+#61	AnnotatorNotes T62	lemma = ')'
+T63	PUN 271 272	,
+#62	AnnotatorNotes T63	lemma = ','
+T64	CJS 273 278	while
+#63	AnnotatorNotes T64	lemma = 'while'
+T65	AT0 279 282	the
+#64	AnnotatorNotes T65	lemma = 'the'
+T66	DT0 283 287	most
+#65	AnnotatorNotes T66	lemma = 'most'
+T67	PRF 288 290	of
+#66	AnnotatorNotes T67	lemma = 'of'
+T68	AJ0 291 299	involved
+#67	AnnotatorNotes T68	lemma = 'involved|involve'
+T69	PRP 300 304	into
+#68	AnnotatorNotes T69	lemma = 'into'
+T70	NN2 305 309	arts
+#69	AnnotatorNotes T70	lemma = 'art'
+T71	NN2 310 317	courses
+#70	AnnotatorNotes T71	lemma = 'course'
+T72	VBD 318 322	were
+#71	AnnotatorNotes T72	lemma = 'be'
+T73	NN0 323 329	people
+#72	AnnotatorNotes T73	lemma = 'people'
+T74	PRP 330 332	at
+#73	AnnotatorNotes T74	lemma = 'at'
+T75	AT0 333 336	the
+#74	AnnotatorNotes T75	lemma = 'the'
+T76	NN1 337 340	age
+#75	AnnotatorNotes T76	lemma = 'age'
+T77	PRF 341 343	of
+#76	AnnotatorNotes T77	lemma = 'of'
+T78	CRD 344 346	40
+#77	AnnotatorNotes T78	lemma = '40'
+T79	CJC 347 350	and
+#78	AnnotatorNotes T79	lemma = 'and'
+T80	AV0 351 356	above
+#79	AnnotatorNotes T80	lemma = 'above'
+T81	PUL 357 358	(
+#80	AnnotatorNotes T81	lemma = '('
+T82	CRD 358 360	45
+#81	AnnotatorNotes T82	lemma = '45'
+T83	NN0 360 361	%
+#82	AnnotatorNotes T83	lemma = '%'
+T84	PUR 361 362	)
+#83	AnnotatorNotes T84	lemma = ')'
+T85	SENT 362 363	.
+#84	AnnotatorNotes T85	lemma = '.'
+T86	CRD 364 369	26-40
+#85	AnnotatorNotes T86	lemma = '26-40'
+T87	NN2 370 375	years
+#86	AnnotatorNotes T87	lemma = 'year'
+T88	NN2 376 380	olds
+#87	AnnotatorNotes T88	lemma = 'old'
+T89	VBD 381 385	were
+#88	AnnotatorNotes T89	lemma = 'be'
+T90	AV0 386 390	more
+#89	AnnotatorNotes T90	lemma = 'more'
+T91	AJ0 391 401	interested
+#90	AnnotatorNotes T91	lemma = 'interested|interest'
+T92	PRP 402 404	in
+#91	AnnotatorNotes T92	lemma = 'in'
+T93	NN2 405 411	sports
+#92	AnnotatorNotes T93	lemma = 'sport'
+T94	CJC 412 415	and
+#93	AnnotatorNotes T94	lemma = 'and'
+T95	NN1 416 422	health
+#94	AnnotatorNotes T95	lemma = 'health'
+T96	NN2 423 430	courses
+#95	AnnotatorNotes T96	lemma = 'course'
+T97	PUL 431 432	(
+#96	AnnotatorNotes T97	lemma = '('
+T98	CRD 432 434	62
+#97	AnnotatorNotes T98	lemma = '62'
+T99	NN0 434 435	%
+#98	AnnotatorNotes T99	lemma = '%'
+T100	PUR 435 436	)
+#99	AnnotatorNotes T100	lemma = ')'
+T101	SENT 436 437	.
+#100	AnnotatorNotes T101	lemma = '.'
+T102	NN0 439 445	People
+#101	AnnotatorNotes T102	lemma = 'people'
+T103	PRP 446 448	in
+#102	AnnotatorNotes T103	lemma = 'in'
+T104	AT0 449 452	the
+#103	AnnotatorNotes T104	lemma = 'the'
+T105	NN1 453 456	age
+#104	AnnotatorNotes T105	lemma = 'age'
+T106	PRF 457 459	of
+#105	AnnotatorNotes T106	lemma = 'of'
+T107	CRD 460 465	18-25
+#106	AnnotatorNotes T107	lemma = '18-25'
+T108	NN2 466 471	years
+#107	AnnotatorNotes T108	lemma = 'year'
+T109	VBB 472 475	are
+#108	AnnotatorNotes T109	lemma = 'be'
+T110	AV0 476 480	less
+#109	AnnotatorNotes T110	lemma = 'less'
+T111	AJ0 481 491	interested
+#110	AnnotatorNotes T111	lemma = 'interested|interest'
+T112	PRP 492 494	in
+#111	AnnotatorNotes T112	lemma = 'in'
+T113	NN2 495 501	sports
+#112	AnnotatorNotes T113	lemma = 'sport'
+T114	CJC 502 505	and
+#113	AnnotatorNotes T114	lemma = 'and'
+T115	NN1 506 512	health
+#114	AnnotatorNotes T115	lemma = 'health'
+T116	PUL 513 514	(
+#115	AnnotatorNotes T116	lemma = '('
+T117	CRD 514 516	15
+#116	AnnotatorNotes T117	lemma = '15'
+T118	NN0 516 517	%
+#117	AnnotatorNotes T118	lemma = '%'
+T119	PUR 517 518	)
+#118	AnnotatorNotes T119	lemma = ')'
+T120	CJS 519 523	than
+#119	AnnotatorNotes T120	lemma = 'than'
+T121	CRD 524 526	40
+#120	AnnotatorNotes T121	lemma = '40'
+T122	NN2 527 532	years
+#121	AnnotatorNotes T122	lemma = 'year'
+T123	NN2 533 537	olds
+#122	AnnotatorNotes T123	lemma = 'old'
+T124	PUL 538 539	(
+#123	AnnotatorNotes T124	lemma = '('
+T125	CRD 539 541	23
+#124	AnnotatorNotes T125	lemma = '23'
+T126	NN0 541 542	%
+#125	AnnotatorNotes T126	lemma = '%'
+T127	PUR 542 543	)
+#126	AnnotatorNotes T127	lemma = ')'
+T128	SENT 543 544	.
+#127	AnnotatorNotes T128	lemma = '.'
+T129	CRD 545 550	26-40
+#128	AnnotatorNotes T129	lemma = '26-40'
+T130	NN1 551 555	year
+#129	AnnotatorNotes T130	lemma = 'year'
+T131	NN2 556 560	olds
+#130	AnnotatorNotes T131	lemma = 'old'
+T132	VBB 561 564	are
+#131	AnnotatorNotes T132	lemma = 'be'
+T133	AV0 565 569	less
+#132	AnnotatorNotes T133	lemma = 'less'
+T134	VVN 570 578	involved
+#133	AnnotatorNotes T134	lemma = 'involve|involved'
+T135	PRP 579 583	into
+#134	AnnotatorNotes T135	lemma = 'into'
+T136	NN2 584 588	arts
+#135	AnnotatorNotes T136	lemma = 'art'
+T137	PUL 589 590	(
+#136	AnnotatorNotes T137	lemma = '('
+T138	CRD 590 592	25
+#137	AnnotatorNotes T138	lemma = '25'
+T139	NN0 592 593	%
+#138	AnnotatorNotes T139	lemma = '%'
+T140	PUR 593 594	)
+#139	AnnotatorNotes T140	lemma = ')'
+T141	CJC 595 598	and
+#140	AnnotatorNotes T141	lemma = 'and'
+T142	NN1 599 606	science
+#141	AnnotatorNotes T142	lemma = 'science'
+T143	VBZ 607 609	is
+#142	AnnotatorNotes T143	lemma = 'be'
+T144	XX0 610 613	not
+#143	AnnotatorNotes T144	lemma = 'not'
+T145	AV0 614 616	so
+#144	AnnotatorNotes T145	lemma = 'so'
+T146	AJ0 617 624	popular
+#145	AnnotatorNotes T146	lemma = 'popular'
+T147	PRP 625 630	among
+#146	AnnotatorNotes T147	lemma = 'among'
+T148	CRD 631 633	40
+#147	AnnotatorNotes T148	lemma = '40'
+T149	NN2 634 639	years
+#148	AnnotatorNotes T149	lemma = 'year'
+T150	NN2 640 644	olds
+#149	AnnotatorNotes T150	lemma = 'old'
+T151	PUL 645 646	(
+#150	AnnotatorNotes T151	lemma = '('
+T152	CRD 646 648	15
+#151	AnnotatorNotes T152	lemma = '15'
+T153	NN0 648 649	%
+#152	AnnotatorNotes T153	lemma = '%'
+T154	PUR 649 650	)
+#153	AnnotatorNotes T154	lemma = ')'
+T155	SENT 650 651	.
+#154	AnnotatorNotes T155	lemma = '.'
+T156	CRD 652 657	26-40
+#155	AnnotatorNotes T156	lemma = '26-40'
+T157	NN1 658 662	year
+#156	AnnotatorNotes T157	lemma = 'year'
+T158	NN2 663 667	olds
+#157	AnnotatorNotes T158	lemma = 'old'
+T159	VBB 668 671	are
+#158	AnnotatorNotes T159	lemma = 'be'
+T160	AJ0 672 682	interested
+#159	AnnotatorNotes T160	lemma = 'interested|interest'
+T161	PRP 683 685	in
+#160	AnnotatorNotes T161	lemma = 'in'
+T162	NN1 686 693	science
+#161	AnnotatorNotes T162	lemma = 'science'
+T163	NN2 694 701	courses
+#162	AnnotatorNotes T163	lemma = 'course'
+T164	CJS 702 704	as
+#163	AnnotatorNotes T164	lemma = 'as'
+T165	AV0 705 712	equally
+#164	AnnotatorNotes T165	lemma = 'equally'
+T166	CJS 713 715	as
+#165	AnnotatorNotes T166	lemma = 'as'
+T167	CRD 716 721	18-25
+#166	AnnotatorNotes T167	lemma = '18-25'
+T168	NN1 722 726	year
+#167	AnnotatorNotes T168	lemma = 'year'
+T169	NN2 727 731	olds
+#168	AnnotatorNotes T169	lemma = 'old'
+T170	VBB 732 735	are
+#169	AnnotatorNotes T170	lemma = 'be'
+T171	AJ0 736 746	interested
+#170	AnnotatorNotes T171	lemma = 'interested|interest'
+T172	PRP 747 749	in
+#171	AnnotatorNotes T172	lemma = 'in'
+T173	NN2 750 754	arts
+#172	AnnotatorNotes T173	lemma = 'art'
+T174	PUL 755 756	(
+#173	AnnotatorNotes T174	lemma = '('
+T175	CRD 756 758	30
+#174	AnnotatorNotes T175	lemma = '30'
+T176	NN0 758 759	%
+#175	AnnotatorNotes T176	lemma = '%'
+T177	PUR 759 760	)
+#176	AnnotatorNotes T177	lemma = ')'

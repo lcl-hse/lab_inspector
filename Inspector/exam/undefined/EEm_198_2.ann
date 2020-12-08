@@ -1,0 +1,709 @@
+T1	Articles 9 16	opinion
+T2	Punctuation 16 17	,
+T3	Punctuation 47 48	,
+T4	lex_item_choice 67 73	refuse
+#1	AnnotatorNotes T4	forbid
+T5	Spelling 103 109	totaly
+T6	Spelling 182 188	arount
+T7	Prepositions 231 233	in
+#2	AnnotatorNotes T7	for
+T8	Spelling 249 256	Rabbish
+#3	AnnotatorNotes T8	rubbish
+T9	lex_item_choice 265 274	recycling
+T10	lex_item_choice 445 449	make
+#4	AnnotatorNotes T10	take
+T11	Articles 485 497	introduction
+T12	Spelling 527 531	taxe
+T13	lex_item_choice 557 563	refuse
+#5	AnnotatorNotes T13	forbid
+T14	Linking_device 580 591	in order to
+#6	AnnotatorNotes T14	so that
+T15	Verb_Inf 637 640	fly
+T16	Spelling 687 695	magority
+T17	Determiners 699 703	this
+#7	AnnotatorNotes T17	these
+T18	Category_confusion 743 747	easy
+#8	AnnotatorNotes T18	easily
+T19	Standard 793 810	based-information
+T20	Punctuation 896 908	Nevertheless
+T21	Noun_number 914 920	flight
+T22	Spelling 927 936	necessaty
+T23	Spelling 921 926	realy
+T24	Absence_comp_sent 921 936	realy necessaty
+#9	AnnotatorNotes T24	are really necessary
+T25	Suffix 954 962	transfer
+#10	AnnotatorNotes T25	transferring
+T26	Spelling 1039 1048	goverment
+T27	lex_item_choice 1071 1080	regarding
+#11	AnnotatorNotes T27	regulating
+T28	Spelling 1157 1166	goverment
+T29	Agreement_errors 1201 1203	is
+#12	AnnotatorNotes T29	are
+T30	lex_item_choice 1174 1182	maintain
+#13	AnnotatorNotes T30	preserve
+T31	Spelling 1204 1209	realy
+T32	Agreement_errors 1254 1256	is
+T33	Prepositions 1267 1269	on
+#14	AnnotatorNotes T33	by
+T34	Prepositions 1305 1310	throw
+#15	AnnotatorNotes T34	over
+T35	Spelling 1305 1310	throw
+#16	AnnotatorNotes T35	through
+T36	Redundant 1330 1332	as
+T37	Prepositions 1359 1361	on
+#17	AnnotatorNotes T37	by
+T38	Noun_number 1381 1384	bus
+T39	lex_item_choice 1432 1438	strong
+#18	AnnotatorNotes T39	heavily
+T40	Comparative_constr 1439 1443	like
+#19	AnnotatorNotes T40	as
+T41	lex_item_choice 1499 1503	tell
+#20	AnnotatorNotes T41	say
+T42	Punctuation 1503 1504	,
+T43	Category_confusion 1518 1523	vital
+#21	AnnotatorNotes T43	vitally
+T44	Articles 1516 1517	a
+T45	Often_confused 1575 1582	reserve
+#22	AnnotatorNotes T45	preserve
+T46	Spelling 1604 1613	goverment
+T47	Articles 1635 1643	possible
+T48	Prepositions 182 188	arount
+#23	AnnotatorNotes T48	in
+T49	Absence_explanation 458 460	in
+#24	AnnotatorNotes T49	to overcome
+T50	lex_item_choice 859 871	regarding to
+#25	AnnotatorNotes T50	for
+T51	Often_confused 1118 1125	reserve
+#26	AnnotatorNotes T51	preserve
+T52	ADV 0 5	There
+#27	AnnotatorNotes T52	lemma = 'there'
+T53	AUX 6 8	is
+#28	AnnotatorNotes T53	lemma = 'be'
+T54	NOUN 9 16	opinion
+#29	AnnotatorNotes T54	lemma = 'opinion'
+T55	PUNCT 16 17	,
+#30	AnnotatorNotes T55	lemma = ','
+T56	PRON 18 22	that
+#31	AnnotatorNotes T56	lemma = 'that'
+T57	VERB 23 26	due
+#32	AnnotatorNotes T57	lemma = 'due'
+T58	ADP 27 29	to
+#33	AnnotatorNotes T58	lemma = 'to'
+T59	DET 30 33	the
+#34	AnnotatorNotes T59	lemma = 'the'
+T60	NOUN 34 37	air
+#35	AnnotatorNotes T60	lemma = 'air'
+T61	NOUN 38 47	pollution
+#36	AnnotatorNotes T61	lemma = 'pollution'
+T62	PUNCT 47 48	,
+#37	AnnotatorNotes T62	lemma = ','
+T63	NOUN 49 59	goverments
+#38	AnnotatorNotes T63	lemma = 'goverment'
+T64	AUX 60 66	should
+#39	AnnotatorNotes T64	lemma = 'shall'
+T65	VERB 67 73	refuse
+#40	AnnotatorNotes T65	lemma = 'refuse'
+T66	DET 74 78	some
+#41	AnnotatorNotes T66	lemma = 'some'
+T67	NOUN 79 85	amount
+#42	AnnotatorNotes T67	lemma = 'amount'
+T68	ADP 86 88	of
+#43	AnnotatorNotes T68	lemma = 'of'
+T69	DET 89 92	air
+#44	AnnotatorNotes T69	lemma = 'air'
+T70	NOUN 93 99	travel
+#45	AnnotatorNotes T70	lemma = 'travel'
+T71	PUNCT 99 100	.
+#46	AnnotatorNotes T71	lemma = '.'
+T72	PRON 101 102	I
+#47	AnnotatorNotes T72	lemma = 'I'
+T73	ADV 103 109	totaly
+#48	AnnotatorNotes T73	lemma = 'totaly'
+T74	VERB 110 115	agree
+#49	AnnotatorNotes T74	lemma = 'agree'
+T75	ADP 116 120	with
+#50	AnnotatorNotes T75	lemma = 'with'
+T76	DET 121 125	this
+#51	AnnotatorNotes T76	lemma = 'this'
+T77	NOUN 126 130	idea
+#52	AnnotatorNotes T77	lemma = 'idea'
+T78	PUNCT 130 131	.
+#53	AnnotatorNotes T78	lemma = '.'
+T79	ADV 132 140	Nowadays
+#54	AnnotatorNotes T79	lemma = 'nowadays'
+T80	ADJ 141 152	environment
+#55	AnnotatorNotes T80	lemma = 'environment'
+T81	NOUN 153 162	pollution
+#56	AnnotatorNotes T81	lemma = 'pollution'
+T82	AUX 163 165	is
+#57	AnnotatorNotes T82	lemma = 'be'
+T83	DET 166 167	a
+#58	AnnotatorNotes T83	lemma = 'a'
+T84	ADJ 168 173	vital
+#59	AnnotatorNotes T84	lemma = 'vital'
+T85	NOUN 174 181	problem
+#60	AnnotatorNotes T85	lemma = 'problem'
+T86	VERB 182 188	arount
+#61	AnnotatorNotes T86	lemma = 'arount'
+T87	DET 189 192	the
+#62	AnnotatorNotes T87	lemma = 'the'
+T88	NOUN 193 198	world
+#63	AnnotatorNotes T88	lemma = 'world'
+T89	PUNCT 198 199	.
+#64	AnnotatorNotes T89	lemma = '.'
+T90	CCONJ 200 203	And
+#65	AnnotatorNotes T90	lemma = 'and'
+T91	DET 204 207	all
+#66	AnnotatorNotes T91	lemma = 'all'
+T92	NOUN 208 214	people
+#67	AnnotatorNotes T92	lemma = 'people'
+T93	AUX 215 218	are
+#68	AnnotatorNotes T93	lemma = 'be'
+T94	ADJ 219 230	responsible
+#69	AnnotatorNotes T94	lemma = 'responsible'
+T95	ADP 231 233	in
+#70	AnnotatorNotes T95	lemma = 'in'
+T96	DET 234 238	this
+#71	AnnotatorNotes T96	lemma = 'this'
+T97	NOUN 239 247	disaster
+#72	AnnotatorNotes T97	lemma = 'disaster'
+T98	PUNCT 247 248	.
+#73	AnnotatorNotes T98	lemma = '.'
+T99	ADV 249 256	Rabbish
+#74	AnnotatorNotes T99	lemma = 'Rabbish'
+T100	PUNCT 256 257	,
+#75	AnnotatorNotes T100	lemma = ','
+T101	NOUN 258 263	waste
+#76	AnnotatorNotes T101	lemma = 'waste'
+T102	PUNCT 263 264	,
+#77	AnnotatorNotes T102	lemma = ','
+T103	NOUN 265 274	recycling
+#78	AnnotatorNotes T103	lemma = 'recycling'
+T104	AUX 275 278	are
+#79	AnnotatorNotes T104	lemma = 'be'
+T105	NOUN 279 286	reasons
+#80	AnnotatorNotes T105	lemma = 'reason'
+T106	ADP 287 289	of
+#81	AnnotatorNotes T106	lemma = 'of'
+T107	DET 290 294	this
+#82	AnnotatorNotes T107	lemma = 'this'
+T108	NOUN 295 302	problem
+#83	AnnotatorNotes T108	lemma = 'problem'
+T109	PUNCT 302 303	.
+#84	AnnotatorNotes T109	lemma = '.'
+T110	SCONJ 304 307	Gas
+#85	AnnotatorNotes T110	lemma = 'gas'
+T111	NOUN 308 317	emissions
+#86	AnnotatorNotes T111	lemma = 'emission'
+T112	ADP 318 322	from
+#87	AnnotatorNotes T112	lemma = 'from'
+T113	NOUN 323 327	cars
+#88	AnnotatorNotes T113	lemma = 'car'
+T114	CCONJ 328 330	or
+#89	AnnotatorNotes T114	lemma = 'or'
+T115	ADJ 331 338	airline
+#90	AnnotatorNotes T115	lemma = 'airline'
+T116	NOUN 339 348	companies
+#91	AnnotatorNotes T116	lemma = 'company'
+T117	ADV 349 353	also
+#92	AnnotatorNotes T117	lemma = 'also'
+T118	VERB 354 364	contribute
+#93	AnnotatorNotes T118	lemma = 'contribute'
+T119	ADP 365 367	to
+#94	AnnotatorNotes T119	lemma = 'to'
+T120	DET 368 371	air
+#95	AnnotatorNotes T120	lemma = 'air'
+T121	NOUN 372 381	pollution
+#96	AnnotatorNotes T121	lemma = 'pollution'
+T122	CCONJ 382 385	and
+#97	AnnotatorNotes T122	lemma = 'and'
+T123	ADJ 386 392	global
+#98	AnnotatorNotes T123	lemma = 'global'
+T124	NOUN 393 400	warming
+#99	AnnotatorNotes T124	lemma = 'warming'
+T125	PUNCT 400 401	.
+#100	AnnotatorNotes T125	lemma = '.'
+T126	ADV 402 404	Of
+#101	AnnotatorNotes T126	lemma = 'of'
+T127	ADV 405 411	course
+#102	AnnotatorNotes T127	lemma = 'course'
+T128	PUNCT 411 412	,
+#103	AnnotatorNotes T128	lemma = ','
+T129	PRON 413 414	I
+#104	AnnotatorNotes T129	lemma = 'I'
+T130	VERB 415 420	think
+#105	AnnotatorNotes T130	lemma = 'think'
+T131	SCONJ 421 425	that
+#106	AnnotatorNotes T131	lemma = 'that'
+T132	NOUN 426 437	governments
+#107	AnnotatorNotes T132	lemma = 'government'
+T133	AUX 438 444	should
+#108	AnnotatorNotes T133	lemma = 'shall'
+T134	VERB 445 449	make
+#109	AnnotatorNotes T134	lemma = 'make'
+T135	NOUN 450 457	efforts
+#110	AnnotatorNotes T135	lemma = 'effort'
+T136	ADP 458 460	in
+#111	AnnotatorNotes T136	lemma = 'in'
+T137	DET 461 465	this
+#112	AnnotatorNotes T137	lemma = 'this'
+T138	NOUN 466 473	problem
+#113	AnnotatorNotes T138	lemma = 'problem'
+T139	PUNCT 473 474	.
+#114	AnnotatorNotes T139	lemma = '.'
+T140	PRON 475 477	It
+#115	AnnotatorNotes T140	lemma = 'it'
+T141	AUX 478 481	can
+#116	AnnotatorNotes T141	lemma = 'can'
+T142	AUX 482 484	be
+#117	AnnotatorNotes T142	lemma = 'be'
+T143	NOUN 485 497	introduction
+#118	AnnotatorNotes T143	lemma = 'introduction'
+T144	ADP 498 500	of
+#119	AnnotatorNotes T144	lemma = 'of'
+T145	NOUN 501 511	regulation
+#120	AnnotatorNotes T145	lemma = 'regulation'
+T146	NOUN 512 516	laws
+#121	AnnotatorNotes T146	lemma = 'law'
+T147	CCONJ 517 519	or
+#122	AnnotatorNotes T147	lemma = 'or'
+T148	ADJ 520 526	“green
+#123	AnnotatorNotes T148	lemma = '“gree'
+T149	NOUN 527 531	taxe
+#124	AnnotatorNotes T149	lemma = 'taxe'
+T150	PUNCT 531 533	”.
+#125	AnnotatorNotes T150	lemma = '”.'
+T151	PROPN 534 538	Also
+#126	AnnotatorNotes T151	lemma = 'also'
+T152	NOUN 539 549	government
+#127	AnnotatorNotes T152	lemma = 'government'
+T153	AUX 550 556	should
+#128	AnnotatorNotes T153	lemma = 'shall'
+T154	VERB 557 563	refuse
+#129	AnnotatorNotes T154	lemma = 'refuse'
+T155	DET 564 568	some
+#130	AnnotatorNotes T155	lemma = 'some'
+T156	NOUN 569 572	air
+#131	AnnotatorNotes T156	lemma = 'air'
+T157	NOUN 573 579	travel
+#132	AnnotatorNotes T157	lemma = 'travel'
+T158	ADP 580 582	in
+#133	AnnotatorNotes T158	lemma = 'in'
+T159	NOUN 583 588	order
+#134	AnnotatorNotes T159	lemma = 'order'
+T160	ADP 589 591	to
+#135	AnnotatorNotes T160	lemma = 'to'
+T161	DET 592 595	our
+#136	AnnotatorNotes T161	lemma = 'us'
+T162	NOUN 596 601	plane
+#137	AnnotatorNotes T162	lemma = 'plane'
+T163	ADV 602 607	doesn
+#138	AnnotatorNotes T163	lemma = 'doesn'
+T164	ADV 607 609	’t
+#139	AnnotatorNotes T164	lemma = '’t'
+T165	ADJ 610 616	suffer
+#140	AnnotatorNotes T165	lemma = 'suffer'
+T166	SCONJ 617 624	because
+#141	AnnotatorNotes T166	lemma = 'because'
+T167	NOUN 625 631	people
+#142	AnnotatorNotes T167	lemma = 'people'
+T168	ADP 632 636	like
+#143	AnnotatorNotes T168	lemma = 'like'
+T169	ADV 637 640	fly
+#144	AnnotatorNotes T169	lemma = 'fly'
+T170	DET 641 646	every
+#145	AnnotatorNotes T170	lemma = 'every'
+T171	NOUN 647 650	day
+#146	AnnotatorNotes T171	lemma = 'day'
+T172	ADP 651 653	in
+#147	AnnotatorNotes T172	lemma = 'in'
+T173	ADJ 654 663	different
+#148	AnnotatorNotes T173	lemma = 'different'
+T174	NOUN 664 673	countries
+#149	AnnotatorNotes T174	lemma = 'country'
+T175	PUNCT 673 674	.
+#150	AnnotatorNotes T175	lemma = '.'
+T176	PRON 675 676	I
+#151	AnnotatorNotes T176	lemma = 'I'
+T177	VERB 677 682	think
+#152	AnnotatorNotes T177	lemma = 'think'
+T178	DET 683 686	the
+#153	AnnotatorNotes T178	lemma = 'the'
+T179	NOUN 687 695	magority
+#154	AnnotatorNotes T179	lemma = 'magority'
+T180	ADP 696 698	of
+#155	AnnotatorNotes T180	lemma = 'of'
+T181	DET 699 703	this
+#156	AnnotatorNotes T181	lemma = 'this'
+T182	NOUN 704 711	flights
+#157	AnnotatorNotes T182	lemma = 'flight'
+T183	AUX 712 715	are
+#158	AnnotatorNotes T183	lemma = 'be'
+T184	ADJ 716 727	unnecessary
+#159	AnnotatorNotes T184	lemma = 'unnecessary'
+T185	CCONJ 728 731	and
+#160	AnnotatorNotes T185	lemma = 'and'
+T186	NOUN 732 738	people
+#161	AnnotatorNotes T186	lemma = 'people'
+T187	AUX 739 742	can
+#162	AnnotatorNotes T187	lemma = 'can'
+T188	ADJ 743 747	easy
+#163	AnnotatorNotes T188	lemma = 'easy'
+T189	SCONJ 748 751	use
+#164	AnnotatorNotes T189	lemma = 'use'
+T190	NOUN 752 758	trains
+#165	AnnotatorNotes T190	lemma = 'train'
+T191	PUNCT 758 759	.
+#166	AnnotatorNotes T191	lemma = '.'
+T192	ADV 760 768	Moreover
+#167	AnnotatorNotes T192	lemma = 'moreover'
+T193	PUNCT 768 769	,
+#168	AnnotatorNotes T193	lemma = ','
+T194	PRON 770 771	I
+#169	AnnotatorNotes T194	lemma = 'I'
+T195	VERB 772 777	think
+#170	AnnotatorNotes T195	lemma = 'think'
+T196	SCONJ 778 782	that
+#171	AnnotatorNotes T196	lemma = 'that'
+T197	ADP 783 785	in
+#172	AnnotatorNotes T197	lemma = 'in'
+T198	ADJ 786 792	modern
+#173	AnnotatorNotes T198	lemma = 'modern'
+T199	ADJ 793 798	based
+#174	AnnotatorNotes T199	lemma = 'based'
+T200	PUNCT 798 799	-
+#175	AnnotatorNotes T200	lemma = '-'
+T201	NOUN 799 810	information
+#176	AnnotatorNotes T201	lemma = 'information'
+T202	NOUN 811 816	world
+#177	AnnotatorNotes T202	lemma = 'world'
+T203	DET 817 818	a
+#178	AnnotatorNotes T203	lemma = 'a'
+T204	NOUN 819 822	lot
+#179	AnnotatorNotes T204	lemma = 'lot'
+T205	ADP 823 825	of
+#180	AnnotatorNotes T205	lemma = 'of'
+T206	NOUN 826 837	businessmen
+#181	AnnotatorNotes T206	lemma = 'businessman'
+T207	AUX 838 841	can
+#182	AnnotatorNotes T207	lemma = 'can'
+T208	VERB 842 845	use
+#183	AnnotatorNotes T208	lemma = 'use'
+T209	DET 846 849	the
+#184	AnnotatorNotes T209	lemma = 'the'
+T210	NOUN 850 858	Internet
+#185	AnnotatorNotes T210	lemma = 'internet'
+T211	VERB 859 868	regarding
+#186	AnnotatorNotes T211	lemma = 'regard'
+T212	ADP 869 871	to
+#187	AnnotatorNotes T212	lemma = 'to'
+T213	DET 872 877	their
+#188	AnnotatorNotes T213	lemma = 'their'
+T214	NOUN 878 886	business
+#189	AnnotatorNotes T214	lemma = 'business'
+T215	NOUN 887 894	targets
+#190	AnnotatorNotes T215	lemma = 'target'
+T216	PUNCT 894 895	.
+#191	AnnotatorNotes T216	lemma = '.'
+T217	ADV 896 908	Nevertheless
+#192	AnnotatorNotes T217	lemma = 'nevertheless'
+T218	PRON 909 913	some
+#193	AnnotatorNotes T218	lemma = 'some'
+T219	AUX 914 920	flight
+#194	AnnotatorNotes T219	lemma = 'flight'
+T220	ADV 921 926	realy
+#195	AnnotatorNotes T220	lemma = 'realy'
+T221	VERB 927 936	necessaty
+#196	AnnotatorNotes T221	lemma = 'necessaty'
+T222	PUNCT 936 937	,
+#197	AnnotatorNotes T222	lemma = ','
+T223	ADP 938 941	for
+#198	AnnotatorNotes T223	lemma = 'for'
+T224	NOUN 942 949	example
+#199	AnnotatorNotes T224	lemma = 'example'
+T225	ADP 950 953	for
+#200	AnnotatorNotes T225	lemma = 'for'
+T226	NOUN 954 962	transfer
+#201	AnnotatorNotes T226	lemma = 'transfer'
+T227	NOUN 963 974	medicaments
+#202	AnnotatorNotes T227	lemma = 'medicament'
+T228	PUNCT 974 975	,
+#203	AnnotatorNotes T228	lemma = ','
+T229	NOUN 976 981	drags
+#204	AnnotatorNotes T229	lemma = 'drag'
+T230	CCONJ 982 985	and
+#205	AnnotatorNotes T230	lemma = 'and'
+T231	NOUN 986 991	meals
+#206	AnnotatorNotes T231	lemma = 'meal'
+T232	ADP 992 994	to
+#207	AnnotatorNotes T232	lemma = 'to'
+T233	NOUN 995 1001	people
+#208	AnnotatorNotes T233	lemma = 'people'
+T234	ADP 1002 1004	in
+#209	AnnotatorNotes T234	lemma = 'in'
+T235	PROPN 1005 1011	Africa
+#210	AnnotatorNotes T235	lemma = 'Africa'
+T236	PUNCT 1011 1012	.
+#211	AnnotatorNotes T236	lemma = '.'
+T237	ADV 1013 1020	Despite
+#212	AnnotatorNotes T237	lemma = 'despite'
+T238	SCONJ 1021 1025	that
+#213	AnnotatorNotes T238	lemma = 'that'
+T239	PRON 1026 1027	I
+#214	AnnotatorNotes T239	lemma = 'I'
+T240	VERB 1028 1033	argue
+#215	AnnotatorNotes T240	lemma = 'argue'
+T241	SCONJ 1034 1038	that
+#216	AnnotatorNotes T241	lemma = 'that'
+T242	NOUN 1039 1048	goverment
+#217	AnnotatorNotes T242	lemma = 'goverment'
+T243	AUX 1049 1055	should
+#218	AnnotatorNotes T243	lemma = 'shall'
+T244	VERB 1056 1065	introduce
+#219	AnnotatorNotes T244	lemma = 'introduce'
+T245	NOUN 1066 1070	laws
+#220	AnnotatorNotes T245	lemma = 'law'
+T246	VERB 1071 1080	regarding
+#221	AnnotatorNotes T246	lemma = 'regard'
+T247	DET 1081 1084	air
+#222	AnnotatorNotes T247	lemma = 'air'
+T248	NOUN 1085 1092	travels
+#223	AnnotatorNotes T248	lemma = 'travel'
+T249	ADP 1093 1095	in
+#224	AnnotatorNotes T249	lemma = 'in'
+T250	NOUN 1096 1101	order
+#225	AnnotatorNotes T250	lemma = 'order'
+T251	ADP 1102 1104	to
+#226	AnnotatorNotes T251	lemma = 'to'
+T252	VERB 1105 1113	maintain
+#227	AnnotatorNotes T252	lemma = 'maintain'
+T253	CCONJ 1114 1117	and
+#228	AnnotatorNotes T253	lemma = 'and'
+T254	VERB 1118 1125	reserve
+#229	AnnotatorNotes T254	lemma = 'reserve'
+T255	DET 1126 1129	our
+#230	AnnotatorNotes T255	lemma = 'us'
+T256	NOUN 1130 1136	planet
+#231	AnnotatorNotes T256	lemma = 'planet'
+T257	NOUN 1137 1142	Earth
+#232	AnnotatorNotes T257	lemma = 'Earth'
+T258	PUNCT 1142 1143	.
+#233	AnnotatorNotes T258	lemma = '.'
+T259	PRON 1144 1145	I
+#234	AnnotatorNotes T259	lemma = 'I'
+T260	VERB 1146 1151	think
+#235	AnnotatorNotes T260	lemma = 'think'
+T261	SCONJ 1152 1156	that
+#236	AnnotatorNotes T261	lemma = 'that'
+T262	NOUN 1157 1166	goverment
+#237	AnnotatorNotes T262	lemma = 'goverment'
+T263	AUX 1167 1173	should
+#238	AnnotatorNotes T263	lemma = 'shall'
+T264	VERB 1174 1182	maintain
+#239	AnnotatorNotes T264	lemma = 'maintain'
+T265	DET 1183 1186	air
+#240	AnnotatorNotes T265	lemma = 'air'
+T266	NOUN 1187 1194	travels
+#241	AnnotatorNotes T266	lemma = 'travel'
+T267	PRON 1195 1200	which
+#242	AnnotatorNotes T267	lemma = 'which'
+T268	AUX 1201 1203	is
+#243	AnnotatorNotes T268	lemma = 'be'
+T269	ADV 1204 1209	realy
+#244	AnnotatorNotes T269	lemma = 'realy'
+T270	VERB 1210 1216	needed
+#245	AnnotatorNotes T270	lemma = 'need'
+T271	PUNCT 1216 1217	.
+#246	AnnotatorNotes T271	lemma = '.'
+T272	PRON 1218 1220	It
+#247	AnnotatorNotes T272	lemma = 'it'
+T273	AUX 1221 1224	can
+#248	AnnotatorNotes T273	lemma = 'can'
+T274	AUX 1225 1227	be
+#249	AnnotatorNotes T274	lemma = 'be'
+T275	ADV 1228 1234	really
+#250	AnnotatorNotes T275	lemma = 'really'
+T276	ADJ 1235 1239	long
+#251	AnnotatorNotes T276	lemma = 'long'
+T277	NOUN 1240 1247	travels
+#252	AnnotatorNotes T277	lemma = 'travel'
+T278	PRON 1248 1253	which
+#253	AnnotatorNotes T278	lemma = 'which'
+T279	AUX 1254 1256	is
+#254	AnnotatorNotes T279	lemma = 'be'
+T280	VERB 1257 1266	pointless
+#255	AnnotatorNotes T280	lemma = 'pointless'
+T281	ADP 1267 1269	on
+#256	AnnotatorNotes T281	lemma = 'on'
+T282	VERB 1270 1275	train
+#257	AnnotatorNotes T282	lemma = 'train'
+T283	CCONJ 1276 1278	or
+#258	AnnotatorNotes T283	lemma = 'or'
+T284	VERB 1279 1282	bus
+#259	AnnotatorNotes T284	lemma = 'bus'
+T285	PUNCT 1282 1283	.
+#260	AnnotatorNotes T285	lemma = '.'
+T286	ADV 1284 1288	Also
+#261	AnnotatorNotes T286	lemma = 'also'
+T287	PUNCT 1288 1289	,
+#262	AnnotatorNotes T287	lemma = ','
+T288	PRON 1290 1292	it
+#263	AnnotatorNotes T288	lemma = 'it'
+T289	DET 1293 1296	air
+#264	AnnotatorNotes T289	lemma = 'air'
+T290	NOUN 1297 1304	travels
+#265	AnnotatorNotes T290	lemma = 'travel'
+T291	VERB 1305 1310	throw
+#266	AnnotatorNotes T291	lemma = 'throw'
+T292	NOUN 1311 1316	ocean
+#267	AnnotatorNotes T292	lemma = 'ocean'
+T293	CCONJ 1317 1319	or
+#268	AnnotatorNotes T293	lemma = 'or'
+T294	NOUN 1320 1323	sea
+#269	AnnotatorNotes T294	lemma = 'sea'
+T295	PUNCT 1323 1324	.
+#270	AnnotatorNotes T295	lemma = '.'
+T296	ADJ 1325 1329	Such
+#271	AnnotatorNotes T296	lemma = 'such'
+T297	ADP 1330 1332	as
+#272	AnnotatorNotes T297	lemma = 'as'
+T298	NOUN 1333 1340	travels
+#273	AnnotatorNotes T298	lemma = 'travel'
+T299	AUX 1341 1344	are
+#274	AnnotatorNotes T299	lemma = 'be'
+T300	PART 1345 1348	not
+#275	AnnotatorNotes T300	lemma = 'not'
+T301	ADJ 1349 1358	available
+#276	AnnotatorNotes T301	lemma = 'available'
+T302	ADP 1359 1361	on
+#277	AnnotatorNotes T302	lemma = 'on'
+T303	NOUN 1362 1368	trains
+#278	AnnotatorNotes T303	lemma = 'train'
+T304	PUNCT 1368 1369	.
+#279	AnnotatorNotes T304	lemma = '.'
+T305	ADV 1370 1372	Of
+#280	AnnotatorNotes T305	lemma = 'of'
+T306	ADV 1373 1379	course
+#281	AnnotatorNotes T306	lemma = 'course'
+T307	PUNCT 1379 1380	,
+#282	AnnotatorNotes T307	lemma = ','
+T308	VERB 1381 1384	bus
+#283	AnnotatorNotes T308	lemma = 'bus'
+T309	CCONJ 1385 1388	and
+#284	AnnotatorNotes T309	lemma = 'and'
+T310	VERB 1389 1395	trains
+#285	AnnotatorNotes T310	lemma = 'train'
+T311	ADV 1396 1400	also
+#286	AnnotatorNotes T311	lemma = 'also'
+T312	ADJ 1401 1408	pollute
+#287	AnnotatorNotes T312	lemma = 'pollute'
+T313	NOUN 1409 1420	environment
+#288	AnnotatorNotes T313	lemma = 'environment'
+T314	CCONJ 1421 1424	but
+#289	AnnotatorNotes T314	lemma = 'but'
+T315	PART 1425 1428	not
+#290	AnnotatorNotes T315	lemma = 'not'
+T316	ADV 1429 1431	so
+#291	AnnotatorNotes T316	lemma = 'so'
+T317	ADJ 1432 1438	strong
+#292	AnnotatorNotes T317	lemma = 'strong'
+T318	ADP 1439 1443	like
+#293	AnnotatorNotes T318	lemma = 'like'
+T319	NOUN 1444 1448	cars
+#294	AnnotatorNotes T319	lemma = 'car'
+T320	CCONJ 1449 1452	and
+#295	AnnotatorNotes T320	lemma = 'and'
+T321	ADJ 1453 1460	airline
+#296	AnnotatorNotes T321	lemma = 'airline'
+T322	NOUN 1461 1470	companies
+#297	AnnotatorNotes T322	lemma = 'company'
+T323	PUNCT 1470 1471	.
+#298	AnnotatorNotes T323	lemma = '.'
+T324	ADP 1472 1474	To
+#299	AnnotatorNotes T324	lemma = 'to'
+T325	VERB 1475 1478	sum
+#300	AnnotatorNotes T325	lemma = 'sum'
+T326	ADV 1479 1481	up
+#301	AnnotatorNotes T326	lemma = 'up'
+T327	PUNCT 1481 1482	,
+#302	AnnotatorNotes T327	lemma = ','
+T328	PRON 1483 1484	I
+#303	AnnotatorNotes T328	lemma = 'I'
+T329	AUX 1485 1490	would
+#304	AnnotatorNotes T329	lemma = 'will'
+T330	VERB 1491 1495	like
+#305	AnnotatorNotes T330	lemma = 'like'
+T331	PART 1496 1498	to
+#306	AnnotatorNotes T331	lemma = 'to'
+T332	VERB 1499 1503	tell
+#307	AnnotatorNotes T332	lemma = 'tell'
+T333	PUNCT 1503 1504	,
+#308	AnnotatorNotes T333	lemma = ','
+T334	SCONJ 1505 1509	that
+#309	AnnotatorNotes T334	lemma = 'that'
+T335	PRON 1510 1512	it
+#310	AnnotatorNotes T335	lemma = 'it'
+T336	AUX 1513 1515	is
+#311	AnnotatorNotes T336	lemma = 'be'
+T337	DET 1516 1517	a
+#312	AnnotatorNotes T337	lemma = 'a'
+T338	ADJ 1518 1523	vital
+#313	AnnotatorNotes T338	lemma = 'vital'
+T339	ADJ 1524 1533	important
+#314	AnnotatorNotes T339	lemma = 'important'
+T340	PART 1534 1536	to
+#315	AnnotatorNotes T340	lemma = 'to'
+T341	VERB 1537 1541	take
+#316	AnnotatorNotes T341	lemma = 'take'
+T342	NOUN 1542 1546	care
+#317	AnnotatorNotes T342	lemma = 'care'
+T343	ADP 1547 1552	about
+#318	AnnotatorNotes T343	lemma = 'about'
+T344	DET 1553 1556	our
+#319	AnnotatorNotes T344	lemma = 'us'
+T345	NOUN 1557 1563	planet
+#320	AnnotatorNotes T345	lemma = 'planet'
+T346	CCONJ 1564 1567	and
+#321	AnnotatorNotes T346	lemma = 'and'
+T347	NOUN 1568 1571	try
+#322	AnnotatorNotes T347	lemma = 'try'
+T348	PART 1572 1574	to
+#323	AnnotatorNotes T348	lemma = 'to'
+T349	VERB 1575 1582	reserve
+#324	AnnotatorNotes T349	lemma = 'reserve'
+T350	PRON 1583 1585	it
+#325	AnnotatorNotes T350	lemma = 'it'
+T351	PUNCT 1585 1586	.
+#326	AnnotatorNotes T351	lemma = '.'
+T352	CCONJ 1587 1590	And
+#327	AnnotatorNotes T352	lemma = 'and'
+T353	PRON 1591 1592	I
+#328	AnnotatorNotes T353	lemma = 'I'
+T354	VERB 1593 1598	think
+#329	AnnotatorNotes T354	lemma = 'think'
+T355	SCONJ 1599 1603	that
+#330	AnnotatorNotes T355	lemma = 'that'
+T356	NOUN 1604 1613	goverment
+#331	AnnotatorNotes T356	lemma = 'goverment'
+T357	AUX 1614 1620	should
+#332	AnnotatorNotes T357	lemma = 'shall'
+T358	VERB 1621 1624	try
+#333	AnnotatorNotes T358	lemma = 'try'
+T359	PART 1625 1627	to
+#334	AnnotatorNotes T359	lemma = 'to'
+T360	VERB 1628 1630	do
+#335	AnnotatorNotes T360	lemma = 'do'
+T361	DET 1631 1634	all
+#336	AnnotatorNotes T361	lemma = 'all'
+T362	NOUN 1635 1643	possible
+#337	AnnotatorNotes T362	lemma = 'possible'
+T363	ADP 1644 1647	for
+#338	AnnotatorNotes T363	lemma = 'for'
+T364	DET 1648 1651	our
+#339	AnnotatorNotes T364	lemma = 'us'
+T365	NOUN 1652 1658	planet
+#340	AnnotatorNotes T365	lemma = 'planet'
+T366	PROPN 1659 1664	Earth
+#341	AnnotatorNotes T366	lemma = 'Earth'
+T367	PUNCT 1664 1665	.
+#342	AnnotatorNotes T367	lemma = '.'

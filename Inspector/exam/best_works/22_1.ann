@@ -1,0 +1,550 @@
+T1	Redundant_comp 14 19	below
+A1	Delete T1
+T2	lex_item_choice 20 30	highlights
+#1	AnnotatorNotes T2	 illustrates
+T4	Articles 468 474	access
+#3	AnnotatorNotes T4	an access
+T5	Spelling 524 530	cannot
+#4	AnnotatorNotes T5	can not
+T6	Articles 441 447	Number
+#5	AnnotatorNotes T6	The number
+T8	Tense_choice 220 224	made
+#7	AnnotatorNotes T8	has made
+T7	Tense_choice 506 510	fell
+#6	AnnotatorNotes T7	has also fallen
+T9	lex_item_choice 511 514	too
+#8	AnnotatorNotes T9	also
+T10	Pronouns 519 523	that
+#9	AnnotatorNotes T10	it
+T11	Word_choice 534 556	left without attention
+#10	AnnotatorNotes T11	overlooked
+T15	Articles 657 667	the access
+#13	AnnotatorNotes T15	access
+T16	Prepositions 717 719	to
+#14	AnnotatorNotes T16	with
+T17	Numerals 729 737	millions
+#15	AnnotatorNotes T17	million
+T18	Articles 821 827	school
+#16	AnnotatorNotes T18	the school
+T19	lex_part_choice 1036 1041	about
+#17	AnnotatorNotes T19	of
+T22	Redundant_comp 995 999	have
+#20	AnnotatorNotes T22	receive
+T23	Articles 1000 1001	a
+#21	AnnotatorNotes T23	the
+T24	Articles 1016 1025	education
+#22	AnnotatorNotes T24	an education
+T26	Absence_explanation 1081 1083	in
+#24	AnnotatorNotes T26	, which resulted in
+T30	Numerals 1162 1170	millions
+#27	AnnotatorNotes T30	million
+T12	Agreement_errors 602 605	was
+#11	AnnotatorNotes T12	were
+T32	Absence_explanation 769 846	used to be almost 3,5 more children unable to enter school in 2000 than 2012.
+T33	Punctuation 1245 1249	2012
+#30	AnnotatorNotes T33	2012.
+T34	Redundant_comp 1250 1257	results
+T29	Numerals 1198 1209	millions of
+#25	AnnotatorNotes T29	million
+T31	Word_choice 1310 1331	boys and girls shares
+#28	AnnotatorNotes T31	distribution of boys and girls
+T35	Coordinate 746 751	which
+#32	AnnotatorNotes T35	, which
+#33	AnnotatorNotes T32	used to be almost 3,5 times more children unable to get into school in 2000 than there were in 2012
+T3	Agreement_errors 877 880	was
+#2	AnnotatorNotes T3	were
+T13	Absence_comp_sent 1196 1209	5 millions of
+#12	AnnotatorNotes T13	5 million more
+A2	Delete T34
+T36	DET 0 3	The
+#34	AnnotatorNotes T36	lemma = 'the'
+T37	NOUN 4 7	bar
+#35	AnnotatorNotes T37	lemma = 'bar'
+T38	NOUN 8 13	chart
+#36	AnnotatorNotes T38	lemma = 'chart'
+T39	ADV 14 19	below
+#37	AnnotatorNotes T39	lemma = 'below'
+T40	VERB 20 30	highlights
+#38	AnnotatorNotes T40	lemma = 'highlight'
+T41	ADV 31 34	how
+#39	AnnotatorNotes T41	lemma = 'how'
+T42	ADJ 35 39	many
+#40	AnnotatorNotes T42	lemma = 'many'
+T43	NOUN 40 48	children
+#41	AnnotatorNotes T43	lemma = 'child'
+T44	PUNCT 48 49	,
+#42	AnnotatorNotes T44	lemma = ','
+T45	DET 50 54	both
+#43	AnnotatorNotes T45	lemma = 'both'
+T46	NOUN 55 60	girls
+#44	AnnotatorNotes T46	lemma = 'girl'
+T47	CCONJ 61 64	and
+#45	AnnotatorNotes T47	lemma = 'and'
+T48	NOUN 65 69	boys
+#46	AnnotatorNotes T48	lemma = 'boy'
+T49	PUNCT 69 70	,
+#47	AnnotatorNotes T49	lemma = ','
+T50	ADP 71 75	from
+#48	AnnotatorNotes T50	lemma = 'from'
+T51	ADJ 76 85	different
+#49	AnnotatorNotes T51	lemma = 'different'
+T52	NOUN 86 91	world
+#50	AnnotatorNotes T52	lemma = 'world'
+T53	NOUN 92 99	regions
+#51	AnnotatorNotes T53	lemma = 'region'
+T54	AUX 100 103	did
+#52	AnnotatorNotes T54	lemma = 'do'
+T55	PART 104 107	not
+#53	AnnotatorNotes T55	lemma = 'not'
+T56	VERB 108 112	have
+#54	AnnotatorNotes T56	lemma = 'have'
+T57	DET 113 116	any
+#55	AnnotatorNotes T57	lemma = 'any'
+T58	ADJ 117 126	potential
+#56	AnnotatorNotes T58	lemma = 'potential'
+T59	NOUN 127 134	ability
+#57	AnnotatorNotes T59	lemma = 'ability'
+T60	PART 135 137	to
+#58	AnnotatorNotes T60	lemma = 'to'
+T61	VERB 138 141	get
+#59	AnnotatorNotes T61	lemma = 'get'
+T62	ADJ 142 147	basic
+#60	AnnotatorNotes T62	lemma = 'basic'
+T63	NOUN 148 154	school
+#61	AnnotatorNotes T63	lemma = 'school'
+T64	NOUN 155 164	education
+#62	AnnotatorNotes T64	lemma = 'education'
+T65	ADP 165 167	in
+#63	AnnotatorNotes T65	lemma = 'in'
+T66	NUM 168 172	2000
+#64	AnnotatorNotes T66	lemma = '2000'
+T67	CCONJ 173 176	and
+#65	AnnotatorNotes T67	lemma = 'and'
+T68	ADP 177 179	in
+#66	AnnotatorNotes T68	lemma = 'in'
+T69	NUM 180 184	2012
+#67	AnnotatorNotes T69	lemma = '2012'
+T70	PUNCT 184 185	.
+#68	AnnotatorNotes T70	lemma = '.'
+T71	PRON 186 188	It
+#69	AnnotatorNotes T71	lemma = 'it'
+T72	AUX 189 192	can
+#70	AnnotatorNotes T72	lemma = 'can'
+T73	AUX 193 195	be
+#71	AnnotatorNotes T73	lemma = 'be'
+T74	VERB 196 203	noticed
+#72	AnnotatorNotes T74	lemma = 'notice'
+T75	SCONJ 204 208	that
+#73	AnnotatorNotes T75	lemma = 'that'
+T76	PROPN 209 214	South
+#74	AnnotatorNotes T76	lemma = 'South'
+T77	PROPN 215 219	Asia
+#75	AnnotatorNotes T77	lemma = 'asia'
+T78	VERB 220 224	made
+#76	AnnotatorNotes T78	lemma = 'make'
+T79	DET 225 228	the
+#77	AnnotatorNotes T79	lemma = 'the'
+T80	ADJ 229 237	greatest
+#78	AnnotatorNotes T80	lemma = 'greatest'
+T81	NOUN 238 249	improvement
+#79	AnnotatorNotes T81	lemma = 'improvement'
+T82	ADP 250 252	in
+#80	AnnotatorNotes T82	lemma = 'in'
+T83	VERB 253 262	providing
+#81	AnnotatorNotes T83	lemma = 'provid'
+T84	NOUN 263 271	children
+#82	AnnotatorNotes T84	lemma = 'child'
+T85	ADP 272 276	with
+#83	AnnotatorNotes T85	lemma = 'with'
+T86	NOUN 277 286	education
+#84	AnnotatorNotes T86	lemma = 'education'
+T87	ADP 287 292	among
+#85	AnnotatorNotes T87	lemma = 'among'
+T88	DET 293 296	all
+#86	AnnotatorNotes T88	lemma = 'all'
+T89	ADJ 297 302	other
+#87	AnnotatorNotes T89	lemma = 'other'
+T90	NOUN 303 310	regions
+#88	AnnotatorNotes T90	lemma = 'region'
+T91	PUNCT 310 311	.
+#89	AnnotatorNotes T91	lemma = '.'
+T92	PART 312 315	Not
+#90	AnnotatorNotes T92	lemma = 'not'
+T93	ADV 316 320	only
+#91	AnnotatorNotes T93	lemma = 'only'
+T94	DET 321 324	the
+#92	AnnotatorNotes T94	lemma = 'the'
+T95	ADJ 325 332	general
+#93	AnnotatorNotes T95	lemma = 'general'
+T96	NOUN 333 339	number
+#94	AnnotatorNotes T96	lemma = 'number'
+T97	ADP 340 342	of
+#95	AnnotatorNotes T97	lemma = 'of'
+T98	ADJ 343 353	illiterate
+#96	AnnotatorNotes T98	lemma = 'illiterate'
+T99	NOUN 354 362	children
+#97	AnnotatorNotes T99	lemma = 'child'
+T100	ADV 363 367	here
+#98	AnnotatorNotes T100	lemma = 'here'
+T101	VERB 368 377	decreased
+#99	AnnotatorNotes T101	lemma = 'decrease'
+T102	CCONJ 378 381	but
+#100	AnnotatorNotes T102	lemma = 'but'
+T103	ADV 382 386	also
+#101	AnnotatorNotes T103	lemma = 'also'
+T104	DET 387 390	the
+#102	AnnotatorNotes T104	lemma = 'the'
+T105	NOUN 391 395	boys
+#103	AnnotatorNotes T105	lemma = 'boy'
+T106	CCONJ 396 399	and
+#104	AnnotatorNotes T106	lemma = 'and'
+T107	NOUN 400 405	girls
+#105	AnnotatorNotes T107	lemma = 'girl'
+T108	ADP 405 406	’
+#106	AnnotatorNotes T108	lemma = '''
+T109	NOUN 407 417	proportion
+#107	AnnotatorNotes T109	lemma = 'proportion'
+T110	ADV 418 431	significantly
+#108	AnnotatorNotes T110	lemma = 'significantly'
+T111	VERB 432 439	changed
+#109	AnnotatorNotes T111	lemma = 'change'
+T112	PUNCT 439 440	.
+#110	AnnotatorNotes T112	lemma = '.'
+T113	NOUN 441 447	Number
+#111	AnnotatorNotes T113	lemma = 'number'
+T114	ADP 448 450	of
+#112	AnnotatorNotes T114	lemma = 'of'
+T115	NOUN 451 459	children
+#113	AnnotatorNotes T115	lemma = 'child'
+T116	ADP 460 467	without
+#114	AnnotatorNotes T116	lemma = 'without'
+T117	NOUN 468 474	access
+#115	AnnotatorNotes T117	lemma = 'access'
+T118	ADP 475 477	to
+#116	AnnotatorNotes T118	lemma = 'to'
+T119	ADJ 478 485	primary
+#117	AnnotatorNotes T119	lemma = 'primary'
+T120	NOUN 486 495	education
+#118	AnnotatorNotes T120	lemma = 'education'
+T121	ADP 496 498	in
+#119	AnnotatorNotes T121	lemma = 'in'
+T122	PROPN 499 505	Africa
+#120	AnnotatorNotes T122	lemma = 'Africa'
+T123	VERB 506 510	fell
+#121	AnnotatorNotes T123	lemma = 'fall'
+T124	ADV 511 514	too
+#122	AnnotatorNotes T124	lemma = 'too'
+T125	CCONJ 515 518	and
+#123	AnnotatorNotes T125	lemma = 'and'
+T126	SCONJ 519 523	that
+#124	AnnotatorNotes T126	lemma = 'that'
+T127	_ 524 530	cannot
+#125	AnnotatorNotes T127	lemma = '_'
+T128	AUX 531 533	be
+#126	AnnotatorNotes T128	lemma = 'be'
+T129	VERB 534 538	left
+#127	AnnotatorNotes T129	lemma = 'leave'
+T130	ADP 539 546	without
+#128	AnnotatorNotes T130	lemma = 'without'
+T131	NOUN 547 556	attention
+#129	AnnotatorNotes T131	lemma = 'attention'
+T132	PUNCT 556 557	.
+#130	AnnotatorNotes T132	lemma = '.'
+T133	SCONJ 558 560	As
+#131	AnnotatorNotes T133	lemma = 'as'
+T134	PRON 561 563	it
+#132	AnnotatorNotes T134	lemma = 'it'
+T135	AUX 564 567	can
+#133	AnnotatorNotes T135	lemma = 'can'
+T136	AUX 568 570	be
+#134	AnnotatorNotes T136	lemma = 'be'
+T137	VERB 571 575	seen
+#135	AnnotatorNotes T137	lemma = 'see'
+T138	ADP 576 580	from
+#136	AnnotatorNotes T138	lemma = 'from'
+T139	DET 581 584	the
+#137	AnnotatorNotes T139	lemma = 'the'
+T140	ADJ 585 588	bar
+#138	AnnotatorNotes T140	lemma = 'bar'
+T141	NOUN 589 594	chart
+#139	AnnotatorNotes T141	lemma = 'chart'
+T142	PUNCT 594 595	,
+#140	AnnotatorNotes T142	lemma = ','
+T143	ADV 596 601	there
+#141	AnnotatorNotes T143	lemma = 'there'
+T144	AUX 602 605	was
+#142	AnnotatorNotes T144	lemma = 'be'
+T145	ADV 606 610	only
+#143	AnnotatorNotes T145	lemma = 'only'
+T146	ADV 611 624	approximately
+#144	AnnotatorNotes T146	lemma = 'approximately'
+T147	NUM 625 627	10
+#145	AnnotatorNotes T147	lemma = '10'
+T148	NOUN 628 636	millions
+#146	AnnotatorNotes T148	lemma = 'million'
+T149	ADP 637 639	of
+#147	AnnotatorNotes T149	lemma = 'of'
+T150	NOUN 640 648	children
+#148	AnnotatorNotes T150	lemma = 'child'
+T151	ADP 649 656	without
+#149	AnnotatorNotes T151	lemma = 'without'
+T152	DET 657 660	the
+#150	AnnotatorNotes T152	lemma = 'the'
+T153	NOUN 661 667	access
+#151	AnnotatorNotes T153	lemma = 'access'
+T154	ADP 668 670	to
+#152	AnnotatorNotes T154	lemma = 'to'
+T155	NOUN 671 680	education
+#153	AnnotatorNotes T155	lemma = 'education'
+T156	ADP 681 683	in
+#154	AnnotatorNotes T156	lemma = 'in'
+T157	NUM 684 688	2012
+#155	AnnotatorNotes T157	lemma = '2012'
+T158	ADP 689 691	in
+#156	AnnotatorNotes T158	lemma = 'in'
+T159	PROPN 692 697	South
+#157	AnnotatorNotes T159	lemma = 'South'
+T160	PROPN 698 702	Asia
+#158	AnnotatorNotes T160	lemma = 'asia'
+T161	ADP 703 705	in
+#159	AnnotatorNotes T161	lemma = 'in'
+T162	NOUN 706 716	comparison
+#160	AnnotatorNotes T162	lemma = 'comparison'
+T163	ADP 717 719	to
+#161	AnnotatorNotes T163	lemma = 'to'
+T164	ADV 720 725	about
+#162	AnnotatorNotes T164	lemma = 'about'
+T165	NUM 726 728	35
+#163	AnnotatorNotes T165	lemma = '35'
+T166	NOUN 729 737	millions
+#164	AnnotatorNotes T166	lemma = 'million'
+T167	ADP 738 740	in
+#165	AnnotatorNotes T167	lemma = 'in'
+T168	NUM 741 745	2000
+#166	AnnotatorNotes T168	lemma = '2000'
+T169	PRON 746 751	which
+#167	AnnotatorNotes T169	lemma = 'which'
+T170	VERB 752 757	means
+#168	AnnotatorNotes T170	lemma = 'mean'
+T171	SCONJ 758 762	that
+#169	AnnotatorNotes T171	lemma = 'that'
+T172	ADV 763 768	there
+#170	AnnotatorNotes T172	lemma = 'there'
+T173	VERB 769 773	used
+#171	AnnotatorNotes T173	lemma = 'use'
+T174	PART 774 776	to
+#172	AnnotatorNotes T174	lemma = 'to'
+T175	AUX 777 779	be
+#173	AnnotatorNotes T175	lemma = 'be'
+T176	ADV 780 786	almost
+#174	AnnotatorNotes T176	lemma = 'almost'
+T177	NUM 787 788	3
+#175	AnnotatorNotes T177	lemma = '3'
+T178	PUNCT 788 789	,
+#176	AnnotatorNotes T178	lemma = ','
+T179	NUM 789 790	5
+#177	AnnotatorNotes T179	lemma = '5'
+T180	ADV 791 795	more
+#178	AnnotatorNotes T180	lemma = 'more'
+T181	NOUN 796 804	children
+#179	AnnotatorNotes T181	lemma = 'child'
+T182	ADJ 805 811	unable
+#180	AnnotatorNotes T182	lemma = 'unable'
+T183	PART 812 814	to
+#181	AnnotatorNotes T183	lemma = 'to'
+T184	VERB 815 820	enter
+#182	AnnotatorNotes T184	lemma = 'enter'
+T185	NOUN 821 827	school
+#183	AnnotatorNotes T185	lemma = 'school'
+T186	ADP 828 830	in
+#184	AnnotatorNotes T186	lemma = 'in'
+T187	NUM 831 835	2000
+#185	AnnotatorNotes T187	lemma = '2000'
+T188	ADP 836 840	than
+#186	AnnotatorNotes T188	lemma = 'than'
+T189	NUM 841 845	2012
+#187	AnnotatorNotes T189	lemma = '2012'
+T190	PUNCT 845 846	.
+#188	AnnotatorNotes T190	lemma = '.'
+T191	VERB 847 856	According
+#189	AnnotatorNotes T191	lemma = 'accord'
+T192	ADP 857 859	to
+#190	AnnotatorNotes T192	lemma = 'to'
+T193	DET 860 863	the
+#191	AnnotatorNotes T193	lemma = 'the'
+T194	NOUN 864 869	graph
+#192	AnnotatorNotes T194	lemma = 'graph'
+T195	PUNCT 869 870	,
+#193	AnnotatorNotes T195	lemma = ','
+T196	ADV 871 876	there
+#194	AnnotatorNotes T196	lemma = 'there'
+T197	AUX 877 880	was
+#195	AnnotatorNotes T197	lemma = 'be'
+T198	ADV 881 894	approximately
+#196	AnnotatorNotes T198	lemma = 'approximately'
+T199	NUM 895 896	4
+#197	AnnotatorNotes T199	lemma = '4'
+T200	NOUN 897 902	times
+#198	AnnotatorNotes T200	lemma = 'time'
+T201	ADV 903 907	more
+#199	AnnotatorNotes T201	lemma = 'more'
+T202	NOUN 908 913	girls
+#200	AnnotatorNotes T202	lemma = 'girl'
+T203	ADP 914 921	without
+#201	AnnotatorNotes T203	lemma = 'without'
+T204	NOUN 922 931	education
+#202	AnnotatorNotes T204	lemma = 'education'
+T205	PRON 932 937	which
+#203	AnnotatorNotes T205	lemma = 'which'
+T206	AUX 938 940	is
+#204	AnnotatorNotes T206	lemma = 'be'
+T207	ADV 941 945	just
+#205	AnnotatorNotes T207	lemma = 'just'
+T208	ADP 946 951	about
+#206	AnnotatorNotes T208	lemma = 'about'
+T209	NUM 952 953	2
+#207	AnnotatorNotes T209	lemma = '2'
+T210	NOUN 954 959	times
+#208	AnnotatorNotes T210	lemma = 'time'
+T211	ADV 960 964	more
+#209	AnnotatorNotes T211	lemma = 'more'
+T212	ADP 965 969	than
+#210	AnnotatorNotes T212	lemma = 'than'
+T213	NOUN 970 974	boys
+#211	AnnotatorNotes T213	lemma = 'boy'
+T214	ADP 975 977	in
+#212	AnnotatorNotes T214	lemma = 'in'
+T215	NUM 978 982	2000
+#213	AnnotatorNotes T215	lemma = '2000'
+T216	PRON 983 986	who
+#214	AnnotatorNotes T216	lemma = 'who'
+T217	AUX 987 990	did
+#215	AnnotatorNotes T217	lemma = 'do'
+T218	PART 991 994	not
+#216	AnnotatorNotes T218	lemma = 'not'
+T219	VERB 995 999	have
+#217	AnnotatorNotes T219	lemma = 'have'
+T220	DET 1000 1001	a
+#218	AnnotatorNotes T220	lemma = 'a'
+T221	NOUN 1002 1007	right
+#219	AnnotatorNotes T221	lemma = 'right'
+T222	PART 1008 1010	to
+#220	AnnotatorNotes T222	lemma = 'to'
+T223	VERB 1011 1015	have
+#221	AnnotatorNotes T223	lemma = 'have'
+T224	NOUN 1016 1025	education
+#222	AnnotatorNotes T224	lemma = 'education'
+T225	PUNCT 1025 1026	.
+#223	AnnotatorNotes T225	lemma = '.'
+T226	VERB 1027 1035	Speaking
+#224	AnnotatorNotes T226	lemma = 'speak'
+T227	ADP 1036 1041	about
+#225	AnnotatorNotes T227	lemma = 'about'
+T228	PROPN 1042 1048	Africa
+#226	AnnotatorNotes T228	lemma = 'Africa'
+T229	PUNCT 1048 1049	,
+#227	AnnotatorNotes T229	lemma = ','
+T230	ADV 1050 1055	there
+#228	AnnotatorNotes T230	lemma = 'there'
+T231	VERB 1056 1059	was
+#229	AnnotatorNotes T231	lemma = 'be'
+T232	DET 1060 1061	a
+#230	AnnotatorNotes T232	lemma = 'a'
+T233	ADJ 1062 1068	slight
+#231	AnnotatorNotes T233	lemma = 'slight'
+T234	NOUN 1069 1080	improvement
+#232	AnnotatorNotes T234	lemma = 'improvement'
+T235	ADP 1081 1083	in
+#233	AnnotatorNotes T235	lemma = 'in'
+T236	VERB 1084 1094	decreasing
+#234	AnnotatorNotes T236	lemma = 'decrease'
+T237	DET 1095 1098	the
+#235	AnnotatorNotes T237	lemma = 'the'
+T238	NOUN 1099 1105	number
+#236	AnnotatorNotes T238	lemma = 'number'
+T239	ADP 1106 1108	of
+#237	AnnotatorNotes T239	lemma = 'of'
+T240	NOUN 1109 1117	children
+#238	AnnotatorNotes T240	lemma = 'child'
+T241	ADP 1118 1122	with
+#239	AnnotatorNotes T241	lemma = 'with'
+T242	DET 1123 1125	no
+#240	AnnotatorNotes T242	lemma = 'no'
+T243	NOUN 1126 1132	access
+#241	AnnotatorNotes T243	lemma = 'access'
+T244	ADP 1133 1135	to
+#242	AnnotatorNotes T244	lemma = 'to'
+T245	ADJ 1136 1143	primary
+#243	AnnotatorNotes T245	lemma = 'primary'
+T246	NOUN 1144 1151	schools
+#244	AnnotatorNotes T246	lemma = 'school'
+T247	PUNCT 1151 1152	:
+#245	AnnotatorNotes T247	lemma = ':'
+T248	ADV 1153 1159	almost
+#246	AnnotatorNotes T248	lemma = 'almost'
+T249	NUM 1160 1161	5
+#247	AnnotatorNotes T249	lemma = '5'
+T250	NOUN 1162 1170	millions
+#248	AnnotatorNotes T250	lemma = 'million'
+T251	ADV 1171 1175	more
+#249	AnnotatorNotes T251	lemma = 'more'
+T252	NOUN 1176 1181	girls
+#250	AnnotatorNotes T252	lemma = 'girl'
+T253	CCONJ 1182 1185	and
+#251	AnnotatorNotes T253	lemma = 'and'
+T254	ADV 1186 1190	just
+#252	AnnotatorNotes T254	lemma = 'just'
+T255	ADP 1191 1195	over
+#253	AnnotatorNotes T255	lemma = 'over'
+T256	NUM 1196 1197	5
+#254	AnnotatorNotes T256	lemma = '5'
+T257	NOUN 1198 1206	millions
+#255	AnnotatorNotes T257	lemma = 'million'
+T258	ADP 1207 1209	of
+#256	AnnotatorNotes T258	lemma = 'of'
+T259	NOUN 1210 1214	boys
+#257	AnnotatorNotes T259	lemma = 'boy'
+T260	AUX 1215 1219	were
+#258	AnnotatorNotes T260	lemma = 'be'
+T261	ADJ 1220 1224	able
+#259	AnnotatorNotes T261	lemma = 'able'
+T262	PART 1225 1227	to
+#260	AnnotatorNotes T262	lemma = 'to'
+T263	VERB 1228 1231	get
+#261	AnnotatorNotes T263	lemma = 'get'
+T264	NOUN 1232 1241	education
+#262	AnnotatorNotes T264	lemma = 'education'
+T265	ADP 1242 1244	in
+#263	AnnotatorNotes T265	lemma = 'in'
+T266	NUM 1245 1249	2012
+#264	AnnotatorNotes T266	lemma = '2012'
+T267	NOUN 1250 1257	results
+#265	AnnotatorNotes T267	lemma = 'result'
+T268	PUNCT 1257 1258	:
+#266	AnnotatorNotes T268	lemma = ':'
+T269	DET 1259 1262	the
+#267	AnnotatorNotes T269	lemma = 'the'
+T270	ADJ 1263 1270	general
+#268	AnnotatorNotes T270	lemma = 'general'
+T271	NOUN 1271 1277	number
+#269	AnnotatorNotes T271	lemma = 'number'
+T272	ADV 1278 1293	insignificantly
+#270	AnnotatorNotes T272	lemma = 'insignificantly'
+T273	VERB 1294 1303	decreased
+#271	AnnotatorNotes T273	lemma = 'decrease'
+T274	SCONJ 1304 1309	while
+#272	AnnotatorNotes T274	lemma = 'while'
+T275	NOUN 1310 1314	boys
+#273	AnnotatorNotes T275	lemma = 'boy'
+T276	CCONJ 1315 1318	and
+#274	AnnotatorNotes T276	lemma = 'and'
+T277	NOUN 1319 1324	girls
+#275	AnnotatorNotes T277	lemma = 'girl'
+T278	NOUN 1325 1331	shares
+#276	AnnotatorNotes T278	lemma = 'share'
+T279	VERB 1332 1340	remained
+#277	AnnotatorNotes T279	lemma = 'remain'
+T280	ADJ 1341 1347	stable
+#278	AnnotatorNotes T280	lemma = 'stable'
+T281	PUNCT 1347 1348	.
+#279	AnnotatorNotes T281	lemma = '.'

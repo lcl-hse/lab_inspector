@@ -1,0 +1,376 @@
+T1	Redundant_comp 50 54	then
+A1	Delete T1
+T2	Redundant 129 134	years
+A2	Delete T2
+T3	Redundant 263 273	of profits
+A3	Delete T3
+T4	Spelling 439 446	percent
+#1	AnnotatorNotes T4	per cent
+T5	Punctuation 447 494	while the Apple rate is over 40 percent in 2010
+#2	AnnotatorNotes T5	, while the Apple rate is over 40 per cent in 2010
+T6	Prepositions 579 581	in
+#3	AnnotatorNotes T6	at
+T7	Tense_choice 771 779	continue
+#4	AnnotatorNotes T7	continued
+T8	Category_confusion 783 789	growth
+#5	AnnotatorNotes T8	grow
+T9	lex_item_choice 804 812	tendency
+#6	AnnotatorNotes T9	pace
+T10	Punctuation 737 812	after 2013 share profits of Apple continue to growth with the same tendency
+#7	AnnotatorNotes T10	after 2013 share profits of Apple continue to growth with the same tendency,
+T11	Redundant 825 835	of profits
+A4	Delete T11
+T12	AT0 0 3	The
+#8	AnnotatorNotes T12	lemma = 'the'
+T13	AJ0 4 11	present
+#9	AnnotatorNotes T13	lemma = 'present'
+T14	NN1 12 17	graph
+#10	AnnotatorNotes T14	lemma = 'graph'
+T15	VVZ 18 25	depicts
+#11	AnnotatorNotes T15	lemma = 'depict'
+T16	AT0 26 29	the
+#12	AnnotatorNotes T16	lemma = 'the'
+T17	NN1 30 35	share
+#13	AnnotatorNotes T17	lemma = 'share'
+T18	PRF 36 38	of
+#14	AnnotatorNotes T18	lemma = 'of'
+T19	NN2 39 46	profits
+#15	AnnotatorNotes T19	lemma = 'profit'
+T20	PRF 47 49	of
+#16	AnnotatorNotes T20	lemma = 'of'
+T21	AV0 50 54	then
+#17	AnnotatorNotes T21	lemma = 'then'
+T22	CRD 55 59	four
+#18	AnnotatorNotes T22	lemma = 'four'
+T23	AJS 60 67	biggest
+#19	AnnotatorNotes T23	lemma = 'big'
+T24	NN2 68 77	companies
+#20	AnnotatorNotes T24	lemma = 'company'
+T25	PUN 77 78	:
+#21	AnnotatorNotes T25	lemma = ':'
+T26	NN1 79 84	Apple
+#22	AnnotatorNotes T26	lemma = 'apple'
+T27	PUN 84 85	,
+#23	AnnotatorNotes T27	lemma = ','
+T28	NP0 86 93	Samsung
+#24	AnnotatorNotes T28	lemma = 'samsung'
+T29	PUN 93 94	,
+#25	AnnotatorNotes T29	lemma = ','
+T30	NP0 95 105	Blackberry
+#26	AnnotatorNotes T30	lemma = 'blackberry'
+T31	PUN 105 106	,
+#27	AnnotatorNotes T31	lemma = ','
+T32	NP0 107 110	HTC
+#28	AnnotatorNotes T32	lemma = 'HTC'
+T33	PRP 111 115	from
+#29	AnnotatorNotes T33	lemma = 'from'
+T34	CRD 116 120	2010
+#30	AnnotatorNotes T34	lemma = '2010'
+T35	PRP 121 123	to
+#31	AnnotatorNotes T35	lemma = 'to'
+T36	CRD 124 128	2015
+#32	AnnotatorNotes T36	lemma = '2015'
+T37	NN2 129 134	years
+#33	AnnotatorNotes T37	lemma = 'year'
+T38	SENT 134 135	.
+#34	AnnotatorNotes T38	lemma = '.'
+T39	PNP 136 138	It
+#35	AnnotatorNotes T39	lemma = 'it'
+T40	VM0 139 142	can
+#36	AnnotatorNotes T40	lemma = 'can'
+T41	VBI 143 145	be
+#37	AnnotatorNotes T41	lemma = 'be'
+T42	AV0 146 153	clearly
+#38	AnnotatorNotes T42	lemma = 'clearly'
+T43	VVN 154 158	seen
+#39	AnnotatorNotes T43	lemma = 'see'
+T44	CJT 159 163	that
+#40	AnnotatorNotes T44	lemma = 'that'
+T45	CJS 164 169	while
+#41	AnnotatorNotes T45	lemma = 'while'
+T46	NN1 170 175	Apple
+#42	AnnotatorNotes T46	lemma = 'apple'
+T47	NN1 176 180	rate
+#43	AnnotatorNotes T47	lemma = 'rate'
+T48	VVZ 181 190	increases
+#44	AnnotatorNotes T48	lemma = 'increase'
+T49	AV0 191 196	twice
+#45	AnnotatorNotes T49	lemma = 'twice'
+T50	PRP 197 199	in
+#46	AnnotatorNotes T50	lemma = 'in'
+T51	CRD 200 201	5
+#47	AnnotatorNotes T51	lemma = '5'
+T52	NN2 202 207	years
+#48	AnnotatorNotes T52	lemma = 'year'
+T53	PUN 207 208	,
+#49	AnnotatorNotes T53	lemma = ','
+T54	AT0 209 212	the
+#50	AnnotatorNotes T54	lemma = 'the'
+T55	AJ0 213 218	other
+#51	AnnotatorNotes T55	lemma = 'other'
+T56	NN2 219 228	companies
+#52	AnnotatorNotes T56	lemma = 'company'
+T57	VVB 229 233	show
+#53	AnnotatorNotes T57	lemma = 'show'
+T58	AV0 234 246	particularly
+#54	AnnotatorNotes T58	lemma = 'particularly'
+T59	AT0 247 250	the
+#55	AnnotatorNotes T59	lemma = 'the'
+T60	DT0 251 255	same
+#56	AnnotatorNotes T60	lemma = 'same'
+T61	NN2 256 262	shares
+#57	AnnotatorNotes T61	lemma = 'share'
+T62	PRF 263 265	of
+#58	AnnotatorNotes T62	lemma = 'of'
+T63	NN2 266 273	profits
+#59	AnnotatorNotes T63	lemma = 'profit'
+T64	PRP 274 276	in
+#60	AnnotatorNotes T64	lemma = 'in'
+T65	CRD 277 281	2015
+#61	AnnotatorNotes T65	lemma = '2015'
+T66	PRP 282 284	in
+#62	AnnotatorNotes T66	lemma = 'in'
+T67	NN1 285 295	comparison
+#63	AnnotatorNotes T67	lemma = 'comparison'
+T68	PRP 296 300	with
+#64	AnnotatorNotes T68	lemma = 'with'
+T69	CRD 301 305	2010
+#65	AnnotatorNotes T69	lemma = '2010'
+T70	SENT 305 306	.
+#66	AnnotatorNotes T70	lemma = '.'
+T71	AV0 307 314	Firstly
+#67	AnnotatorNotes T71	lemma = 'firstly'
+T72	PUN 314 315	,
+#68	AnnotatorNotes T72	lemma = ','
+T73	PNP 316 318	it
+#69	AnnotatorNotes T73	lemma = 'it'
+T74	VM0 319 325	should
+#70	AnnotatorNotes T74	lemma = 'should'
+T75	VBI 326 328	be
+#71	AnnotatorNotes T75	lemma = 'be'
+T76	VVN 329 338	mentioned
+#72	AnnotatorNotes T76	lemma = 'mention'
+T77	CJT 339 343	that
+#73	AnnotatorNotes T77	lemma = 'that'
+T78	AT0 344 347	the
+#74	AnnotatorNotes T78	lemma = 'the'
+T79	NN1 348 356	starting
+#75	AnnotatorNotes T79	lemma = 'starting|start'
+T80	NN2 357 363	points
+#76	AnnotatorNotes T80	lemma = 'point'
+T81	PRF 364 366	of
+#77	AnnotatorNotes T81	lemma = 'of'
+T82	AT0 367 370	the
+#78	AnnotatorNotes T82	lemma = 'the'
+T83	CRD 371 376	three
+#79	AnnotatorNotes T83	lemma = 'three'
+T84	NN2 377 386	companies
+#80	AnnotatorNotes T84	lemma = 'company'
+T85	PUL 387 388	(
+#81	AnnotatorNotes T85	lemma = '('
+T86	PRP 388 394	except
+#82	AnnotatorNotes T86	lemma = 'except'
+T87	NN1 395 400	Apple
+#83	AnnotatorNotes T87	lemma = 'apple'
+T88	PUR 400 401	)
+#84	AnnotatorNotes T88	lemma = ')'
+T89	VBB 402 405	are
+#85	AnnotatorNotes T89	lemma = 'be'
+T90	AV0 406 411	quite
+#86	AnnotatorNotes T90	lemma = 'quite'
+T91	AJ0 412 419	similar
+#87	AnnotatorNotes T91	lemma = 'similar'
+T92	CJC 420 423	and
+#88	AnnotatorNotes T92	lemma = 'and'
+T93	AJ0 424 429	equal
+#89	AnnotatorNotes T93	lemma = 'equal'
+T94	PRP 430 432	to
+#90	AnnotatorNotes T94	lemma = 'to'
+T95	CRD 433 438	10-20
+#91	AnnotatorNotes T95	lemma = '10-20'
+T96	NN0 439 446	percent
+#92	AnnotatorNotes T96	lemma = 'percent'
+T97	CJS 447 452	while
+#93	AnnotatorNotes T97	lemma = 'while'
+T98	AT0 453 456	the
+#94	AnnotatorNotes T98	lemma = 'the'
+T99	NN1 457 462	Apple
+#95	AnnotatorNotes T99	lemma = 'apple'
+T100	NN1 463 467	rate
+#96	AnnotatorNotes T100	lemma = 'rate'
+T101	VBZ 468 470	is
+#97	AnnotatorNotes T101	lemma = 'be'
+T102	AV0 471 475	over
+#98	AnnotatorNotes T102	lemma = 'over'
+T103	CRD 476 478	40
+#99	AnnotatorNotes T103	lemma = '40'
+T104	NN0 479 486	percent
+#100	AnnotatorNotes T104	lemma = 'percent'
+T105	PRP 487 489	in
+#101	AnnotatorNotes T105	lemma = 'in'
+T106	CRD 490 494	2010
+#102	AnnotatorNotes T106	lemma = '2010'
+T107	SENT 494 495	.
+#103	AnnotatorNotes T107	lemma = '.'
+T108	NN1 496 506	Blackberry
+#104	AnnotatorNotes T108	lemma = 'blackberry'
+T109	CJC 507 510	and
+#105	AnnotatorNotes T109	lemma = 'and'
+T110	NN1 511 514	HTC
+#106	AnnotatorNotes T110	lemma = 'HTC'
+T111	NN2 515 520	rates
+#107	AnnotatorNotes T111	lemma = 'rate'
+T112	VBB 521 524	are
+#108	AnnotatorNotes T112	lemma = 'be'
+T113	AV0 525 533	slightly
+#109	AnnotatorNotes T113	lemma = 'slightly'
+T114	VVG 534 544	decreasing
+#110	AnnotatorNotes T114	lemma = 'decrease|decreasing'
+T115	PRP 545 547	in
+#111	AnnotatorNotes T115	lemma = 'in'
+T116	AT0 548 551	the
+#112	AnnotatorNotes T116	lemma = 'the'
+T117	ORD 552 556	next
+#113	AnnotatorNotes T117	lemma = 'next'
+T118	CRD 557 561	five
+#114	AnnotatorNotes T118	lemma = 'five'
+T119	NN2 562 567	years
+#115	AnnotatorNotes T119	lemma = 'year'
+T120	CJC 568 571	and
+#116	AnnotatorNotes T120	lemma = 'and'
+T121	VVB 572 578	finish
+#117	AnnotatorNotes T121	lemma = 'finish'
+T122	PRP 579 581	in
+#118	AnnotatorNotes T122	lemma = 'in'
+T123	AT0 582 585	the
+#119	AnnotatorNotes T123	lemma = 'the'
+T124	DT0 586 590	same
+#120	AnnotatorNotes T124	lemma = 'same'
+T125	NN1 591 596	point
+#121	AnnotatorNotes T125	lemma = 'point'
+T126	PUN 596 597	,
+#122	AnnotatorNotes T126	lemma = ','
+T127	DTQ 598 603	which
+#123	AnnotatorNotes T127	lemma = 'which'
+T128	VBZ 604 606	is
+#124	AnnotatorNotes T128	lemma = 'be'
+T129	AV0 607 612	about
+#125	AnnotatorNotes T129	lemma = 'about'
+T130	CRD 613 614	5
+#126	AnnotatorNotes T130	lemma = '5'
+T131	NN0 615 622	percent
+#127	AnnotatorNotes T131	lemma = 'percent'
+T132	SENT 622 623	.
+#128	AnnotatorNotes T132	lemma = '.'
+T133	PRP 624 626	On
+#129	AnnotatorNotes T133	lemma = 'on'
+T134	AT0 627 630	the
+#130	AnnotatorNotes T134	lemma = 'the'
+T135	AJ0 631 636	other
+#131	AnnotatorNotes T135	lemma = 'other'
+T136	NN1 637 641	hand
+#132	AnnotatorNotes T136	lemma = 'hand'
+T137	PUN 641 642	,
+#133	AnnotatorNotes T137	lemma = ','
+T138	PRP 643 647	from
+#134	AnnotatorNotes T138	lemma = 'from'
+T139	CRD 648 652	2010
+#135	AnnotatorNotes T139	lemma = '2010'
+T140	PRP 653 655	to
+#136	AnnotatorNotes T140	lemma = 'to'
+T141	CRD 656 660	2013
+#137	AnnotatorNotes T141	lemma = '2013'
+T142	NN1 661 666	Apple
+#138	AnnotatorNotes T142	lemma = 'apple'
+T143	CJC 667 670	and
+#139	AnnotatorNotes T143	lemma = 'and'
+T144	AJ0 671 678	Samsung
+#140	AnnotatorNotes T144	lemma = 'samsung'
+T145	NN2 679 684	rates
+#141	AnnotatorNotes T145	lemma = 'rate'
+T146	VBB 685 688	are
+#142	AnnotatorNotes T146	lemma = 'be'
+T147	AV0 689 696	sharply
+#143	AnnotatorNotes T147	lemma = 'sharply'
+T148	AJ0 697 707	increasing
+#144	AnnotatorNotes T148	lemma = 'increasing|increase'
+T149	PRP 708 712	with
+#145	AnnotatorNotes T149	lemma = 'with'
+T150	AT0 713 716	the
+#146	AnnotatorNotes T150	lemma = 'the'
+T151	DT0 717 721	same
+#147	AnnotatorNotes T151	lemma = 'same'
+T152	NN1 722 726	pace
+#148	AnnotatorNotes T152	lemma = 'pace'
+T153	SENT 726 727	.
+#149	AnnotatorNotes T153	lemma = '.'
+T154	AV0 728 735	However
+#150	AnnotatorNotes T154	lemma = 'however'
+T155	PUN 735 736	,
+#151	AnnotatorNotes T155	lemma = ','
+T156	PRP 737 742	after
+#152	AnnotatorNotes T156	lemma = 'after'
+T157	CRD 743 747	2013
+#153	AnnotatorNotes T157	lemma = '2013'
+T158	NN1 748 753	share
+#154	AnnotatorNotes T158	lemma = 'share'
+T159	NN2 754 761	profits
+#155	AnnotatorNotes T159	lemma = 'profit'
+T160	PRF 762 764	of
+#156	AnnotatorNotes T160	lemma = 'of'
+T161	NN1 765 770	Apple
+#157	AnnotatorNotes T161	lemma = 'apple'
+T162	VVB 771 779	continue
+#158	AnnotatorNotes T162	lemma = 'continue'
+T163	PRP 780 782	to
+#159	AnnotatorNotes T163	lemma = 'to'
+T164	NN1 783 789	growth
+#160	AnnotatorNotes T164	lemma = 'growth'
+T165	PRP 790 794	with
+#161	AnnotatorNotes T165	lemma = 'with'
+T166	AT0 795 798	the
+#162	AnnotatorNotes T166	lemma = 'the'
+T167	DT0 799 803	same
+#163	AnnotatorNotes T167	lemma = 'same'
+T168	NN1 804 812	tendency
+#164	AnnotatorNotes T168	lemma = 'tendency'
+T169	CJS 813 818	while
+#165	AnnotatorNotes T169	lemma = 'while'
+T170	NN1 819 824	share
+#166	AnnotatorNotes T170	lemma = 'share'
+T171	PRF 825 827	of
+#167	AnnotatorNotes T171	lemma = 'of'
+T172	NN2 828 835	profits
+#168	AnnotatorNotes T172	lemma = 'profit'
+T173	PRF 836 838	of
+#169	AnnotatorNotes T173	lemma = 'of'
+T174	NP0 839 846	Samsung
+#170	AnnotatorNotes T174	lemma = 'samsung'
+T175	VBB 847 850	are
+#171	AnnotatorNotes T175	lemma = 'be'
+T176	VVN 851 860	decreased
+#172	AnnotatorNotes T176	lemma = 'decrease'
+T177	AV0 861 868	rapidly
+#173	AnnotatorNotes T177	lemma = 'rapidly'
+T178	PRP 869 871	to
+#174	AnnotatorNotes T178	lemma = 'to'
+T179	AT0 872 875	the
+#175	AnnotatorNotes T179	lemma = 'the'
+T180	AJ0 876 884	previous
+#176	AnnotatorNotes T180	lemma = 'previous'
+T181	NN1 885 889	rate
+#177	AnnotatorNotes T181	lemma = 'rate'
+T182	PUN 889 890	,
+#178	AnnotatorNotes T182	lemma = ','
+T183	DTQ 891 896	which
+#179	AnnotatorNotes T183	lemma = 'which'
+T184	VBD 897 900	was
+#180	AnnotatorNotes T184	lemma = 'be'
+T185	VVN 901 908	reached
+#181	AnnotatorNotes T185	lemma = 'reach'
+T186	PRP 909 911	in
+#182	AnnotatorNotes T186	lemma = 'in'
+T187	CRD 912 916	2010
+#183	AnnotatorNotes T187	lemma = '2010'
+T188	SENT 916 917	.
+#184	AnnotatorNotes T188	lemma = ''

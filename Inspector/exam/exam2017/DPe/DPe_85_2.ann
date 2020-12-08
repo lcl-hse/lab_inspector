@@ -1,0 +1,646 @@
+T1	Spelling 978 986	striming
+#1	AnnotatorNotes T1	streaming
+T2	Articles 0 8	Internet
+#2	AnnotatorNotes T2	The Internet
+T3	Spelling 28 31	pat
+#3	AnnotatorNotes T3	part
+T4	Spelling 1043 1050	dollors
+#4	AnnotatorNotes T4	dollars
+T5	Spelling 907 914	speciel
+#5	AnnotatorNotes T5	special
+T6	Capitalisation 87 90	web
+#6	AnnotatorNotes T6	Web
+T7	Prepositions 75 82	through
+#7	AnnotatorNotes T7	on
+T8	Word_choice 96 105	education
+#8	AnnotatorNotes T8	getting educated
+T9	Word_choice 117 127	connection
+#9	AnnotatorNotes T9	being connected
+T10	Punctuation 151 152	.
+#10	AnnotatorNotes T10	,
+T11	Spelling 133 136	But
+#11	AnnotatorNotes T11	but
+R1	Dependent_change Arg1:T10 Arg2:T11
+T12	Spelling 153 155	On
+#12	AnnotatorNotes T12	One
+T13	Articles 190 216	an illegal content copying
+#13	AnnotatorNotes T13	illegal content copying
+T14	Punctuation 246 249	and
+#14	AnnotatorNotes T14	, and
+T15	Modals 257 262	could
+#15	AnnotatorNotes T15	can
+T16	Agreement_errors 354 357	has
+#16	AnnotatorNotes T16	have
+T17	Category_confusion 375 380	sells
+#17	AnnotatorNotes T17	sellings
+T18	Agreement_errors 416 421	steal
+#18	AnnotatorNotes T18	steals
+T19	Articles 405 411	person
+#19	AnnotatorNotes T19	a person
+T20	Punctuation 571 572	.
+#20	AnnotatorNotes T20	,
+T21	Spelling 573 583	Especially
+#21	AnnotatorNotes T21	especially
+R2	Dependent_change Arg1:T20 Arg2:T21
+T22	Prepositions 662 666	with
+#22	AnnotatorNotes T22	to
+T23	Coherence 722 729	because
+#23	AnnotatorNotes T23	:
+T24	Verb_Gerund 854 869	allow to listen
+#24	AnnotatorNotes T24	allow listening
+T25	Prepositional_verb 863 869	listen
+#25	AnnotatorNotes T25	listening to
+T26	Category_confusion 886 889	pay
+#26	AnnotatorNotes T26	payment
+T27	Articles 880 889	small pay
+#27	AnnotatorNotes T27	a small payment
+T28	Tense_choice 939 942	did
+#28	AnnotatorNotes T28	do
+T29	Standard 936 963	So did Netflix, HBO, Amedia
+#29	AnnotatorNotes T29	Netflix, HBO, Amedia do so
+T30	Tense_choice 970 977	created
+#30	AnnotatorNotes T30	have created
+T31	Articles 1001 1012	huge amount
+#31	AnnotatorNotes T31	a huge amount
+T32	Tense_choice 1093 1099	forgot
+#32	AnnotatorNotes T32	have forgotten
+T33	Coherence 1061 1065	that
+#33	AnnotatorNotes T33	, that is why
+T34	Punctuation 1061 1065	that
+#34	AnnotatorNotes T34	, that is why
+T35	Articles 1179 1188	the offer
+#35	AnnotatorNotes T35	an offer
+T36	Verb_object_bare 1200 1219	make them to refuse
+#36	AnnotatorNotes T36	make them refuse
+T37	Agreement_errors 1316 1322	allows
+#37	AnnotatorNotes T37	allow
+T38	Punctuation 1410 1413	and
+#38	AnnotatorNotes T38	, and
+T39	Spelling 1419 1424	shoul
+#39	AnnotatorNotes T39	should
+T40	lex_item_choice 1435 1448	possibilities
+#40	AnnotatorNotes T40	opportunities
+T41	Spelling 1470 1480	complected
+#41	AnnotatorNotes T41	complicated
+T42	Articles 1470 1502	complected and expensive process
+#42	AnnotatorNotes T42	a complicated and expensive process
+T43	NN1 0 8	Internet
+#43	AnnotatorNotes T43	lemma = 'internet'
+T44	VBZ 9 11	is
+#44	AnnotatorNotes T44	lemma = 'be'
+T45	AT0 12 15	the
+#45	AnnotatorNotes T45	lemma = 'the'
+T46	AJ0 16 27	significant
+#46	AnnotatorNotes T46	lemma = 'significant'
+T47	NN1 28 31	pat
+#47	AnnotatorNotes T47	lemma = 'pat'
+T48	PRF 32 34	of
+#48	AnnotatorNotes T48	lemma = 'of'
+T49	DPS 35 38	our
+#49	AnnotatorNotes T49	lemma = 'we'
+T50	NN2 39 44	lives
+#50	AnnotatorNotes T50	lemma = 'life|live'
+T51	AV0 45 50	today
+#51	AnnotatorNotes T51	lemma = 'today'
+T52	SENT 50 51	.
+#52	AnnotatorNotes T52	lemma = '.'
+T53	PNP 52 54	We
+#53	AnnotatorNotes T53	lemma = 'we'
+T54	VM0 55 58	can
+#54	AnnotatorNotes T54	lemma = 'can'
+T55	VDI 59 61	do
+#55	AnnotatorNotes T55	lemma = 'do'
+T56	AJ0 62 67	great
+#56	AnnotatorNotes T56	lemma = 'great'
+T57	NN2 68 74	things
+#57	AnnotatorNotes T57	lemma = 'thing'
+T58	PRP 75 82	through
+#58	AnnotatorNotes T58	lemma = 'through'
+T59	AT0 83 86	the
+#59	AnnotatorNotes T59	lemma = 'the'
+T60	NN1 87 90	web
+#60	AnnotatorNotes T60	lemma = 'web'
+T61	PRP 91 95	like
+#61	AnnotatorNotes T61	lemma = 'like'
+T62	NN1 96 105	education
+#62	AnnotatorNotes T62	lemma = 'education'
+T63	PUN 105 106	,
+#63	AnnotatorNotes T63	lemma = ','
+T64	NN1 107 115	shopping
+#64	AnnotatorNotes T64	lemma = 'shopping|shop'
+T65	PUN 115 116	,
+#65	AnnotatorNotes T65	lemma = ','
+T66	NN1 117 127	connection
+#66	AnnotatorNotes T66	lemma = 'connection'
+T67	AV0 128 132	etc.
+#67	AnnotatorNotes T67	lemma = 'etc.'
+T68	CJC 133 136	But
+#68	AnnotatorNotes T68	lemma = 'but'
+T69	AV0 137 141	also
+#69	AnnotatorNotes T69	lemma = 'also'
+T70	VDB 142 144	do
+#70	AnnotatorNotes T70	lemma = 'do'
+T71	NN2 145 151	crimes
+#71	AnnotatorNotes T71	lemma = 'crime'
+T72	SENT 151 152	.
+#72	AnnotatorNotes T72	lemma = '.'
+T73	AVP 153 155	On
+#73	AnnotatorNotes T73	lemma = 'on'
+T74	PRF 156 158	of
+#74	AnnotatorNotes T74	lemma = 'of'
+T75	AT0 159 162	the
+#75	AnnotatorNotes T75	lemma = 'the'
+T76	AV0 163 167	most
+#76	AnnotatorNotes T76	lemma = 'most'
+T77	VVN 168 177	discussed
+#77	AnnotatorNotes T77	lemma = 'discuss'
+T78	NN2 178 186	problems
+#78	AnnotatorNotes T78	lemma = 'problem'
+T79	VBZ 187 189	is
+#79	AnnotatorNotes T79	lemma = 'be'
+T80	AT0 190 192	an
+#80	AnnotatorNotes T80	lemma = 'an'
+T81	AJ0 193 200	illegal
+#81	AnnotatorNotes T81	lemma = 'illegal'
+T82	NN1 201 208	content
+#82	AnnotatorNotes T82	lemma = 'content'
+T83	NN1 209 216	copying
+#83	AnnotatorNotes T83	lemma = 'copying|copy'
+T84	SENT 216 217	.
+#84	AnnotatorNotes T84	lemma = '.'
+T85	NN2 218 228	Developers
+#85	AnnotatorNotes T85	lemma = 'developer'
+T86	VVB 229 233	lose
+#86	AnnotatorNotes T86	lemma = 'lose'
+T87	DPS 234 239	their
+#87	AnnotatorNotes T87	lemma = 'they'
+T88	NN1 240 245	money
+#88	AnnotatorNotes T88	lemma = 'money'
+T89	CJC 246 249	and
+#89	AnnotatorNotes T89	lemma = 'and'
+T90	AT0 250 252	no
+#90	AnnotatorNotes T90	lemma = 'no'
+T91	PNI 253 256	one
+#91	AnnotatorNotes T91	lemma = 'one'
+T92	VM0 257 262	could
+#92	AnnotatorNotes T92	lemma = 'could'
+T93	VBI 263 265	be
+#93	AnnotatorNotes T93	lemma = 'be'
+T94	VVN 266 274	punished
+#94	AnnotatorNotes T94	lemma = 'punish|punished'
+T95	SENT 274 275	.
+#95	AnnotatorNotes T95	lemma = '.'
+T96	PRP 277 279	To
+#96	AnnotatorNotes T96	lemma = 'to'
+T97	DPS 280 282	my
+#97	AnnotatorNotes T97	lemma = 'i'
+T98	NN1 283 287	mind
+#98	AnnotatorNotes T98	lemma = 'mind'
+T99	PUN 287 288	,
+#99	AnnotatorNotes T99	lemma = ','
+T100	AT0 289 292	the
+#100	AnnotatorNotes T100	lemma = 'the'
+T101	NN1 293 300	problem
+#101	AnnotatorNotes T101	lemma = 'problem'
+T102	VBZ 301 303	is
+#102	AnnotatorNotes T102	lemma = 'be'
+T103	XX0 304 307	not
+#103	AnnotatorNotes T103	lemma = 'not'
+T104	AV0 308 310	as
+#104	AnnotatorNotes T104	lemma = 'as'
+T105	AJ0 311 314	big
+#105	AnnotatorNotes T105	lemma = 'big'
+T106	CJS 315 317	as
+#106	AnnotatorNotes T106	lemma = 'as'
+T107	PNP 318 320	it
+#107	AnnotatorNotes T107	lemma = 'it'
+T108	VBZ 321 323	is
+#108	AnnotatorNotes T108	lemma = 'be'
+T109	AJ0 324 332	supposed
+#109	AnnotatorNotes T109	lemma = 'supposed|suppose'
+T110	TO0 333 335	to
+#110	AnnotatorNotes T110	lemma = 'to'
+T111	VBI 336 338	be
+#111	AnnotatorNotes T111	lemma = 'be'
+T112	SENT 338 339	.
+#112	AnnotatorNotes T112	lemma = '.'
+T113	NN2 340 347	Authors
+#113	AnnotatorNotes T113	lemma = 'author'
+T114	AV0 348 353	still
+#114	AnnotatorNotes T114	lemma = 'still'
+T115	VHZ 354 357	has
+#115	AnnotatorNotes T115	lemma = 'have'
+T116	DPS 358 363	their
+#116	AnnotatorNotes T116	lemma = 'they'
+T117	NN1 364 369	money
+#117	AnnotatorNotes T117	lemma = 'money'
+T118	PRP 370 374	from
+#118	AnnotatorNotes T118	lemma = 'from'
+T119	VVZ 375 380	sells
+#119	AnnotatorNotes T119	lemma = 'sell'
+T120	SENT 380 381	.
+#120	AnnotatorNotes T120	lemma = '.'
+T121	PNP 382 386	They
+#121	AnnotatorNotes T121	lemma = 'they'
+T122	VDB 387 389	do
+#122	AnnotatorNotes T122	lemma = 'do'
+T123	XX0 390 393	not
+#123	AnnotatorNotes T123	lemma = 'not'
+T124	VVI 394 399	think
+#124	AnnotatorNotes T124	lemma = 'think'
+T125	DT0 400 404	that
+#125	AnnotatorNotes T125	lemma = 'that'
+T126	NN1 405 411	person
+#126	AnnotatorNotes T126	lemma = 'person'
+T127	PNQ 412 415	who
+#127	AnnotatorNotes T127	lemma = 'who'
+T128	VVB 416 421	steal
+#128	AnnotatorNotes T128	lemma = 'steal'
+T129	NN1 422 429	content
+#129	AnnotatorNotes T129	lemma = 'content'
+T130	AV0 430 435	today
+#130	AnnotatorNotes T130	lemma = 'today'
+T131	VM0 436 439	may
+#131	AnnotatorNotes T131	lemma = 'may'
+T132	VVI 440 444	like
+#132	AnnotatorNotes T132	lemma = 'like'
+T133	PNP 445 447	it
+#133	AnnotatorNotes T133	lemma = 'it'
+T134	CJC 448 451	and
+#134	AnnotatorNotes T134	lemma = 'and'
+T135	VVB 452 455	buy
+#135	AnnotatorNotes T135	lemma = 'buy'
+T136	PNP 456 458	it
+#136	AnnotatorNotes T136	lemma = 'it'
+T137	AV0 459 467	tomorrow
+#137	AnnotatorNotes T137	lemma = 'tomorrow'
+T138	SENT 467 468	.
+#138	AnnotatorNotes T138	lemma = '.'
+T139	NN0 469 475	People
+#139	AnnotatorNotes T139	lemma = 'people'
+T140	VM0 476 482	should
+#140	AnnotatorNotes T140	lemma = 'should'
+T141	XX0 483 486	not
+#141	AnnotatorNotes T141	lemma = 'not'
+T142	VBI 487 489	be
+#142	AnnotatorNotes T142	lemma = 'be'
+T143	VVN 490 498	punished
+#143	AnnotatorNotes T143	lemma = 'punish|punished'
+T144	PRP 499 502	for
+#144	AnnotatorNotes T144	lemma = 'for'
+T145	VVG 503 514	downloading
+#145	AnnotatorNotes T145	lemma = 'download'
+T146	NN1 515 521	pirate
+#146	AnnotatorNotes T146	lemma = 'pirate'
+T147	NN2 522 528	copies
+#147	AnnotatorNotes T147	lemma = 'copy'
+T148	SENT 528 529	.
+#148	AnnotatorNotes T148	lemma = '.'
+T149	PNP 530 532	It
+#149	AnnotatorNotes T149	lemma = 'it'
+T150	VBZ 533 535	is
+#150	AnnotatorNotes T150	lemma = 'be'
+T151	AJ0 536 540	hard
+#151	AnnotatorNotes T151	lemma = 'hard'
+T152	TO0 541 543	to
+#152	AnnotatorNotes T152	lemma = 'to'
+T153	VVI 544 549	blame
+#153	AnnotatorNotes T153	lemma = 'blame'
+T154	PNP 550 554	them
+#154	AnnotatorNotes T154	lemma = 'they'
+T155	PRP 555 558	for
+#155	AnnotatorNotes T155	lemma = 'for'
+T156	VVG 559 565	saving
+#156	AnnotatorNotes T156	lemma = 'save|saving'
+T157	NN1 566 571	money
+#157	AnnotatorNotes T157	lemma = 'money'
+T158	SENT 571 572	.
+#158	AnnotatorNotes T158	lemma = '.'
+T159	AV0 573 583	Especially
+#159	AnnotatorNotes T159	lemma = 'especially'
+T160	PRP 584 586	in
+#160	AnnotatorNotes T160	lemma = 'in'
+T161	NP0 587 593	Russia
+#161	AnnotatorNotes T161	lemma = 'russia'
+T162	AVQ 594 599	where
+#162	AnnotatorNotes T162	lemma = 'where'
+T163	AJ0 600 605	legal
+#163	AnnotatorNotes T163	lemma = 'legal'
+T164	NN2 606 612	copies
+#164	AnnotatorNotes T164	lemma = 'copy'
+T165	PRF 613 615	of
+#165	AnnotatorNotes T165	lemma = 'of'
+T166	NN2 616 621	films
+#166	AnnotatorNotes T166	lemma = 'film'
+T167	CJC 622 625	and
+#167	AnnotatorNotes T167	lemma = 'and'
+T168	NN1 626 631	video
+#168	AnnotatorNotes T168	lemma = 'video'
+T169	NN2 632 637	games
+#169	AnnotatorNotes T169	lemma = 'game'
+T170	VVB 638 642	cost
+#170	AnnotatorNotes T170	lemma = 'cost'
+T171	AV0 643 646	too
+#171	AnnotatorNotes T171	lemma = 'too'
+T172	AV0 647 651	much
+#172	AnnotatorNotes T172	lemma = 'much'
+T173	VVG 652 661	comparing
+#173	AnnotatorNotes T173	lemma = 'compare'
+T174	PRP 662 666	with
+#174	AnnotatorNotes T174	lemma = 'with'
+T175	AJ0 667 674	average
+#175	AnnotatorNotes T175	lemma = 'average'
+T176	NN2 675 683	revenues
+#176	AnnotatorNotes T176	lemma = 'revenue'
+T177	SENT 683 684	.
+#177	AnnotatorNotes T177	lemma = '.'
+T178	PNP 686 688	It
+#178	AnnotatorNotes T178	lemma = 'it'
+T179	VBZ 689 691	is
+#179	AnnotatorNotes T179	lemma = 'be'
+T180	AJ0 692 699	useless
+#180	AnnotatorNotes T180	lemma = 'useless'
+T181	TO0 700 702	to
+#181	AnnotatorNotes T181	lemma = 'to'
+T182	VVI 703 706	ban
+#182	AnnotatorNotes T182	lemma = 'ban'
+T183	NN1 707 713	pirate
+#183	AnnotatorNotes T183	lemma = 'pirate'
+T184	NN2 714 721	sources
+#184	AnnotatorNotes T184	lemma = 'source'
+T185	CJS 722 729	because
+#185	AnnotatorNotes T185	lemma = 'because'
+T186	PNP 730 731	I
+#186	AnnotatorNotes T186	lemma = 'i'
+T187	VVB 732 736	know
+#187	AnnotatorNotes T187	lemma = 'know'
+T188	PRP 737 739	at
+#188	AnnotatorNotes T188	lemma = 'at'
+T189	AV0 740 745	least
+#189	AnnotatorNotes T189	lemma = 'least'
+T190	CRD 746 749	one
+#190	AnnotatorNotes T190	lemma = 'one'
+T191	AJ0 750 757	perfect
+#191	AnnotatorNotes T191	lemma = 'perfect'
+T192	NN1 758 761	way
+#192	AnnotatorNotes T192	lemma = 'way'
+T193	TO0 762 764	to
+#193	AnnotatorNotes T193	lemma = 'to'
+T194	VVI 765 773	decrease
+#194	AnnotatorNotes T194	lemma = 'decrease'
+T195	AJ0 774 781	illegal
+#195	AnnotatorNotes T195	lemma = 'illegal'
+T196	NN1 782 789	copying
+#196	AnnotatorNotes T196	lemma = 'copying|copy'
+T197	SENT 789 790	.
+#197	AnnotatorNotes T197	lemma = '.'
+T198	AT0 791 792	A
+#198	AnnotatorNotes T198	lemma = 'a'
+T199	NN1 793 796	lot
+#199	AnnotatorNotes T199	lemma = 'lot'
+T200	PRF 797 799	of
+#200	AnnotatorNotes T200	lemma = 'of'
+T201	NN0 800 806	people
+#201	AnnotatorNotes T201	lemma = 'people'
+T202	VVB 807 810	use
+#202	AnnotatorNotes T202	lemma = 'use'
+T203	NN2 811 819	services
+#203	AnnotatorNotes T203	lemma = 'service'
+T204	PRP 820 824	like
+#204	AnnotatorNotes T204	lemma = 'like'
+T205	NN1 825 830	Apple
+#205	AnnotatorNotes T205	lemma = 'apple'
+T206	NN1 831 836	Music
+#206	AnnotatorNotes T206	lemma = 'music'
+T207	CJC 837 839	or
+#207	AnnotatorNotes T207	lemma = 'or'
+T208	VVB 840 847	Spotify
+#208	AnnotatorNotes T208	lemma = 'Spotify'
+T209	SENT 847 848	.
+#209	AnnotatorNotes T209	lemma = '.'
+T210	PNP 849 853	They
+#210	AnnotatorNotes T210	lemma = 'they'
+T211	VVB 854 859	allow
+#211	AnnotatorNotes T211	lemma = 'allow'
+T212	TO0 860 862	to
+#212	AnnotatorNotes T212	lemma = 'to'
+T213	VVI 863 869	listen
+#213	AnnotatorNotes T213	lemma = 'listen'
+T214	NN1 870 875	music
+#214	AnnotatorNotes T214	lemma = 'music'
+T215	PRP 876 879	for
+#215	AnnotatorNotes T215	lemma = 'for'
+T216	AJ0 880 885	small
+#216	AnnotatorNotes T216	lemma = 'small'
+T217	NN1 886 889	pay
+#217	AnnotatorNotes T217	lemma = 'pay'
+T218	AT0 890 895	every
+#218	AnnotatorNotes T218	lemma = 'every'
+T219	NN1 896 901	month
+#219	AnnotatorNotes T219	lemma = 'month'
+T220	PRP 902 906	with
+#220	AnnotatorNotes T220	lemma = 'with'
+T221	NP0 907 914	speciel
+#221	AnnotatorNotes T221	lemma = 'speciel'
+T222	VVZ 915 921	offers
+#222	AnnotatorNotes T222	lemma = 'offer'
+T223	PRP 922 925	for
+#223	AnnotatorNotes T223	lemma = 'for'
+T224	NN2 926 934	students
+#224	AnnotatorNotes T224	lemma = 'student'
+T225	SENT 934 935	.
+#225	AnnotatorNotes T225	lemma = '.'
+T226	AV0 936 938	So
+#226	AnnotatorNotes T226	lemma = 'so'
+T227	VDD 939 942	did
+#227	AnnotatorNotes T227	lemma = 'do'
+T228	NP0 943 950	Netflix
+#228	AnnotatorNotes T228	lemma = 'Netflix'
+T229	PUN 950 951	,
+#229	AnnotatorNotes T229	lemma = ','
+T230	NP0 952 955	HBO
+#230	AnnotatorNotes T230	lemma = 'hbo'
+T231	PUN 955 956	,
+#231	AnnotatorNotes T231	lemma = ','
+T232	NP0 957 963	Amedia
+#232	AnnotatorNotes T232	lemma = 'Amedia'
+T233	SENT 963 964	.
+#233	AnnotatorNotes T233	lemma = '.'
+T234	PNP 965 969	They
+#234	AnnotatorNotes T234	lemma = 'they'
+T235	VVD 970 977	created
+#235	AnnotatorNotes T235	lemma = 'create|created'
+T236	AJ0 978 986	striming
+#236	AnnotatorNotes T236	lemma = 'striming'
+T237	NN2 987 995	services
+#237	AnnotatorNotes T237	lemma = 'service'
+T238	PRP 996 1000	with
+#238	AnnotatorNotes T238	lemma = 'with'
+T239	AJ0 1001 1005	huge
+#239	AnnotatorNotes T239	lemma = 'huge'
+T240	NN1 1006 1012	amount
+#240	AnnotatorNotes T240	lemma = 'amount'
+T241	PRF 1013 1015	of
+#241	AnnotatorNotes T241	lemma = 'of'
+T242	NN2 1016 1025	TV-series
+#242	AnnotatorNotes T242	lemma = 'TV-series'
+T243	CJC 1026 1029	and
+#243	AnnotatorNotes T243	lemma = 'and'
+T244	NN2 1030 1035	films
+#244	AnnotatorNotes T244	lemma = 'film'
+T245	PRP 1036 1039	for
+#245	AnnotatorNotes T245	lemma = 'for'
+T246	CRD 1040 1042	10
+#246	AnnotatorNotes T246	lemma = '10'
+T247	NN2 1043 1050	dollors
+#247	AnnotatorNotes T247	lemma = 'dollors'
+T248	PRP 1051 1054	per
+#248	AnnotatorNotes T248	lemma = 'per'
+T249	NN1 1055 1060	month
+#249	AnnotatorNotes T249	lemma = 'month'
+T250	CJT 1061 1065	that
+#250	AnnotatorNotes T250	lemma = 'that'
+T251	CRD 1066 1074	millions
+#251	AnnotatorNotes T251	lemma = 'millions'
+T252	PRF 1075 1077	of
+#252	AnnotatorNotes T252	lemma = 'of'
+T253	NN1 1078 1086	internet
+#253	AnnotatorNotes T253	lemma = 'internet'
+T254	NN2 1087 1092	users
+#254	AnnotatorNotes T254	lemma = 'user'
+T255	VVD 1093 1099	forgot
+#255	AnnotatorNotes T255	lemma = 'forget'
+T256	PRP 1100 1105	about
+#256	AnnotatorNotes T256	lemma = 'about'
+T257	DPS 1106 1111	their
+#257	AnnotatorNotes T257	lemma = 'they'
+T258	NN1 1112 1121	PirateBay
+#258	AnnotatorNotes T258	lemma = 'PirateBay'
+T259	NN2 1122 1130	accounts
+#259	AnnotatorNotes T259	lemma = 'account'
+T260	SENT 1130 1131	.
+#260	AnnotatorNotes T260	lemma = '.'
+T261	AV0 1132 1134	So
+#261	AnnotatorNotes T261	lemma = 'so'
+T262	AT0 1135 1138	the
+#262	AnnotatorNotes T262	lemma = 'the'
+T263	NN1 1139 1145	answer
+#263	AnnotatorNotes T263	lemma = 'answer'
+T264	VBZ 1146 1148	is
+#264	AnnotatorNotes T264	lemma = 'be'
+T265	XX0 1149 1152	not
+#265	AnnotatorNotes T265	lemma = 'not'
+T266	TO0 1153 1155	to
+#266	AnnotatorNotes T266	lemma = 'to'
+T267	VVI 1156 1162	punish
+#267	AnnotatorNotes T267	lemma = 'punish'
+T268	NN0 1163 1169	people
+#268	AnnotatorNotes T268	lemma = 'people'
+T269	CJC 1170 1173	but
+#269	AnnotatorNotes T269	lemma = 'but'
+T270	VVB 1174 1178	make
+#270	AnnotatorNotes T270	lemma = 'make'
+T271	AT0 1179 1182	the
+#271	AnnotatorNotes T271	lemma = 'the'
+T272	NN1 1183 1188	offer
+#272	AnnotatorNotes T272	lemma = 'offer'
+T273	DTQ 1189 1194	which
+#273	AnnotatorNotes T273	lemma = 'which'
+T274	VM0 1195 1199	will
+#274	AnnotatorNotes T274	lemma = 'will'
+T275	VVI 1200 1204	make
+#275	AnnotatorNotes T275	lemma = 'make'
+T276	PNP 1205 1209	them
+#276	AnnotatorNotes T276	lemma = 'they'
+T277	TO0 1210 1212	to
+#277	AnnotatorNotes T277	lemma = 'to'
+T278	VVI 1213 1219	refuse
+#278	AnnotatorNotes T278	lemma = 'refuse'
+T279	PRP 1220 1224	from
+#279	AnnotatorNotes T279	lemma = 'from'
+T280	AJ0 1225 1232	illegal
+#280	AnnotatorNotes T280	lemma = 'illegal'
+T281	NN1 1233 1240	copying
+#281	AnnotatorNotes T281	lemma = 'copying|copy'
+T282	SENT 1240 1241	.
+#282	AnnotatorNotes T282	lemma = '.'
+T283	AJ0 1243 1249	Modern
+#283	AnnotatorNotes T283	lemma = 'modern'
+T284	NN2 1250 1262	technologies
+#284	AnnotatorNotes T284	lemma = 'technology'
+T285	PRP 1263 1267	like
+#285	AnnotatorNotes T285	lemma = 'like'
+T286	NN2 1268 1279	smartphones
+#286	AnnotatorNotes T286	lemma = 'smartphones'
+T287	PUN 1279 1280	,
+#287	AnnotatorNotes T287	lemma = ','
+T288	NN2 1281 1288	tablets
+#288	AnnotatorNotes T288	lemma = 'tablet'
+T289	PUN 1288 1289	,
+#289	AnnotatorNotes T289	lemma = ','
+T290	NP0 1290 1295	Wi-Fi
+#290	AnnotatorNotes T290	lemma = 'Wi-Fi'
+T291	CJC 1296 1299	and
+#291	AnnotatorNotes T291	lemma = 'and'
+T292	AJ0 1300 1306	mobile
+#292	AnnotatorNotes T292	lemma = 'mobile'
+T293	NN1 1307 1315	Internet
+#293	AnnotatorNotes T293	lemma = 'internet'
+T294	VVZ 1316 1322	allows
+#294	AnnotatorNotes T294	lemma = 'allow'
+T295	NN2 1323 1333	developers
+#295	AnnotatorNotes T295	lemma = 'developer'
+T296	CJC 1334 1337	and
+#296	AnnotatorNotes T296	lemma = 'and'
+T297	NN2 1338 1347	companies
+#297	AnnotatorNotes T297	lemma = 'company'
+T298	TO0 1348 1350	to
+#298	AnnotatorNotes T298	lemma = 'to'
+T299	VVI 1351 1357	create
+#299	AnnotatorNotes T299	lemma = 'create'
+T300	CJC 1358 1361	and
+#300	AnnotatorNotes T300	lemma = 'and'
+T301	VVI 1362 1366	sell
+#301	AnnotatorNotes T301	lemma = 'sell'
+T302	NN1 1367 1374	content
+#302	AnnotatorNotes T302	lemma = 'content'
+T303	AV0 1375 1386	accordingly
+#303	AnnotatorNotes T303	lemma = 'accordingly'
+T304	PRP 1387 1389	to
+#304	AnnotatorNotes T304	lemma = 'to'
+T305	AJ0 1390 1398	auditory
+#305	AnnotatorNotes T305	lemma = 'auditory'
+T306	POS 1398 1400	's
+#306	AnnotatorNotes T306	lemma = 's'
+T307	NN2 1401 1409	requests
+#307	AnnotatorNotes T307	lemma = 'request'
+T308	CJC 1410 1413	and
+#308	AnnotatorNotes T308	lemma = 'and'
+T309	PNP 1414 1418	they
+#309	AnnotatorNotes T309	lemma = 'they'
+T310	NN1 1419 1424	shoul
+#310	AnnotatorNotes T310	lemma = 'shoul'
+T311	VVB 1425 1428	use
+#311	AnnotatorNotes T311	lemma = 'use'
+T312	DPS 1429 1434	their
+#312	AnnotatorNotes T312	lemma = 'they'
+T313	NN2 1435 1448	possibilities
+#313	AnnotatorNotes T313	lemma = 'possibility'
+T314	SENT 1448 1449	.
+#314	AnnotatorNotes T314	lemma = '.'
+T315	VVG 1450 1457	Judging
+#315	AnnotatorNotes T315	lemma = 'judge'
+T316	PNI 1458 1466	everyone
+#316	AnnotatorNotes T316	lemma = 'everyone'
+T317	VBZ 1467 1469	is
+#317	AnnotatorNotes T317	lemma = 'be'
+T318	AJ0 1470 1480	complected
+#318	AnnotatorNotes T318	lemma = 'complected'
+T319	CJC 1481 1484	and
+#319	AnnotatorNotes T319	lemma = 'and'
+T320	AJ0 1485 1494	expensive
+#320	AnnotatorNotes T320	lemma = 'expensive'
+T321	NN1 1495 1502	process
+#321	AnnotatorNotes T321	lemma = 'process'
+T322	SENT 1502 1503	.
+#322	AnnotatorNotes T322	lemma = ''

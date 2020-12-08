@@ -1,0 +1,256 @@
+T1	Spelling 539 546	desease
+#1	AnnotatorNotes T1	disease
+T2	Spelling 264 273	surgering
+#2	AnnotatorNotes T2	suffering
+T3	Articles 24 42	growing popularity
+#3	AnnotatorNotes T3	the growing popularity
+T4	Noun_number 50 60	technology
+#4	AnnotatorNotes T4	technologies
+T5	Articles 68 76	a reason
+#5	AnnotatorNotes T5	the reason
+T6	Spelling 84 92	deseases
+#6	AnnotatorNotes T6	diseases
+T7	Punctuation 121 127	, that
+#7	AnnotatorNotes T7	that
+T8	Redundant_comp 140 150	technology
+A1	Delete T8
+T9	Defining 213 252	, who hold their laptops on their knees
+#8	AnnotatorNotes T9	who hold their laptops on their knees
+T10	Tense_choice 253 257	were
+#9	AnnotatorNotes T10	are
+T11	Spelling 286 288	om
+#10	AnnotatorNotes T11	of
+T12	Articles 340 349	microwave
+#11	AnnotatorNotes T12	a microwave
+T13	Punctuation 361 367	, that
+#12	AnnotatorNotes T13	that
+T14	Inappropriate_register 380 385	can't
+#13	AnnotatorNotes T14	can not
+T15	lex_item_choice 386 391	leave
+#14	AnnotatorNotes T15	live
+T16	Defining 414 439	, which was heated in it,
+#15	AnnotatorNotes T16	which was heated in it
+T17	Punctuation 499 506	, which
+#16	AnnotatorNotes T17	which
+T18	EX0 0 5	There
+#17	AnnotatorNotes T18	lemma = 'there'
+T19	VBZ 6 8	is
+#18	AnnotatorNotes T19	lemma = 'be'
+T20	AT0 9 10	a
+#19	AnnotatorNotes T20	lemma = 'a'
+T21	NN1 11 17	belief
+#20	AnnotatorNotes T21	lemma = 'belief'
+T22	PUN 17 18	,
+#21	AnnotatorNotes T22	lemma = ','
+T23	DT0 19 23	that
+#22	AnnotatorNotes T23	lemma = 'that'
+T24	AJ0 24 31	growing
+#23	AnnotatorNotes T24	lemma = 'growing|grow'
+T25	NN1 32 42	popularity
+#24	AnnotatorNotes T25	lemma = 'popularity'
+T26	PRF 43 45	of
+#25	AnnotatorNotes T26	lemma = 'of'
+T27	AJ0 46 49	new
+#26	AnnotatorNotes T27	lemma = 'new'
+T28	NN1 50 60	technology
+#27	AnnotatorNotes T28	lemma = 'technology'
+T29	VM0 61 64	may
+#28	AnnotatorNotes T29	lemma = 'may'
+T30	VBI 65 67	be
+#29	AnnotatorNotes T30	lemma = 'be'
+T31	AT0 68 69	a
+#30	AnnotatorNotes T31	lemma = 'a'
+T32	NN1 70 76	reason
+#31	AnnotatorNotes T32	lemma = 'reason'
+T33	PRF 77 79	of
+#32	AnnotatorNotes T33	lemma = 'of'
+T34	AJ0 80 83	new
+#33	AnnotatorNotes T34	lemma = 'new'
+T35	NN2 84 92	deseases
+#34	AnnotatorNotes T35	lemma = 'deseases'
+T36	SENT 92 93	.
+#35	AnnotatorNotes T36	lemma = '.'
+T37	NN1 95 102	Science
+#36	AnnotatorNotes T37	lemma = 'science'
+T38	VHZ 103 106	has
+#37	AnnotatorNotes T38	lemma = 'have'
+T39	AV0 107 114	already
+#38	AnnotatorNotes T39	lemma = 'already'
+T40	VVN 115 121	proved
+#39	AnnotatorNotes T40	lemma = 'prove'
+T41	PUN 121 122	,
+#40	AnnotatorNotes T41	lemma = ','
+T42	CJT 123 127	that
+#41	AnnotatorNotes T42	lemma = 'that'
+T43	DT0 128 132	some
+#42	AnnotatorNotes T43	lemma = 'some'
+T44	AJ0 133 139	modern
+#43	AnnotatorNotes T44	lemma = 'modern'
+T45	NN1 140 150	technology
+#44	AnnotatorNotes T45	lemma = 'technology'
+T46	NN2 151 158	devices
+#45	AnnotatorNotes T46	lemma = 'device'
+T47	VM0 159 162	can
+#46	AnnotatorNotes T47	lemma = 'can'
+T48	VVI 163 168	cause
+#47	AnnotatorNotes T48	lemma = 'cause'
+T49	AJ0 169 176	serious
+#48	AnnotatorNotes T49	lemma = 'serious'
+T50	NN1 177 183	health
+#49	AnnotatorNotes T50	lemma = 'health'
+T51	NN2 184 192	problems
+#50	AnnotatorNotes T51	lemma = 'problem'
+T52	SENT 192 193	.
+#51	AnnotatorNotes T52	lemma = '.'
+T53	PRP 194 197	For
+#52	AnnotatorNotes T53	lemma = 'for'
+T54	NN1 198 205	example
+#53	AnnotatorNotes T54	lemma = 'example'
+T55	PUN 205 206	,
+#54	AnnotatorNotes T55	lemma = ','
+T56	NN0 207 213	people
+#55	AnnotatorNotes T56	lemma = 'people'
+T57	PUN 213 214	,
+#56	AnnotatorNotes T57	lemma = ','
+T58	PNQ 215 218	who
+#57	AnnotatorNotes T58	lemma = 'who'
+T59	VVB 219 223	hold
+#58	AnnotatorNotes T59	lemma = 'hold'
+T60	DPS 224 229	their
+#59	AnnotatorNotes T60	lemma = 'they'
+T61	NN2 230 237	laptops
+#60	AnnotatorNotes T61	lemma = 'laptop'
+T62	PRP 238 240	on
+#61	AnnotatorNotes T62	lemma = 'on'
+T63	DPS 241 246	their
+#62	AnnotatorNotes T63	lemma = 'they'
+T64	NN2 247 252	knees
+#63	AnnotatorNotes T64	lemma = 'knee'
+T65	VBD 253 257	were
+#64	AnnotatorNotes T65	lemma = 'be'
+T66	AV0 258 263	often
+#65	AnnotatorNotes T66	lemma = 'often'
+T67	AJ0 264 273	surgering
+#66	AnnotatorNotes T67	lemma = 'surgering'
+T68	PRP 274 278	from
+#67	AnnotatorNotes T68	lemma = 'from'
+T69	NN1 279 285	cancer
+#68	AnnotatorNotes T69	lemma = 'cancer'
+T70	NN1 286 288	om
+#69	AnnotatorNotes T70	lemma = 'om'
+T71	DT0 289 293	that
+#70	AnnotatorNotes T71	lemma = 'that'
+T72	NN1 294 298	part
+#71	AnnotatorNotes T72	lemma = 'part'
+T73	PRF 299 301	of
+#72	AnnotatorNotes T73	lemma = 'of'
+T74	DPS 302 307	their
+#73	AnnotatorNotes T74	lemma = 'they'
+T75	NN2 308 314	bodies
+#74	AnnotatorNotes T75	lemma = 'body'
+T76	SENT 314 315	.
+#75	AnnotatorNotes T76	lemma = '.'
+T77	DT0 316 323	Another
+#76	AnnotatorNotes T77	lemma = 'another'
+T78	AJ0 324 328	good
+#77	AnnotatorNotes T78	lemma = 'good'
+T79	NN1 329 336	example
+#78	AnnotatorNotes T79	lemma = 'example'
+T80	VBZ 337 339	is
+#79	AnnotatorNotes T80	lemma = 'be'
+T81	NN1 340 349	microwave
+#80	AnnotatorNotes T81	lemma = 'microwave'
+T82	PUN 349 350	,
+#81	AnnotatorNotes T82	lemma = ','
+T83	AT0 351 354	the
+#82	AnnotatorNotes T83	lemma = 'the'
+T84	NN1 355 361	device
+#83	AnnotatorNotes T84	lemma = 'device'
+T85	PUN 361 362	,
+#84	AnnotatorNotes T85	lemma = ','
+T86	CJT 363 367	that
+#85	AnnotatorNotes T86	lemma = 'that'
+T87	DT0 368 372	some
+#86	AnnotatorNotes T87	lemma = 'some'
+T88	NN0 373 379	people
+#87	AnnotatorNotes T88	lemma = 'people'
+T89	VM0 380 382	ca
+#88	AnnotatorNotes T89	lemma = 'can'
+T90	XX0 382 385	n't
+#89	AnnotatorNotes T90	lemma = 'not'
+T91	VVI 386 391	leave
+#90	AnnotatorNotes T91	lemma = 'leave'
+T92	PRP 392 399	without
+#91	AnnotatorNotes T92	lemma = 'without'
+T93	SENT 399 400	.
+#92	AnnotatorNotes T93	lemma = '.'
+T94	AV0 401 408	Firstly
+#93	AnnotatorNotes T94	lemma = 'firstly'
+T95	PUN 408 409	,
+#94	AnnotatorNotes T95	lemma = ','
+T96	NN1 410 414	food
+#95	AnnotatorNotes T96	lemma = 'food'
+T97	PUN 414 415	,
+#96	AnnotatorNotes T97	lemma = ','
+T98	DTQ 416 421	which
+#97	AnnotatorNotes T98	lemma = 'which'
+T99	VBD 422 425	was
+#98	AnnotatorNotes T99	lemma = 'be'
+T100	VVN 426 432	heated
+#99	AnnotatorNotes T100	lemma = 'heat|heated'
+T101	PRP 433 435	in
+#100	AnnotatorNotes T101	lemma = 'in'
+T102	PNP 436 438	it
+#101	AnnotatorNotes T102	lemma = 'it'
+T103	PUN 438 439	,
+#102	AnnotatorNotes T103	lemma = ','
+T104	VVZ 440 445	loses
+#103	AnnotatorNotes T104	lemma = 'lose'
+T105	PNP 446 448	it
+#104	AnnotatorNotes T105	lemma = 'it'
+T106	VBZ 448 450	's
+#105	AnnotatorNotes T106	lemma = 'be'
+T107	NN1 451 458	mineral
+#106	AnnotatorNotes T107	lemma = 'mineral'
+T108	NN2 459 467	elements
+#107	AnnotatorNotes T108	lemma = 'element'
+T109	SENT 467 468	.
+#108	AnnotatorNotes T109	lemma = '.'
+T110	AV0 469 477	Secondly
+#109	AnnotatorNotes T110	lemma = 'secondly'
+T111	PUN 477 478	,
+#110	AnnotatorNotes T111	lemma = ','
+T112	PNP 479 481	it
+#111	AnnotatorNotes T112	lemma = 'it'
+T113	VVZ 482 490	produces
+#112	AnnotatorNotes T113	lemma = 'produce'
+T114	NN2 491 499	elements
+#113	AnnotatorNotes T114	lemma = 'element'
+T115	PUN 499 500	,
+#114	AnnotatorNotes T115	lemma = ','
+T116	DTQ 501 506	which
+#115	AnnotatorNotes T116	lemma = 'which'
+T117	VBB 507 510	are
+#116	AnnotatorNotes T117	lemma = 'be'
+T118	AJ0 511 514	bad
+#117	AnnotatorNotes T118	lemma = 'bad'
+T119	PRP 515 518	for
+#118	AnnotatorNotes T119	lemma = 'for'
+T120	AJ0 519 524	human
+#119	AnnotatorNotes T120	lemma = 'human'
+T121	POS 524 526	's
+#120	AnnotatorNotes T121	lemma = 's'
+T122	NN1 527 533	health
+#121	AnnotatorNotes T122	lemma = 'health'
+T123	SENT 533 534	.
+#122	AnnotatorNotes T123	lemma = '.'
+T124	AT0 535 538	The
+#123	AnnotatorNotes T124	lemma = 'the'
+T125	NN1 539 546	desease
+#124	AnnotatorNotes T125	lemma = 'desease'
+T126	PUN 546 547	,
+#125	AnnotatorNotes T126	lemma = ','
+T127	DT0 548 552	that
+#126	AnnotatorNotes T127	lemma = 'that'
+T128	NN2 553 565	technologies
+#127	AnnotatorNotes T128	lemma = ''

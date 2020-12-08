@@ -1,0 +1,277 @@
+T1	Spelling 25 33	commited
+#1	AnnotatorNotes T1	committed
+T2	Category_confusion 0 4	Grow
+#2	AnnotatorNotes T2	The growth
+T3	Articles 0 4	Grow
+#3	AnnotatorNotes T3	The growth
+T4	Prepositional_noun 153 163	reasons of
+#4	AnnotatorNotes T4	reasons for
+T5	Articles 183 188	first
+#5	AnnotatorNotes T5	the first
+T6	Punctuation 169 182	In my opinion
+#6	AnnotatorNotes T6	In my opinion,
+T7	Infinitive_constr 320 328	for take
+#7	AnnotatorNotes T7	to take
+T8	Derivation 242 248	womens
+#8	AnnotatorNotes T8	women
+T9	Agreement_errors 253 256	has
+#9	AnnotatorNotes T9	have
+T10	Agreement_errors 306 309	has
+#10	AnnotatorNotes T10	have
+T11	Agreement_errors 365 368	has
+#11	AnnotatorNotes T11	have
+T12	Punctuation 353 355	So
+#12	AnnotatorNotes T12	So,
+T13	Articles 486 494	Internet
+#13	AnnotatorNotes T13	the Internet
+T14	Infinitive_constr 512 520	for find
+#14	AnnotatorNotes T14	to find
+T15	Noun_number 568 574	parent
+#15	AnnotatorNotes T15	parents
+T16	Agreement_errors 575 587	doesn't know
+#16	AnnotatorNotes T16	don't know
+R1	Dependent_change Arg1:T16 Arg2:T15
+T17	Punctuation 117 124	problem
+#17	AnnotatorNotes T17	problem,
+T18	Punctuation 206 214	equality
+#18	AnnotatorNotes T18	equality:
+T19	Punctuation 291 300	therefore
+#19	AnnotatorNotes T19	therefore,
+T20	lex_item_choice 8 14	amount
+#20	AnnotatorNotes T20	level
+T21	suggestion 442 450	majority
+T22	suggestion 575 587	doesn't know
+T23	VVB 0 4	Grow
+#21	AnnotatorNotes T23	lemma = 'grow'
+T24	PRF 5 7	of
+#22	AnnotatorNotes T24	lemma = 'of'
+T25	NN1 8 14	amount
+#23	AnnotatorNotes T25	lemma = 'amount'
+T26	PRF 15 17	of
+#24	AnnotatorNotes T26	lemma = 'of'
+T27	NN2 18 24	crimes
+#25	AnnotatorNotes T27	lemma = 'crime'
+T28	VVN 25 33	commited
+#26	AnnotatorNotes T28	lemma = 'commit'
+T29	PRP 34 36	by
+#27	AnnotatorNotes T29	lemma = 'by'
+T30	AJ0 37 42	young
+#28	AnnotatorNotes T30	lemma = 'young'
+T31	NN0 43 49	people
+#29	AnnotatorNotes T31	lemma = 'people'
+T32	VBZ 50 52	is
+#30	AnnotatorNotes T32	lemma = 'be'
+T33	AT0 53 54	a
+#31	AnnotatorNotes T33	lemma = 'a'
+T34	AJ0 55 62	serious
+#32	AnnotatorNotes T34	lemma = 'serious'
+T35	NN1 63 70	problem
+#33	AnnotatorNotes T35	lemma = 'problem'
+T36	PRF 71 73	of
+#34	AnnotatorNotes T36	lemma = 'of'
+T37	DPS 74 77	our
+#35	AnnotatorNotes T37	lemma = 'we'
+T38	NN1 78 85	society
+#36	AnnotatorNotes T38	lemma = 'society'
+T39	SENT 85 86	.
+#37	AnnotatorNotes T39	lemma = '.'
+T40	TO0 87 89	To
+#38	AnnotatorNotes T40	lemma = 'to'
+T41	VVI 90 94	find
+#39	AnnotatorNotes T41	lemma = 'find'
+T42	AVQ 95 98	how
+#40	AnnotatorNotes T42	lemma = 'how'
+T43	PNP 99 101	we
+#41	AnnotatorNotes T43	lemma = 'we'
+T44	VM0 102 105	can
+#42	AnnotatorNotes T44	lemma = 'can'
+T45	VVI 106 111	solve
+#43	AnnotatorNotes T45	lemma = 'solve'
+T46	DT0 112 116	this
+#44	AnnotatorNotes T46	lemma = 'this'
+T47	NN1 117 124	problem
+#45	AnnotatorNotes T47	lemma = 'problem'
+T48	AV0 125 132	firstly
+#46	AnnotatorNotes T48	lemma = 'firstly'
+T49	PNP 133 135	we
+#47	AnnotatorNotes T49	lemma = 'we'
+T50	VHB 136 140	have
+#48	AnnotatorNotes T50	lemma = 'have'
+T51	TO0 141 143	to
+#49	AnnotatorNotes T51	lemma = 'to'
+T52	VVI 144 148	find
+#50	AnnotatorNotes T52	lemma = 'find'
+T53	AT0 149 152	the
+#51	AnnotatorNotes T53	lemma = 'the'
+T54	NN2 153 160	reasons
+#52	AnnotatorNotes T54	lemma = 'reason'
+T55	PRF 161 163	of
+#53	AnnotatorNotes T55	lemma = 'of'
+T56	PNP 164 166	it
+#54	AnnotatorNotes T56	lemma = 'it'
+T57	SENT 166 167	.
+#55	AnnotatorNotes T57	lemma = '.'
+T58	PRP 169 171	In
+#56	AnnotatorNotes T58	lemma = 'in'
+T59	DPS 172 174	my
+#57	AnnotatorNotes T59	lemma = 'i'
+T60	NN1 175 182	opinion
+#58	AnnotatorNotes T60	lemma = 'opinion'
+T61	ORD 183 188	first
+#59	AnnotatorNotes T61	lemma = 'first'
+T62	NN1 189 195	reason
+#60	AnnotatorNotes T62	lemma = 'reason'
+T63	VBZ 196 198	is
+#61	AnnotatorNotes T63	lemma = 'be'
+T64	NN1 199 205	gender
+#62	AnnotatorNotes T64	lemma = 'gender'
+T65	NN1 206 214	equality
+#63	AnnotatorNotes T65	lemma = 'equality'
+T66	AV0 215 223	nowadays
+#64	AnnotatorNotes T66	lemma = 'nowadays'
+T67	AT0 224 227	the
+#65	AnnotatorNotes T67	lemma = 'the'
+T68	NN1 228 238	percentage
+#66	AnnotatorNotes T68	lemma = 'percentage'
+T69	PRF 239 241	of
+#67	AnnotatorNotes T69	lemma = 'of'
+T70	NN2 242 248	womens
+#68	AnnotatorNotes T70	lemma = 'women'
+T71	PNQ 249 252	who
+#69	AnnotatorNotes T71	lemma = 'who'
+T72	VHZ 253 256	has
+#70	AnnotatorNotes T72	lemma = 'have'
+T73	AT0 257 258	a
+#71	AnnotatorNotes T73	lemma = 'a'
+T74	NN1 259 262	job
+#72	AnnotatorNotes T74	lemma = 'job'
+T75	VBZ 263 265	is
+#73	AnnotatorNotes T75	lemma = 'be'
+T76	AJC 266 272	higher
+#74	AnnotatorNotes T76	lemma = 'high'
+T77	CJS 273 277	than
+#75	AnnotatorNotes T77	lemma = 'than'
+T78	AV0 278 282	ever
+#76	AnnotatorNotes T78	lemma = 'ever'
+T79	CJS 283 289	before
+#77	AnnotatorNotes T79	lemma = 'before'
+T80	PUN 289 290	,
+#78	AnnotatorNotes T80	lemma = ','
+T81	AV0 291 300	therefore
+#79	AnnotatorNotes T81	lemma = 'therefore'
+T82	PNP 301 305	they
+#80	AnnotatorNotes T82	lemma = 'they'
+T83	VHZ 306 309	has
+#81	AnnotatorNotes T83	lemma = 'have'
+T84	DT0 310 314	less
+#82	AnnotatorNotes T84	lemma = 'less'
+T85	NN1 315 319	time
+#83	AnnotatorNotes T85	lemma = 'time'
+T86	PRP 320 323	for
+#84	AnnotatorNotes T86	lemma = 'for'
+T87	NN1 324 328	take
+#85	AnnotatorNotes T87	lemma = 'take'
+T88	NN1 329 333	care
+#86	AnnotatorNotes T88	lemma = 'care'
+T89	PRF 334 336	of
+#87	AnnotatorNotes T89	lemma = 'of'
+T90	DPS 337 342	their
+#88	AnnotatorNotes T90	lemma = 'they'
+T91	NN2 343 351	children
+#89	AnnotatorNotes T91	lemma = 'child'
+T92	SENT 351 352	.
+#90	AnnotatorNotes T92	lemma = '.'
+T93	AV0 353 355	So
+#91	AnnotatorNotes T93	lemma = 'so'
+T94	NN2 356 364	children
+#92	AnnotatorNotes T94	lemma = 'child'
+T95	VHZ 365 368	has
+#93	AnnotatorNotes T95	lemma = 'have'
+T96	DT0 369 373	more
+#94	AnnotatorNotes T96	lemma = 'more'
+T97	NN1 374 381	freedom
+#95	AnnotatorNotes T97	lemma = 'freedom'
+T98	CJS 382 386	than
+#96	AnnotatorNotes T98	lemma = 'than'
+T99	AV0 387 391	ever
+#97	AnnotatorNotes T99	lemma = 'ever'
+T100	AV0 392 398	before
+#98	AnnotatorNotes T100	lemma = 'before'
+T101	SENT 398 399	.
+#99	AnnotatorNotes T101	lemma = '.'
+T102	DT0 401 408	Another
+#100	AnnotatorNotes T102	lemma = 'another'
+T103	NN1 409 415	reason
+#101	AnnotatorNotes T103	lemma = 'reason'
+T104	VBZ 416 418	is
+#102	AnnotatorNotes T104	lemma = 'be'
+T105	AT0 419 422	the
+#103	AnnotatorNotes T105	lemma = 'the'
+T106	NN1 423 431	Internet
+#104	AnnotatorNotes T106	lemma = 'internet'
+T107	SENT 431 432	.
+#105	AnnotatorNotes T107	lemma = '.'
+T108	AV0 433 441	Nowadays
+#106	AnnotatorNotes T108	lemma = 'nowadays'
+T109	NN1 442 450	majority
+#107	AnnotatorNotes T109	lemma = 'majority'
+T110	PRF 451 453	of
+#108	AnnotatorNotes T110	lemma = 'of'
+T111	AJ0 454 459	young
+#109	AnnotatorNotes T111	lemma = 'young'
+T112	NN0 460 466	people
+#110	AnnotatorNotes T112	lemma = 'people'
+T113	VHZ 467 470	has
+#111	AnnotatorNotes T113	lemma = 'have'
+T114	AJ0 471 475	free
+#112	AnnotatorNotes T114	lemma = 'free'
+T115	NN1 476 482	access
+#113	AnnotatorNotes T115	lemma = 'access'
+T116	PRP 483 485	to
+#114	AnnotatorNotes T116	lemma = 'to'
+T117	NN1 486 494	Internet
+#115	AnnotatorNotes T117	lemma = 'internet'
+T118	SENT 494 495	.
+#116	AnnotatorNotes T118	lemma = '.'
+T119	PNP 496 500	They
+#117	AnnotatorNotes T119	lemma = 'they'
+T120	VM0 501 504	can
+#118	AnnotatorNotes T120	lemma = 'can'
+T121	VVI 505 508	use
+#119	AnnotatorNotes T121	lemma = 'use'
+T122	PNP 509 511	it
+#120	AnnotatorNotes T122	lemma = 'it'
+T123	PRP 512 515	for
+#121	AnnotatorNotes T123	lemma = 'for'
+T124	VVB 516 520	find
+#122	AnnotatorNotes T124	lemma = 'find'
+T125	DT0 521 524	any
+#123	AnnotatorNotes T125	lemma = 'any'
+T126	NN1 525 529	kind
+#124	AnnotatorNotes T126	lemma = 'kind'
+T127	PRF 530 532	of
+#125	AnnotatorNotes T127	lemma = 'of'
+T128	AJ0 533 542	forbidden
+#126	AnnotatorNotes T128	lemma = 'forbidden|forbid'
+T129	NN1 543 554	information
+#127	AnnotatorNotes T129	lemma = 'information'
+T130	PUN 554 555	,
+#128	AnnotatorNotes T130	lemma = ','
+T131	CJS 556 561	while
+#129	AnnotatorNotes T131	lemma = 'while'
+T132	DPS 562 567	their
+#130	AnnotatorNotes T132	lemma = 'they'
+T133	NN1 568 574	parent
+#131	AnnotatorNotes T133	lemma = 'parent'
+T134	VDZ 575 579	does
+#132	AnnotatorNotes T134	lemma = 'do'
+T135	XX0 579 582	n't
+#133	AnnotatorNotes T135	lemma = 'not'
+T136	VVI 583 587	know
+#134	AnnotatorNotes T136	lemma = 'know'
+T137	PRP 588 593	about
+#135	AnnotatorNotes T137	lemma = 'about'
+T138	PNP 594 596	it
+#136	AnnotatorNotes T138	lemma = 'it'
+T139	SENT 596 597	.
+#137	AnnotatorNotes T139	lemma = ''

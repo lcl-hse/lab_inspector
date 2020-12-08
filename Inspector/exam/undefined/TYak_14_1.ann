@@ -1,0 +1,605 @@
+T1	Articles 39 45	number
+A1	Cause T1 Absence_of_Category_in_L1
+#1	AnnotatorNotes T1	the number
+T2	Articles 68 70	UK
+A2	Cause T2 Absence_of_Category_in_L1
+#2	AnnotatorNotes T2	the UK
+T3	Articles 120 142	most popular countries
+A3	Cause T3 Absence_of_Category_in_L1
+#3	AnnotatorNotes T3	the most popular countries
+T4	Voice 149 155	visits
+A4	Cause T4 Other
+#4	AnnotatorNotes T4	are visited by
+T5	Agreement_errors 149 155	visits
+A5	Cause T5 Other
+#5	AnnotatorNotes T5	are visited
+T6	Articles 156 158	UK
+A6	Cause T6 Absence_of_Category_in_L1
+#6	AnnotatorNotes T6	the UK 
+T7	Articles 185 187	UK
+A7	Cause T7 Absence_of_Category_in_L1
+#7	AnnotatorNotes T7	the UK
+T8	Absence_comp_sent 171 248	The visits by UK residents a more than visits to the UK by overseas residents
+A8	Cause T8 Other
+T9	Pronouns 259 261	it
+A9	Cause T9 Other
+#8	AnnotatorNotes T9	there
+T10	Numerals 276 284	millions
+A10	Cause T10 Other
+#9	AnnotatorNotes T10	million
+T11	Articles 327 333	number
+A11	Cause T11 Absence_of_Category_in_L1
+#10	AnnotatorNotes T11	the number
+T12	Pronouns 371 373	it
+A12	Cause T12 Other
+#11	AnnotatorNotes T12	there
+T13	Pronouns 477 479	it
+A13	Cause T13 Other
+#12	AnnotatorNotes T13	there
+T14	Articles 584 586	UK
+A14	Cause T14 Absence_of_Category_in_L1
+#13	AnnotatorNotes T14	the UK 
+T15	Pronouns 606 608	it
+A15	Cause T15 Other
+#14	AnnotatorNotes T15	there
+T16	Articles 648 654	number
+A16	Cause T16 Absence_of_Category_in_L1
+#15	AnnotatorNotes T16	the number
+T17	Noun_number 668 678	foreighner
+A17	Cause T17 Other
+#16	AnnotatorNotes T17	foreigners
+T18	Tense_choice 698 703	climb
+A18	Cause T18 L1_interference
+T19	Pronouns 716 718	it
+A19	Cause T19 Other
+#17	AnnotatorNotes T19	there
+T20	Spelling 783 787	wich
+A20	Cause T20 Typo
+#18	AnnotatorNotes T20	which
+T21	Articles 788 790	UK
+A21	Cause T21 Absence_of_Category_in_L1
+#19	AnnotatorNotes T21	the UK
+T22	Agreement_errors 817 821	were
+A22	Cause T22 Other
+#20	AnnotatorNotes T22	was
+T23	Articles 893 895	UK
+A23	Cause T23 Absence_of_Category_in_L1
+#21	AnnotatorNotes T23	the UK
+T24	Articles 984 986	UK
+A24	Cause T24 Absence_of_Category_in_L1
+#22	AnnotatorNotes T24	the UK
+T25	Articles 1147 1149	UK
+A25	Cause T25 Absence_of_Category_in_L1
+#23	AnnotatorNotes T25	the UK
+T26	Articles 1270 1272	UK
+A26	Cause T26 Absence_of_Category_in_L1
+#24	AnnotatorNotes T26	the UK
+T27	Articles 1324 1326	UK
+A27	Cause T27 Absence_of_Category_in_L1
+#25	AnnotatorNotes T27	the UK
+T28	DET 0 3	The
+#26	AnnotatorNotes T28	lemma = 'the'
+T29	NOUN 4 8	line
+#27	AnnotatorNotes T29	lemma = 'line'
+T30	ADP 9 14	graph
+#28	AnnotatorNotes T30	lemma = 'graph'
+T31	ADJ 15 20	shows
+#29	AnnotatorNotes T31	lemma = 'show'
+T32	NOUN 21 32	information
+#30	AnnotatorNotes T32	lemma = 'information'
+T33	ADP 33 38	about
+#31	AnnotatorNotes T33	lemma = 'about'
+T34	NOUN 39 45	number
+#32	AnnotatorNotes T34	lemma = 'number'
+T35	ADP 46 48	of
+#33	AnnotatorNotes T35	lemma = 'of'
+T36	NOUN 49 55	visits
+#34	AnnotatorNotes T36	lemma = 'visit'
+T37	ADP 56 58	to
+#35	AnnotatorNotes T37	lemma = 'to'
+T38	CCONJ 59 62	and
+#36	AnnotatorNotes T38	lemma = 'and'
+T39	ADP 63 67	from
+#37	AnnotatorNotes T39	lemma = 'from'
+T40	PROPN 68 70	UK
+#38	AnnotatorNotes T40	lemma = 'UK'
+T41	CCONJ 71 74	and
+#39	AnnotatorNotes T41	lemma = 'and'
+T42	DET 75 78	the
+#40	AnnotatorNotes T42	lemma = 'the'
+T43	ADJ 79 85	second
+#41	AnnotatorNotes T43	lemma = 'second'
+T44	NOUN 86 91	chart
+#42	AnnotatorNotes T44	lemma = 'chart'
+T45	ADV 92 97	below
+#43	AnnotatorNotes T45	lemma = 'below'
+T46	VERB 98 103	gives
+#44	AnnotatorNotes T46	lemma = 'give'
+T47	ADJ 104 113	statistic
+#45	AnnotatorNotes T47	lemma = 'statistic'
+T48	ADP 114 119	about
+#46	AnnotatorNotes T48	lemma = 'about'
+T49	ADV 120 124	most
+#47	AnnotatorNotes T49	lemma = 'most'
+T50	ADJ 125 132	popular
+#48	AnnotatorNotes T50	lemma = 'popular'
+T51	NOUN 133 142	countries
+#49	AnnotatorNotes T51	lemma = 'country'
+T52	PRON 143 148	which
+#50	AnnotatorNotes T52	lemma = 'which'
+T53	VERB 149 155	visits
+#51	AnnotatorNotes T53	lemma = 'visit'
+T54	PROPN 156 158	UK
+#52	AnnotatorNotes T54	lemma = 'UK'
+T55	NOUN 159 168	residents
+#53	AnnotatorNotes T55	lemma = 'resident'
+T56	PUNCT 168 169	.
+#54	AnnotatorNotes T56	lemma = '.'
+T57	DET 171 174	The
+#55	AnnotatorNotes T57	lemma = 'the'
+T58	NOUN 175 181	visits
+#56	AnnotatorNotes T58	lemma = 'visit'
+T59	ADP 182 184	by
+#57	AnnotatorNotes T59	lemma = 'by'
+T60	PROPN 185 187	UK
+#58	AnnotatorNotes T60	lemma = 'UK'
+T61	VERB 188 197	residents
+#59	AnnotatorNotes T61	lemma = 'resident'
+T62	DET 198 199	a
+#60	AnnotatorNotes T62	lemma = 'a'
+T63	ADJ 200 204	more
+#61	AnnotatorNotes T63	lemma = 'more'
+T64	ADP 205 209	than
+#62	AnnotatorNotes T64	lemma = 'than'
+T65	NOUN 210 216	visits
+#63	AnnotatorNotes T65	lemma = 'visit'
+T66	ADP 217 219	to
+#64	AnnotatorNotes T66	lemma = 'to'
+T67	DET 220 223	the
+#65	AnnotatorNotes T67	lemma = 'the'
+T68	PROPN 224 226	UK
+#66	AnnotatorNotes T68	lemma = 'UK'
+T69	ADP 227 229	by
+#67	AnnotatorNotes T69	lemma = 'by'
+T70	NOUN 230 238	overseas
+#68	AnnotatorNotes T70	lemma = 'oversea'
+T71	NOUN 239 248	residents
+#69	AnnotatorNotes T71	lemma = 'resident'
+T72	PUNCT 248 249	.
+#70	AnnotatorNotes T72	lemma = '.'
+T73	ADP 251 253	In
+#71	AnnotatorNotes T73	lemma = 'in'
+T74	NUM 254 258	1984
+#72	AnnotatorNotes T74	lemma = '1984'
+T75	PRON 259 261	it
+#73	AnnotatorNotes T75	lemma = 'it'
+T76	AUX 262 266	were
+#74	AnnotatorNotes T76	lemma = 'be'
+T77	VERB 267 272	about
+#75	AnnotatorNotes T77	lemma = 'about'
+T78	NUM 273 275	18
+#76	AnnotatorNotes T78	lemma = '18'
+T79	NOUN 276 284	millions
+#77	AnnotatorNotes T79	lemma = 'million'
+T80	NOUN 285 291	visits
+#78	AnnotatorNotes T80	lemma = 'visit'
+T81	ADP 292 296	from
+#79	AnnotatorNotes T81	lemma = 'from'
+T82	PROPN 297 299	UK
+#80	AnnotatorNotes T82	lemma = 'UK'
+T83	PART 300 302	to
+#81	AnnotatorNotes T83	lemma = 'to'
+T84	VERB 303 309	abroad
+#82	AnnotatorNotes T84	lemma = 'abroad'
+T85	PUNCT 309 310	.
+#83	AnnotatorNotes T85	lemma = '.'
+T86	ADP 311 316	After
+#84	AnnotatorNotes T86	lemma = 'after'
+T87	DET 317 321	this
+#85	AnnotatorNotes T87	lemma = 'this'
+T88	ADJ 322 326	year
+#86	AnnotatorNotes T88	lemma = 'year'
+T89	NOUN 327 333	number
+#87	AnnotatorNotes T89	lemma = 'number'
+T90	ADP 334 336	of
+#88	AnnotatorNotes T90	lemma = 'of'
+T91	DET 337 341	this
+#89	AnnotatorNotes T91	lemma = 'this'
+T92	NOUN 342 349	travels
+#90	AnnotatorNotes T92	lemma = 'travel'
+T93	VERB 350 354	rose
+#91	AnnotatorNotes T93	lemma = 'rise'
+T94	ADV 355 361	slowly
+#92	AnnotatorNotes T94	lemma = 'slowly'
+T95	PUNCT 361 362	.
+#93	AnnotatorNotes T95	lemma = '.'
+T96	ADP 363 365	In
+#94	AnnotatorNotes T96	lemma = 'in'
+T97	NUM 366 370	1984
+#95	AnnotatorNotes T97	lemma = '1984'
+T98	PRON 371 373	it
+#96	AnnotatorNotes T98	lemma = 'it'
+T99	AUX 374 378	were
+#97	AnnotatorNotes T99	lemma = 'be'
+T100	ADV 379 386	already
+#98	AnnotatorNotes T100	lemma = 'already'
+T101	NUM 387 389	30
+#99	AnnotatorNotes T101	lemma = '30'
+T102	NOUN 390 398	millions
+#100	AnnotatorNotes T102	lemma = 'million'
+T103	NOUN 399 405	visits
+#101	AnnotatorNotes T103	lemma = 'visit'
+T104	VERB 406 412	abroad
+#102	AnnotatorNotes T104	lemma = 'abroad'
+T105	ADP 413 415	by
+#103	AnnotatorNotes T105	lemma = 'by'
+T106	PROPN 416 418	UK
+#104	AnnotatorNotes T106	lemma = 'UK'
+T107	NOUN 419 428	residents
+#105	AnnotatorNotes T107	lemma = 'resident'
+T108	PUNCT 428 429	.
+#106	AnnotatorNotes T108	lemma = '.'
+T109	DET 430 435	These
+#107	AnnotatorNotes T109	lemma = 'this'
+T110	NOUN 436 442	visits
+#108	AnnotatorNotes T110	lemma = 'visit'
+T111	VERB 443 452	continued
+#109	AnnotatorNotes T111	lemma = 'continue'
+T112	PART 453 455	to
+#110	AnnotatorNotes T112	lemma = 'to'
+T113	VERB 456 464	increase
+#111	AnnotatorNotes T113	lemma = 'increase'
+T114	CCONJ 465 468	and
+#112	AnnotatorNotes T114	lemma = 'and'
+T115	ADP 469 471	in
+#113	AnnotatorNotes T115	lemma = 'in'
+T116	NUM 472 476	1999
+#114	AnnotatorNotes T116	lemma = '1999'
+T117	PRON 477 479	it
+#115	AnnotatorNotes T117	lemma = 'it'
+T118	AUX 480 484	were
+#116	AnnotatorNotes T118	lemma = 'be'
+T119	ADJ 485 489	more
+#117	AnnotatorNotes T119	lemma = 'more'
+T120	ADP 490 494	than
+#118	AnnotatorNotes T120	lemma = 'than'
+T121	NUM 495 497	50
+#119	AnnotatorNotes T121	lemma = '50'
+T122	NOUN 498 504	visits
+#120	AnnotatorNotes T122	lemma = 'visit'
+T123	ADV 505 511	abroad
+#121	AnnotatorNotes T123	lemma = 'abroad'
+T124	PUNCT 511 512	.
+#122	AnnotatorNotes T124	lemma = '.'
+T125	NOUN 514 520	Visits
+#123	AnnotatorNotes T125	lemma = 'Visit'
+T126	ADP 521 523	to
+#124	AnnotatorNotes T126	lemma = 'to'
+T127	DET 524 527	the
+#125	AnnotatorNotes T127	lemma = 'the'
+T128	PROPN 528 530	UK
+#126	AnnotatorNotes T128	lemma = 'UK'
+T129	ADP 531 533	by
+#127	AnnotatorNotes T129	lemma = 'by'
+T130	NOUN 534 542	overseas
+#128	AnnotatorNotes T130	lemma = 'overseas'
+T131	NOUN 543 552	residents
+#129	AnnotatorNotes T131	lemma = 'resident'
+T132	AUX 553 556	are
+#130	AnnotatorNotes T132	lemma = 'be'
+T133	ADJ 557 561	less
+#131	AnnotatorNotes T133	lemma = 'less'
+T134	ADP 562 566	than
+#132	AnnotatorNotes T134	lemma = 'than'
+T135	NOUN 567 573	visits
+#133	AnnotatorNotes T135	lemma = 'visit'
+T136	VERB 574 580	abroad
+#134	AnnotatorNotes T136	lemma = 'abroad'
+T137	ADP 581 583	by
+#135	AnnotatorNotes T137	lemma = 'by'
+T138	PROPN 584 586	UK
+#136	AnnotatorNotes T138	lemma = 'UK'
+T139	NOUN 587 596	residents
+#137	AnnotatorNotes T139	lemma = 'resident'
+T140	PUNCT 596 597	.
+#138	AnnotatorNotes T140	lemma = '.'
+T141	ADP 598 600	In
+#139	AnnotatorNotes T141	lemma = 'in'
+T142	NUM 601 605	1984
+#140	AnnotatorNotes T142	lemma = '1984'
+T143	PRON 606 608	it
+#141	AnnotatorNotes T143	lemma = 'it'
+T144	AUX 609 613	were
+#142	AnnotatorNotes T144	lemma = 'be'
+T145	ADJ 614 618	more
+#143	AnnotatorNotes T145	lemma = 'more'
+T146	ADP 619 623	than
+#144	AnnotatorNotes T146	lemma = 'than'
+T147	NUM 624 626	10
+#145	AnnotatorNotes T147	lemma = '10'
+T148	NOUN 627 635	millions
+#146	AnnotatorNotes T148	lemma = 'million'
+T149	NOUN 636 642	visits
+#147	AnnotatorNotes T149	lemma = 'visit'
+T150	PUNCT 642 643	,
+#148	AnnotatorNotes T150	lemma = ','
+T151	CCONJ 644 647	but
+#149	AnnotatorNotes T151	lemma = 'but'
+T152	NOUN 648 654	number
+#150	AnnotatorNotes T152	lemma = 'number'
+T153	ADP 655 657	of
+#151	AnnotatorNotes T153	lemma = 'of'
+T154	NOUN 658 664	visits
+#152	AnnotatorNotes T154	lemma = 'visit'
+T155	ADP 665 667	by
+#153	AnnotatorNotes T155	lemma = 'by'
+T156	NOUN 668 678	foreighner
+#154	AnnotatorNotes T156	lemma = 'foreighner'
+T157	ADP 679 681	to
+#155	AnnotatorNotes T157	lemma = 'to'
+T158	DET 682 685	the
+#156	AnnotatorNotes T158	lemma = 'the'
+T159	PROPN 686 688	UK
+#157	AnnotatorNotes T159	lemma = 'UK'
+T160	ADV 689 697	normally
+#158	AnnotatorNotes T160	lemma = 'normally'
+T161	X 698 703	climb
+#159	AnnotatorNotes T161	lemma = 'climb'
+T162	CCONJ 704 707	and
+#160	AnnotatorNotes T162	lemma = 'and'
+T163	ADP 708 710	in
+#161	AnnotatorNotes T163	lemma = 'in'
+T164	NUM 711 715	1999
+#162	AnnotatorNotes T164	lemma = '1999'
+T165	PRON 716 718	it
+#163	AnnotatorNotes T165	lemma = 'it'
+T166	AUX 719 723	were
+#164	AnnotatorNotes T166	lemma = 'be'
+T167	VERB 724 729	about
+#165	AnnotatorNotes T167	lemma = 'about'
+T168	NUM 730 732	28
+#166	AnnotatorNotes T168	lemma = '28'
+T169	NOUN 733 741	millions
+#167	AnnotatorNotes T169	lemma = 'million'
+T170	NOUN 742 749	travels
+#168	AnnotatorNotes T170	lemma = 'travel'
+T171	ADP 750 752	to
+#169	AnnotatorNotes T171	lemma = 'to'
+T172	PROPN 753 755	UK
+#170	AnnotatorNotes T172	lemma = 'UK'
+T173	PUNCT 755 756	.
+#171	AnnotatorNotes T173	lemma = '.'
+T174	DET 758 761	The
+#172	AnnotatorNotes T174	lemma = 'the'
+T175	ADV 762 766	most
+#173	AnnotatorNotes T175	lemma = 'most'
+T176	ADJ 767 774	popular
+#174	AnnotatorNotes T176	lemma = 'popular'
+T177	NOUN 775 782	country
+#175	AnnotatorNotes T177	lemma = 'country'
+T178	PRON 783 787	wich
+#176	AnnotatorNotes T178	lemma = 'wich'
+T179	PROPN 788 790	UK
+#177	AnnotatorNotes T179	lemma = 'UK'
+T180	NOUN 791 800	residents
+#178	AnnotatorNotes T180	lemma = 'resident'
+T181	VERB 801 808	visited
+#179	AnnotatorNotes T181	lemma = 'visit'
+T182	ADP 809 811	in
+#180	AnnotatorNotes T182	lemma = 'in'
+T183	NUM 812 816	1999
+#181	AnnotatorNotes T183	lemma = '1999'
+T184	AUX 817 821	were
+#182	AnnotatorNotes T184	lemma = 'be'
+T185	PROPN 822 828	France
+#183	AnnotatorNotes T185	lemma = 'France'
+T186	PUNCT 828 829	,
+#184	AnnotatorNotes T186	lemma = ','
+T187	ADV 830 834	more
+#185	AnnotatorNotes T187	lemma = 'more'
+T188	ADP 835 839	than
+#186	AnnotatorNotes T188	lemma = 'than'
+T189	NUM 840 842	10
+#187	AnnotatorNotes T189	lemma = '10'
+T190	NOUN 843 851	millions
+#188	AnnotatorNotes T190	lemma = 'million'
+T191	ADP 852 854	of
+#189	AnnotatorNotes T191	lemma = 'of'
+T192	PROPN 855 857	UK
+#190	AnnotatorNotes T192	lemma = 'UK'
+T193	NOUN 858 866	visitors
+#191	AnnotatorNotes T193	lemma = 'visitor'
+T194	PUNCT 866 867	.
+#192	AnnotatorNotes T194	lemma = '.'
+T195	ADV 868 873	Spain
+#193	AnnotatorNotes T195	lemma = 'Spain'
+T196	AUX 874 876	is
+#194	AnnotatorNotes T196	lemma = 'be'
+T197	ADV 877 881	also
+#195	AnnotatorNotes T197	lemma = 'also'
+T198	ADJ 882 888	famous
+#196	AnnotatorNotes T198	lemma = 'famous'
+T199	ADP 889 892	for
+#197	AnnotatorNotes T199	lemma = 'for'
+T200	PROPN 893 895	UK
+#198	AnnotatorNotes T200	lemma = 'UK'
+T201	NOUN 896 906	travellers
+#199	AnnotatorNotes T201	lemma = 'traveller'
+T202	CCONJ 907 910	and
+#200	AnnotatorNotes T202	lemma = 'and'
+T203	PRON 911 913	it
+#201	AnnotatorNotes T203	lemma = 'it'
+T204	AUX 914 918	were
+#202	AnnotatorNotes T204	lemma = 'be'
+T205	VERB 919 924	about
+#203	AnnotatorNotes T205	lemma = 'about'
+T206	NUM 925 926	9
+#204	AnnotatorNotes T206	lemma = '9'
+T207	PUNCT 926 927	,
+#205	AnnotatorNotes T207	lemma = ','
+T208	NUM 927 928	5
+#206	AnnotatorNotes T208	lemma = '5'
+T209	NOUN 929 937	millions
+#207	AnnotatorNotes T209	lemma = 'million'
+T210	NOUN 938 944	visits
+#208	AnnotatorNotes T210	lemma = 'visit'
+T211	ADP 945 947	to
+#209	AnnotatorNotes T211	lemma = 'to'
+T212	DET 948 952	this
+#210	AnnotatorNotes T212	lemma = 'this'
+T213	NOUN 953 960	country
+#211	AnnotatorNotes T213	lemma = 'country'
+T214	PUNCT 960 961	.
+#212	AnnotatorNotes T214	lemma = '.'
+T215	ADV 962 966	Less
+#213	AnnotatorNotes T215	lemma = 'less'
+T216	NOUN 967 973	visits
+#214	AnnotatorNotes T216	lemma = 'visit'
+T217	VERB 974 980	abroad
+#215	AnnotatorNotes T217	lemma = 'abroad'
+T218	ADP 981 983	by
+#216	AnnotatorNotes T218	lemma = 'by'
+T219	PROPN 984 986	UK
+#217	AnnotatorNotes T219	lemma = 'UK'
+T220	NOUN 987 996	residents
+#218	AnnotatorNotes T220	lemma = 'resident'
+T221	AUX 997 1000	are
+#219	AnnotatorNotes T221	lemma = 'be'
+T222	ADP 1001 1003	to
+#220	AnnotatorNotes T222	lemma = 'to'
+T223	PROPN 1004 1007	USA
+#221	AnnotatorNotes T223	lemma = 'USA'
+T224	PUNCT 1008 1009	(
+#222	AnnotatorNotes T224	lemma = '('
+T225	ADP 1009 1014	about
+#223	AnnotatorNotes T225	lemma = 'about'
+T226	NUM 1015 1016	3
+#224	AnnotatorNotes T226	lemma = '3'
+T227	PUNCT 1016 1017	,
+#225	AnnotatorNotes T227	lemma = ','
+T228	NUM 1017 1018	5
+#226	AnnotatorNotes T228	lemma = '5'
+T229	NOUN 1019 1027	millions
+#227	AnnotatorNotes T229	lemma = 'million'
+T230	NOUN 1028 1034	visits
+#228	AnnotatorNotes T230	lemma = 'visit'
+T231	PUNCT 1034 1035	)
+#229	AnnotatorNotes T231	lemma = ')'
+T232	PUNCT 1035 1036	,
+#230	AnnotatorNotes T232	lemma = ','
+T233	PROPN 1037 1043	Greece
+#231	AnnotatorNotes T233	lemma = 'Greece'
+T234	PUNCT 1044 1045	(
+#232	AnnotatorNotes T234	lemma = '('
+T235	NUM 1045 1046	3
+#233	AnnotatorNotes T235	lemma = '3'
+T236	NOUN 1047 1055	millions
+#234	AnnotatorNotes T236	lemma = 'million'
+T237	NOUN 1056 1064	visitors
+#235	AnnotatorNotes T237	lemma = 'visitor'
+T238	ADP 1065 1067	on
+#236	AnnotatorNotes T238	lemma = 'on'
+T239	NOUN 1068 1075	average
+#237	AnnotatorNotes T239	lemma = 'average'
+T240	PUNCT 1075 1076	)
+#238	AnnotatorNotes T240	lemma = ')'
+T241	CCONJ 1077 1080	and
+#239	AnnotatorNotes T241	lemma = 'and'
+T242	PROPN 1081 1087	Turkey
+#240	AnnotatorNotes T242	lemma = 'Turkey'
+T243	PUNCT 1088 1089	(
+#241	AnnotatorNotes T243	lemma = '('
+T244	ADV 1089 1102	approximately
+#242	AnnotatorNotes T244	lemma = 'approximately'
+T245	NUM 1103 1104	2
+#243	AnnotatorNotes T245	lemma = '2'
+T246	NUM 1104 1106	,5
+#244	AnnotatorNotes T246	lemma = ',5'
+T247	NOUN 1107 1115	millions
+#245	AnnotatorNotes T247	lemma = 'million'
+T248	PROPN 1116 1118	UK
+#246	AnnotatorNotes T248	lemma = 'UK'
+T249	NOUN 1119 1128	residents
+#247	AnnotatorNotes T249	lemma = 'resident'
+T250	PUNCT 1128 1129	)
+#248	AnnotatorNotes T250	lemma = ')'
+T251	PUNCT 1129 1130	.
+#249	AnnotatorNotes T251	lemma = '.'
+T252	ADP 1132 1134	In
+#250	AnnotatorNotes T252	lemma = 'in'
+T253	NOUN 1135 1145	conclusion
+#251	AnnotatorNotes T253	lemma = 'conclusion'
+T254	PUNCT 1145 1146	,
+#252	AnnotatorNotes T254	lemma = ','
+T255	PROPN 1147 1149	UK
+#253	AnnotatorNotes T255	lemma = 'UK'
+T256	NOUN 1150 1159	residents
+#254	AnnotatorNotes T256	lemma = 'resident'
+T257	VERB 1160 1162	go
+#255	AnnotatorNotes T257	lemma = 'go'
+T258	ADV 1163 1169	abroad
+#256	AnnotatorNotes T258	lemma = 'abroad'
+T259	ADV 1170 1174	more
+#257	AnnotatorNotes T259	lemma = 'more'
+T260	ADV 1175 1180	often
+#258	AnnotatorNotes T260	lemma = 'often'
+T261	PUNCT 1180 1181	,
+#259	AnnotatorNotes T261	lemma = ','
+T262	ADP 1182 1186	than
+#260	AnnotatorNotes T262	lemma = 'than'
+T263	SCONJ 1187 1195	overseas
+#261	AnnotatorNotes T263	lemma = 'overseas'
+T264	NOUN 1196 1205	residents
+#262	AnnotatorNotes T264	lemma = 'resident'
+T265	VERB 1206 1212	visits
+#263	AnnotatorNotes T265	lemma = 'visit'
+T266	DET 1213 1218	their
+#264	AnnotatorNotes T266	lemma = 'their'
+T267	NOUN 1219 1226	country
+#265	AnnotatorNotes T267	lemma = 'country'
+T268	PUNCT 1226 1227	.
+#266	AnnotatorNotes T268	lemma = '.'
+T269	CCONJ 1228 1231	And
+#267	AnnotatorNotes T269	lemma = 'and'
+T270	DET 1232 1235	the
+#268	AnnotatorNotes T270	lemma = 'the'
+T271	ADV 1236 1240	most
+#269	AnnotatorNotes T271	lemma = 'most'
+T272	ADJ 1241 1248	popular
+#270	AnnotatorNotes T272	lemma = 'popular'
+T273	NOUN 1249 1258	countries
+#271	AnnotatorNotes T273	lemma = 'country'
+T274	VERB 1259 1266	visited
+#272	AnnotatorNotes T274	lemma = 'visit'
+T275	ADP 1267 1269	by
+#273	AnnotatorNotes T275	lemma = 'by'
+T276	PROPN 1270 1272	UK
+#274	AnnotatorNotes T276	lemma = 'UK'
+T277	NOUN 1273 1282	residents
+#275	AnnotatorNotes T277	lemma = 'resident'
+T278	AUX 1283 1286	are
+#276	AnnotatorNotes T278	lemma = 'be'
+T279	PROPN 1287 1293	France
+#277	AnnotatorNotes T279	lemma = 'France'
+T280	CCONJ 1294 1297	and
+#278	AnnotatorNotes T280	lemma = 'and'
+T281	PROPN 1298 1303	Spain
+#279	AnnotatorNotes T281	lemma = 'Spain'
+T282	PUNCT 1303 1304	,
+#280	AnnotatorNotes T282	lemma = ','
+T283	PUNCT 1305 1306	(
+#281	AnnotatorNotes T283	lemma = '('
+T284	ADP 1306 1311	about
+#282	AnnotatorNotes T284	lemma = 'about'
+T285	NUM 1312 1314	10
+#283	AnnotatorNotes T285	lemma = '10'
+T286	NOUN 1315 1323	millions
+#284	AnnotatorNotes T286	lemma = 'million'
+T287	PROPN 1324 1326	UK
+#285	AnnotatorNotes T287	lemma = 'UK'
+T288	NOUN 1327 1335	visitors
+#286	AnnotatorNotes T288	lemma = 'visitor'
+T289	PUNCT 1335 1336	)
+#287	AnnotatorNotes T289	lemma = ')'
+T290	PUNCT 1336 1337	.
+#288	AnnotatorNotes T290	lemma = '.'

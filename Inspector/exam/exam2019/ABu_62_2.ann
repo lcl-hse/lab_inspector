@@ -1,0 +1,687 @@
+T1	Tense_form 454 457	are
+#1	AnnotatorNotes T1	is
+T2	Articles 660 665	Earth
+#2	AnnotatorNotes T2	the Earth
+T3	Spelling 1048 1057	governers
+#3	AnnotatorNotes T3	governors
+T4	Inappropriate_register 959 977	And when affecting
+A1	Delete T4
+T5	Capitalisation 978 980	it
+#4	AnnotatorNotes T5	It
+R1	Dependent_change Arg1:T5 Arg2:T4
+T6	Punctuation 1011 1023	the only way
+#5	AnnotatorNotes T6	, the only way
+T7	Punctuation 1470 1480	the rulers
+#6	AnnotatorNotes T7	, the rulers
+T8	Articles 1555 1568	consideration
+#7	AnnotatorNotes T8	the consideration
+T9	NN0 0 6	People
+#8	AnnotatorNotes T9	lemma = 'people'
+T10	AV0 7 15	nowadays
+#9	AnnotatorNotes T10	lemma = 'nowadays'
+T11	VBB 16 19	are
+#10	AnnotatorNotes T11	lemma = 'be'
+T12	AV0 20 25	still
+#11	AnnotatorNotes T12	lemma = 'still'
+T13	VVG 26 33	arguing
+#12	AnnotatorNotes T13	lemma = 'argue'
+T14	AVP 34 39	about
+#13	AnnotatorNotes T14	lemma = 'about'
+T15	CJS 40 47	whether
+#14	AnnotatorNotes T15	lemma = 'whether'
+T16	PNP 48 50	it
+#15	AnnotatorNotes T16	lemma = 'it'
+T17	VBZ 51 53	is
+#16	AnnotatorNotes T17	lemma = 'be'
+T18	AJ0 54 62	possible
+#17	AnnotatorNotes T18	lemma = 'possible'
+T19	CJC 63 65	or
+#18	AnnotatorNotes T19	lemma = 'or'
+T20	XX0 66 69	not
+#19	AnnotatorNotes T20	lemma = 'not'
+T21	TO0 70 72	to
+#20	AnnotatorNotes T21	lemma = 'to'
+T22	VVI 73 77	help
+#21	AnnotatorNotes T22	lemma = 'help'
+T23	NN0 78 84	people
+#22	AnnotatorNotes T23	lemma = 'people'
+T24	DT0 85 88	all
+#23	AnnotatorNotes T24	lemma = 'all'
+T25	PRP 89 95	around
+#24	AnnotatorNotes T25	lemma = 'around'
+T26	AT0 96 99	the
+#25	AnnotatorNotes T26	lemma = 'the'
+T27	NN1 100 105	world
+#26	AnnotatorNotes T27	lemma = 'world'
+T28	SENT 105 106	.
+#27	AnnotatorNotes T28	lemma = '.'
+T29	DT0 107 111	Some
+#28	AnnotatorNotes T29	lemma = 'some'
+T30	NN0 112 118	people
+#29	AnnotatorNotes T30	lemma = 'people'
+T31	VVB 119 124	claim
+#30	AnnotatorNotes T31	lemma = 'claim'
+T32	CJT 125 129	that
+#31	AnnotatorNotes T32	lemma = 'that'
+T33	EX0 130 135	there
+#32	AnnotatorNotes T33	lemma = 'there'
+T34	VBZ 136 138	is
+#33	AnnotatorNotes T34	lemma = 'be'
+T35	AT0 139 140	a
+#34	AnnotatorNotes T35	lemma = 'a'
+T36	NN1 141 152	feasibility
+#35	AnnotatorNotes T36	lemma = 'feasibility'
+T37	TO0 153 155	to
+#36	AnnotatorNotes T37	lemma = 'to'
+T38	VVI 156 160	help
+#37	AnnotatorNotes T38	lemma = 'help'
+T39	DT0 161 164	all
+#38	AnnotatorNotes T39	lemma = 'all'
+T40	NN2 165 172	nations
+#39	AnnotatorNotes T40	lemma = 'nation'
+T41	PUN 172 173	,
+#40	AnnotatorNotes T41	lemma = ','
+T42	AT0 174 177	the
+#41	AnnotatorNotes T42	lemma = 'the'
+T43	NN2 178 184	others
+#42	AnnotatorNotes T43	lemma = 'other'
+T44	PUN 184 185	,
+#43	AnnotatorNotes T44	lemma = ','
+T45	AV0 186 193	however
+#44	AnnotatorNotes T45	lemma = 'however'
+T46	PUN 193 194	,
+#45	AnnotatorNotes T46	lemma = ','
+T47	VVB 195 200	think
+#46	AnnotatorNotes T47	lemma = 'think'
+T48	CJT 201 205	that
+#47	AnnotatorNotes T48	lemma = 'that'
+T49	AT0 206 209	the
+#48	AnnotatorNotes T49	lemma = 'the'
+T50	NN2 210 221	governments
+#49	AnnotatorNotes T50	lemma = 'government'
+T51	VM0 222 228	should
+#50	AnnotatorNotes T51	lemma = 'should'
+T52	VVI 229 236	support
+#51	AnnotatorNotes T52	lemma = 'support'
+T53	AV0 237 241	only
+#52	AnnotatorNotes T53	lemma = 'only'
+T54	AT0 242 245	the
+#53	AnnotatorNotes T54	lemma = 'the'
+T55	NN2 246 254	citizens
+#54	AnnotatorNotes T55	lemma = 'citizen'
+T56	PRF 255 257	of
+#55	AnnotatorNotes T56	lemma = 'of'
+T57	DPS 258 263	their
+#56	AnnotatorNotes T57	lemma = 'they'
+T58	NN2 264 273	countries
+#57	AnnotatorNotes T58	lemma = 'country'
+T59	SENT 273 274	.
+#58	AnnotatorNotes T59	lemma = '.'
+T60	PRP 275 277	To
+#59	AnnotatorNotes T60	lemma = 'to'
+T61	DPS 278 280	my
+#60	AnnotatorNotes T61	lemma = 'i'
+T62	NN1 281 285	mind
+#61	AnnotatorNotes T62	lemma = 'mind'
+T63	PUN 285 286	,
+#62	AnnotatorNotes T63	lemma = ','
+T64	AT0 287 290	the
+#63	AnnotatorNotes T64	lemma = 'the'
+T65	NN2 291 297	rulers
+#64	AnnotatorNotes T65	lemma = 'ruler'
+T66	VM0 298 304	should
+#65	AnnotatorNotes T66	lemma = 'should'
+T67	VVI 305 309	help
+#66	AnnotatorNotes T67	lemma = 'help'
+T68	XX0 310 313	not
+#67	AnnotatorNotes T68	lemma = 'not'
+T69	AV0 314 318	only
+#68	AnnotatorNotes T69	lemma = 'only'
+T70	DPS 319 324	their
+#69	AnnotatorNotes T70	lemma = 'they'
+T71	NN2 325 333	dwellers
+#70	AnnotatorNotes T71	lemma = 'dweller'
+T72	CJC 334 337	but
+#71	AnnotatorNotes T72	lemma = 'but'
+T73	NN0 338 344	people
+#72	AnnotatorNotes T73	lemma = 'people'
+T74	PRP 345 349	from
+#73	AnnotatorNotes T74	lemma = 'from'
+T75	AJ0 350 355	other
+#74	AnnotatorNotes T75	lemma = 'other'
+T76	NN2 356 365	countries
+#75	AnnotatorNotes T76	lemma = 'country'
+T77	CJS 366 368	as
+#76	AnnotatorNotes T77	lemma = 'as'
+T78	AV0 369 373	well
+#77	AnnotatorNotes T78	lemma = 'well'
+T79	CJC 374 377	and
+#78	AnnotatorNotes T79	lemma = 'and'
+T80	PRP 378 380	in
+#79	AnnotatorNotes T80	lemma = 'in'
+T81	DT0 381 385	this
+#80	AnnotatorNotes T81	lemma = 'this'
+T82	NN1 386 391	essay
+#81	AnnotatorNotes T82	lemma = 'essay'
+T83	PNP 392 393	I
+#82	AnnotatorNotes T83	lemma = 'i'
+T84	VVB 394 398	want
+#83	AnnotatorNotes T84	lemma = 'want'
+T85	TO0 399 401	to
+#84	AnnotatorNotes T85	lemma = 'to'
+T86	VVI 402 409	provide
+#85	AnnotatorNotes T86	lemma = 'provide'
+T87	CRD 410 413	two
+#86	AnnotatorNotes T87	lemma = 'two'
+T88	NN2 414 423	arguments
+#87	AnnotatorNotes T88	lemma = 'argument'
+T89	TO0 424 426	to
+#88	AnnotatorNotes T89	lemma = 'to'
+T90	VVI 427 434	support
+#89	AnnotatorNotes T90	lemma = 'support'
+T91	DPS 435 437	my
+#90	AnnotatorNotes T91	lemma = 'i'
+T92	NN1 438 445	opinion
+#91	AnnotatorNotes T92	lemma = 'opinion'
+T93	SENT 445 446	.
+#92	AnnotatorNotes T93	lemma = '.'
+T94	EX0 448 453	There
+#93	AnnotatorNotes T94	lemma = 'there'
+T95	VBB 454 457	are
+#94	AnnotatorNotes T95	lemma = 'be'
+T96	AT0 458 459	a
+#95	AnnotatorNotes T96	lemma = 'a'
+T97	NN1 460 466	number
+#96	AnnotatorNotes T97	lemma = 'number'
+T98	PRF 467 469	of
+#97	AnnotatorNotes T98	lemma = 'of'
+T99	NN2 470 477	reasons
+#98	AnnotatorNotes T99	lemma = 'reason'
+T100	PRP 478 480	in
+#99	AnnotatorNotes T100	lemma = 'in'
+T101	NN1 481 487	favour
+#100	AnnotatorNotes T101	lemma = 'favour'
+T102	PRF 488 490	of
+#101	AnnotatorNotes T102	lemma = 'of'
+T103	AJ0 491 497	global
+#102	AnnotatorNotes T103	lemma = 'global'
+T104	NN1 498 508	assistance
+#103	AnnotatorNotes T104	lemma = 'assistance'
+T105	SENT 508 509	.
+#104	AnnotatorNotes T105	lemma = '.'
+T106	TO0 510 512	To
+#105	AnnotatorNotes T106	lemma = 'to'
+T107	VVI 513 518	start
+#106	AnnotatorNotes T107	lemma = 'start'
+T108	PRP 519 523	with
+#107	AnnotatorNotes T108	lemma = 'with'
+T109	PUN 523 524	,
+#108	AnnotatorNotes T109	lemma = ','
+T110	PNP 525 527	it
+#109	AnnotatorNotes T110	lemma = 'it'
+T111	VBZ 528 530	is
+#110	AnnotatorNotes T111	lemma = 'be'
+T112	AT0 531 532	a
+#111	AnnotatorNotes T112	lemma = 'a'
+T113	AJ0 533 543	well-known
+#112	AnnotatorNotes T113	lemma = 'well-known'
+T114	NN1 544 548	fact
+#113	AnnotatorNotes T114	lemma = 'fact'
+T115	CJT 549 553	that
+#114	AnnotatorNotes T115	lemma = 'that'
+T116	XX0 554 557	not
+#115	AnnotatorNotes T116	lemma = 'not'
+T117	DT0 558 561	all
+#116	AnnotatorNotes T117	lemma = 'all'
+T118	NN2 562 571	countries
+#117	AnnotatorNotes T118	lemma = 'country'
+T119	VBB 572 575	are
+#118	AnnotatorNotes T119	lemma = 'be'
+T120	AJ0 576 593	equally-developed
+#119	AnnotatorNotes T120	lemma = 'equally-developed'
+T121	SENT 593 594	.
+#120	AnnotatorNotes T121	lemma = '.'
+T122	EX0 595 600	There
+#121	AnnotatorNotes T122	lemma = 'there'
+T123	VBB 601 604	are
+#122	AnnotatorNotes T123	lemma = 'be'
+T124	AV0 605 610	still
+#123	AnnotatorNotes T124	lemma = 'still'
+T125	AT0 611 612	a
+#124	AnnotatorNotes T125	lemma = 'a'
+T126	NN1 613 616	lot
+#125	AnnotatorNotes T126	lemma = 'lot'
+T127	PRF 617 619	of
+#126	AnnotatorNotes T127	lemma = 'of'
+T128	NN2 620 629	countries
+#127	AnnotatorNotes T128	lemma = 'country'
+T129	PRF 630 632	of
+#128	AnnotatorNotes T129	lemma = 'of'
+T130	AT0 633 636	the
+#129	AnnotatorNotes T130	lemma = 'the'
+T131	ORD 637 642	third
+#130	AnnotatorNotes T131	lemma = 'third'
+T132	NN1 643 648	world
+#131	AnnotatorNotes T132	lemma = 'world'
+T133	VVD 649 656	existed
+#132	AnnotatorNotes T133	lemma = 'exist'
+T134	PRP 657 659	on
+#133	AnnotatorNotes T134	lemma = 'on'
+T135	NN1 660 665	Earth
+#134	AnnotatorNotes T135	lemma = 'earth'
+T136	CJT 666 670	that
+#135	AnnotatorNotes T136	lemma = 'that'
+T137	VBB 671 674	are
+#136	AnnotatorNotes T137	lemma = 'be'
+T138	PRP 675 677	in
+#137	AnnotatorNotes T138	lemma = 'in'
+T139	NN1 678 682	need
+#138	AnnotatorNotes T139	lemma = 'need'
+T140	PRF 683 685	of
+#139	AnnotatorNotes T140	lemma = 'of'
+T141	NN1 686 693	support
+#140	AnnotatorNotes T141	lemma = 'support'
+T142	PRP 694 698	from
+#141	AnnotatorNotes T142	lemma = 'from'
+T143	AT0 699 702	the
+#142	AnnotatorNotes T143	lemma = 'the'
+T144	AJ0 703 708	other
+#143	AnnotatorNotes T144	lemma = 'other'
+T145	NN1 709 713	side
+#144	AnnotatorNotes T145	lemma = 'side'
+T146	SENT 713 714	.
+#145	AnnotatorNotes T146	lemma = '.'
+T147	XX0 715 718	Not
+#146	AnnotatorNotes T147	lemma = 'not'
+T148	VVG 719 725	paying
+#147	AnnotatorNotes T148	lemma = 'pay|paying'
+T149	NN1 726 735	attention
+#148	AnnotatorNotes T149	lemma = 'attention'
+T150	PRP 736 738	to
+#149	AnnotatorNotes T150	lemma = 'to'
+T151	AJ0 739 744	other
+#150	AnnotatorNotes T151	lemma = 'other'
+T152	NN2 745 754	countries
+#151	AnnotatorNotes T152	lemma = 'country'
+T153	CJC 755 758	and
+#152	AnnotatorNotes T153	lemma = 'and'
+T154	VVG 759 772	concentrating
+#153	AnnotatorNotes T154	lemma = 'concentrate'
+T155	AV0 773 777	only
+#154	AnnotatorNotes T155	lemma = 'only'
+T156	AVP 778 780	on
+#155	AnnotatorNotes T156	lemma = 'on'
+T157	PNP 781 786	yours
+#156	AnnotatorNotes T157	lemma = 'yours'
+T158	VM0 787 790	can
+#157	AnnotatorNotes T158	lemma = 'can'
+T159	VVI 791 795	lead
+#158	AnnotatorNotes T159	lemma = 'lead'
+T160	PRP 796 798	to
+#159	AnnotatorNotes T160	lemma = 'to'
+T161	AJ0 799 807	horrible
+#160	AnnotatorNotes T161	lemma = 'horrible'
+T162	NN2 808 820	consequences
+#161	AnnotatorNotes T162	lemma = 'consequence'
+T163	PRP 821 825	like
+#162	AnnotatorNotes T163	lemma = 'like'
+T164	NN2 826 833	famines
+#163	AnnotatorNotes T164	lemma = 'famine'
+T165	PUN 833 834	,
+#164	AnnotatorNotes T165	lemma = ','
+T166	NN1 835 842	citizen
+#165	AnnotatorNotes T166	lemma = 'citizen'
+T167	NN2 843 847	wars
+#166	AnnotatorNotes T167	lemma = 'war'
+T168	CJC 848 851	and
+#167	AnnotatorNotes T168	lemma = 'and'
+T169	AV0 852 855	etc
+#168	AnnotatorNotes T169	lemma = 'etc'
+T170	SENT 855 856	.
+#169	AnnotatorNotes T170	lemma = '.'
+T171	AV0 857 868	Furthermore
+#170	AnnotatorNotes T171	lemma = 'furthermore'
+T172	PUN 868 869	,
+#171	AnnotatorNotes T172	lemma = ','
+T173	DT0 870 874	most
+#172	AnnotatorNotes T173	lemma = 'most'
+T174	PRF 875 877	of
+#173	AnnotatorNotes T174	lemma = 'of'
+T175	AT0 878 881	the
+#174	AnnotatorNotes T175	lemma = 'the'
+T176	NN2 882 887	times
+#175	AnnotatorNotes T176	lemma = 'time'
+T177	AT0 888 891	the
+#176	AnnotatorNotes T177	lemma = 'the'
+T178	NN2 892 900	troubles
+#177	AnnotatorNotes T178	lemma = 'trouble'
+T179	CJT 901 905	that
+#178	AnnotatorNotes T179	lemma = 'that'
+T180	NN0 906 912	people
+#179	AnnotatorNotes T180	lemma = 'people'
+T181	VHB 913 917	have
+#180	AnnotatorNotes T181	lemma = 'have'
+T182	TO0 918 920	to
+#181	AnnotatorNotes T182	lemma = 'to'
+T183	VVI 921 925	face
+#182	AnnotatorNotes T183	lemma = 'face'
+T184	VBB 926 929	are
+#183	AnnotatorNotes T184	lemma = 'be'
+T185	AT0 930 933	the
+#184	AnnotatorNotes T185	lemma = 'the'
+T186	NN1 934 939	fault
+#185	AnnotatorNotes T186	lemma = 'fault'
+T187	PRF 940 942	of
+#186	AnnotatorNotes T187	lemma = 'of'
+T188	AT0 943 946	the
+#187	AnnotatorNotes T188	lemma = 'the'
+T189	NN1 947 957	government
+#188	AnnotatorNotes T189	lemma = 'government'
+T190	SENT 957 958	.
+#189	AnnotatorNotes T190	lemma = '.'
+T191	CJC 959 962	And
+#190	AnnotatorNotes T191	lemma = 'and'
+T192	CJS 963 967	when
+#191	AnnotatorNotes T192	lemma = 'when'
+T193	VVG 968 977	affecting
+#192	AnnotatorNotes T193	lemma = 'affect|affecting'
+T194	PNP 978 980	it
+#193	AnnotatorNotes T194	lemma = 'it'
+T195	VDZ 981 985	does
+#194	AnnotatorNotes T195	lemma = 'do'
+T196	XX0 986 989	not
+#195	AnnotatorNotes T196	lemma = 'not'
+T197	VVI 990 996	change
+#196	AnnotatorNotes T197	lemma = 'change'
+T198	AT0 997 1000	the
+#197	AnnotatorNotes T198	lemma = 'the'
+T199	NN1 1001 1010	situation
+#198	AnnotatorNotes T199	lemma = 'situation'
+T200	AT0 1011 1014	the
+#199	AnnotatorNotes T200	lemma = 'the'
+T201	AJ0 1015 1019	only
+#200	AnnotatorNotes T201	lemma = 'only'
+T202	NN1 1020 1023	way
+#201	AnnotatorNotes T202	lemma = 'way'
+T203	VBZ 1024 1026	is
+#202	AnnotatorNotes T203	lemma = 'be'
+T204	TO0 1027 1029	to
+#203	AnnotatorNotes T204	lemma = 'to'
+T205	VVI 1030 1033	get
+#204	AnnotatorNotes T205	lemma = 'get'
+T206	NN1 1034 1038	help
+#205	AnnotatorNotes T206	lemma = 'help'
+T207	PRP 1039 1043	from
+#206	AnnotatorNotes T207	lemma = 'from'
+T208	AT0 1044 1047	the
+#207	AnnotatorNotes T208	lemma = 'the'
+T209	NN2 1048 1057	governers
+#208	AnnotatorNotes T209	lemma = 'governers'
+T210	PRF 1058 1060	of
+#209	AnnotatorNotes T210	lemma = 'of'
+T211	AJ0 1061 1066	other
+#210	AnnotatorNotes T211	lemma = 'other'
+T212	NN2 1067 1076	countries
+#211	AnnotatorNotes T212	lemma = 'country'
+T213	SENT 1076 1077	.
+#212	AnnotatorNotes T213	lemma = '.'
+T214	DT0 1079 1086	Another
+#213	AnnotatorNotes T214	lemma = 'another'
+T215	NN1 1087 1095	argument
+#214	AnnotatorNotes T215	lemma = 'argument'
+T216	PRP 1096 1099	for
+#215	AnnotatorNotes T216	lemma = 'for'
+T217	VVG 1100 1107	helping
+#216	AnnotatorNotes T217	lemma = 'help|helping'
+T218	NN0 1108 1114	people
+#217	AnnotatorNotes T218	lemma = 'people'
+T219	DT0 1115 1118	all
+#218	AnnotatorNotes T219	lemma = 'all'
+T220	PRP 1119 1125	around
+#219	AnnotatorNotes T220	lemma = 'around'
+T221	AT0 1126 1129	the
+#220	AnnotatorNotes T221	lemma = 'the'
+T222	NN1 1130 1135	world
+#221	AnnotatorNotes T222	lemma = 'world'
+T223	VBZ 1136 1138	is
+#222	AnnotatorNotes T223	lemma = 'be'
+T224	VVG 1139 1145	saving
+#223	AnnotatorNotes T224	lemma = 'save|saving'
+T225	AT0 1146 1149	the
+#224	AnnotatorNotes T225	lemma = 'the'
+T226	NN1 1150 1160	reputation
+#225	AnnotatorNotes T226	lemma = 'reputation'
+T227	SENT 1160 1161	.
+#226	AnnotatorNotes T227	lemma = '.'
+T228	CJS 1163 1165	If
+#227	AnnotatorNotes T228	lemma = 'if'
+T229	AT0 1166 1169	the
+#228	AnnotatorNotes T229	lemma = 'the'
+T230	NN1 1170 1175	ruler
+#229	AnnotatorNotes T230	lemma = 'ruler'
+T231	VDZ 1176 1180	does
+#230	AnnotatorNotes T231	lemma = 'do'
+T232	XX0 1181 1184	not
+#231	AnnotatorNotes T232	lemma = 'not'
+T233	VVI 1185 1189	give
+#232	AnnotatorNotes T233	lemma = 'give'
+T234	NN1 1190 1200	assistance
+#233	AnnotatorNotes T234	lemma = 'assistance'
+T235	PRP 1201 1203	to
+#234	AnnotatorNotes T235	lemma = 'to'
+T236	AJ0 1204 1215	undeveloped
+#235	AnnotatorNotes T236	lemma = 'undeveloped'
+T237	NN2 1216 1225	countries
+#236	AnnotatorNotes T237	lemma = 'country'
+T238	CJC 1226 1228	or
+#237	AnnotatorNotes T238	lemma = 'or'
+T239	NN2 1229 1238	countries
+#238	AnnotatorNotes T239	lemma = 'country'
+T240	CJT 1239 1243	that
+#239	AnnotatorNotes T240	lemma = 'that'
+T241	VBB 1244 1247	are
+#240	AnnotatorNotes T241	lemma = 'be'
+T242	PRP 1248 1250	in
+#241	AnnotatorNotes T242	lemma = 'in'
+T243	AJ0 1251 1256	great
+#242	AnnotatorNotes T243	lemma = 'great'
+T244	NN1 1257 1261	need
+#243	AnnotatorNotes T244	lemma = 'need'
+T245	PRF 1262 1264	of
+#244	AnnotatorNotes T245	lemma = 'of'
+T246	NN1 1265 1269	help
+#245	AnnotatorNotes T246	lemma = 'help'
+T247	AJ0 1270 1273	due
+#246	AnnotatorNotes T247	lemma = 'due'
+T248	PRP 1274 1276	to
+#247	AnnotatorNotes T248	lemma = 'to'
+T249	AJ0 1277 1282	other
+#248	AnnotatorNotes T249	lemma = 'other'
+T250	NN2 1283 1296	circumstances
+#249	AnnotatorNotes T250	lemma = 'circumstance'
+T251	PUN 1296 1297	,
+#250	AnnotatorNotes T251	lemma = ','
+T252	PNP 1298 1300	it
+#251	AnnotatorNotes T252	lemma = 'it'
+T253	VM0 1301 1304	can
+#252	AnnotatorNotes T253	lemma = 'can'
+T254	VVI 1305 1311	create
+#253	AnnotatorNotes T254	lemma = 'create'
+T255	AT0 1312 1314	an
+#254	AnnotatorNotes T255	lemma = 'an'
+T256	AJ0 1315 1322	adverse
+#255	AnnotatorNotes T256	lemma = 'adverse'
+T257	NN1 1323 1328	image
+#256	AnnotatorNotes T257	lemma = 'image'
+T258	XX0 1329 1332	not
+#257	AnnotatorNotes T258	lemma = 'not'
+T259	AV0 1333 1337	only
+#258	AnnotatorNotes T259	lemma = 'only'
+T260	PRF 1338 1340	of
+#259	AnnotatorNotes T260	lemma = 'of'
+T261	AT0 1341 1344	the
+#260	AnnotatorNotes T261	lemma = 'the'
+T262	NN1 1345 1355	government
+#261	AnnotatorNotes T262	lemma = 'government'
+T263	PRF 1356 1358	of
+#262	AnnotatorNotes T263	lemma = 'of'
+T264	AT0 1359 1362	the
+#263	AnnotatorNotes T264	lemma = 'the'
+T265	NN1 1363 1370	country
+#264	AnnotatorNotes T265	lemma = 'country'
+T266	CJC 1371 1374	but
+#265	AnnotatorNotes T266	lemma = 'but'
+T267	PRF 1375 1377	of
+#266	AnnotatorNotes T267	lemma = 'of'
+T268	AT0 1378 1381	the
+#267	AnnotatorNotes T268	lemma = 'the'
+T269	AJ0 1382 1387	whole
+#268	AnnotatorNotes T269	lemma = 'whole'
+T270	NN1 1388 1395	country
+#269	AnnotatorNotes T270	lemma = 'country'
+T271	PNX 1396 1402	itself
+#270	AnnotatorNotes T271	lemma = 'itself'
+T272	SENT 1402 1403	.
+#271	AnnotatorNotes T272	lemma = '.'
+T273	AV0 1405 1417	Consequently
+#272	AnnotatorNotes T273	lemma = 'consequently'
+T274	PUN 1417 1418	,
+#273	AnnotatorNotes T274	lemma = ','
+T275	AJ0 1419 1422	due
+#274	AnnotatorNotes T275	lemma = 'due'
+T276	PRP 1423 1425	to
+#275	AnnotatorNotes T276	lemma = 'to'
+T277	AJ0 1426 1429	bad
+#276	AnnotatorNotes T277	lemma = 'bad'
+T278	NN1 1430 1440	reputation
+#277	AnnotatorNotes T278	lemma = 'reputation'
+T279	CJS 1441 1443	if
+#278	AnnotatorNotes T279	lemma = 'if'
+T280	AT0 1444 1447	the
+#279	AnnotatorNotes T280	lemma = 'the'
+T281	NN1 1448 1455	country
+#280	AnnotatorNotes T281	lemma = 'country'
+T282	VBZ 1456 1458	is
+#281	AnnotatorNotes T282	lemma = 'be'
+T283	PRP 1459 1461	in
+#282	AnnotatorNotes T283	lemma = 'in'
+T284	NN1 1462 1469	trouble
+#283	AnnotatorNotes T284	lemma = 'trouble'
+T285	AT0 1470 1473	the
+#284	AnnotatorNotes T285	lemma = 'the'
+T286	NN2 1474 1480	rulers
+#285	AnnotatorNotes T286	lemma = 'ruler'
+T287	PRF 1481 1483	of
+#286	AnnotatorNotes T287	lemma = 'of'
+T288	AJ0 1484 1489	other
+#287	AnnotatorNotes T288	lemma = 'other'
+T289	NN2 1490 1499	countries
+#288	AnnotatorNotes T289	lemma = 'country'
+T290	VM0 1500 1504	will
+#289	AnnotatorNotes T290	lemma = 'will'
+T291	XX0 1505 1508	not
+#290	AnnotatorNotes T291	lemma = 'not'
+T292	VVG 1509 1514	going
+#291	AnnotatorNotes T292	lemma = 'go|going'
+T293	TO0 1515 1517	to
+#292	AnnotatorNotes T293	lemma = 'to'
+T294	VVI 1518 1525	provide
+#293	AnnotatorNotes T294	lemma = 'provide'
+T295	NN1 1526 1529	aid
+#294	AnnotatorNotes T295	lemma = 'aid'
+T296	SENT 1529 1530	.
+#295	AnnotatorNotes T296	lemma = '.'
+T297	VVG 1532 1538	Taking
+#296	AnnotatorNotes T297	lemma = 'take'
+T298	PNI 1539 1549	everything
+#297	AnnotatorNotes T298	lemma = 'everything'
+T299	PRP 1550 1554	into
+#298	AnnotatorNotes T299	lemma = 'into'
+T300	NN1 1555 1568	consideration
+#299	AnnotatorNotes T300	lemma = 'consideration'
+T301	PUN 1568 1569	,
+#300	AnnotatorNotes T301	lemma = ','
+T302	PNP 1570 1572	it
+#301	AnnotatorNotes T302	lemma = 'it'
+T303	VM0 1573 1576	can
+#302	AnnotatorNotes T303	lemma = 'can'
+T304	VBI 1577 1579	be
+#303	AnnotatorNotes T304	lemma = 'be'
+T305	VVN 1580 1589	concluded
+#304	AnnotatorNotes T305	lemma = 'conclude'
+T306	CJT 1590 1594	that
+#305	AnnotatorNotes T306	lemma = 'that'
+T307	PUN 1594 1595	,
+#306	AnnotatorNotes T307	lemma = ','
+T308	VVG 1596 1603	helping
+#307	AnnotatorNotes T308	lemma = 'help|helping'
+T309	NN2 1604 1612	citizens
+#308	AnnotatorNotes T309	lemma = 'citizen'
+T310	DT0 1613 1616	all
+#309	AnnotatorNotes T310	lemma = 'all'
+T311	PRP 1617 1623	around
+#310	AnnotatorNotes T311	lemma = 'around'
+T312	AT0 1624 1627	the
+#311	AnnotatorNotes T312	lemma = 'the'
+T313	NN1 1628 1633	world
+#312	AnnotatorNotes T313	lemma = 'world'
+T314	VBZ 1634 1636	is
+#313	AnnotatorNotes T314	lemma = 'be'
+T315	AT0 1637 1638	a
+#314	AnnotatorNotes T315	lemma = 'a'
+T316	NN1 1639 1645	matter
+#315	AnnotatorNotes T316	lemma = 'matter'
+T317	PRF 1646 1648	of
+#316	AnnotatorNotes T317	lemma = 'of'
+T318	AJ0 1649 1654	great
+#317	AnnotatorNotes T318	lemma = 'great'
+T319	NN1 1655 1665	importance
+#318	AnnotatorNotes T319	lemma = 'importance'
+T320	PUN 1665 1666	,
+#319	AnnotatorNotes T320	lemma = ','
+T321	CJS 1667 1674	because
+#320	AnnotatorNotes T321	lemma = 'because'
+T322	VBG 1675 1680	being
+#321	AnnotatorNotes T322	lemma = 'be'
+T323	AJ0 1681 1692	indifferent
+#322	AnnotatorNotes T323	lemma = 'indifferent'
+T324	PRP 1693 1695	to
+#323	AnnotatorNotes T324	lemma = 'to'
+T325	NN2 1696 1702	others
+#324	AnnotatorNotes T325	lemma = 'other'
+T326	AV0 1703 1706	now
+#325	AnnotatorNotes T326	lemma = 'now'
+T327	VM0 1707 1710	may
+#326	AnnotatorNotes T327	lemma = 'may'
+T328	VHI 1711 1715	have
+#327	AnnotatorNotes T328	lemma = 'have'
+T329	AT0 1716 1717	a
+#328	AnnotatorNotes T329	lemma = 'a'
+T330	AJ0 1718 1726	negative
+#329	AnnotatorNotes T330	lemma = 'negative'
+T331	NN1 1727 1736	influence
+#330	AnnotatorNotes T331	lemma = 'influence'
+T332	PRP 1737 1739	on
+#331	AnnotatorNotes T332	lemma = 'on'
+T333	DT0 1740 1744	both
+#332	AnnotatorNotes T333	lemma = 'both'
+T334	AT0 1745 1748	the
+#333	AnnotatorNotes T334	lemma = 'the'
+T335	NN1 1749 1756	country
+#334	AnnotatorNotes T335	lemma = 'country'
+T336	CJT 1757 1761	that
+#335	AnnotatorNotes T336	lemma = 'that'
+T337	VVZ 1762 1767	needs
+#336	AnnotatorNotes T337	lemma = 'need'
+T338	NN1 1768 1772	help
+#337	AnnotatorNotes T338	lemma = 'help'
+T339	CJC 1773 1776	and
+#338	AnnotatorNotes T339	lemma = 'and'
+T340	DPS 1777 1781	your
+#339	AnnotatorNotes T340	lemma = 'you'
+T341	NN1 1782 1789	country
+#340	AnnotatorNotes T341	lemma = 'country'
+T342	PNX 1790 1796	itself
+#341	AnnotatorNotes T342	lemma = 'itself'
+T343	SENT 1796 1797	.
+#342	AnnotatorNotes T343	lemma = '.'

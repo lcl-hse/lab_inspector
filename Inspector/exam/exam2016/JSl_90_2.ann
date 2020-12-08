@@ -1,0 +1,638 @@
+T1	Spelling 513 520	usefull
+#1	AnnotatorNotes T1	useful
+T2	Comparative_adj 83 94	more poorer
+#2	AnnotatorNotes T2	poor
+T3	Punctuation 147 148	,
+A1	Delete T3
+T4	Punctuation 164 183	From my perspective
+#3	AnnotatorNotes T4	From my perspective,
+T5	Tense_choice 268 277	will move
+#4	AnnotatorNotes T5	move
+T6	Comparative_adj 298 304	poorer
+#5	AnnotatorNotes T6	poor
+T7	Comparative_adj 386 392	poorer
+#6	AnnotatorNotes T7	poor
+T8	Comparative_adj 409 415	poorer
+#7	AnnotatorNotes T8	poor
+T9	Standard 466 495	themselves businesses project
+#8	AnnotatorNotes T9	businesses project themselves
+T10	Redundant_comp 649 662	will be moved
+A2	Delete T10
+T11	Comparative_adj 666 672	poorer
+#9	AnnotatorNotes T11	poor
+T12	Redundant_comp 674 730	they can a lot countries which can cooperation with them
+#10	AnnotatorNotes T12	they can cooperate with them
+T13	Pronouns 739 746	another
+#11	AnnotatorNotes T13	other
+T14	Comparative_adj 761 767	poorer
+#12	AnnotatorNotes T14	poor
+T15	Comparative_adj 833 839	poorer
+#13	AnnotatorNotes T15	poor
+T16	Punctuation 890 938	they have very beautiful places in their country
+#14	AnnotatorNotes T16	,they have very beautiful places in their country
+T17	Comparative_adj 968 974	poorer
+#15	AnnotatorNotes T17	poor
+T18	Noun_number 975 982	country
+#16	AnnotatorNotes T18	countries
+T19	Redundant_comp 1160 1162	is
+A3	Delete T19
+T20	Articles 1167 1185	the bad influences
+#17	AnnotatorNotes T20	bad influences
+T21	Comparative_adj 1190 1196	poorer
+#18	AnnotatorNotes T21	poor
+T22	lex_item_choice 1378 1385	scratch
+#19	AnnotatorNotes T22	moving
+T23	Spelling 1420 1421	o
+#20	AnnotatorNotes T23	I
+T24	Comparative_adj 1615 1621	poorer
+#21	AnnotatorNotes T24	poor
+T25	Voice 44 53	are moved
+#22	AnnotatorNotes T25	moved
+T26	lex_item_choice 59 69	developing
+#23	AnnotatorNotes T26	developed
+T27	lex_item_choice 361 371	developing
+#24	AnnotatorNotes T27	developed
+T28	lex_item_choice 466 495	themselves businesses project
+#25	AnnotatorNotes T28	businesses project
+T29	Spelling 539 543	thus
+#26	AnnotatorNotes T29	this
+T30	lex_item_choice 585 595	developing
+#27	AnnotatorNotes T30	developed
+T31	lex_item_choice 666 672	poorer
+#28	AnnotatorNotes T31	poor countries
+T32	lex_item_choice 795 805	developing
+#29	AnnotatorNotes T32	developed
+T33	Linking_device 817 832	Despite on that
+#30	AnnotatorNotes T33	Despite of this
+T34	Category_confusion 879 889	developing
+#31	AnnotatorNotes T34	development
+T35	Standard 890 938	they have very beautiful places in their country
+#32	AnnotatorNotes T35	of beautiful places in their countries
+T36	Articles 950 964	the government
+#33	AnnotatorNotes T36	goverment
+T37	lex_item_choice 1019 1029	developing
+#34	AnnotatorNotes T37	developed
+T38	Prepositions 1186 1189	for
+#35	AnnotatorNotes T38	in
+T39	Noun_number 1175 1185	influences
+#36	AnnotatorNotes T39	influence 
+T40	Noun_number 1255 1265	pollutions
+#37	AnnotatorNotes T40	pollution
+T41	Linking_device 1278 1307	Has another problem with this
+#38	AnnotatorNotes T41	There is another problem
+T42	lex_item_choice 1309 1318	some many
+#39	AnnotatorNotes T42	some 
+T43	lex_item_choice 1352 1355	all
+#40	AnnotatorNotes T43	everything
+T44	Redundant_comp 1445 1477	it is a bit difficult to predict
+T45	Redundant_comp 1478 1498	I would probably say
+T46	lex_item_choice 1551 1561	developing
+#41	AnnotatorNotes T46	developed
+T47	Noun_number 931 938	country
+#42	AnnotatorNotes T47	countries
+A4	Delete T44
+A5	Delete T45
+T48	AV0 0 5	Today
+#43	AnnotatorNotes T48	lemma = 'today'
+T49	NN2 6 16	businesses
+#44	AnnotatorNotes T49	lemma = 'business'
+T50	PRF 17 19	of
+#45	AnnotatorNotes T50	lemma = 'of'
+T51	AJ0 20 33	international
+#46	AnnotatorNotes T51	lemma = 'international'
+T52	NN2 34 43	companies
+#47	AnnotatorNotes T52	lemma = 'company'
+T53	VBB 44 47	are
+#48	AnnotatorNotes T53	lemma = 'be'
+T54	VVN 48 53	moved
+#49	AnnotatorNotes T54	lemma = 'move|moved'
+T55	PRP 54 58	from
+#50	AnnotatorNotes T55	lemma = 'from'
+T56	AJ0 59 69	developing
+#51	AnnotatorNotes T56	lemma = 'developing|develop'
+T57	NN2 70 79	countries
+#52	AnnotatorNotes T57	lemma = 'country'
+T58	PRP 80 82	to
+#53	AnnotatorNotes T58	lemma = 'to'
+T59	DT0 83 87	more
+#54	AnnotatorNotes T59	lemma = 'more'
+T60	AJC 88 94	poorer
+#55	AnnotatorNotes T60	lemma = 'poor'
+T61	NN2 95 104	countries
+#56	AnnotatorNotes T61	lemma = 'country'
+T62	PUN 104 105	,
+#57	AnnotatorNotes T62	lemma = ','
+T63	AV0 106 110	also
+#58	AnnotatorNotes T63	lemma = 'also'
+T64	DT0 111 116	these
+#59	AnnotatorNotes T64	lemma = 'these'
+T65	AJ0 117 130	international
+#60	AnnotatorNotes T65	lemma = 'international'
+T66	NN2 131 140	companies
+#61	AnnotatorNotes T66	lemma = 'company'
+T67	VVB 141 147	employ
+#62	AnnotatorNotes T67	lemma = 'employ'
+T68	PUN 147 148	,
+#63	AnnotatorNotes T68	lemma = ','
+T69	AJ0 149 154	local
+#64	AnnotatorNotes T69	lemma = 'local'
+T70	NN2 155 162	workers
+#65	AnnotatorNotes T70	lemma = 'worker'
+T71	SENT 162 163	.
+#66	AnnotatorNotes T71	lemma = '.'
+T72	PRP 164 168	From
+#67	AnnotatorNotes T72	lemma = 'from'
+T73	DPS 169 171	my
+#68	AnnotatorNotes T73	lemma = 'i'
+T74	NN1 172 183	perspective
+#69	AnnotatorNotes T74	lemma = 'perspective'
+T75	EX0 184 189	there
+#70	AnnotatorNotes T75	lemma = 'there'
+T76	VBB 190 193	are
+#71	AnnotatorNotes T76	lemma = 'be'
+T77	NN2 194 204	advantages
+#72	AnnotatorNotes T77	lemma = 'advantage'
+T78	CJC 205 208	and
+#73	AnnotatorNotes T78	lemma = 'and'
+T79	NN2 209 222	disadvantages
+#74	AnnotatorNotes T79	lemma = 'disadvantage'
+T80	SENT 222 223	.
+#75	AnnotatorNotes T80	lemma = '.'
+T81	PRP 224 226	On
+#76	AnnotatorNotes T81	lemma = 'on'
+T82	AT0 227 230	the
+#77	AnnotatorNotes T82	lemma = 'the'
+T83	CRD 231 234	one
+#78	AnnotatorNotes T83	lemma = 'one'
+T84	NN1 235 239	hand
+#79	AnnotatorNotes T84	lemma = 'hand'
+T85	PUN 239 240	,
+#80	AnnotatorNotes T85	lemma = ','
+T86	CJS 241 243	if
+#81	AnnotatorNotes T86	lemma = 'if'
+T87	AJ0 244 257	international
+#82	AnnotatorNotes T87	lemma = 'international'
+T88	NN2 258 267	companies
+#83	AnnotatorNotes T88	lemma = 'company'
+T89	VM0 268 272	will
+#84	AnnotatorNotes T89	lemma = 'will'
+T90	VVI 273 277	move
+#85	AnnotatorNotes T90	lemma = 'move'
+T91	DPS 278 283	their
+#86	AnnotatorNotes T91	lemma = 'they'
+T92	NN2 284 294	businesses
+#87	AnnotatorNotes T92	lemma = 'business'
+T93	PRP 295 297	to
+#88	AnnotatorNotes T93	lemma = 'to'
+T94	AJC 298 304	poorer
+#89	AnnotatorNotes T94	lemma = 'poor'
+T95	NN2 305 314	countries
+#90	AnnotatorNotes T95	lemma = 'country'
+T96	PUN 314 315	,
+#91	AnnotatorNotes T96	lemma = ','
+T97	PNP 316 320	they
+#92	AnnotatorNotes T97	lemma = 'they'
+T98	VM0 321 324	can
+#93	AnnotatorNotes T98	lemma = 'can'
+T99	VVI 325 332	improve
+#94	AnnotatorNotes T99	lemma = 'improve'
+T100	NN2 333 346	relationships
+#95	AnnotatorNotes T100	lemma = 'relationship'
+T101	PRP 347 354	between
+#96	AnnotatorNotes T101	lemma = 'between'
+T102	PNP 355 359	them
+#97	AnnotatorNotes T102	lemma = 'they'
+T103	PUL 360 361	(
+#98	AnnotatorNotes T103	lemma = '('
+T104	VVG 361 371	developing
+#99	AnnotatorNotes T104	lemma = 'develop|developing'
+T105	NN2 372 381	countries
+#100	AnnotatorNotes T105	lemma = 'country'
+T106	CJC 382 385	and
+#101	AnnotatorNotes T106	lemma = 'and'
+T107	AJC 386 392	poorer
+#102	AnnotatorNotes T107	lemma = 'poor'
+T108	NN2 393 402	countries
+#103	AnnotatorNotes T108	lemma = 'country'
+T109	PUR 402 403	)
+#104	AnnotatorNotes T109	lemma = ')'
+T110	SENT 403 404	.
+#105	AnnotatorNotes T110	lemma = '.'
+T111	AT0 405 408	The
+#106	AnnotatorNotes T111	lemma = 'the'
+T112	AJC 409 415	poorer
+#107	AnnotatorNotes T112	lemma = 'poor'
+T113	NN2 416 425	countries
+#108	AnnotatorNotes T113	lemma = 'country'
+T114	VDB 426 428	do
+#109	AnnotatorNotes T114	lemma = 'do'
+T115	XX0 429 432	not
+#110	AnnotatorNotes T115	lemma = 'not'
+T116	VHI 433 437	have
+#111	AnnotatorNotes T116	lemma = 'have'
+T117	DT0 438 444	enough
+#112	AnnotatorNotes T117	lemma = 'enough'
+T118	NN1 445 450	money
+#113	AnnotatorNotes T118	lemma = 'money'
+T119	PRP 451 454	for
+#114	AnnotatorNotes T119	lemma = 'for'
+T120	VVG 455 465	developing
+#115	AnnotatorNotes T120	lemma = 'develop|developing'
+T121	PNX 466 476	themselves
+#116	AnnotatorNotes T121	lemma = 'themselves'
+T122	NN2 477 487	businesses
+#117	AnnotatorNotes T122	lemma = 'business'
+T123	NN1 488 495	project
+#118	AnnotatorNotes T123	lemma = 'project'
+T124	PUN 495 496	,
+#119	AnnotatorNotes T124	lemma = ','
+T125	CJS 497 499	so
+#120	AnnotatorNotes T125	lemma = 'so'
+T126	PNP 500 504	they
+#121	AnnotatorNotes T126	lemma = 'they'
+T127	VM0 505 508	can
+#122	AnnotatorNotes T127	lemma = 'can'
+T128	VVI 509 512	get
+#123	AnnotatorNotes T128	lemma = 'get'
+T129	NN1 513 520	usefull
+#124	AnnotatorNotes T129	lemma = 'usefull'
+T130	NN1 521 532	information
+#125	AnnotatorNotes T130	lemma = 'information'
+T131	PRP 533 538	about
+#126	AnnotatorNotes T131	lemma = 'about'
+T132	AV0 539 543	thus
+#127	AnnotatorNotes T132	lemma = 'thus'
+T133	SENT 543 544	.
+#128	AnnotatorNotes T133	lemma = '.'
+T134	AV0 545 549	Also
+#129	AnnotatorNotes T134	lemma = 'also'
+T135	PUN 549 550	,
+#130	AnnotatorNotes T135	lemma = ','
+T136	PNP 551 552	I
+#131	AnnotatorNotes T136	lemma = 'i'
+T137	VBB 553 555	am
+#132	AnnotatorNotes T137	lemma = 'be'
+T138	AV0 556 566	absolutely
+#133	AnnotatorNotes T138	lemma = 'absolutely'
+T139	AJ0 567 576	convinced
+#134	AnnotatorNotes T139	lemma = 'convinced|convince'
+T140	CJT 577 581	that
+#135	AnnotatorNotes T140	lemma = 'that'
+T141	CJS 582 584	if
+#136	AnnotatorNotes T141	lemma = 'if'
+T142	VVG 585 595	developing
+#137	AnnotatorNotes T142	lemma = 'develop|developing'
+T143	AJ0 596 609	international
+#138	AnnotatorNotes T143	lemma = 'international'
+T144	NN2 610 619	companies
+#139	AnnotatorNotes T144	lemma = 'company'
+T145	VVB 620 624	move
+#140	AnnotatorNotes T145	lemma = 'move'
+T146	DPS 625 630	their
+#141	AnnotatorNotes T146	lemma = 'they'
+T147	NN1 631 639	business
+#142	AnnotatorNotes T147	lemma = 'business'
+T148	NN2 640 648	projects
+#143	AnnotatorNotes T148	lemma = 'project'
+T149	VM0 649 653	will
+#144	AnnotatorNotes T149	lemma = 'will'
+T150	VBI 654 656	be
+#145	AnnotatorNotes T150	lemma = 'be'
+T151	VVN 657 662	moved
+#146	AnnotatorNotes T151	lemma = 'move|moved'
+T152	PRP 663 665	to
+#147	AnnotatorNotes T152	lemma = 'to'
+T153	AJC 666 672	poorer
+#148	AnnotatorNotes T153	lemma = 'poor'
+T154	PUN 672 673	,
+#149	AnnotatorNotes T154	lemma = ','
+T155	PNP 674 678	they
+#150	AnnotatorNotes T155	lemma = 'they'
+T156	VM0 679 682	can
+#151	AnnotatorNotes T156	lemma = 'can'
+T157	AT0 683 684	a
+#152	AnnotatorNotes T157	lemma = 'a'
+T158	NN1 685 688	lot
+#153	AnnotatorNotes T158	lemma = 'lot'
+T159	NN2 689 698	countries
+#154	AnnotatorNotes T159	lemma = 'country'
+T160	DTQ 699 704	which
+#155	AnnotatorNotes T160	lemma = 'which'
+T161	VM0 705 708	can
+#156	AnnotatorNotes T161	lemma = 'can'
+T162	NN1 709 720	cooperation
+#157	AnnotatorNotes T162	lemma = 'cooperation'
+T163	PRP 721 725	with
+#158	AnnotatorNotes T163	lemma = 'with'
+T164	PNP 726 730	them
+#159	AnnotatorNotes T164	lemma = 'they'
+T165	SENT 730 731	.
+#160	AnnotatorNotes T165	lemma = '.'
+T166	PRP 732 734	On
+#161	AnnotatorNotes T166	lemma = 'on'
+T167	AT0 735 738	the
+#162	AnnotatorNotes T167	lemma = 'the'
+T168	DT0 739 746	another
+#163	AnnotatorNotes T168	lemma = 'another'
+T169	NN1 747 751	hand
+#164	AnnotatorNotes T169	lemma = 'hand'
+T170	PUN 751 752	,
+#165	AnnotatorNotes T170	lemma = ','
+T171	XX0 753 756	not
+#166	AnnotatorNotes T171	lemma = 'not'
+T172	DT0 757 760	all
+#167	AnnotatorNotes T172	lemma = 'all'
+T173	AJC 761 767	poorer
+#168	AnnotatorNotes T173	lemma = 'poor'
+T174	NN2 768 777	countries
+#169	AnnotatorNotes T174	lemma = 'country'
+T175	VVB 778 782	want
+#170	AnnotatorNotes T175	lemma = 'want'
+T176	TO0 783 785	to
+#171	AnnotatorNotes T176	lemma = 'to'
+T177	VVI 786 790	work
+#172	AnnotatorNotes T177	lemma = 'work'
+T178	PRP 791 794	for
+#173	AnnotatorNotes T178	lemma = 'for'
+T179	AJ0 795 805	developing
+#174	AnnotatorNotes T179	lemma = 'developing|develop'
+T180	NN2 806 815	countries
+#175	AnnotatorNotes T180	lemma = 'country'
+T181	SENT 815 816	.
+#176	AnnotatorNotes T181	lemma = '.'
+T182	PRP 817 824	Despite
+#177	AnnotatorNotes T182	lemma = 'despite'
+T183	PRP 825 827	on
+#178	AnnotatorNotes T183	lemma = 'on'
+T184	DT0 828 832	that
+#179	AnnotatorNotes T184	lemma = 'that'
+T185	AJC 833 839	poorer
+#180	AnnotatorNotes T185	lemma = 'poor'
+T186	NN2 840 849	countries
+#181	AnnotatorNotes T186	lemma = 'country'
+T187	VDB 850 852	do
+#182	AnnotatorNotes T187	lemma = 'do'
+T188	XX0 853 856	not
+#183	AnnotatorNotes T188	lemma = 'not'
+T189	VHI 857 861	have
+#184	AnnotatorNotes T189	lemma = 'have'
+T190	DT0 862 868	enough
+#185	AnnotatorNotes T190	lemma = 'enough'
+T191	NN1 869 874	money
+#186	AnnotatorNotes T191	lemma = 'money'
+T192	PRP 875 878	for
+#187	AnnotatorNotes T192	lemma = 'for'
+T193	VVG 879 889	developing
+#188	AnnotatorNotes T193	lemma = 'develop|developing'
+T194	PNP 890 894	they
+#189	AnnotatorNotes T194	lemma = 'they'
+T195	VHB 895 899	have
+#190	AnnotatorNotes T195	lemma = 'have'
+T196	AV0 900 904	very
+#191	AnnotatorNotes T196	lemma = 'very'
+T197	AJ0 905 914	beautiful
+#192	AnnotatorNotes T197	lemma = 'beautiful'
+T198	NN2 915 921	places
+#193	AnnotatorNotes T198	lemma = 'place'
+T199	PRP 922 924	in
+#194	AnnotatorNotes T199	lemma = 'in'
+T200	DPS 925 930	their
+#195	AnnotatorNotes T200	lemma = 'they'
+T201	NN1 931 938	country
+#196	AnnotatorNotes T201	lemma = 'country'
+T202	SENT 938 939	.
+#197	AnnotatorNotes T202	lemma = '.'
+T203	AV0 940 949	Sometimes
+#198	AnnotatorNotes T203	lemma = 'sometimes'
+T204	AT0 950 953	the
+#199	AnnotatorNotes T204	lemma = 'the'
+T205	NN1 954 964	government
+#200	AnnotatorNotes T205	lemma = 'government'
+T206	PRF 965 967	of
+#201	AnnotatorNotes T206	lemma = 'of'
+T207	AJC 968 974	poorer
+#202	AnnotatorNotes T207	lemma = 'poor'
+T208	NN1 975 982	country
+#203	AnnotatorNotes T208	lemma = 'country'
+T209	VVB 983 991	consider
+#204	AnnotatorNotes T209	lemma = 'consider'
+T210	CJT 992 996	that
+#205	AnnotatorNotes T210	lemma = 'that'
+T211	AJ0 997 1004	foreign
+#206	AnnotatorNotes T211	lemma = 'foreign'
+T212	AJ0 1005 1018	international
+#207	AnnotatorNotes T212	lemma = 'international'
+T213	AJ0 1019 1029	developing
+#208	AnnotatorNotes T213	lemma = 'developing|develop'
+T214	NN2 1030 1039	companies
+#209	AnnotatorNotes T214	lemma = 'company'
+T215	VM0 1040 1043	can
+#210	AnnotatorNotes T215	lemma = 'can'
+T216	VVI 1044 1053	influence
+#211	AnnotatorNotes T216	lemma = 'influence'
+T217	DPS 1054 1059	their
+#212	AnnotatorNotes T217	lemma = 'they'
+T218	NN1 1060 1071	environment
+#213	AnnotatorNotes T218	lemma = 'environment'
+T219	SENT 1071 1072	.
+#214	AnnotatorNotes T219	lemma = '.'
+T220	PNP 1073 1077	They
+#215	AnnotatorNotes T220	lemma = 'they'
+T221	VVB 1078 1086	consider
+#216	AnnotatorNotes T221	lemma = 'consider'
+T222	CJT 1087 1091	that
+#217	AnnotatorNotes T222	lemma = 'that'
+T223	AJ0 1092 1105	international
+#218	AnnotatorNotes T223	lemma = 'international'
+T224	NN2 1106 1115	companies
+#219	AnnotatorNotes T224	lemma = 'company'
+T225	VVB 1116 1120	move
+#220	AnnotatorNotes T225	lemma = 'move'
+T226	DPS 1121 1126	their
+#221	AnnotatorNotes T226	lemma = 'they'
+T227	AJ0 1127 1130	new
+#222	AnnotatorNotes T227	lemma = 'new'
+T228	AJ0 1131 1141	developing
+#223	AnnotatorNotes T228	lemma = 'developing|develop'
+T229	NN1 1142 1152	technology
+#224	AnnotatorNotes T229	lemma = 'technology'
+T230	CJC 1153 1156	and
+#225	AnnotatorNotes T230	lemma = 'and'
+T231	PNP 1157 1159	it
+#226	AnnotatorNotes T231	lemma = 'it'
+T232	VBZ 1160 1162	is
+#227	AnnotatorNotes T232	lemma = 'be'
+T233	VHZ 1163 1166	has
+#228	AnnotatorNotes T233	lemma = 'have'
+T234	AT0 1167 1170	the
+#229	AnnotatorNotes T234	lemma = 'the'
+T235	AJ0 1171 1174	bad
+#230	AnnotatorNotes T235	lemma = 'bad'
+T236	NN2 1175 1185	influences
+#231	AnnotatorNotes T236	lemma = 'influence'
+T237	PRP 1186 1189	for
+#232	AnnotatorNotes T237	lemma = 'for'
+T238	AJC 1190 1196	poorer
+#233	AnnotatorNotes T238	lemma = 'poor'
+T239	NN2 1197 1206	countries
+#234	AnnotatorNotes T239	lemma = 'country'
+T240	SENT 1206 1207	.
+#235	AnnotatorNotes T240	lemma = '.'
+T241	PRP 1208 1211	For
+#236	AnnotatorNotes T241	lemma = 'for'
+T242	NN1 1212 1219	example
+#237	AnnotatorNotes T242	lemma = 'example'
+T243	PUN 1219 1220	:
+#238	AnnotatorNotes T243	lemma = ':'
+T244	AJ0 1221 1227	global
+#239	AnnotatorNotes T244	lemma = 'global'
+T245	NN1 1228 1235	warming
+#240	AnnotatorNotes T245	lemma = 'warm|warming'
+T246	PUN 1235 1236	,
+#241	AnnotatorNotes T246	lemma = ','
+T247	NN2 1237 1245	problems
+#242	AnnotatorNotes T247	lemma = 'problem'
+T248	PRP 1246 1250	with
+#243	AnnotatorNotes T248	lemma = 'with'
+T249	NN1 1251 1254	air
+#244	AnnotatorNotes T249	lemma = 'air'
+T250	NN2 1255 1265	pollutions
+#245	AnnotatorNotes T250	lemma = 'pollution'
+T251	CJC 1266 1269	and
+#246	AnnotatorNotes T251	lemma = 'and'
+T252	NN2 1270 1276	others
+#247	AnnotatorNotes T252	lemma = 'other'
+T253	SENT 1276 1277	.
+#248	AnnotatorNotes T253	lemma = '.'
+T254	VHZ 1278 1281	Has
+#249	AnnotatorNotes T254	lemma = 'have'
+T255	DT0 1282 1289	another
+#250	AnnotatorNotes T255	lemma = 'another'
+T256	NN1 1290 1297	problem
+#251	AnnotatorNotes T256	lemma = 'problem'
+T257	PRP 1298 1302	with
+#252	AnnotatorNotes T257	lemma = 'with'
+T258	DT0 1303 1307	this
+#253	AnnotatorNotes T258	lemma = 'this'
+T259	PUN 1307 1308	,
+#254	AnnotatorNotes T259	lemma = ','
+T260	DT0 1309 1313	some
+#255	AnnotatorNotes T260	lemma = 'some'
+T261	DT0 1314 1318	many
+#256	AnnotatorNotes T261	lemma = 'many'
+T262	AJ0 1319 1332	international
+#257	AnnotatorNotes T262	lemma = 'international'
+T263	NN2 1333 1342	companies
+#258	AnnotatorNotes T263	lemma = 'company'
+T264	VM0 1343 1346	can
+#259	AnnotatorNotes T264	lemma = 'can'
+T265	VVI 1347 1351	lose
+#260	AnnotatorNotes T265	lemma = 'lose'
+T266	DT0 1352 1355	all
+#261	AnnotatorNotes T266	lemma = 'all'
+T267	SENT 1355 1356	.
+#262	AnnotatorNotes T267	lemma = '.'
+T268	PNP 1357 1361	They
+#263	AnnotatorNotes T268	lemma = 'they'
+T269	VM0 1362 1366	must
+#264	AnnotatorNotes T269	lemma = 'must'
+T270	VVI 1367 1372	start
+#265	AnnotatorNotes T270	lemma = 'start'
+T271	PRP 1373 1377	from
+#266	AnnotatorNotes T271	lemma = 'from'
+T272	NN1 1378 1385	scratch
+#267	AnnotatorNotes T272	lemma = 'scratch'
+T273	PRP 1386 1388	in
+#268	AnnotatorNotes T273	lemma = 'in'
+T274	DT0 1389 1396	another
+#269	AnnotatorNotes T274	lemma = 'another'
+T275	NN1 1397 1404	country
+#270	AnnotatorNotes T275	lemma = 'country'
+T276	SENT 1404 1405	.
+#271	AnnotatorNotes T276	lemma = '.'
+T277	PRP 1406 1408	In
+#272	AnnotatorNotes T277	lemma = 'in'
+T278	NN1 1409 1419	conclusion
+#273	AnnotatorNotes T278	lemma = 'conclusion'
+T279	ZZ0 1420 1421	o
+#274	AnnotatorNotes T279	lemma = 'o'
+T280	VM0 1422 1427	would
+#275	AnnotatorNotes T280	lemma = 'would'
+T281	VVI 1428 1432	like
+#276	AnnotatorNotes T281	lemma = 'like'
+T282	TO0 1433 1435	to
+#277	AnnotatorNotes T282	lemma = 'to'
+T283	VVI 1436 1439	say
+#278	AnnotatorNotes T283	lemma = 'say'
+T284	CJT 1440 1444	that
+#279	AnnotatorNotes T284	lemma = 'that'
+T285	PNP 1445 1447	it
+#280	AnnotatorNotes T285	lemma = 'it'
+T286	VBZ 1448 1450	is
+#281	AnnotatorNotes T286	lemma = 'be'
+T287	AT0 1451 1452	a
+#282	AnnotatorNotes T287	lemma = 'a'
+T288	NN1 1453 1456	bit
+#283	AnnotatorNotes T288	lemma = 'bit'
+T289	AJ0 1457 1466	difficult
+#284	AnnotatorNotes T289	lemma = 'difficult'
+T290	TO0 1467 1469	to
+#285	AnnotatorNotes T290	lemma = 'to'
+T291	VVI 1470 1477	predict
+#286	AnnotatorNotes T291	lemma = 'predict'
+T292	PNP 1478 1479	I
+#287	AnnotatorNotes T292	lemma = 'i'
+T293	VM0 1480 1485	would
+#288	AnnotatorNotes T293	lemma = 'would'
+T294	AV0 1486 1494	probably
+#289	AnnotatorNotes T294	lemma = 'probably'
+T295	VVI 1495 1498	say
+#290	AnnotatorNotes T295	lemma = 'say'
+T296	CJT 1499 1503	that
+#291	AnnotatorNotes T296	lemma = 'that'
+T297	CJS 1504 1506	if
+#292	AnnotatorNotes T297	lemma = 'if'
+T298	CRD 1507 1510	two
+#293	AnnotatorNotes T298	lemma = 'two'
+T299	NN2 1511 1520	countries
+#294	AnnotatorNotes T299	lemma = 'country'
+T300	VM0 1521 1524	can
+#295	AnnotatorNotes T300	lemma = 'can'
+T301	VVI 1525 1529	work
+#296	AnnotatorNotes T301	lemma = 'work'
+T302	AV0 1530 1538	together
+#297	AnnotatorNotes T302	lemma = 'together'
+T303	PUN 1538 1539	,
+#298	AnnotatorNotes T303	lemma = ','
+T304	PRF 1540 1542	of
+#299	AnnotatorNotes T304	lemma = 'of'
+T305	NN1 1543 1549	course
+#300	AnnotatorNotes T305	lemma = 'course'
+T306	PUN 1549 1550	,
+#301	AnnotatorNotes T306	lemma = ','
+T307	VVG 1551 1561	developing
+#302	AnnotatorNotes T307	lemma = 'develop|developing'
+T308	AJ0 1562 1575	international
+#303	AnnotatorNotes T308	lemma = 'international'
+T309	NN2 1576 1585	companies
+#304	AnnotatorNotes T309	lemma = 'company'
+T310	VM0 1586 1589	can
+#305	AnnotatorNotes T310	lemma = 'can'
+T311	VVI 1590 1594	move
+#306	AnnotatorNotes T311	lemma = 'move'
+T312	DPS 1595 1600	their
+#307	AnnotatorNotes T312	lemma = 'they'
+T313	NN2 1601 1611	businesses
+#308	AnnotatorNotes T313	lemma = 'business'
+T314	PRP 1612 1614	to
+#309	AnnotatorNotes T314	lemma = 'to'
+T315	AJC 1615 1621	poorer
+#310	AnnotatorNotes T315	lemma = 'poor'
+T316	PUN 1621 1622	,
+#311	AnnotatorNotes T316	lemma = ','
+T317	AVQ 1623 1626	why
+#312	AnnotatorNotes T317	lemma = 'why'
+T318	XX0 1627 1630	not
+#313	AnnotatorNotes T318	lemma = 'not'
+T319	SENT 1630 1631	?
+#314	AnnotatorNotes T319	lemma = ''

@@ -1,0 +1,553 @@
+T1	Articles 37 38	a
+A1	Cause T1 Absence_of_Category_in_L1
+#1	AnnotatorNotes T1	the
+T2	Capitalisation 71 79	students
+A2	Cause T2 Typo
+#2	AnnotatorNotes T2	Students
+T3	Prepositions 421 423	on
+T4	Articles 653 664	a behaviour
+#3	AnnotatorNotes T4	behaviour
+T5	suggestion 883 888	right
+T6	Adverbs 907 915	impolite
+T7	suggestion 916 926	relatively
+T8	suggestion 950 960	government
+#4	AnnotatorNotes T8	the government
+T9	Formational_affixes 977 987	institutes
+#5	AnnotatorNotes T9	institutions
+T10	Suffix 1044 1053	tolerancy
+#6	AnnotatorNotes T10	tolerance
+T11	lex_item_choice 1127 1135	bring up
+#7	AnnotatorNotes T11	develop
+T12	Adverbs 1228 1232	very
+#8	AnnotatorNotes T12	too
+T13	Tense_choice 1284 1288	grow
+#9	AnnotatorNotes T13	are growing
+A3	Delete T3
+A4	Cause T4 Absence_of_Category_in_L1
+A5	Cause T6 Other
+#10	AnnotatorNotes T6	impolitely
+A6	Cause T11 Other
+A7	Cause T13 Other
+T14	suggestion 1249 1291	The behaviour is changing while we grow up
+T15	ADV 0 8	Nowadays
+#11	AnnotatorNotes T15	lemma = 'nowadays'
+T16	DET 9 10	a
+#12	AnnotatorNotes T16	lemma = 'a'
+T17	NOUN 11 14	lot
+#13	AnnotatorNotes T17	lemma = 'lot'
+T18	ADP 15 17	of
+#14	AnnotatorNotes T18	lemma = 'of'
+T19	NOUN 18 25	schools
+#15	AnnotatorNotes T19	lemma = 'school'
+T20	AUX 26 30	have
+#16	AnnotatorNotes T20	lemma = 'have'
+T21	VERB 31 36	faced
+#17	AnnotatorNotes T21	lemma = 'face'
+T22	DET 37 38	a
+#18	AnnotatorNotes T22	lemma = 'a'
+T23	NOUN 39 46	problem
+#19	AnnotatorNotes T23	lemma = 'problem'
+T24	ADP 47 49	of
+#20	AnnotatorNotes T24	lemma = 'of'
+T25	NOUN 50 56	pupils
+#21	AnnotatorNotes T25	lemma = 'pupil'
+T26	ADP 56 57	’
+#22	AnnotatorNotes T26	lemma = '''
+T27	NOUN 59 68	behaviour
+#23	AnnotatorNotes T27	lemma = 'behaviour'
+T28	PUNCT 68 69	.
+#24	AnnotatorNotes T28	lemma = '.'
+T29	NOUN 71 79	students
+#25	AnnotatorNotes T29	lemma = 'student'
+T30	AUX 80 84	have
+#26	AnnotatorNotes T30	lemma = 'have'
+T31	VERB 85 91	become
+#27	AnnotatorNotes T31	lemma = 'become'
+T32	NOUN 92 96	rude
+#28	AnnotatorNotes T32	lemma = 'rude'
+T33	CCONJ 97 100	and
+#29	AnnotatorNotes T33	lemma = 'and'
+T34	NOUN 101 109	impolite
+#30	AnnotatorNotes T34	lemma = 'impolite'
+T35	PUNCT 109 110	,
+#31	AnnotatorNotes T35	lemma = ','
+T36	PRON 111 115	they
+#32	AnnotatorNotes T36	lemma = 'they'
+T37	ADV 116 120	also
+#33	AnnotatorNotes T37	lemma = 'also'
+T38	AUX 121 124	can
+#34	AnnotatorNotes T38	lemma = 'can'
+T39	PART 125 128	not
+#35	AnnotatorNotes T39	lemma = 'not'
+T40	VERB 129 137	interact
+#36	AnnotatorNotes T40	lemma = 'interact'
+T41	ADP 138 142	with
+#37	AnnotatorNotes T41	lemma = 'with'
+T42	PRON 143 149	others
+#38	AnnotatorNotes T42	lemma = 'other'
+T43	ADV 150 159	correctly
+#39	AnnotatorNotes T43	lemma = 'correctly'
+T44	PUNCT 159 160	.
+#40	AnnotatorNotes T44	lemma = '.'
+T45	DET 161 165	This
+#41	AnnotatorNotes T45	lemma = 'this'
+T46	NOUN 166 170	fact
+#42	AnnotatorNotes T46	lemma = 'fact'
+T47	VERB 171 180	triggered
+#43	AnnotatorNotes T47	lemma = 'trigger'
+T48	DET 181 182	a
+#44	AnnotatorNotes T48	lemma = 'a'
+T49	NOUN 183 186	lot
+#45	AnnotatorNotes T49	lemma = 'lot'
+T50	ADP 187 189	of
+#46	AnnotatorNotes T50	lemma = 'of'
+T51	ADJ 190 196	social
+#47	AnnotatorNotes T51	lemma = 'social'
+T52	NOUN 197 205	problems
+#48	AnnotatorNotes T52	lemma = 'problem'
+T53	ADP 206 211	among
+#49	AnnotatorNotes T53	lemma = 'among'
+T54	DET 212 215	the
+#50	AnnotatorNotes T54	lemma = 'the'
+T55	ADJ 216 221	young
+#51	AnnotatorNotes T55	lemma = 'young'
+T56	NOUN 222 228	people
+#52	AnnotatorNotes T56	lemma = 'people'
+T57	PUNCT 228 229	.
+#53	AnnotatorNotes T57	lemma = '.'
+T58	CCONJ 230 233	But
+#54	AnnotatorNotes T58	lemma = 'but'
+T59	PRON 234 238	what
+#55	AnnotatorNotes T59	lemma = 'what'
+T60	AUX 239 242	are
+#56	AnnotatorNotes T60	lemma = 'be'
+T61	DET 243 246	the
+#57	AnnotatorNotes T61	lemma = 'the'
+T62	NOUN 247 254	reasons
+#58	AnnotatorNotes T62	lemma = 'reason'
+T63	ADP 255 258	for
+#59	AnnotatorNotes T63	lemma = 'for'
+T64	DET 259 263	such
+#60	AnnotatorNotes T64	lemma = 'such'
+T65	DET 264 265	a
+#61	AnnotatorNotes T65	lemma = 'a'
+T66	NOUN 266 275	behaviour
+#62	AnnotatorNotes T66	lemma = 'behaviour'
+T67	PUNCT 275 276	?
+#63	AnnotatorNotes T67	lemma = '?'
+T68	ADV 278 285	Firstly
+#64	AnnotatorNotes T68	lemma = 'firstly'
+T69	PUNCT 285 286	,
+#65	AnnotatorNotes T69	lemma = ','
+T70	PRON 287 288	I
+#66	AnnotatorNotes T70	lemma = 'I'
+T71	VERB 289 296	suppose
+#67	AnnotatorNotes T71	lemma = 'suppose'
+T72	SCONJ 297 301	that
+#68	AnnotatorNotes T72	lemma = 'that'
+T73	DET 302 305	the
+#69	AnnotatorNotes T73	lemma = 'the'
+T74	NOUN 306 316	background
+#70	AnnotatorNotes T74	lemma = 'background'
+T75	ADP 317 319	of
+#71	AnnotatorNotes T75	lemma = 'of'
+T76	DET 320 324	this
+#72	AnnotatorNotes T76	lemma = 'this'
+T77	NOUN 325 332	problem
+#73	AnnotatorNotes T77	lemma = 'problem'
+T78	VERB 333 339	refers
+#74	AnnotatorNotes T78	lemma = 'refer'
+T79	ADP 340 342	to
+#75	AnnotatorNotes T79	lemma = 'to'
+T80	DET 343 346	the
+#76	AnnotatorNotes T80	lemma = 'the'
+T81	NOUN 347 353	family
+#77	AnnotatorNotes T81	lemma = 'family'
+T82	ADV 354 359	where
+#78	AnnotatorNotes T82	lemma = 'where'
+T83	DET 360 363	the
+#79	AnnotatorNotes T83	lemma = 'the'
+T84	ADJ 364 371	student
+#80	AnnotatorNotes T84	lemma = 'student'
+T85	NOUN 372 377	lives
+#81	AnnotatorNotes T85	lemma = 'life'
+T86	PUNCT 377 378	.
+#82	AnnotatorNotes T86	lemma = '.'
+T87	ADV 379 385	Family
+#83	AnnotatorNotes T87	lemma = 'family'
+T88	VERB 386 396	conditions
+#84	AnnotatorNotes T88	lemma = 'condition'
+T89	NOUN 397 406	influence
+#85	AnnotatorNotes T89	lemma = 'influence'
+T90	ADV 407 420	significantly
+#86	AnnotatorNotes T90	lemma = 'significantly'
+T91	ADP 421 423	on
+#87	AnnotatorNotes T91	lemma = 'on'
+T92	NOUN 424 430	person
+#88	AnnotatorNotes T92	lemma = 'person'
+T93	ADP 431 433	of
+#89	AnnotatorNotes T93	lemma = 'of'
+T94	ADJ 434 439	young
+#90	AnnotatorNotes T94	lemma = 'young'
+T95	NOUN 440 444	ages
+#91	AnnotatorNotes T95	lemma = 'ages'
+T96	PUNCT 444 445	.
+#92	AnnotatorNotes T96	lemma = '.'
+T97	ADP 446 449	For
+#93	AnnotatorNotes T97	lemma = 'for'
+T98	NOUN 450 457	example
+#94	AnnotatorNotes T98	lemma = 'example'
+T99	PUNCT 457 458	,
+#95	AnnotatorNotes T99	lemma = ','
+T100	SCONJ 459 461	if
+#96	AnnotatorNotes T100	lemma = 'if'
+T101	DET 462 465	the
+#97	AnnotatorNotes T101	lemma = 'the'
+T102	NOUN 466 473	student
+#98	AnnotatorNotes T102	lemma = 'student'
+T103	ADP 473 475	’s
+#99	AnnotatorNotes T103	lemma = '’s'
+T104	NOUN 476 483	parents
+#100	AnnotatorNotes T104	lemma = 'parent'
+T105	AUX 484 487	did
+#101	AnnotatorNotes T105	lemma = 'do'
+T106	PART 488 491	not
+#102	AnnotatorNotes T106	lemma = 'not'
+T107	VERB 492 495	pay
+#103	AnnotatorNotes T107	lemma = 'pay'
+T108	NOUN 496 505	attention
+#104	AnnotatorNotes T108	lemma = 'attention'
+T109	ADP 506 508	to
+#105	AnnotatorNotes T109	lemma = 'to'
+T110	PRON 509 512	him
+#106	AnnotatorNotes T110	lemma = 'he'
+T111	PUNCT 512 513	,
+#107	AnnotatorNotes T111	lemma = ','
+T112	AUX 514 517	did
+#108	AnnotatorNotes T112	lemma = 'do'
+T113	PART 518 521	not
+#109	AnnotatorNotes T113	lemma = 'not'
+T114	VERB 522 531	encourage
+#110	AnnotatorNotes T114	lemma = 'encourage'
+T115	PRON 532 535	him
+#111	AnnotatorNotes T115	lemma = 'he'
+T116	ADP 536 539	for
+#112	AnnotatorNotes T116	lemma = 'for'
+T117	DET 540 543	his
+#113	AnnotatorNotes T117	lemma = 'his'
+T118	NOUN 544 551	success
+#114	AnnotatorNotes T118	lemma = 'success'
+T119	PUNCT 551 552	,
+#115	AnnotatorNotes T119	lemma = ','
+T120	PRON 553 555	he
+#116	AnnotatorNotes T120	lemma = 'he'
+T121	AUX 556 559	can
+#117	AnnotatorNotes T121	lemma = 'can'
+T122	VERB 560 564	grow
+#118	AnnotatorNotes T122	lemma = 'grow'
+T123	ADP 565 567	up
+#119	AnnotatorNotes T123	lemma = 'up'
+T124	DET 568 569	a
+#120	AnnotatorNotes T124	lemma = 'a'
+T125	ADV 570 574	very
+#121	AnnotatorNotes T125	lemma = 'very'
+T126	ADJ 575 581	closed
+#122	AnnotatorNotes T126	lemma = 'closed'
+T127	CCONJ 582 585	and
+#123	AnnotatorNotes T127	lemma = 'and'
+T128	DET 586 591	angry
+#124	AnnotatorNotes T128	lemma = 'angry'
+T129	NOUN 592 598	person
+#125	AnnotatorNotes T129	lemma = 'person'
+T130	ADP 599 606	because
+#126	AnnotatorNotes T130	lemma = 'because'
+T131	ADP 607 609	of
+#127	AnnotatorNotes T131	lemma = 'of'
+T132	NOUN 610 614	lack
+#128	AnnotatorNotes T132	lemma = 'lack'
+T133	ADP 615 617	of
+#129	AnnotatorNotes T133	lemma = 'of'
+T134	NOUN 618 622	care
+#130	AnnotatorNotes T134	lemma = 'care'
+T135	ADP 623 625	in
+#131	AnnotatorNotes T135	lemma = 'in'
+T136	NOUN 626 635	childhood
+#132	AnnotatorNotes T136	lemma = 'childhood'
+T137	PUNCT 635 636	.
+#133	AnnotatorNotes T137	lemma = '.'
+T138	ADV 638 646	Secondly
+#134	AnnotatorNotes T138	lemma = 'secondly'
+T139	PUNCT 646 647	,
+#135	AnnotatorNotes T139	lemma = ','
+T140	DET 648 652	such
+#136	AnnotatorNotes T140	lemma = 'such'
+T141	DET 653 654	a
+#137	AnnotatorNotes T141	lemma = 'a'
+T142	NOUN 655 664	behaviour
+#138	AnnotatorNotes T142	lemma = 'behaviour'
+T143	AUX 665 668	can
+#139	AnnotatorNotes T143	lemma = 'can'
+T144	AUX 669 671	be
+#140	AnnotatorNotes T144	lemma = 'be'
+T145	VERB 672 678	caused
+#141	AnnotatorNotes T145	lemma = 'cause'
+T146	ADP 679 681	by
+#142	AnnotatorNotes T146	lemma = 'by'
+T147	DET 682 685	the
+#143	AnnotatorNotes T147	lemma = 'the'
+T148	NOUN 686 692	impact
+#144	AnnotatorNotes T148	lemma = 'impact'
+T149	ADP 693 695	of
+#145	AnnotatorNotes T149	lemma = 'of'
+T150	NOUN 696 704	Internet
+#146	AnnotatorNotes T150	lemma = 'internet'
+T151	CCONJ 705 708	and
+#147	AnnotatorNotes T151	lemma = 'and'
+T152	ADJ 709 715	social
+#148	AnnotatorNotes T152	lemma = 'social'
+T153	NOUN 716 724	networks
+#149	AnnotatorNotes T153	lemma = 'network'
+T154	ADP 724 725	’
+#150	AnnotatorNotes T154	lemma = '''
+T155	NOUN 726 734	websites
+#151	AnnotatorNotes T155	lemma = 'website'
+T156	PUNCT 734 735	.
+#152	AnnotatorNotes T156	lemma = '.'
+T157	ADP 736 739	For
+#153	AnnotatorNotes T157	lemma = 'for'
+T158	NOUN 740 747	example
+#154	AnnotatorNotes T158	lemma = 'example'
+T159	PUNCT 747 748	,
+#155	AnnotatorNotes T159	lemma = ','
+T160	ADP 749 751	in
+#156	AnnotatorNotes T160	lemma = 'in'
+T161	PROPN 752 758	Russia
+#157	AnnotatorNotes T161	lemma = 'Russia'
+T162	NOUN 759 763	boys
+#158	AnnotatorNotes T162	lemma = 'boy'
+T163	VERB 764 768	like
+#159	AnnotatorNotes T163	lemma = 'like'
+T164	PART 769 771	to
+#160	AnnotatorNotes T164	lemma = 'to'
+T165	VERB 772 776	read
+#161	AnnotatorNotes T165	lemma = 'read'
+T166	DET 777 781	such
+#162	AnnotatorNotes T166	lemma = 'such'
+T167	NOUN 782 787	posts
+#163	AnnotatorNotes T167	lemma = 'post'
+T168	ADP 788 793	about
+#164	AnnotatorNotes T168	lemma = 'about'
+T169	NOUN 794 798	role
+#165	AnnotatorNotes T169	lemma = 'role'
+T170	ADP 799 801	of
+#166	AnnotatorNotes T170	lemma = 'of'
+T171	NOUN 802 807	women
+#167	AnnotatorNotes T171	lemma = 'women'
+T172	ADP 808 810	in
+#168	AnnotatorNotes T172	lemma = 'in'
+T173	DET 811 814	the
+#169	AnnotatorNotes T173	lemma = 'the'
+T174	NOUN 815 822	society
+#170	AnnotatorNotes T174	lemma = 'society'
+T175	PUNCT 822 823	.
+#171	AnnotatorNotes T175	lemma = '.'
+T176	ADP 824 826	As
+#172	AnnotatorNotes T176	lemma = 'as'
+T177	DET 827 828	a
+#173	AnnotatorNotes T177	lemma = 'a'
+T178	NOUN 829 835	result
+#174	AnnotatorNotes T178	lemma = 'result'
+T179	PUNCT 835 836	,
+#175	AnnotatorNotes T179	lemma = ','
+T180	PRON 837 841	they
+#176	AnnotatorNotes T180	lemma = 'they'
+T181	AUX 842 844	do
+#177	AnnotatorNotes T181	lemma = 'do'
+T182	PART 845 848	not
+#178	AnnotatorNotes T182	lemma = 'not'
+T183	VERB 849 857	consider
+#179	AnnotatorNotes T183	lemma = 'consider'
+T184	NOUN 858 863	girls
+#180	AnnotatorNotes T184	lemma = 'girl'
+T185	ADP 864 866	as
+#181	AnnotatorNotes T185	lemma = 'as'
+T186	NOUN 867 873	people
+#182	AnnotatorNotes T186	lemma = 'people'
+T187	PRON 874 877	who
+#183	AnnotatorNotes T187	lemma = 'who'
+T188	VERB 878 882	have
+#184	AnnotatorNotes T188	lemma = 'have'
+T189	NOUN 883 888	right
+#185	AnnotatorNotes T189	lemma = 'right'
+T190	PUNCT 888 889	.
+#186	AnnotatorNotes T190	lemma = '.'
+T191	NOUN 890 894	Boys
+#187	AnnotatorNotes T191	lemma = 'Boys'
+T192	VERB 895 901	behave
+#188	AnnotatorNotes T192	lemma = 'behave'
+T193	ADV 902 906	very
+#189	AnnotatorNotes T193	lemma = 'very'
+T194	VERB 907 915	impolite
+#190	AnnotatorNotes T194	lemma = 'impolite'
+T195	ADV 916 926	relatively
+#191	AnnotatorNotes T195	lemma = 'relatively'
+T196	ADP 927 929	to
+#192	AnnotatorNotes T196	lemma = 'to'
+T197	PRON 930 934	them
+#193	AnnotatorNotes T197	lemma = 'they'
+T198	PUNCT 934 935	.
+#194	AnnotatorNotes T198	lemma = '.'
+T199	PRON 937 938	I
+#195	AnnotatorNotes T199	lemma = 'I'
+T200	VERB 939 944	think
+#196	AnnotatorNotes T200	lemma = 'think'
+T201	SCONJ 945 949	that
+#197	AnnotatorNotes T201	lemma = 'that'
+T202	NOUN 950 960	government
+#198	AnnotatorNotes T202	lemma = 'government'
+T203	CCONJ 961 964	and
+#199	AnnotatorNotes T203	lemma = 'and'
+T204	DET 965 969	some
+#200	AnnotatorNotes T204	lemma = 'some'
+T205	ADJ 970 976	social
+#201	AnnotatorNotes T205	lemma = 'social'
+T206	NOUN 977 987	institutes
+#202	AnnotatorNotes T206	lemma = 'institute'
+T207	AUX 988 994	should
+#203	AnnotatorNotes T207	lemma = 'shall'
+T208	VERB 995 1002	provide
+#204	AnnotatorNotes T208	lemma = 'provide'
+T209	ADJ 1003 1007	more
+#205	AnnotatorNotes T209	lemma = 'more'
+T210	NOUN 1008 1019	information
+#206	AnnotatorNotes T210	lemma = 'information'
+T211	ADP 1020 1025	about
+#207	AnnotatorNotes T211	lemma = 'about'
+T212	DET 1026 1029	the
+#208	AnnotatorNotes T212	lemma = 'the'
+T213	NOUN 1030 1040	importance
+#209	AnnotatorNotes T213	lemma = 'importance'
+T214	ADP 1041 1043	of
+#210	AnnotatorNotes T214	lemma = 'of'
+T215	NOUN 1044 1053	tolerancy
+#211	AnnotatorNotes T215	lemma = 'tolerancy'
+T216	CCONJ 1054 1057	and
+#212	AnnotatorNotes T216	lemma = 'and'
+T217	NOUN 1058 1066	kindness
+#213	AnnotatorNotes T217	lemma = 'kindness'
+T218	PUNCT 1066 1067	.
+#214	AnnotatorNotes T218	lemma = '.'
+T219	SCONJ 1068 1072	Also
+#215	AnnotatorNotes T219	lemma = 'also'
+T220	NOUN 1073 1079	school
+#216	AnnotatorNotes T220	lemma = 'school'
+T221	NOUN 1080 1089	education
+#217	AnnotatorNotes T221	lemma = 'education'
+T222	AUX 1090 1093	can
+#218	AnnotatorNotes T222	lemma = 'can'
+T223	VERB 1094 1101	include
+#219	AnnotatorNotes T223	lemma = 'include'
+T224	DET 1102 1106	some
+#220	AnnotatorNotes T224	lemma = 'some'
+T225	NOUN 1107 1114	charity
+#221	AnnotatorNotes T225	lemma = 'charity'
+T226	NOUN 1115 1123	programs
+#222	AnnotatorNotes T226	lemma = 'program'
+T227	PART 1124 1126	to
+#223	AnnotatorNotes T227	lemma = 'to'
+T228	VERB 1127 1132	bring
+#224	AnnotatorNotes T228	lemma = 'bring'
+T229	ADP 1133 1135	up
+#225	AnnotatorNotes T229	lemma = 'up'
+T230	DET 1136 1140	such
+#226	AnnotatorNotes T230	lemma = 'such'
+T231	NOUN 1141 1150	qualities
+#227	AnnotatorNotes T231	lemma = 'quality'
+T232	ADP 1151 1153	in
+#228	AnnotatorNotes T232	lemma = 'in'
+T233	ADJ 1154 1159	young
+#229	AnnotatorNotes T233	lemma = 'young'
+T234	NOUN 1160 1166	people
+#230	AnnotatorNotes T234	lemma = 'people'
+T235	PUNCT 1166 1167	.
+#231	AnnotatorNotes T235	lemma = '.'
+T236	ADP 1169 1171	To
+#232	AnnotatorNotes T236	lemma = 'to'
+T237	NOUN 1172 1180	conclude
+#233	AnnotatorNotes T237	lemma = 'conclude'
+T238	PUNCT 1180 1181	,
+#234	AnnotatorNotes T238	lemma = ','
+T239	PRON 1182 1183	I
+#235	AnnotatorNotes T239	lemma = 'I'
+T240	AUX 1184 1189	would
+#236	AnnotatorNotes T240	lemma = 'will'
+T241	VERB 1190 1194	like
+#237	AnnotatorNotes T241	lemma = 'like'
+T242	PART 1195 1197	to
+#238	AnnotatorNotes T242	lemma = 'to'
+T243	VERB 1198 1201	say
+#239	AnnotatorNotes T243	lemma = 'say'
+T244	SCONJ 1202 1206	that
+#240	AnnotatorNotes T244	lemma = 'that'
+T245	DET 1207 1210	the
+#241	AnnotatorNotes T245	lemma = 'the'
+T246	NOUN 1211 1220	situation
+#242	AnnotatorNotes T246	lemma = 'situation'
+T247	AUX 1221 1223	is
+#243	AnnotatorNotes T247	lemma = 'be'
+T248	PART 1224 1227	not
+#244	AnnotatorNotes T248	lemma = 'not'
+T249	ADV 1228 1232	very
+#245	AnnotatorNotes T249	lemma = 'very'
+T250	ADJ 1233 1247	catastrophical
+#246	AnnotatorNotes T250	lemma = 'catastrophical'
+T251	PUNCT 1247 1248	.
+#247	AnnotatorNotes T251	lemma = '.'
+T252	DET 1249 1252	The
+#248	AnnotatorNotes T252	lemma = 'the'
+T253	NOUN 1253 1262	behaviour
+#249	AnnotatorNotes T253	lemma = 'behaviour'
+T254	AUX 1263 1265	is
+#250	AnnotatorNotes T254	lemma = 'be'
+T255	VERB 1266 1274	changing
+#251	AnnotatorNotes T255	lemma = 'change'
+T256	SCONJ 1275 1280	while
+#252	AnnotatorNotes T256	lemma = 'while'
+T257	PRON 1281 1283	we
+#253	AnnotatorNotes T257	lemma = 'we'
+T258	VERB 1284 1288	grow
+#254	AnnotatorNotes T258	lemma = 'grow'
+T259	ADV 1289 1291	up
+#255	AnnotatorNotes T259	lemma = 'up'
+T260	PUNCT 1291 1292	.
+#256	AnnotatorNotes T260	lemma = '.'
+T261	CCONJ 1293 1296	But
+#257	AnnotatorNotes T261	lemma = 'but'
+T262	ADV 1297 1302	still
+#258	AnnotatorNotes T262	lemma = 'still'
+T263	DET 1303 1307	some
+#259	AnnotatorNotes T263	lemma = 'some'
+T264	NOUN 1308 1315	aspects
+#260	AnnotatorNotes T264	lemma = 'aspect'
+T265	AUX 1316 1322	should
+#261	AnnotatorNotes T265	lemma = 'shall'
+T266	AUX 1323 1325	be
+#262	AnnotatorNotes T266	lemma = 'be'
+T267	VERB 1326 1332	solved
+#263	AnnotatorNotes T267	lemma = 'solve'
+T268	PART 1333 1335	to
+#264	AnnotatorNotes T268	lemma = 'to'
+T269	VERB 1336 1343	predict
+#265	AnnotatorNotes T269	lemma = 'predict'
+T270	DET 1344 1347	the
+#266	AnnotatorNotes T270	lemma = 'the'
+T271	NOUN 1348 1359	degradation
+#267	AnnotatorNotes T271	lemma = 'degradation'
+T272	ADP 1360 1362	of
+#268	AnnotatorNotes T272	lemma = 'of'
+T273	DET 1363 1366	the
+#269	AnnotatorNotes T273	lemma = 'the'
+T274	NOUN 1367 1374	society
+#270	AnnotatorNotes T274	lemma = 'society'
+T275	PUNCT 1374 1375	.
+#271	AnnotatorNotes T275	lemma = '.'

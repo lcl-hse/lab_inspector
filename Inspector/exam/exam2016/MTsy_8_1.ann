@@ -1,0 +1,563 @@
+T1	Spelling 180 188	tendence
+#1	AnnotatorNotes T1	tendency
+T2	Capitalisation 805 809	Rest
+#2	AnnotatorNotes T2	rest
+T3	Redundant 1035 1047	To sum it up
+#3	AnnotatorNotes T3	To sum up
+T4	Prepositions 1084 1092	children
+#4	AnnotatorNotes T4	children of
+T5	Articles 875 889	downward trend
+#5	AnnotatorNotes T5	a downward trend
+T6	Numerals 711 730	5,1 million of boys
+#6	AnnotatorNotes T6	5.1 million boys
+T7	Numerals 326 344	20 million of boys
+#7	AnnotatorNotes T7	20 million boys
+T8	Numerals 349 370	23,7 million of girls
+#8	AnnotatorNotes T8	23.7 million girls
+T9	Numerals 735 755	4,8 million of girls
+#9	AnnotatorNotes T9	4.8 million girls
+T10	Articles 140 145	World
+#10	AnnotatorNotes T10	the world
+T11	Capitalisation 140 145	World
+#11	AnnotatorNotes T11	the world
+T12	Capitalisation 132 136	Rest
+#12	AnnotatorNotes T12	the rest
+T13	Articles 132 136	Rest
+#13	AnnotatorNotes T13	the rest
+T14	Punctuation 188 189	,
+A1	Delete T14
+T15	Spelling 379 384	acces
+#14	AnnotatorNotes T15	access
+T16	Redundant_comp 176 189	the tendence,
+A2	Delete T16
+T17	lex_item_choice 215 225	generation
+#15	AnnotatorNotes T17	people of
+T18	Prepositions 215 225	generation
+#16	AnnotatorNotes T18	people of
+T19	Articles 86 105	a primary education
+#17	AnnotatorNotes T19	primary education
+T20	Articles 245 264	a primary education
+#18	AnnotatorNotes T20	primary education
+T21	Absence_explanation 429 433	boys
+#19	AnnotatorNotes T21	uneducated boys
+A3	Addition T21
+T22	Absence_explanation 478 483	girls
+#20	AnnotatorNotes T22	uneducated girls
+A4	Addition T22
+T23	Articles 764 783	a primary education
+#21	AnnotatorNotes T23	primary education
+T24	Articles 1119 1138	a primary education
+#22	AnnotatorNotes T24	primary education
+T25	Articles 851 870	a primary education
+#23	AnnotatorNotes T25	primary education
+T26	Capitalisation 813 818	World
+#24	AnnotatorNotes T26	the world
+T27	Articles 813 818	World
+#25	AnnotatorNotes T27	the world
+T28	Numerals 907 927	10,5 million of boys
+#26	AnnotatorNotes T28	10.5 million boys
+T29	Numerals 932 953	12,8 million of girls
+#27	AnnotatorNotes T29	12.8 million girls
+T30	Numerical 634 638	more
+#28	AnnotatorNotes T30	as high
+T31	lex_item_choice 643 652	consisted
+#29	AnnotatorNotes T31	equalled
+T32	Redundant_comp 41 54	young people:
+A5	Delete T32
+T33	Defining 69 105	, who don't have a primary education
+#30	AnnotatorNotes T33	who don’t have primary education
+T34	suggestion 69 105	, who don't have a primary education
+T35	suggestion 41 54	young people:
+T36	suggestion 326 344	20 million of boys
+T37	suggestion 349 370	23,7 million of girls
+T38	Numerals 447 451	14,5
+#31	AnnotatorNotes T38	14.5
+T39	suggestion 447 451	14,5
+T40	Numerals 497 501	18,2
+#32	AnnotatorNotes T40	18.2
+T41	Prepositions 510 512	to
+#33	AnnotatorNotes T41	in
+T42	Numerals 575 579	11,1
+#34	AnnotatorNotes T42	11.1
+T43	suggestion 634 638	more
+T44	Numerals 653 657	21,6
+#35	AnnotatorNotes T44	21.6
+T45	Prepositions 667 669	To
+#36	AnnotatorNotes T45	By
+R1	Parallel_construction Arg1:T38 Arg2:T40
+R2	Parallel_construction Arg1:T40 Arg2:T42
+R3	Parallel_construction Arg1:T42 Arg2:T44
+R4	Parallel_construction Arg1:T7 Arg2:T8
+R5	Parallel_construction Arg1:T8 Arg2:T6
+R6	Parallel_construction Arg1:T6 Arg2:T9
+R7	Parallel_construction Arg1:T19 Arg2:T20
+R8	Parallel_construction Arg1:T20 Arg2:T23
+R9	Parallel_construction Arg1:T23 Arg2:T25
+R10	Parallel_construction Arg1:T9 Arg2:T28
+R11	Parallel_construction Arg1:T28 Arg2:T29
+T46	Numerals 988 1007	7,7 million of boys
+#37	AnnotatorNotes T46	7.7 million boys
+R12	Parallel_construction Arg1:T29 Arg2:T46
+T47	Numerals 1012 1032	7,6 million of girls
+#38	AnnotatorNotes T47	7.6 million girls
+R13	Parallel_construction Arg1:T46 Arg2:T47
+T48	suggestion 1035 1047	To sum it up
+R14	Parallel_construction Arg1:T25 Arg2:T24
+T49	AT0 0 3	The
+#39	AnnotatorNotes T49	lemma = 'the'
+T50	NN1 4 7	bar
+#40	AnnotatorNotes T50	lemma = 'bar'
+T51	NN1 8 13	graph
+#41	AnnotatorNotes T51	lemma = 'graph'
+T52	VVZ 14 26	demonstrates
+#42	AnnotatorNotes T52	lemma = 'demonstrate'
+T53	AT0 27 30	the
+#43	AnnotatorNotes T53	lemma = 'the'
+T54	NN1 31 37	number
+#44	AnnotatorNotes T54	lemma = 'number'
+T55	PRF 38 40	of
+#45	AnnotatorNotes T55	lemma = 'of'
+T56	AJ0 41 46	young
+#46	AnnotatorNotes T56	lemma = 'young'
+T57	NN0 47 53	people
+#47	AnnotatorNotes T57	lemma = 'people'
+T58	PUN 53 54	:
+#48	AnnotatorNotes T58	lemma = ':'
+T59	NN2 55 59	boys
+#49	AnnotatorNotes T59	lemma = 'boy'
+T60	CJC 60 63	and
+#50	AnnotatorNotes T60	lemma = 'and'
+T61	NN2 64 69	girls
+#51	AnnotatorNotes T61	lemma = 'girl'
+T62	PUN 69 70	,
+#52	AnnotatorNotes T62	lemma = ','
+T63	PNQ 71 74	who
+#53	AnnotatorNotes T63	lemma = 'who'
+T64	VDB 75 77	do
+#54	AnnotatorNotes T64	lemma = 'do'
+T65	XX0 77 80	n't
+#55	AnnotatorNotes T65	lemma = 'not'
+T66	VHI 81 85	have
+#56	AnnotatorNotes T66	lemma = 'have'
+T67	AT0 86 87	a
+#57	AnnotatorNotes T67	lemma = 'a'
+T68	AJ0 88 95	primary
+#58	AnnotatorNotes T68	lemma = 'primary'
+T69	NN1 96 105	education
+#59	AnnotatorNotes T69	lemma = 'education'
+T70	PRP 106 108	in
+#60	AnnotatorNotes T70	lemma = 'in'
+T71	NP0 109 115	Africa
+#61	AnnotatorNotes T71	lemma = 'africa'
+T72	PUN 115 116	,
+#62	AnnotatorNotes T72	lemma = ','
+T73	NP0 117 122	South
+#63	AnnotatorNotes T73	lemma = 'south'
+T74	NP0 123 127	Asia
+#64	AnnotatorNotes T74	lemma = 'asia'
+T75	CJC 128 131	and
+#65	AnnotatorNotes T75	lemma = 'and'
+T76	NN1 132 136	Rest
+#66	AnnotatorNotes T76	lemma = 'rest'
+T77	PRF 137 139	of
+#67	AnnotatorNotes T77	lemma = 'of'
+T78	NN1 140 145	World
+#68	AnnotatorNotes T78	lemma = 'world'
+T79	PRP 146 148	in
+#69	AnnotatorNotes T79	lemma = 'in'
+T80	CRD 149 153	2000
+#70	AnnotatorNotes T80	lemma = '2000'
+T81	CJC 154 157	and
+#71	AnnotatorNotes T81	lemma = 'and'
+T82	CRD 158 162	2012
+#72	AnnotatorNotes T82	lemma = '2012'
+T83	SENT 162 163	.
+#73	AnnotatorNotes T83	lemma = '.'
+T84	PNP 165 167	We
+#74	AnnotatorNotes T84	lemma = 'we'
+T85	VM0 168 171	can
+#75	AnnotatorNotes T85	lemma = 'can'
+T86	VVI 172 175	see
+#76	AnnotatorNotes T86	lemma = 'see'
+T87	AT0 176 179	the
+#77	AnnotatorNotes T87	lemma = 'the'
+T88	NN1 180 188	tendence
+#78	AnnotatorNotes T88	lemma = 'tendence'
+T89	PUN 188 189	,
+#79	AnnotatorNotes T89	lemma = ','
+T90	CJT 190 194	that
+#80	AnnotatorNotes T90	lemma = 'that'
+T91	AT0 195 198	the
+#81	AnnotatorNotes T91	lemma = 'the'
+T92	NN1 199 205	number
+#82	AnnotatorNotes T92	lemma = 'number'
+T93	PRF 206 208	of
+#83	AnnotatorNotes T93	lemma = 'of'
+T94	AJ0 209 214	young
+#84	AnnotatorNotes T94	lemma = 'young'
+T95	NN1 215 225	generation
+#85	AnnotatorNotes T95	lemma = 'generation'
+T96	DT0 226 230	both
+#86	AnnotatorNotes T96	lemma = 'both'
+T97	NN2 231 236	sexes
+#87	AnnotatorNotes T97	lemma = 'sex'
+T98	PRP 237 244	without
+#88	AnnotatorNotes T98	lemma = 'without'
+T99	AT0 245 246	a
+#89	AnnotatorNotes T99	lemma = 'a'
+T100	AJ0 247 254	primary
+#90	AnnotatorNotes T100	lemma = 'primary'
+T101	NN1 255 264	education
+#91	AnnotatorNotes T101	lemma = 'education'
+T102	VVN 265 273	declined
+#92	AnnotatorNotes T102	lemma = 'decline'
+T103	PRP 274 276	in
+#93	AnnotatorNotes T103	lemma = 'in'
+T104	AJ0 277 284	general
+#94	AnnotatorNotes T104	lemma = 'general'
+T105	PRP 285 289	from
+#95	AnnotatorNotes T105	lemma = 'from'
+T106	CRD 290 294	2000
+#96	AnnotatorNotes T106	lemma = '2000'
+T107	PRP 295 297	to
+#97	AnnotatorNotes T107	lemma = 'to'
+T108	CRD 298 302	2012
+#98	AnnotatorNotes T108	lemma = '2012'
+T109	SENT 302 303	.
+#99	AnnotatorNotes T109	lemma = '.'
+T110	PRP 305 307	In
+#100	AnnotatorNotes T110	lemma = 'in'
+T111	NP0 308 314	Africa
+#101	AnnotatorNotes T111	lemma = 'africa'
+T112	EX0 315 320	there
+#102	AnnotatorNotes T112	lemma = 'there'
+T113	VBD 321 325	were
+#103	AnnotatorNotes T113	lemma = 'be'
+T114	CRD 326 328	20
+#104	AnnotatorNotes T114	lemma = '20'
+T115	CRD 329 336	million
+#105	AnnotatorNotes T115	lemma = 'million'
+T116	PRF 337 339	of
+#106	AnnotatorNotes T116	lemma = 'of'
+T117	NN2 340 344	boys
+#107	AnnotatorNotes T117	lemma = 'boy'
+T118	CJC 345 348	and
+#108	AnnotatorNotes T118	lemma = 'and'
+T119	CRD 349 353	23,7
+#109	AnnotatorNotes T119	lemma = '23,7'
+T120	CRD 354 361	million
+#110	AnnotatorNotes T120	lemma = 'million'
+T121	PRF 362 364	of
+#111	AnnotatorNotes T121	lemma = 'of'
+T122	NN2 365 370	girls
+#112	AnnotatorNotes T122	lemma = 'girl'
+T123	PRP 371 378	without
+#113	AnnotatorNotes T123	lemma = 'without'
+T124	NN2 379 384	acces
+#114	AnnotatorNotes T124	lemma = 'acces'
+T125	PRP 385 387	to
+#115	AnnotatorNotes T125	lemma = 'to'
+T126	AJ0 388 395	primary
+#116	AnnotatorNotes T126	lemma = 'primary'
+T127	NN1 396 405	education
+#117	AnnotatorNotes T127	lemma = 'education'
+T128	PRP 406 408	in
+#118	AnnotatorNotes T128	lemma = 'in'
+T129	CRD 409 413	2000
+#119	AnnotatorNotes T129	lemma = '2000'
+T130	SENT 413 414	.
+#120	AnnotatorNotes T130	lemma = '.'
+T131	AT0 415 418	The
+#121	AnnotatorNotes T131	lemma = 'the'
+T132	NN1 419 425	number
+#122	AnnotatorNotes T132	lemma = 'number'
+T133	PRF 426 428	of
+#123	AnnotatorNotes T133	lemma = 'of'
+T134	NN2 429 433	boys
+#124	AnnotatorNotes T134	lemma = 'boy'
+T135	VVN 434 443	decreased
+#125	AnnotatorNotes T135	lemma = 'decrease'
+T136	PRP 444 446	to
+#126	AnnotatorNotes T136	lemma = 'to'
+T137	CRD 447 451	14,5
+#127	AnnotatorNotes T137	lemma = '14,5'
+T138	CRD 452 459	million
+#128	AnnotatorNotes T138	lemma = 'million'
+T139	CJC 460 463	and
+#129	AnnotatorNotes T139	lemma = 'and'
+T140	AT0 464 467	the
+#130	AnnotatorNotes T140	lemma = 'the'
+T141	NN1 468 474	number
+#131	AnnotatorNotes T141	lemma = 'number'
+T142	PRF 475 477	of
+#132	AnnotatorNotes T142	lemma = 'of'
+T143	NN2 478 483	girls
+#133	AnnotatorNotes T143	lemma = 'girl'
+T144	VVN 484 493	decreased
+#134	AnnotatorNotes T144	lemma = 'decrease'
+T145	PRP 494 496	to
+#135	AnnotatorNotes T145	lemma = 'to'
+T146	CRD 497 501	18,2
+#136	AnnotatorNotes T146	lemma = '18,2'
+T147	CRD 502 509	million
+#137	AnnotatorNotes T147	lemma = 'million'
+T148	PRP 510 512	to
+#138	AnnotatorNotes T148	lemma = 'to'
+T149	CRD 513 517	2012
+#139	AnnotatorNotes T149	lemma = '2012'
+T150	SENT 517 518	.
+#140	AnnotatorNotes T150	lemma = '.'
+T151	PRP 520 522	In
+#141	AnnotatorNotes T151	lemma = 'in'
+T152	NP0 523 528	South
+#142	AnnotatorNotes T152	lemma = 'south'
+T153	NP0 529 533	Asia
+#143	AnnotatorNotes T153	lemma = 'asia'
+T154	AT0 534 537	the
+#144	AnnotatorNotes T154	lemma = 'the'
+T155	NN1 538 544	number
+#145	AnnotatorNotes T155	lemma = 'number'
+T156	PRF 545 547	of
+#146	AnnotatorNotes T156	lemma = 'of'
+T157	NN2 548 552	boys
+#147	AnnotatorNotes T157	lemma = 'boy'
+T158	PRP 553 560	without
+#148	AnnotatorNotes T158	lemma = 'without'
+T159	NN1 561 570	education
+#149	AnnotatorNotes T159	lemma = 'education'
+T160	VBD 571 574	was
+#150	AnnotatorNotes T160	lemma = 'be'
+T161	CRD 575 579	11,1
+#151	AnnotatorNotes T161	lemma = '11,1'
+T162	CRD 580 587	million
+#152	AnnotatorNotes T162	lemma = 'million'
+T163	PUN 587 588	,
+#153	AnnotatorNotes T163	lemma = ','
+T164	CJS 589 594	while
+#154	AnnotatorNotes T164	lemma = 'while'
+T165	AT0 595 598	the
+#155	AnnotatorNotes T165	lemma = 'the'
+T166	NN1 599 605	number
+#156	AnnotatorNotes T166	lemma = 'number'
+T167	PRF 606 608	of
+#157	AnnotatorNotes T167	lemma = 'of'
+T168	NN2 609 614	girls
+#158	AnnotatorNotes T168	lemma = 'girl'
+T169	VBD 615 618	was
+#159	AnnotatorNotes T169	lemma = 'be'
+T170	AV0 619 625	almost
+#160	AnnotatorNotes T170	lemma = 'almost'
+T171	CRD 626 627	2
+#161	AnnotatorNotes T171	lemma = '2'
+T172	NN2 628 633	times
+#162	AnnotatorNotes T172	lemma = 'time'
+T173	AV0 634 638	more
+#163	AnnotatorNotes T173	lemma = 'more'
+T174	CJC 639 642	and
+#164	AnnotatorNotes T174	lemma = 'and'
+T175	VVD 643 652	consisted
+#165	AnnotatorNotes T175	lemma = 'consist'
+T176	CRD 653 657	21,6
+#166	AnnotatorNotes T176	lemma = '21,6'
+T177	CRD 658 665	million
+#167	AnnotatorNotes T177	lemma = 'million'
+T178	SENT 665 666	.
+#168	AnnotatorNotes T178	lemma = '.'
+T179	PRP 667 669	To
+#169	AnnotatorNotes T179	lemma = 'to'
+T180	CRD 670 674	2012
+#170	AnnotatorNotes T180	lemma = '2012'
+T181	DT0 675 680	these
+#171	AnnotatorNotes T181	lemma = 'these'
+T182	NN2 681 688	numbers
+#172	AnnotatorNotes T182	lemma = 'number'
+T183	VVD 689 693	fell
+#173	AnnotatorNotes T183	lemma = 'fall|fell'
+T184	AVP 694 698	down
+#174	AnnotatorNotes T184	lemma = 'down'
+T185	SENT 698 699	.
+#175	AnnotatorNotes T185	lemma = '.'
+T186	EX0 700 705	There
+#176	AnnotatorNotes T186	lemma = 'there'
+T187	VBD 706 710	were
+#177	AnnotatorNotes T187	lemma = 'be'
+T188	CRD 711 714	5,1
+#178	AnnotatorNotes T188	lemma = '5,1'
+T189	CRD 715 722	million
+#179	AnnotatorNotes T189	lemma = 'million'
+T190	PRF 723 725	of
+#180	AnnotatorNotes T190	lemma = 'of'
+T191	NN2 726 730	boys
+#181	AnnotatorNotes T191	lemma = 'boy'
+T192	CJC 731 734	and
+#182	AnnotatorNotes T192	lemma = 'and'
+T193	CRD 735 738	4,8
+#183	AnnotatorNotes T193	lemma = '4,8'
+T194	CRD 739 746	million
+#184	AnnotatorNotes T194	lemma = 'million'
+T195	PRF 747 749	of
+#185	AnnotatorNotes T195	lemma = 'of'
+T196	NN2 750 755	girls
+#186	AnnotatorNotes T196	lemma = 'girl'
+T197	PRP 756 763	without
+#187	AnnotatorNotes T197	lemma = 'without'
+T198	AT0 764 765	a
+#188	AnnotatorNotes T198	lemma = 'a'
+T199	AJ0 766 773	primary
+#189	AnnotatorNotes T199	lemma = 'primary'
+T200	NN1 774 783	education
+#190	AnnotatorNotes T200	lemma = 'education'
+T201	PRP 784 786	in
+#191	AnnotatorNotes T201	lemma = 'in'
+T202	CRD 787 791	2012
+#192	AnnotatorNotes T202	lemma = '2012'
+T203	SENT 791 792	.
+#193	AnnotatorNotes T203	lemma = '.'
+T204	CJS 794 796	As
+#194	AnnotatorNotes T204	lemma = 'as'
+T205	PRP 797 800	for
+#195	AnnotatorNotes T205	lemma = 'for'
+T206	AT0 801 804	the
+#196	AnnotatorNotes T206	lemma = 'the'
+T207	NN1 805 809	Rest
+#197	AnnotatorNotes T207	lemma = 'rest'
+T208	PRF 810 812	of
+#198	AnnotatorNotes T208	lemma = 'of'
+T209	NN1 813 818	World
+#199	AnnotatorNotes T209	lemma = 'world'
+T210	PUN 818 819	,
+#200	AnnotatorNotes T210	lemma = ','
+T211	AT0 820 823	the
+#201	AnnotatorNotes T211	lemma = 'the'
+T212	NN1 824 830	number
+#202	AnnotatorNotes T212	lemma = 'number'
+T213	PRF 831 833	of
+#203	AnnotatorNotes T213	lemma = 'of'
+T214	NN2 834 842	children
+#204	AnnotatorNotes T214	lemma = 'child'
+T215	PRP 843 850	without
+#205	AnnotatorNotes T215	lemma = 'without'
+T216	AT0 851 852	a
+#206	AnnotatorNotes T216	lemma = 'a'
+T217	AJ0 853 860	primary
+#207	AnnotatorNotes T217	lemma = 'primary'
+T218	NN1 861 870	education
+#208	AnnotatorNotes T218	lemma = 'education'
+T219	VHD 871 874	had
+#209	AnnotatorNotes T219	lemma = 'have'
+T220	AJ0 875 883	downward
+#210	AnnotatorNotes T220	lemma = 'downward'
+T221	NN1 884 889	trend
+#211	AnnotatorNotes T221	lemma = 'trend'
+T222	PUN 889 890	,
+#212	AnnotatorNotes T222	lemma = ','
+T223	AV0 891 894	too
+#213	AnnotatorNotes T223	lemma = 'too'
+T224	SENT 894 895	.
+#214	AnnotatorNotes T224	lemma = '.'
+T225	EX0 896 901	There
+#215	AnnotatorNotes T225	lemma = 'there'
+T226	VBD 902 906	were
+#216	AnnotatorNotes T226	lemma = 'be'
+T227	CRD 907 911	10,5
+#217	AnnotatorNotes T227	lemma = '10,5'
+T228	CRD 912 919	million
+#218	AnnotatorNotes T228	lemma = 'million'
+T229	PRF 920 922	of
+#219	AnnotatorNotes T229	lemma = 'of'
+T230	NN2 923 927	boys
+#220	AnnotatorNotes T230	lemma = 'boy'
+T231	CJC 928 931	and
+#221	AnnotatorNotes T231	lemma = 'and'
+T232	CRD 932 936	12,8
+#222	AnnotatorNotes T232	lemma = '12,8'
+T233	CRD 937 944	million
+#223	AnnotatorNotes T233	lemma = 'million'
+T234	PRF 945 947	of
+#224	AnnotatorNotes T234	lemma = 'of'
+T235	NN2 948 953	girls
+#225	AnnotatorNotes T235	lemma = 'girl'
+T236	PRP 954 956	in
+#226	AnnotatorNotes T236	lemma = 'in'
+T237	CRD 957 961	2000
+#227	AnnotatorNotes T237	lemma = '2000'
+T238	SENT 961 962	.
+#228	AnnotatorNotes T238	lemma = '.'
+T239	AT0 963 966	The
+#229	AnnotatorNotes T239	lemma = 'the'
+T240	NN2 967 974	numbers
+#230	AnnotatorNotes T240	lemma = 'number'
+T241	VVN 975 984	decreased
+#231	AnnotatorNotes T241	lemma = 'decrease'
+T242	PRP 985 987	to
+#232	AnnotatorNotes T242	lemma = 'to'
+T243	CRD 988 991	7,7
+#233	AnnotatorNotes T243	lemma = '7,7'
+T244	CRD 992 999	million
+#234	AnnotatorNotes T244	lemma = 'million'
+T245	PRF 1000 1002	of
+#235	AnnotatorNotes T245	lemma = 'of'
+T246	NN2 1003 1007	boys
+#236	AnnotatorNotes T246	lemma = 'boy'
+T247	CJC 1008 1011	and
+#237	AnnotatorNotes T247	lemma = 'and'
+T248	CRD 1012 1015	7,6
+#238	AnnotatorNotes T248	lemma = '7,6'
+T249	CRD 1016 1023	million
+#239	AnnotatorNotes T249	lemma = 'million'
+T250	PRF 1024 1026	of
+#240	AnnotatorNotes T250	lemma = 'of'
+T251	NN2 1027 1032	girls
+#241	AnnotatorNotes T251	lemma = 'girl'
+T252	SENT 1032 1033	.
+#242	AnnotatorNotes T252	lemma = '.'
+T253	TO0 1035 1037	To
+#243	AnnotatorNotes T253	lemma = 'to'
+T254	VVI 1038 1041	sum
+#244	AnnotatorNotes T254	lemma = 'sum'
+T255	PNP 1042 1044	it
+#245	AnnotatorNotes T255	lemma = 'it'
+T256	AVP 1045 1047	up
+#246	AnnotatorNotes T256	lemma = 'up'
+T257	PUN 1047 1048	,
+#247	AnnotatorNotes T257	lemma = ','
+T258	PRP 1049 1051	in
+#248	AnnotatorNotes T258	lemma = 'in'
+T259	AJ0 1052 1061	different
+#249	AnnotatorNotes T259	lemma = 'different'
+T260	NN2 1062 1069	regions
+#250	AnnotatorNotes T260	lemma = 'region'
+T261	AT0 1070 1073	the
+#251	AnnotatorNotes T261	lemma = 'the'
+T262	NN1 1074 1080	number
+#252	AnnotatorNotes T262	lemma = 'number'
+T263	PRF 1081 1083	of
+#253	AnnotatorNotes T263	lemma = 'of'
+T264	NN2 1084 1092	children
+#254	AnnotatorNotes T264	lemma = 'child'
+T265	DT0 1093 1097	both
+#255	AnnotatorNotes T265	lemma = 'both'
+T266	NN2 1098 1103	sexes
+#256	AnnotatorNotes T266	lemma = 'sex'
+T267	PNQ 1104 1107	who
+#257	AnnotatorNotes T267	lemma = 'who'
+T268	VDB 1108 1110	do
+#258	AnnotatorNotes T268	lemma = 'do'
+T269	XX0 1110 1113	n't
+#259	AnnotatorNotes T269	lemma = 'not'
+T270	VHI 1114 1118	have
+#260	AnnotatorNotes T270	lemma = 'have'
+T271	AT0 1119 1120	a
+#261	AnnotatorNotes T271	lemma = 'a'
+T272	AJ0 1121 1128	primary
+#262	AnnotatorNotes T272	lemma = 'primary'
+T273	NN1 1129 1138	education
+#263	AnnotatorNotes T273	lemma = 'education'
+T274	VVZ 1139 1147	declines
+#264	AnnotatorNotes T274	lemma = 'decline'
+T275	AT0 1148 1153	every
+#265	AnnotatorNotes T275	lemma = 'every'
+T276	NN1 1154 1158	year
+#266	AnnotatorNotes T276	lemma = 'year'
+T277	SENT 1158 1159	.
+#267	AnnotatorNotes T277	lemma = ''
